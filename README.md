@@ -86,6 +86,18 @@ node tools/serve-build.mjs      # http://127.0.0.1:4174
 > 不要用 `npm run preview`：`vite preview` 在重新构建后会继续服务旧的文件索引，
 > 新生成的带哈希资源会 404，看到的页面是没有样式的。
 
+有一份**播放器冒烟测试**，用无头浏览器驱动真实页面，覆盖单元测试够不到的行为
+（听写只播一句、本书循环自动续播、切课后播放位置归零）：
+
+```sh
+npm run build
+node tools/serve-build.mjs        # 另开一个终端
+node tools/smoke-player.mjs
+```
+
+它会临时把 `HTMLMediaElement.play` 换成探针、并伪造 `currentTime`，所以不需要声卡，
+也不需要连得上音频仓库。Edge 不在默认路径时用环境变量 `EDGE_PATH` 指定。
+
 **手机上看开发服务器**：`npm run dev -- --host`，然后用电脑的局域网 IP 访问
 （`127.0.0.1` 在手机上指向手机自己）。
 

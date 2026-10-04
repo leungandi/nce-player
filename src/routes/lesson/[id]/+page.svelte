@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { goto } from '$app/navigation';
 	import { asset, resolve } from '$app/paths';
 	import { mediaUrl } from '#lib/data/assetUrl.js';
 	import { lookup } from '#lib/data/dict.js';
@@ -58,6 +59,11 @@
 		{ value: 'shadow', label: '跟读' }
 	];
 	let mode = $state<Mode>('listen');
+	/** 单句播放：播到这句的 end 就停住（听写 / 背诵 / 跟读用） */
+	let stopAt = $state(-1);
+
+	/** 本书循环切到下一课时，用它在页面之间传递"接着播"的意图 */
+	const AUTOPLAY_KEY = 'nce:autoplay';
 
 	function pauseAudio() {
 		audioEl?.pause();
@@ -130,6 +136,7 @@
 				currentTime = audioEl.currentTime;
 			}
 			enforceSentenceLoop();
+			enforceStopPoint();
 			checkSleepTimer();
 			syncPositionState();
 			rafId = requestAnimationFrame(step);
@@ -182,10 +189,36 @@
 		}
 	}
 
+	/** 单句播放到点就停：听写、背诵、跟读都只放当前这一句。 */
+	function enforceStopPoint() {
+		if (!audioEl || stopAt < 0) return;
+		const line = lines[stopAt];
+		if (!line) {
+			stopAt = -1;
+			return;
+		}
+		if (audioEl.currentTime >= line.end) {
+			audioEl.pause();
+			stopAt = -1;
+		}
+	}
+
+	function playSentence(index: number) {
+		if (!audioEl) return;
+		const target = clampIndex(index, lines.length);
+		if (target < 0) return;
+		lockedIndex = -1;
+		stopAt = target;
+		audioEl.currentTime = lines[target].start;
+		currentTime = lines[target].start;
+		void audioEl.play();
+	}
+
 	function activateLine(index: number) {
 		if (!audioEl) return;
 		const target = clampIndex(index, lines.length);
 		if (target < 0) return;
+		stopAt = -1;
 		lockedIndex = isSentenceLocked(loopMode) ? target : -1;
 		audioEl.currentTime = lines[target].start;
 		currentTime = lines[target].start;
@@ -194,6 +227,7 @@
 
 	function togglePlay() {
 		if (!audioEl) return;
+		stopAt = -1;
 		if (audioEl.paused) void audioEl.play();
 		else audioEl.pause();
 	}
@@ -291,17 +325,43 @@
 		if (index >= 0) ensureVisible(index);
 	});
 
+	/**
+	 * 客户端切课时（上一课 / 下一课 / 本书循环）重置播放状态，并读取新课的进度。
+	 * 首次挂载时 id 没变，直接返回。
+	 */
+	let currentLessonId = '';
+	$effect(() => {
+		const id = lesson.id;
+		if (!currentLessonId) {
+			currentLessonId = id;
+			return;
+		}
+		if (id === currentLessonId) return;
+		currentLessonId = id;
+		lockedIndex = -1;
+		stopAt = -1;
+		pendingSeek = 0;
+		currentTime = 0;
+		duration = 0;
+		restoreProgress();
+		updateMediaSession();
+		rememberLast(id);
+	});
+
 	/* ---------- 音频事件 ---------- */
 
 	function onLoadedMetadata() {
 		if (!audioEl) return;
 		duration = audioEl.duration || 0;
-		if (pendingSeek > 0) {
-			audioEl.currentTime = Math.min(pendingSeek, Math.max(0, duration - 0.2));
-			pendingSeek = 0;
-		}
+		// 明确落到起点：新课从 0 开始，有进度记录才回到记录处。
+		// 不能依赖"换 src 后浏览器会把 currentTime 归零"，那样切课可能从上一课的位置接着放。
+		const start = pendingSeek > 0 ? Math.min(pendingSeek, Math.max(0, duration - 0.2)) : 0;
+		audioEl.currentTime = start;
+		pendingSeek = 0;
 		currentTime = audioEl.currentTime;
 		applyRate();
+		// 本书循环切过来的下一课：这里接着播
+		if (consumeAutoplay(lesson.id)) void audioEl.play();
 	}
 
 	function onPlay() {
@@ -322,20 +382,54 @@
 		stopTicking();
 		saveProgress();
 		if (loopMode === 'book') {
-			if (data.next) goToLesson(data.next.id);
+			if (data.next) goToLesson(data.next.id, { autoplay: true });
 			else activateLine(0);
 		}
 	}
 
-	function goToLesson(id: string) {
-		location.href = resolve('/lesson/[id]', { id });
+	/**
+	 * 跳到另一课。用客户端导航而不是整页刷新：播放器状态不丢，切课没有白屏。
+	 * autoplay 意图通过 sessionStorage 带过去，落地后由 onLoadedMetadata 接着播
+	 * （整页刷新会被浏览器的自动播放策略挡住，客户端导航不会）。
+	 */
+	function goToLesson(id: string, options: { autoplay?: boolean } = {}) {
+		if (options.autoplay) {
+			try {
+				sessionStorage.setItem(AUTOPLAY_KEY, id);
+			} catch {
+				// 隐私模式下写不进去，忽略
+			}
+		}
+		void goto(resolve('/lesson/[id]', { id }));
+	}
+
+	/** 上一课播完自动切过来时返回 true，只生效一次。 */
+	function consumeAutoplay(id: string) {
+		try {
+			if (sessionStorage.getItem(AUTOPLAY_KEY) === id) {
+				sessionStorage.removeItem(AUTOPLAY_KEY);
+				return true;
+			}
+		} catch {
+			// 忽略
+		}
+		return false;
 	}
 
 	/**
 	 * 锁屏 / 通知栏控制。上一句下一句映射到 seekbackward/seekforward，
 	 * 上下课映射到 previoustrack/nexttrack。
 	 */
-	function setupMediaSession() {
+	/** 记住最近打开的课，首页的"继续学习"用它。 */
+	function rememberLast(id: string) {
+		try {
+			localStorage.setItem('nce:last', id);
+		} catch {
+			// 隐私模式下写不进去，忽略
+		}
+	}
+
+	function updateMediaSession() {
 		if (!('mediaSession' in navigator)) return;
 		const prev = data.prev;
 		const next = data.next;
@@ -424,14 +518,10 @@
 	onMount(() => {
 		restoreProgress();
 		applyRate();
-		setupMediaSession();
+		updateMediaSession();
 		wordSet = addedSet();
 		if (audioEl) audioEl.loop = loopMode === 'list';
-		try {
-			localStorage.setItem('nce:last', lesson.id);
-		} catch {
-			// 隐私模式下写不进去，忽略
-		}
+		rememberLast(lesson.id);
 
 		window.addEventListener('keydown', onKeydown);
 		document.addEventListener('visibilitychange', saveProgress);
@@ -705,12 +795,18 @@
 		</ul>
 	</main>
 	{:else if mode === 'dictation'}
-		<main class="pane"><Dictation {lines} onPlay={activateLine} /></main>
+		<main class="pane">
+			{#key lesson.id}<Dictation {lines} onPlay={playSentence} />{/key}
+		</main>
 	{:else if mode === 'recite'}
-		<main class="pane"><Recitation {lines} {activeIndex} onPlay={activateLine} /></main>
+		<main class="pane">
+			{#key lesson.id}<Recitation {lines} {activeIndex} onPlay={playSentence} />{/key}
+		</main>
 	{:else}
 		<main class="pane">
-			<Shadowing {lines} onPlay={activateLine} onStop={pauseAudio} />
+			{#key lesson.id}
+				<Shadowing {lines} onPlay={playSentence} onStop={pauseAudio} />
+			{/key}
 		</main>
 	{/if}
 
