@@ -1,0 +1,9 @@
+build
+node_modules
+.svelte-kit
+.npm-cache
+_upstream
+tools/_yingyin
+package-lock.json
+PLAN.md
+*.md

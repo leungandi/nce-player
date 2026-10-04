@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+		<meta name="text-scale" content="scale" />
+		<meta name="theme-color" content="#f7f3ee" media="(prefers-color-scheme: light)" />
+		<meta name="theme-color" content="#0f1317" media="(prefers-color-scheme: dark)" />
+		<script>
+			// 在首次绘制之前定好主题，避免深色模式下的闪白。
+			try {
+				var saved = localStorage.getItem('nce:theme');
+				var dark = saved
+					? saved === 'dark'
+					: window.matchMedia('(prefers-color-scheme: dark)').matches;
+				document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+			} catch (error) {
+				document.documentElement.dataset.theme = 'light';
+			}
+		</script>
+		%sveltekit.head%
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>

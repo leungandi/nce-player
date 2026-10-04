@@ -1,0 +1,67 @@
+:root {
+	--bg: #f7f3ee;
+	--bg-elevated: #ffffff;
+	--bg-sunken: #efe9e1;
+	--text: #1c1a17;
+	--text-muted: #6b6459;
+	--border: #e3dbd0;
+	--accent: #b2532a;
+	--accent-soft: #f0e0d6;
+	--radius: 12px;
+	--shadow: 0 1px 2px rgb(28 26 23 / 6%), 0 8px 24px rgb(28 26 23 / 6%);
+
+	color-scheme: light;
+	font-family:
+		system-ui,
+		-apple-system,
+		'Segoe UI',
+		'PingFang SC',
+		'Microsoft YaHei',
+		sans-serif;
+}
+
+:root[data-theme='dark'] {
+	--bg: #0f1317;
+	--bg-elevated: #171d23;
+	--bg-sunken: #0b0e11;
+	--text: #e8e6e3;
+	--text-muted: #9aa2ab;
+	--border: #2a323b;
+	--accent: #e08a5f;
+	--accent-soft: #2c2320;
+	--shadow: 0 1px 2px rgb(0 0 0 / 30%), 0 8px 24px rgb(0 0 0 / 26%);
+
+	color-scheme: dark;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: var(--bg);
+	color: var(--text);
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+}
+
+a {
+	color: inherit;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	*,
+	*::before,
+	*::after {
+		animation-duration: 0.01ms !important;
+		transition-duration: 0.01ms !important;
+	}
+}
