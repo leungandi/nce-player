@@ -1,0 +1,174 @@
+{
+	"id": "nce2-34",
+	"book": "nce2",
+	"title": "Quick Work",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-34.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.3,
+			"end": 16.43,
+			"en": "How long had the police taken to find his bicycle?",
+			"zh": "警察花了多长时间才找到他的自行车？"
+		},
+		{
+			"i": 1,
+			"start": 16.58,
+			"end": 20.82,
+			"en": "Dan Robinson has been worried all week.",
+			"zh": "丹·罗宾逊整个星期都忧心忡忡。"
+		},
+		{
+			"i": 2,
+			"start": 20.97,
+			"end": 23.67,
+			"en": "Last Tuesday he received a letter",
+			"zh": "上周二，他收到了一封信"
+		},
+		{
+			"i": 3,
+			"start": 23.82,
+			"end": 26.04,
+			"en": "from the local police.",
+			"zh": "来自当地警察局。"
+		},
+		{
+			"i": 4,
+			"start": 26.19,
+			"end": 30.79,
+			"en": "In the letter he was asked to call at the station.",
+			"zh": "信中要求他到警察局一趟。"
+		},
+		{
+			"i": 5,
+			"start": 30.94,
+			"end": 32.39,
+			"en": "Dan wondered why",
+			"zh": "丹想知道为什么"
+		},
+		{
+			"i": 6,
+			"start": 32.54,
+			"end": 35.56,
+			"en": "he was wanted by the police,",
+			"zh": "警察要找他，"
+		},
+		{
+			"i": 7,
+			"start": 35.71,
+			"end": 38.38,
+			"en": "but he went to the station yesterday",
+			"zh": "但他昨天去了警察局，"
+		},
+		{
+			"i": 8,
+			"start": 38.53,
+			"end": 42.03,
+			"en": "and now he is not worried anymore.",
+			"zh": "现在他不再担心了。"
+		},
+		{
+			"i": 9,
+			"start": 42.18,
+			"end": 43.57,
+			"en": "At the station,",
+			"zh": "在警察局，"
+		},
+		{
+			"i": 10,
+			"start": 43.72,
+			"end": 46.66,
+			"en": "he was told by a smiling policeman",
+			"zh": "一位面带微笑的警察告诉他"
+		},
+		{
+			"i": 11,
+			"start": 46.81,
+			"end": 50.54,
+			"en": "that his bicycle had been found.",
+			"zh": "他的自行车已经找到了。"
+		},
+		{
+			"i": 12,
+			"start": 50.69,
+			"end": 54.54,
+			"en": "Five days ago, the policeman told him,",
+			"zh": "警察告诉他，五天前，"
+		},
+		{
+			"i": 13,
+			"start": 54.69,
+			"end": 58.2,
+			"en": "the bicycle was picked up in a small village",
+			"zh": "这辆自行车在一个小村庄被发现，"
+		},
+		{
+			"i": 14,
+			"start": 58.35,
+			"end": 61.12,
+			"en": "four hundred miles away.",
+			"zh": "距离这里四百英里。"
+		},
+		{
+			"i": 15,
+			"start": 61.27,
+			"end": 65.46,
+			"en": "It is now being sent to his home by train.",
+			"zh": "现在正通过火车运往他家。"
+		},
+		{
+			"i": 16,
+			"start": 65.61,
+			"end": 67.88,
+			"en": "Dan was most surprised",
+			"zh": "丹听到这个消息时"
+		},
+		{
+			"i": 17,
+			"start": 68.03,
+			"end": 70.26,
+			"en": "when he heard the news.",
+			"zh": "非常惊讶。"
+		},
+		{
+			"i": 18,
+			"start": 70.41,
+			"end": 73.01,
+			"en": "He was amused too,",
+			"zh": "他也觉得很有趣，"
+		},
+		{
+			"i": 19,
+			"start": 73.16,
+			"end": 75.29,
+			"en": "because he never expected",
+			"zh": "因为他从未想过"
+		},
+		{
+			"i": 20,
+			"start": 75.44,
+			"end": 78.21,
+			"en": "the bicycle to be found.",
+			"zh": "自行车会被找到。"
+		},
+		{
+			"i": 21,
+			"start": 78.36,
+			"end": 81.29,
+			"en": "It was stolen twenty years ago",
+			"zh": "这辆自行车是二十年前被偷的，"
+		},
+		{
+			"i": 22,
+			"start": 81.44,
+			"end": 85.44,
+			"en": "when Dan was a boy of fifteen!",
+			"zh": "当时丹还是个15岁的男孩！"
+		}
+	]
+}

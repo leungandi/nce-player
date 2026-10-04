@@ -1,0 +1,181 @@
+{
+	"id": "nce2-32",
+	"book": "nce2",
+	"title": "Shopping Made Easy",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-32.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.68,
+			"end": 14.5,
+			"en": "Who was the thief?",
+			"zh": "谁是小偷？"
+		},
+		{
+			"i": 1,
+			"start": 14.65,
+			"end": 16.66,
+			"en": "People are not so honest as",
+			"zh": "人们不像从前那样诚实，"
+		},
+		{
+			"i": 2,
+			"start": 16.81,
+			"end": 18.6,
+			"en": "they once were.",
+			"zh": "曾经是那样。"
+		},
+		{
+			"i": 3,
+			"start": 18.75,
+			"end": 21.97,
+			"en": "The temptation to steal is greater than",
+			"zh": "偷窃的诱惑比以往任何时候都"
+		},
+		{
+			"i": 4,
+			"start": 22.12,
+			"end": 26.88,
+			"en": "ever before--especially in large shops.",
+			"zh": "更大——尤其是在大型商店里。"
+		},
+		{
+			"i": 5,
+			"start": 27.03,
+			"end": 30.21,
+			"en": "A detective recently watched a well-dressed",
+			"zh": "一名侦探最近发现一名穿着考究的"
+		},
+		{
+			"i": 6,
+			"start": 30.36,
+			"end": 33.65,
+			"en": "woman who always went into a large store",
+			"zh": "妇女，她总是周一上午"
+		},
+		{
+			"i": 7,
+			"start": 33.8,
+			"end": 35.75,
+			"en": "on Monday mornings.",
+			"zh": "去一家大商店。"
+		},
+		{
+			"i": 8,
+			"start": 35.9,
+			"end": 37.31,
+			"en": "One Monday,",
+			"zh": "有一个周一，"
+		},
+		{
+			"i": 9,
+			"start": 37.46,
+			"end": 39.56,
+			"en": "there were fewer people in the shop",
+			"zh": "商店里的人比平时"
+		},
+		{
+			"i": 10,
+			"start": 39.71,
+			"end": 43.37,
+			"en": "than usual when the woman came in,",
+			"zh": "少，当时那个妇女进来了，"
+		},
+		{
+			"i": 11,
+			"start": 43.52,
+			"end": 48.45,
+			"en": "so it was easier for the detective to watch her.",
+			"zh": "因此侦探更容易监视她。"
+		},
+		{
+			"i": 12,
+			"start": 48.6,
+			"end": 52.83,
+			"en": "The woman first bought a few small articles.",
+			"zh": "这名妇女首先买了几件小商品。"
+		},
+		{
+			"i": 13,
+			"start": 52.98,
+			"end": 54.8,
+			"en": "After a little time,",
+			"zh": "过了一会儿，"
+		},
+		{
+			"i": 14,
+			"start": 54.95,
+			"end": 58.56,
+			"en": "she chose one of the most expensive dresses",
+			"zh": "她选择了一件店里最昂贵的"
+		},
+		{
+			"i": 15,
+			"start": 58.71,
+			"end": 62.26,
+			"en": "in the shop and handed it to an assistant",
+			"zh": "连衣裙，并把它递给了一名店员，"
+		},
+		{
+			"i": 16,
+			"start": 62.41,
+			"end": 67.01,
+			"en": "who wrapped it up for her as quickly as possible.",
+			"zh": "店员尽快地为她包好了。"
+		},
+		{
+			"i": 17,
+			"start": 67.16,
+			"end": 70.79,
+			"en": "Then the woman simply took the parcel",
+			"zh": "然后，这名妇女只是拿起包裹"
+		},
+		{
+			"i": 18,
+			"start": 70.94,
+			"end": 75.23,
+			"en": "and walked out of the shop without paying.",
+			"zh": "没有付钱就走出了商店。"
+		},
+		{
+			"i": 19,
+			"start": 75.38,
+			"end": 77.34,
+			"en": "When she was arrested,",
+			"zh": "当她被捕时，"
+		},
+		{
+			"i": 20,
+			"start": 77.49,
+			"end": 79.34,
+			"en": "the detective found out that",
+			"zh": "侦探发现"
+		},
+		{
+			"i": 21,
+			"start": 79.49,
+			"end": 82.87,
+			"en": "the shop assistant was her daughter.",
+			"zh": "这名店员是她的女儿。"
+		},
+		{
+			"i": 22,
+			"start": 83.02,
+			"end": 85.18,
+			"en": "The girl 'gave' her mother",
+			"zh": "这女孩每周“送给”她母亲"
+		},
+		{
+			"i": 23,
+			"start": 85.33,
+			"end": 89.33,
+			"en": "a free dress once a week!",
+			"zh": "一件免费连衣裙！"
+		}
+	]
+}

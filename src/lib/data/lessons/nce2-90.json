@@ -1,0 +1,125 @@
+{
+	"id": "nce2-90",
+	"book": "nce2",
+	"title": "What's for Supper",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-90.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.32,
+			"end": 14.49,
+			"en": "What kind of fish are they?",
+			"zh": "它们是什么鱼？"
+		},
+		{
+			"i": 1,
+			"start": 14.64,
+			"end": 19.7,
+			"en": "Fish and chips has always been a favourite dish in Britain,",
+			"zh": "炸鱼薯条一直是英国人最喜欢的菜肴，"
+		},
+		{
+			"i": 2,
+			"start": 19.85,
+			"end": 27.14,
+			"en": "but as the oceans have been overfished, fish has become more and more expensive.",
+			"zh": "但由于海洋被过度捕捞，鱼类变得越来越昂贵。"
+		},
+		{
+			"i": 3,
+			"start": 27.29,
+			"end": 37.15,
+			"en": "So it comes as a surprise to learn that giant fish are terrifying the divers on North Sea oil rigs.",
+			"zh": "因此，当得知巨型鱼类正在恐吓北海石油钻井平台的潜水员时，这令人感到惊讶。"
+		},
+		{
+			"i": 4,
+			"start": 37.3,
+			"end": 47.12,
+			"en": "Oil rigs have to be repaired frequently and divers, who often have to work in darkness a hundred feet under water,",
+			"zh": "石油钻井平台需要经常维修，而潜水员通常必须在水下百英尺的黑暗中工作，"
+		},
+		{
+			"i": 5,
+			"start": 47.27,
+			"end": 54.68,
+			"en": "have been frightened out of their wits by giant fish bumping into them as they work.",
+			"zh": "他们在工作时被撞到他们的巨型鱼吓得魂不附体。"
+		},
+		{
+			"i": 6,
+			"start": 54.83,
+			"end": 60.91,
+			"en": "Now they have had special cages made to protect them from these monsters.",
+			"zh": "现在他们已经制造了特殊的笼子来保护他们免受这些“怪物”的侵害。"
+		},
+		{
+			"i": 7,
+			"start": 61.06,
+			"end": 64.97,
+			"en": "The fish are not sharks or killer whales,",
+			"zh": "这些鱼不是鲨鱼也不是虎鲸，"
+		},
+		{
+			"i": 8,
+			"start": 65.12,
+			"end": 72.77,
+			"en": "but favourite eating varieties like cod and skate which grow to unnatural sizes,",
+			"zh": "而是人们喜欢吃的品种，比如鳕鱼和鳐鱼，它们长得异常大，"
+		},
+		{
+			"i": 9,
+			"start": 72.92,
+			"end": 77.7,
+			"en": "sometimes as much as twelve feet in length.",
+			"zh": "有时甚至长达十二英尺。"
+		},
+		{
+			"i": 10,
+			"start": 77.85,
+			"end": 82.86,
+			"en": "Three factors have caused these fish to grow so large:",
+			"zh": "有三个因素导致这些鱼长得如此巨大："
+		},
+		{
+			"i": 11,
+			"start": 83.01,
+			"end": 88.02,
+			"en": "the warm water round the hot oil pipes under the sea;",
+			"zh": "海底热油管道周围的温暖水域；"
+		},
+		{
+			"i": 12,
+			"start": 88.17,
+			"end": 94.58,
+			"en": "the plentiful supply of food thrown overboard by the crews on the rigs;",
+			"zh": "钻井平台船员扔到海里的丰富食物供应；"
+		},
+		{
+			"i": 13,
+			"start": 94.73,
+			"end": 99.8,
+			"en": "the total absence of fishing boats around the oil rigs.",
+			"zh": "以及石油钻井平台周围完全没有渔船。"
+		},
+		{
+			"i": 14,
+			"start": 99.95,
+			"end": 109.09,
+			"en": "As a result, the fish just eat and eat and grow and grow in the lovely warm water.",
+			"zh": "结果，这些鱼就在这宜人的暖水中不停地吃，不停地长大。"
+		},
+		{
+			"i": 15,
+			"start": 109.24,
+			"end": 113.24,
+			"en": "Who eats who?",
+			"zh": "到底是谁吃了谁？"
+		}
+	]
+}

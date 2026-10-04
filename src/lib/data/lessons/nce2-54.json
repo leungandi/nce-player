@@ -1,0 +1,111 @@
+{
+	"id": "nce2-54",
+	"book": "nce2",
+	"title": "Sticky Fingers",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-54.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.52,
+			"end": 15.68,
+			"en": "What two interruptions did the writer have?",
+			"zh": "作者遇到了哪两次打扰？"
+		},
+		{
+			"i": 1,
+			"start": 15.83,
+			"end": 22.87,
+			"en": "After breakfast, I sent the children to school and then I went to the shops.",
+			"zh": "早饭后，我把孩子们送到学校，然后就去商店了。"
+		},
+		{
+			"i": 2,
+			"start": 23.02,
+			"end": 27.15,
+			"en": "It was still early when I returned home.",
+			"zh": "我回到家时，时间还早。"
+		},
+		{
+			"i": 3,
+			"start": 27.3,
+			"end": 33.9,
+			"en": "The children were at school, my husband was at work and the house was quiet.",
+			"zh": "孩子们在学校，我丈夫去上班了，家里很安静。"
+		},
+		{
+			"i": 4,
+			"start": 34.05,
+			"end": 38.19,
+			"en": "So I decided to make some meat pies.",
+			"zh": "于是我决定做些肉馅饼。"
+		},
+		{
+			"i": 5,
+			"start": 38.34,
+			"end": 41.67,
+			"en": "In a short time I was busy mixing butter",
+			"zh": "没过多久，我就忙着搅和黄油"
+		},
+		{
+			"i": 6,
+			"start": 41.82,
+			"end": 47.83,
+			"en": "and flour and my hands were soon covered with sticky pastry.",
+			"zh": "和面粉，很快我的手上就沾满了黏糊糊的面团。"
+		},
+		{
+			"i": 7,
+			"start": 47.98,
+			"end": 53.13,
+			"en": "At exactly that moment, the telephone rang.",
+			"zh": "就在那时，电话铃响了。"
+		},
+		{
+			"i": 8,
+			"start": 53.28,
+			"end": 56.6,
+			"en": "Nothing could have been more annoying.",
+			"zh": "没有什么比这更烦人的了。"
+		},
+		{
+			"i": 9,
+			"start": 56.75,
+			"end": 67.86,
+			"en": "I picked up the receiver between two sticky fingers and was dismayed when I recognized the voice of Helen Bates.",
+			"zh": "我用两根黏糊糊的手指拿起听筒，当认出海伦·贝茨的声音时，我感到很沮丧。"
+		},
+		{
+			"i": 10,
+			"start": 68.01,
+			"end": 77.07,
+			"en": "It took me ten minutes to persuade her to ring back later. At last I hung up the receiver.",
+			"zh": "我花了十分钟才说服她稍后再打来。最后我挂断了电话。"
+		},
+		{
+			"i": 11,
+			"start": 77.22,
+			"end": 86.86,
+			"en": "What a mess! There was pastry on my fingers, on the telephone, and on the doorknobs.",
+			"zh": "真是一团糟！我的手指上、电话上、门把手上都沾满了面团。"
+		},
+		{
+			"i": 12,
+			"start": 87.01,
+			"end": 95.73,
+			"en": "I had no sooner got back to the kitchen than the doorbell rang loud enough to wake the dead.",
+			"zh": "我刚回到厨房，门铃就响了，声音大得足以把死人吵醒。"
+		},
+		{
+			"i": 13,
+			"start": 95.88,
+			"end": 99.88,
+			"en": "This time it was the postman and he wanted me to sign for a registered letter!",
+			"zh": "这次是邮递员，他要我签收一封挂号信！"
+		}
+	]
+}

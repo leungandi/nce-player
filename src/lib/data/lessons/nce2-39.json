@@ -1,0 +1,174 @@
+{
+	"id": "nce2-39",
+	"book": "nce2",
+	"title": "Am I All Right",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-39.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.49,
+			"end": 16.27,
+			"en": "Why did Mr. Gilbert telephone Dr. Millington?",
+			"zh": "吉尔伯特先生为什么给米林顿医生打电话？"
+		},
+		{
+			"i": 1,
+			"start": 16.42,
+			"end": 19.57,
+			"en": "While John Gilbert was in hospital,",
+			"zh": "约翰·吉尔伯特住院期间，"
+		},
+		{
+			"i": 2,
+			"start": 19.72,
+			"end": 22.4,
+			"en": "he asked his doctor to tell him",
+			"zh": "他请医生告诉他"
+		},
+		{
+			"i": 3,
+			"start": 22.55,
+			"end": 26.01,
+			"en": "whether his operation had been successful,",
+			"zh": "他的手术是否成功，"
+		},
+		{
+			"i": 4,
+			"start": 26.16,
+			"end": 29.91,
+			"en": "but the doctor refused to do so.",
+			"zh": "但医生拒绝了。"
+		},
+		{
+			"i": 5,
+			"start": 30.06,
+			"end": 31.74,
+			"en": "The following day,",
+			"zh": "第二天，"
+		},
+		{
+			"i": 6,
+			"start": 31.89,
+			"end": 35.7,
+			"en": "the patient asked for a bedside telephone.",
+			"zh": "病人要了一部床头电话。"
+		},
+		{
+			"i": 7,
+			"start": 35.85,
+			"end": 37.72,
+			"en": "When he was alone,",
+			"zh": "他独处时，"
+		},
+		{
+			"i": 8,
+			"start": 37.87,
+			"end": 40.67,
+			"en": "he telephoned the hospital exchange",
+			"zh": "他给医院总机打电话"
+		},
+		{
+			"i": 9,
+			"start": 40.82,
+			"end": 44.27,
+			"en": "and asked for Doctor Millington.",
+			"zh": "要求找米林顿医生。"
+		},
+		{
+			"i": 10,
+			"start": 44.42,
+			"end": 46.9,
+			"en": "When the doctor answered the phone,",
+			"zh": "医生接电话后，"
+		},
+		{
+			"i": 11,
+			"start": 47.05,
+			"end": 52.56,
+			"en": "Mr. Gilbert said he was inquiring about a certain patient,",
+			"zh": "吉尔伯特先生说他正在询问一位病人，"
+		},
+		{
+			"i": 12,
+			"start": 52.71,
+			"end": 55.26,
+			"en": "a Mr. John Gilbert.",
+			"zh": "约翰·吉尔伯特先生。"
+		},
+		{
+			"i": 13,
+			"start": 55.41,
+			"end": 60.34,
+			"en": "He asked if Mr. Gilbert's operation had been successful",
+			"zh": "他问吉尔伯特先生的手术是否成功，"
+		},
+		{
+			"i": 14,
+			"start": 60.49,
+			"end": 64.73,
+			"en": "and the doctor told him that it had been.",
+			"zh": "医生告诉他成功了。"
+		},
+		{
+			"i": 15,
+			"start": 64.88,
+			"end": 68.59,
+			"en": "He then asked when Mr. Gilbert would be allowed to",
+			"zh": "他又问吉尔伯特先生何时可以"
+		},
+		{
+			"i": 16,
+			"start": 68.74,
+			"end": 71.52,
+			"en": "go home and the doctor told him",
+			"zh": "回家，医生告诉他"
+		},
+		{
+			"i": 17,
+			"start": 71.67,
+			"end": 72.92,
+			"en": "that he would have to stay",
+			"zh": "他必须在医院"
+		},
+		{
+			"i": 18,
+			"start": 73.07,
+			"end": 76.8,
+			"en": "in hosptial for another two weeks.",
+			"zh": "再住两周。"
+		},
+		{
+			"i": 19,
+			"start": 76.95,
+			"end": 80.34,
+			"en": "Then Dr. Millington asked the caller",
+			"zh": "接着米林顿医生问打电话的人"
+		},
+		{
+			"i": 20,
+			"start": 80.49,
+			"end": 83.45,
+			"en": "if he was a relative of the patient.",
+			"zh": "他是不是病人的亲属。"
+		},
+		{
+			"i": 21,
+			"start": 83.6,
+			"end": 86.42,
+			"en": "'No,' the patient answered,",
+			"zh": "“不，”病人回答说，"
+		},
+		{
+			"i": 22,
+			"start": 86.57,
+			"end": 90.57,
+			"en": "'I am Mr. John Gilbert.'",
+			"zh": "“我就是约翰·吉尔伯特先生。”"
+		}
+	]
+}

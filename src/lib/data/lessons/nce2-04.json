@@ -1,0 +1,104 @@
+{
+	"id": "nce2-04",
+	"book": "nce2",
+	"title": "An Exciting Trip",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-04.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 9.85,
+			"end": 15.8,
+			"en": "Why is Tim finding this trip exciting?",
+			"zh": "蒂姆为什么觉得这次旅行令人兴奋？"
+		},
+		{
+			"i": 1,
+			"start": 15.95,
+			"end": 20.58,
+			"en": "I have just received a letter from my brother, Tim.",
+			"zh": "我刚收到我哥哥蒂姆的一封信。"
+		},
+		{
+			"i": 2,
+			"start": 20.73,
+			"end": 22.97,
+			"en": "He is in Australia.",
+			"zh": "他在澳大利亚。"
+		},
+		{
+			"i": 3,
+			"start": 23.12,
+			"end": 26.35,
+			"en": "He has been there for six months.",
+			"zh": "他在那里已经六个月了。"
+		},
+		{
+			"i": 4,
+			"start": 26.5,
+			"end": 28.57,
+			"en": "Tim is an engineer.",
+			"zh": "蒂姆是一名工程师。"
+		},
+		{
+			"i": 5,
+			"start": 28.72,
+			"end": 33.3,
+			"en": "He is working for a big firm and he has already visited",
+			"zh": "他在一家大公司工作，并且他已经参观了"
+		},
+		{
+			"i": 6,
+			"start": 33.45,
+			"end": 37.46,
+			"en": "a great number of different places in Australia.",
+			"zh": "澳大利亚的许多不同地方。"
+		},
+		{
+			"i": 7,
+			"start": 37.61,
+			"end": 43.37,
+			"en": "He has just bought an Australian car and has gone to Alice Springs,",
+			"zh": "他刚买了一辆澳大利亚汽车，然后去了爱丽丝泉，"
+		},
+		{
+			"i": 8,
+			"start": 43.52,
+			"end": 47.35,
+			"en": "a small town in the centre of Australia.",
+			"zh": "一个位于澳大利亚中部的小镇。"
+		},
+		{
+			"i": 9,
+			"start": 47.5,
+			"end": 49.94,
+			"en": "He will soon visit Darwin.",
+			"zh": "他很快将参观达尔文。"
+		},
+		{
+			"i": 10,
+			"start": 50.09,
+			"end": 53.66,
+			"en": "From there, he will fly to Perth.",
+			"zh": "从那里，他将飞往珀斯。"
+		},
+		{
+			"i": 11,
+			"start": 53.81,
+			"end": 56.98,
+			"en": "My brother has never been abroad before,",
+			"zh": "我哥哥以前从未出过国，"
+		},
+		{
+			"i": 12,
+			"start": 57.13,
+			"end": 61.13,
+			"en": "so he is finding this trip very exciting.",
+			"zh": "所以他觉得这次旅行非常令人兴奋。"
+		}
+	]
+}

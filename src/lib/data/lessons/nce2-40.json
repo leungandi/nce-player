@@ -1,0 +1,146 @@
+{
+	"id": "nce2-40",
+	"book": "nce2",
+	"title": "Food and Talk",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-40.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 9.79,
+			"end": 14.91,
+			"en": "Was Mrs. Rumbold a good companion at dinner?",
+			"zh": "伦布尔德夫人是个好的晚餐伴侣吗？"
+		},
+		{
+			"i": 1,
+			"start": 15.06,
+			"end": 17.4,
+			"en": "Last week at a dinner party,",
+			"zh": "上周在一个晚宴上，"
+		},
+		{
+			"i": 2,
+			"start": 17.55,
+			"end": 22.59,
+			"en": "the hostess asked me to sit next to Mrs. Rumbold.",
+			"zh": "女主人请我坐在伦布尔德夫人旁边。"
+		},
+		{
+			"i": 3,
+			"start": 22.74,
+			"end": 24.84,
+			"en": "Mrs. Rumbold was a large,",
+			"zh": "伦布尔德夫人是个身材魁梧、"
+		},
+		{
+			"i": 4,
+			"start": 24.99,
+			"end": 29.19,
+			"en": "unsmiling lady in a tight black dress.",
+			"zh": "不苟言笑的女士，穿着一件紧身黑连衣裙。"
+		},
+		{
+			"i": 5,
+			"start": 29.34,
+			"end": 34.58,
+			"en": "She did not even look up when I took my seat beside her.",
+			"zh": "我在她身边坐下时，她甚至没有抬头看我。"
+		},
+		{
+			"i": 6,
+			"start": 34.73,
+			"end": 39.07,
+			"en": "Her eyes were fixed on her plate and in a short time,",
+			"zh": "她的眼睛盯着自己的盘子，不一会儿，"
+		},
+		{
+			"i": 7,
+			"start": 39.22,
+			"end": 41.94,
+			"en": "she was busy eating.",
+			"zh": "她就开始大吃起来。"
+		},
+		{
+			"i": 8,
+			"start": 42.09,
+			"end": 44.8,
+			"en": "I tried to make conversation.",
+			"zh": "我试图和她攀谈。"
+		},
+		{
+			"i": 9,
+			"start": 44.95,
+			"end": 48.12,
+			"en": "'A new play is coming to \"The Globe\" soon,'",
+			"zh": "“一部新戏很快就要在‘环球剧场’上演了，”"
+		},
+		{
+			"i": 10,
+			"start": 48.27,
+			"end": 52.97,
+			"en": "I said. 'Will you be seeing it?'",
+			"zh": "我说，“您会去看吗？”"
+		},
+		{
+			"i": 11,
+			"start": 53.12,
+			"end": 55.8,
+			"en": "'No,' she answered.",
+			"zh": "“不，”她答道。"
+		},
+		{
+			"i": 12,
+			"start": 55.95,
+			"end": 63.08,
+			"en": "'Will you be spending your holidays abroad this year?' I asked.",
+			"zh": "“今年您会到国外度假吗？”我问。"
+		},
+		{
+			"i": 13,
+			"start": 63.23,
+			"end": 65.66,
+			"en": "'No,' she answered.",
+			"zh": "“不，”她答道。"
+		},
+		{
+			"i": 14,
+			"start": 65.81,
+			"end": 69.77,
+			"en": "'Will you be staying in England?' I asked.",
+			"zh": "“您会留在英格兰吗？”我问。"
+		},
+		{
+			"i": 15,
+			"start": 69.92,
+			"end": 72.79,
+			"en": "'No,' she answered.",
+			"zh": "“不，”她答道。"
+		},
+		{
+			"i": 16,
+			"start": 72.94,
+			"end": 78.35,
+			"en": "In despair, I asked her whether she was enjoying her dinner.",
+			"zh": "绝望中，我问她是否喜欢她的晚餐。"
+		},
+		{
+			"i": 17,
+			"start": 78.5,
+			"end": 81.55,
+			"en": "'Young man,' she answered,",
+			"zh": "“年轻人，”她回答说，"
+		},
+		{
+			"i": 18,
+			"start": 81.7,
+			"end": 85.7,
+			"en": "'if you ate more and talked less, we would both enjoy our dinner!'",
+			"zh": "“如果你多吃点，少说点，我们俩都会享受晚餐的！”"
+		}
+	]
+}

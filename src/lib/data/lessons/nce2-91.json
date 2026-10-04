@@ -1,0 +1,104 @@
+{
+	"id": "nce2-91",
+	"book": "nce2",
+	"title": "Three Men in a Basket",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-91.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 11.12,
+			"end": 16.18,
+			"en": "Where was the station's Commanding Officer?",
+			"zh": "车站的指挥官在哪里？"
+		},
+		{
+			"i": 1,
+			"start": 16.33,
+			"end": 23.92,
+			"en": "A pilot noticed a balloon which seemed to be making for a Royal Air Force station nearby.",
+			"zh": "一名飞行员注意到一个气球，它似乎正朝着附近的一个皇家空军基地飞去。"
+		},
+		{
+			"i": 2,
+			"start": 24.07,
+			"end": 31.6,
+			"en": "He informed the station at once, but no one there was able to explain the mystery.",
+			"zh": "他立即通知了基地，但那里没有人能解释这个谜团。"
+		},
+		{
+			"i": 3,
+			"start": 31.75,
+			"end": 37.74,
+			"en": "The officer in the control tower was very angry when he heard the news,",
+			"zh": "控制塔里的军官听到这个消息后非常生气，"
+		},
+		{
+			"i": 4,
+			"start": 37.89,
+			"end": 42.68,
+			"en": "because balloons can be a great danger to aircraft.",
+			"zh": "因为气球对飞机来说可能是一个巨大的危险。"
+		},
+		{
+			"i": 5,
+			"start": 42.83,
+			"end": 51.89,
+			"en": "He said that someone might be spying on the station and the pilot was ordered to keep track of the strange object.",
+			"zh": "他说可能有人在监视基地，飞行员被命令跟踪这个奇怪的物体。"
+		},
+		{
+			"i": 6,
+			"start": 52.04,
+			"end": 56.79,
+			"en": "The pilot managed to circle the balloon for some time.",
+			"zh": "飞行员设法绕着气球盘旋了一段时间。"
+		},
+		{
+			"i": 7,
+			"start": 56.94,
+			"end": 64.77,
+			"en": "He could make out three men in a basket under it and one of them was holding a pair of binoculars.",
+			"zh": "他能辨认出气球下面的篮子里有三个人，其中一人拿着一副双筒望远镜。"
+		},
+		{
+			"i": 8,
+			"start": 64.92,
+			"end": 72.03,
+			"en": "When the balloon was over the station, the pilot saw one of the men taking photographs.",
+			"zh": "当气球飞到基地上空时，飞行员看到其中一个人在拍照。"
+		},
+		{
+			"i": 9,
+			"start": 72.18,
+			"end": 79.1,
+			"en": "Soon afterwards, the balloon began to descend and it landed near an airfield.",
+			"zh": "不久之后，气球开始下降，并降落在一个机场附近。"
+		},
+		{
+			"i": 10,
+			"start": 79.25,
+			"end": 83.86,
+			"en": "The police were called in, but they could not arrest anyone,",
+			"zh": "警方被召来，但他们无法逮捕任何人，"
+		},
+		{
+			"i": 11,
+			"start": 84.01,
+			"end": 91.47,
+			"en": "for the basket contained two Members of Parliament and the Commanding Officer of the station!",
+			"zh": "因为篮子里坐着两名议会成员和基地的指挥官！"
+		},
+		{
+			"i": 12,
+			"start": 91.62,
+			"end": 95.62,
+			"en": "As the Commanding Officer explained later, one half of the station did not know what the other half was doing!",
+			"zh": "正如指挥官后来解释的那样，基地的一半人不知道另一半人在做什么！"
+		}
+	]
+}

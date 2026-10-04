@@ -1,0 +1,111 @@
+{
+	"id": "nce2-06",
+	"book": "nce2",
+	"title": "Percy Buttons",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-06.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.05,
+			"end": 14.35,
+			"en": "Who is Percy Buttons?",
+			"zh": "谁是珀西·巴顿斯？"
+		},
+		{
+			"i": 1,
+			"start": 14.5,
+			"end": 18.61,
+			"en": "I have just moved to a house in Bridge Street.",
+			"zh": "我刚搬到桥街的一所房子里。"
+		},
+		{
+			"i": 2,
+			"start": 18.76,
+			"end": 22.21,
+			"en": "Yesterday a beggar knocked at my door.",
+			"zh": "昨天一个乞丐敲我的门。"
+		},
+		{
+			"i": 3,
+			"start": 22.36,
+			"end": 26.39,
+			"en": "He asked me for a meal and a glass of beer.",
+			"zh": "他向我要一顿饭和一杯啤酒。"
+		},
+		{
+			"i": 4,
+			"start": 26.54,
+			"end": 28.26,
+			"en": "In return for this,",
+			"zh": "作为回报，"
+		},
+		{
+			"i": 5,
+			"start": 28.41,
+			"end": 32.72,
+			"en": "the beggar stood on his head and sang songs.",
+			"zh": "乞丐倒立着唱歌。"
+		},
+		{
+			"i": 6,
+			"start": 32.87,
+			"end": 35.02,
+			"en": "I gave him a meal.",
+			"zh": "我给了他一顿饭。"
+		},
+		{
+			"i": 7,
+			"start": 35.17,
+			"end": 38.26,
+			"en": "He ate the food and drank the beer.",
+			"zh": "他吃了食物，喝了啤酒。"
+		},
+		{
+			"i": 8,
+			"start": 38.41,
+			"end": 43.08,
+			"en": "Then he put a piece of cheese in his pocket and went away.",
+			"zh": "然后他把一块奶酪放进口袋里，走了。"
+		},
+		{
+			"i": 9,
+			"start": 43.23,
+			"end": 46.32,
+			"en": "Later a neighbour told me about him.",
+			"zh": "后来一位邻居告诉我关于他的事。"
+		},
+		{
+			"i": 10,
+			"start": 46.47,
+			"end": 48.48,
+			"en": "Everybody knows him.",
+			"zh": "每个人都认识他。"
+		},
+		{
+			"i": 11,
+			"start": 48.63,
+			"end": 51.22,
+			"en": "His name is Percy Buttons.",
+			"zh": "他的名字叫珀西·巴顿斯。"
+		},
+		{
+			"i": 12,
+			"start": 51.37,
+			"end": 55.24,
+			"en": "He calls at every house in the street once a month",
+			"zh": "他每个月到街上的每家每户拜访一次"
+		},
+		{
+			"i": 13,
+			"start": 55.39,
+			"end": 59.39,
+			"en": "and always asks for a meal and a glass of beer.",
+			"zh": "并且总是要求一顿饭和一杯啤酒。"
+		}
+	]
+}

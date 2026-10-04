@@ -1,0 +1,90 @@
+{
+	"id": "nce2-67",
+	"book": "nce2",
+	"title": "Volcanoes",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-67.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.03,
+			"end": 15.6,
+			"en": "Why does Tazieff risk his life like this?",
+			"zh": "为什么塔齐耶夫要这样冒生命危险？"
+		},
+		{
+			"i": 1,
+			"start": 15.75,
+			"end": 27.7,
+			"en": "Haroun Tazieff, the Polish scientist, has spent his lifetime studying active volcanoes and deep caves in all parts of the world.",
+			"zh": "波兰科学家哈伦·塔齐耶夫一生都在研究世界各地的活火山和深洞。"
+		},
+		{
+			"i": 2,
+			"start": 27.85,
+			"end": 39.6,
+			"en": "In 1948, he went to Lake Kivu in the Congo to observe a new volcano which he later named Kituro.",
+			"zh": "1948年，他去了刚果的基伍湖，观察一座新火山，他后来将其命名为基图罗。"
+		},
+		{
+			"i": 3,
+			"start": 39.75,
+			"end": 49.13,
+			"en": "Tazieff was able to set up his camp very close to the volcano while it was erupting violently.",
+			"zh": "塔齐耶夫在火山猛烈喷发时，能够把营地设在离火山很近的地方。"
+		},
+		{
+			"i": 4,
+			"start": 49.28,
+			"end": 58.68,
+			"en": "Though he managed to take a number of brilliant photographs, he could not stay near the volcano for very long.",
+			"zh": "尽管他设法拍了许多精彩的照片，但他不能在火山附近待太久。"
+		},
+		{
+			"i": 5,
+			"start": 58.83,
+			"end": 63.78,
+			"en": "He noticed that a river of liquid rock was coming towards him.",
+			"zh": "他注意到一条液态岩石的河流正向他涌来。"
+		},
+		{
+			"i": 6,
+			"start": 63.93,
+			"end": 72.64,
+			"en": "It threatened to surround him completely, but Tazieff managed to escape just in time.",
+			"zh": "它威胁要将他完全包围，但塔齐耶夫设法及时逃脱了。"
+		},
+		{
+			"i": 7,
+			"start": 72.79,
+			"end": 80.32,
+			"en": "He waited until the volcano became quiet and he was able to return two days later.",
+			"zh": "他等到火山平静下来，两天后才得以返回。"
+		},
+		{
+			"i": 8,
+			"start": 80.47,
+			"end": 90.77,
+			"en": "This time, he managed to climb into the mouth of Kituro so that he could take photographs and measure temperatures.",
+			"zh": "这次，他设法爬进了基图罗的火山口，以便拍照和测量温度。"
+		},
+		{
+			"i": 9,
+			"start": 90.92,
+			"end": 95.54,
+			"en": "Tazieff has often risked his life in this way.",
+			"zh": "塔齐耶夫经常以这种方式冒生命危险。"
+		},
+		{
+			"i": 10,
+			"start": 95.69,
+			"end": 99.69,
+			"en": "He has been able to tell us more about active volcanoes than any man alive.",
+			"zh": "他比任何在世的人都能告诉我们更多关于活火山的信息。"
+		}
+	]
+}

@@ -1,8 +1,15 @@
 <script lang="ts">
 	import '../app.css';
 	import favicon from '#lib/assets/favicon.svg';
+	import { onMount } from 'svelte';
+	import { registerSW } from 'virtual:pwa-register';
 
 	let { children } = $props();
+
+	// Service Worker 自动更新：有新版本就后台装上，下次访问生效
+	onMount(() => {
+		registerSW({ immediate: true });
+	});
 </script>
 
 <svelte:head>

@@ -1,0 +1,90 @@
+{
+	"id": "nce2-16",
+	"book": "nce2",
+	"title": "A Polite Request",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-16.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.02,
+			"end": 14.49,
+			"en": "What was the polite request?",
+			"zh": "有礼貌的请求是什么？"
+		},
+		{
+			"i": 1,
+			"start": 14.64,
+			"end": 17.96,
+			"en": "If you park your car in the wrong place,",
+			"zh": "如果你把车停错了地方，"
+		},
+		{
+			"i": 2,
+			"start": 18.11,
+			"end": 21.53,
+			"en": "a traffic policeman will soon find it.",
+			"zh": "交通警察很快就会发现它。"
+		},
+		{
+			"i": 3,
+			"start": 21.68,
+			"end": 26.71,
+			"en": "You will be very lucky if he lets you go without a ticket.",
+			"zh": "如果他让你走而不开罚单，你将非常幸运。"
+		},
+		{
+			"i": 4,
+			"start": 26.86,
+			"end": 31.33,
+			"en": "However, this does not always happen.",
+			"zh": "然而，这并非总是发生。"
+		},
+		{
+			"i": 5,
+			"start": 31.48,
+			"end": 35.83,
+			"en": "Traffic police are sometimes very polite.",
+			"zh": "交通警察有时非常有礼貌。"
+		},
+		{
+			"i": 6,
+			"start": 35.98,
+			"end": 38.51,
+			"en": "During a holiday in Sweden,",
+			"zh": "在瑞典度假期间，"
+		},
+		{
+			"i": 7,
+			"start": 38.66,
+			"end": 41.89,
+			"en": "I found this note on my car:",
+			"zh": "我在车上发现了这张字条："
+		},
+		{
+			"i": 8,
+			"start": 42.04,
+			"end": 49.7,
+			"en": "'sir, we welcome you to our city. This is a No Parking area.",
+			"zh": "“先生，我们欢迎您来到我们的城市。这里是禁停区。"
+		},
+		{
+			"i": 9,
+			"start": 49.85,
+			"end": 60.16,
+			"en": "You will enjoy your stay here if you pay attention to our street signs. This note is only a reminder.'",
+			"zh": "如果您注意我们的路标，您会在这里度过愉快的时光。这张字条只是一个提醒。”"
+		},
+		{
+			"i": 10,
+			"start": 60.31,
+			"end": 64.31,
+			"en": "If you receive a request like this, you cannot fail to obey it!",
+			"zh": "如果你收到这样的请求，你不能不遵守它！"
+		}
+	]
+}

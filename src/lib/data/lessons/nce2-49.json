@@ -1,0 +1,146 @@
+{
+	"id": "nce2-49",
+	"book": "nce2",
+	"title": "The End of a Dream",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-49.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 11.05,
+			"end": 15,
+			"en": "How did the dream end?",
+			"zh": "这个梦是怎样结束的呢？"
+		},
+		{
+			"i": 1,
+			"start": 15.15,
+			"end": 17.86,
+			"en": "Tired of sleeping on the floor,",
+			"zh": "德黑兰有个年轻人，他睡在地板上，感到厌倦，"
+		},
+		{
+			"i": 2,
+			"start": 18.01,
+			"end": 24.83,
+			"en": "a young man in Teheran saved up for years to buy a real bed.",
+			"zh": "于是积蓄了好几年，买了一张真正的床。"
+		},
+		{
+			"i": 3,
+			"start": 24.98,
+			"end": 27.9,
+			"en": "For the first time in his life,",
+			"zh": "他生平第一次"
+		},
+		{
+			"i": 4,
+			"start": 28.05,
+			"end": 35.07,
+			"en": "he became the proud owner of a bed which had springs and a mattress.",
+			"zh": "拥有了一张带弹簧和床垫的床，他为此感到十分自豪。"
+		},
+		{
+			"i": 5,
+			"start": 35.22,
+			"end": 38.47,
+			"en": "Because the weather was very hot,",
+			"zh": "因为天气很热，"
+		},
+		{
+			"i": 6,
+			"start": 38.62,
+			"end": 43.21,
+			"en": "he carried the bed on to the roof of his house.",
+			"zh": "他便把床搬到了屋顶上。"
+		},
+		{
+			"i": 7,
+			"start": 43.36,
+			"end": 47.85,
+			"en": "He slept very well for the first two nights,",
+			"zh": "头两晚他睡得很好，"
+		},
+		{
+			"i": 8,
+			"start": 48,
+			"end": 52.97,
+			"en": "but on the third night, a storm blew up.",
+			"zh": "但第三天晚上，暴风雨突然降临。"
+		},
+		{
+			"i": 9,
+			"start": 53.12,
+			"end": 61.88,
+			"en": "A gust of wind swept the bed off the roof and sent it crashing into the courtyard below.",
+			"zh": "一阵狂风把床从屋顶上刮了下来，摔到了下面的院子里。"
+		},
+		{
+			"i": 10,
+			"start": 62.03,
+			"end": 64.29,
+			"en": "The young man did not wake up",
+			"zh": "那个年轻人直到"
+		},
+		{
+			"i": 11,
+			"start": 64.44,
+			"end": 68.31,
+			"en": "until the bed had struck the ground.",
+			"zh": "床撞到地上才醒过来。"
+		},
+		{
+			"i": 12,
+			"start": 68.46,
+			"end": 71.88,
+			"en": "Although the bed was smashed to pieces,",
+			"zh": "尽管床摔成了碎片，"
+		},
+		{
+			"i": 13,
+			"start": 72.03,
+			"end": 76.06,
+			"en": "the man was miraculously unhurt.",
+			"zh": "但那个人却奇迹般地没有受伤。"
+		},
+		{
+			"i": 14,
+			"start": 76.21,
+			"end": 80.69,
+			"en": "When he woke up, he was still on the mattress.",
+			"zh": "他醒来时，仍然躺在床垫上。"
+		},
+		{
+			"i": 15,
+			"start": 80.84,
+			"end": 85.57,
+			"en": "Glancing at the bits of wood and metal that lay around him,",
+			"zh": "他看了一眼周围的木头和金属碎片，"
+		},
+		{
+			"i": 16,
+			"start": 85.72,
+			"end": 91.67,
+			"en": "the man sadly picked up the mattress and carried it into his house.",
+			"zh": "伤心地抱起床垫，把它搬进了屋里。"
+		},
+		{
+			"i": 17,
+			"start": 91.82,
+			"end": 94.41,
+			"en": "After he had put it on the floor,",
+			"zh": "他把床垫放到地板上，"
+		},
+		{
+			"i": 18,
+			"start": 94.56,
+			"end": 98.56,
+			"en": "he promptly went to sleep again.",
+			"zh": "便很快又睡着了。"
+		}
+	]
+}

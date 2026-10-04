@@ -1,0 +1,118 @@
+{
+	"id": "nce2-47",
+	"book": "nce2",
+	"title": "A Thirsty Ghost",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-47.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.47,
+			"end": 15.67,
+			"en": "What evidence is there of a ghost?",
+			"zh": "有什么证据证明有鬼？"
+		},
+		{
+			"i": 1,
+			"start": 15.82,
+			"end": 23.64,
+			"en": "A public house which was recently bought by Mr.Ian Thompson is up for sale.",
+			"zh": "伊恩·汤普森先生最近购买的一家酒吧正在出售。"
+		},
+		{
+			"i": 2,
+			"start": 23.79,
+			"end": 29.48,
+			"en": "Mr.Thompson is going to sell it because it is haunted.",
+			"zh": "汤普森先生打算出售它，因为它闹鬼。"
+		},
+		{
+			"i": 3,
+			"start": 29.63,
+			"end": 33.44,
+			"en": "He told me that he could not go to sleep one night",
+			"zh": "他告诉我，一天晚上他无法入睡"
+		},
+		{
+			"i": 4,
+			"start": 33.59,
+			"end": 38.75,
+			"en": "because he heard a strange noise coming from the bar.",
+			"zh": "因为他听到酒吧里传来奇怪的声音。"
+		},
+		{
+			"i": 5,
+			"start": 38.9,
+			"end": 40.28,
+			"en": "The next morning,",
+			"zh": "第二天早上，"
+		},
+		{
+			"i": 6,
+			"start": 40.43,
+			"end": 47.46,
+			"en": "he found that the doors had been blocked by chairs and the furniture had been moved.",
+			"zh": "他发现门被椅子堵住了，家具也被挪动了。"
+		},
+		{
+			"i": 7,
+			"start": 47.61,
+			"end": 53.14,
+			"en": "Though Mr.Thompson had turned the lights off before he went to bed,",
+			"zh": "虽然汤普森先生睡前关了灯，"
+		},
+		{
+			"i": 8,
+			"start": 53.29,
+			"end": 56.27,
+			"en": "they were on in the morning.",
+			"zh": "但早上却亮着。"
+		},
+		{
+			"i": 9,
+			"start": 56.42,
+			"end": 61.76,
+			"en": "He also said that he had found five empty whisky bottles",
+			"zh": "他还说他发现了五个空威士忌酒瓶，"
+		},
+		{
+			"i": 10,
+			"start": 61.91,
+			"end": 66.53,
+			"en": "which the ghost must have drunk the night before.",
+			"zh": "一定是那个鬼前一天晚上喝光的。"
+		},
+		{
+			"i": 11,
+			"start": 66.68,
+			"end": 70.42,
+			"en": "When I suggested that some villagers must have come",
+			"zh": "当我暗示说一定是一些村民过来"
+		},
+		{
+			"i": 12,
+			"start": 70.57,
+			"end": 76.37,
+			"en": "in for a free drink, Mr.Thompson shook his head.",
+			"zh": "免费喝酒时，汤普森先生摇了摇头。"
+		},
+		{
+			"i": 13,
+			"start": 76.52,
+			"end": 78.64,
+			"en": "The villagers have told him that",
+			"zh": "村民们告诉他，"
+		},
+		{
+			"i": 14,
+			"start": 78.79,
+			"end": 82.79,
+			"en": "they will not accept the pub even if he gives it away.",
+			"zh": "即使他白送，他们也不会接受那家酒吧。"
+		}
+	]
+}

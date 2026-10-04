@@ -1,0 +1,167 @@
+{
+	"id": "nce2-36",
+	"book": "nce2",
+	"title": "Across the Channel",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-36.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 9.9,
+			"end": 14.51,
+			"en": "What is Debbie going to try to do?",
+			"zh": "黛比将要尝试做什么？"
+		},
+		{
+			"i": 1,
+			"start": 14.66,
+			"end": 16.83,
+			"en": "Debbie Hart is going to swim",
+			"zh": "黛比·哈特将于"
+		},
+		{
+			"i": 2,
+			"start": 16.98,
+			"end": 20.26,
+			"en": "across the English Channel tomorrow.",
+			"zh": "明天横渡英吉利海峡。"
+		},
+		{
+			"i": 3,
+			"start": 20.41,
+			"end": 23.45,
+			"en": "She is going to set out from the French coast",
+			"zh": "她将于明天凌晨5点"
+		},
+		{
+			"i": 4,
+			"start": 23.6,
+			"end": 26.45,
+			"en": "at five o'clock in the morning.",
+			"zh": "从法国海岸出发。"
+		},
+		{
+			"i": 5,
+			"start": 26.6,
+			"end": 29.55,
+			"en": "Debbie is only eleven years old",
+			"zh": "黛比年仅11岁，"
+		},
+		{
+			"i": 6,
+			"start": 29.7,
+			"end": 33.27,
+			"en": "and she hopes to set up a new world record.",
+			"zh": "她希望能创造一个新的世界纪录。"
+		},
+		{
+			"i": 7,
+			"start": 33.42,
+			"end": 36.66,
+			"en": "She is a strong swimmer and many people feel",
+			"zh": "她是一名出色的游泳运动员，许多人觉得"
+		},
+		{
+			"i": 8,
+			"start": 36.81,
+			"end": 39.92,
+			"en": "that she is sure to succeed.",
+			"zh": "她一定会成功。"
+		},
+		{
+			"i": 9,
+			"start": 40.07,
+			"end": 42.7,
+			"en": "Debbie's father will set out with her",
+			"zh": "黛比的父亲将与她一起"
+		},
+		{
+			"i": 10,
+			"start": 42.85,
+			"end": 44.76,
+			"en": "in a small boat.",
+			"zh": "乘一艘小船出发。"
+		},
+		{
+			"i": 11,
+			"start": 44.91,
+			"end": 49.01,
+			"en": "Mr. Hart has trained his daughter for years.",
+			"zh": "哈特先生训练他的女儿已经多年了。"
+		},
+		{
+			"i": 12,
+			"start": 49.16,
+			"end": 52.51,
+			"en": "Tomorrow he will be watching her anxiously",
+			"zh": "明天，他将焦急地看着她"
+		},
+		{
+			"i": 13,
+			"start": 52.66,
+			"end": 56.74,
+			"en": "as she swims the long distance to England.",
+			"zh": "游过那漫长的距离去英国。"
+		},
+		{
+			"i": 14,
+			"start": 56.89,
+			"end": 61.53,
+			"en": "Debbie intends to take short rests every two hours.",
+			"zh": "黛比打算每两小时短暂停歇一次。"
+		},
+		{
+			"i": 15,
+			"start": 61.68,
+			"end": 63.44,
+			"en": "She will have something to drink",
+			"zh": "她会喝些东西，"
+		},
+		{
+			"i": 16,
+			"start": 63.59,
+			"end": 67.48,
+			"en": "but she will not eat any solid food.",
+			"zh": "但不吃任何固体食物。"
+		},
+		{
+			"i": 17,
+			"start": 67.63,
+			"end": 70.03,
+			"en": "Most of Debbie's school friends will be",
+			"zh": "黛比的大部分同学都将"
+		},
+		{
+			"i": 18,
+			"start": 70.18,
+			"end": 73.15,
+			"en": "waiting for her on the English coast.",
+			"zh": "在英国海岸等候她。"
+		},
+		{
+			"i": 19,
+			"start": 73.3,
+			"end": 76.18,
+			"en": "Among them will be Debbie's mother,",
+			"zh": "其中包括黛比的母亲，"
+		},
+		{
+			"i": 20,
+			"start": 76.33,
+			"end": 78.25,
+			"en": "who swam the Channel herself",
+			"zh": "她本人在还是个女孩的时候"
+		},
+		{
+			"i": 21,
+			"start": 78.4,
+			"end": 82.4,
+			"en": "when she was a girl.",
+			"zh": "也曾游过英吉利海峡。"
+		}
+	]
+}

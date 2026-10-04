@@ -1,0 +1,118 @@
+{
+	"id": "nce2-42",
+	"book": "nce2",
+	"title": "Not Very Musical",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-42.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.09,
+			"end": 16.09,
+			"en": "What happened when the snake charmer began to play jazz?",
+			"zh": "耍蛇人开始演奏爵士乐时发生了什么？"
+		},
+		{
+			"i": 1,
+			"start": 16.24,
+			"end": 21.86,
+			"en": "As we had had a long walk through one of the markets of old Delhi,",
+			"zh": "我们在老德里的一处市场走了很长一段路之后，"
+		},
+		{
+			"i": 2,
+			"start": 22.01,
+			"end": 25.9,
+			"en": "we stopped at a square to have a rest.",
+			"zh": "在一个广场停下来休息。"
+		},
+		{
+			"i": 3,
+			"start": 26.05,
+			"end": 29.65,
+			"en": "After a time, we noticed a snake charmer with",
+			"zh": "过了一会儿，我们注意到广场的另一边有位耍蛇人，"
+		},
+		{
+			"i": 4,
+			"start": 29.8,
+			"end": 33.91,
+			"en": "two large baskets at the other side of the square,",
+			"zh": "带着两个大篮子。"
+		},
+		{
+			"i": 5,
+			"start": 34.06,
+			"end": 37.44,
+			"en": "so we went to have a look at him.",
+			"zh": "于是我们走过去看他。"
+		},
+		{
+			"i": 6,
+			"start": 37.59,
+			"end": 39.7,
+			"en": "As soon as he saw us,",
+			"zh": "他一看到我们，"
+		},
+		{
+			"i": 7,
+			"start": 39.85,
+			"end": 46.96,
+			"en": "he picked up a long pipe which was covered with coins and opened one of the baskets.",
+			"zh": "便拿起一根盖满硬币的长笛，打开了一个篮子。"
+		},
+		{
+			"i": 8,
+			"start": 47.11,
+			"end": 49.74,
+			"en": "When he began to play a tune,",
+			"zh": "当他开始吹奏曲子时，"
+		},
+		{
+			"i": 9,
+			"start": 49.89,
+			"end": 53.7,
+			"en": "we had our first glimpse of the snake.",
+			"zh": "我们第一次瞥见了那条蛇。"
+		},
+		{
+			"i": 10,
+			"start": 53.85,
+			"end": 60.04,
+			"en": "It rose out of the basket and began to follow the movements of the pipe.",
+			"zh": "它从篮子里钻出来，开始跟着长笛的动作舞动。"
+		},
+		{
+			"i": 11,
+			"start": 60.19,
+			"end": 63.66,
+			"en": "We were very much surprised when the snake charmer",
+			"zh": "当耍蛇人突然开始演奏爵士乐和现代流行歌曲时，"
+		},
+		{
+			"i": 12,
+			"start": 63.81,
+			"end": 69.26,
+			"en": "suddenly began to play jazz and modern pop songs.",
+			"zh": "我们感到非常惊讶。"
+		},
+		{
+			"i": 13,
+			"start": 69.41,
+			"end": 74.38,
+			"en": "The snake, however, continued to 'dance' slowly.",
+			"zh": "然而，那条蛇却继续缓慢地“跳舞”。"
+		},
+		{
+			"i": 14,
+			"start": 74.53,
+			"end": 78.53,
+			"en": "It obviously could not tell the difference between Indian music and jazz!",
+			"zh": "它显然分辨不出印度音乐和爵士乐的区别！"
+		}
+	]
+}

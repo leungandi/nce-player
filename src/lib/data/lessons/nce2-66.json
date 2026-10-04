@@ -1,0 +1,104 @@
+{
+	"id": "nce2-66",
+	"book": "nce2",
+	"title": "Sweet as Honey",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-66.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.69,
+			"end": 15.89,
+			"en": "What was 'sweet as honey' and why?",
+			"zh": "什么是“甜如蜂蜜”以及为什么？"
+		},
+		{
+			"i": 1,
+			"start": 16.04,
+			"end": 22.26,
+			"en": "In 1963 a Lancaster bomber crashed on Wallis Island,",
+			"zh": "1963年，一架兰开斯特轰炸机坠毁在沃利斯岛，"
+		},
+		{
+			"i": 2,
+			"start": 22.41,
+			"end": 28.45,
+			"en": "a remote place in the South Pacific, a long way west of Samoa.",
+			"zh": "一个位于南太平洋的偏远地方，在萨摩亚以西很远。"
+		},
+		{
+			"i": 3,
+			"start": 28.6,
+			"end": 31.46,
+			"en": "The plane wasn't too badly damaged,",
+			"zh": "飞机没有损坏得太严重，"
+		},
+		{
+			"i": 4,
+			"start": 31.61,
+			"end": 38.43,
+			"en": "but over the years the crash was forgotten and the wreck remained undisturbed.",
+			"zh": "但多年来，这次坠机事件被遗忘，残骸也一直未被触动。"
+		},
+		{
+			"i": 5,
+			"start": 38.58,
+			"end": 51.19,
+			"en": "Then in 1989, twenty-six years after the crash, the plane was accidentally rediscovered in an aerial survey of the island.",
+			"zh": "1989年，坠机26年后，在一项对该岛的空中勘测中，这架飞机被意外重新发现。"
+		},
+		{
+			"i": 6,
+			"start": 51.34,
+			"end": 59.74,
+			"en": "By this time, a Lancaster bomber in reasonable condition was rare and worth rescuing.",
+			"zh": "此时，一架状况尚可的兰开斯特轰炸机已属罕见，值得营救。"
+		},
+		{
+			"i": 7,
+			"start": 59.89,
+			"end": 66.13,
+			"en": "The French authorities had the plane packaged and moved in parts back to France.",
+			"zh": "法国当局将飞机打包，并分批运回法国。"
+		},
+		{
+			"i": 8,
+			"start": 66.28,
+			"end": 71.49,
+			"en": "Now a group of enthusiasts are going to have the plane restored.",
+			"zh": "现在，一群爱好者正准备修复这架飞机。"
+		},
+		{
+			"i": 9,
+			"start": 71.64,
+			"end": 80.29,
+			"en": "It has four Rolls-Royce Merlin engines but the group will need to have only three of them rebuilt.",
+			"zh": "它有四台劳斯莱斯梅林发动机，但该团队只需要重建其中三台。"
+		},
+		{
+			"i": 10,
+			"start": 80.44,
+			"end": 86.48,
+			"en": "Imagine their surprise and delight when they broke open the packing cases",
+			"zh": "想象一下，当他们打开包装箱时，是多么惊喜和高兴，"
+		},
+		{
+			"i": 11,
+			"start": 86.63,
+			"end": 94.06,
+			"en": "and found that the fourth engine was sweet as honey--still in perfect condition.",
+			"zh": "发现第四台发动机“甜如蜂蜜”——仍然处于完美状态。"
+		},
+		{
+			"i": 12,
+			"start": 94.21,
+			"end": 98.21,
+			"en": "A colony of bees had turned the engine into a hive and it was totally preserved in beeswax!",
+			"zh": "一群蜜蜂把发动机变成了一个蜂巢，它完全被蜂蜡保存了下来！"
+		}
+	]
+}

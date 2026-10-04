@@ -1,0 +1,181 @@
+{
+	"id": "nce2-33",
+	"book": "nce2",
+	"title": "Out of the Darkness",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-33.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.68,
+			"end": 14.47,
+			"en": "Why was the girl in hospital?",
+			"zh": "女孩为什么住院了？"
+		},
+		{
+			"i": 1,
+			"start": 14.62,
+			"end": 16.81,
+			"en": "Nearly a week passed before",
+			"zh": "将近一个星期过去了"
+		},
+		{
+			"i": 2,
+			"start": 16.96,
+			"end": 19.39,
+			"en": "the girl was able to explain",
+			"zh": "女孩才能解释"
+		},
+		{
+			"i": 3,
+			"start": 19.54,
+			"end": 23,
+			"en": "what had happened to her.",
+			"zh": "发生在她身上的事情。"
+		},
+		{
+			"i": 4,
+			"start": 23.15,
+			"end": 25.55,
+			"en": "One afternoon she set out",
+			"zh": "一个下午，她出发了"
+		},
+		{
+			"i": 5,
+			"start": 25.7,
+			"end": 28.07,
+			"en": "from the coast in a small boat",
+			"zh": "乘小船从海岸出发"
+		},
+		{
+			"i": 6,
+			"start": 28.22,
+			"end": 31.34,
+			"en": "and was caught in a storm.",
+			"zh": "结果遭遇了暴风雨。"
+		},
+		{
+			"i": 7,
+			"start": 31.49,
+			"end": 32.94,
+			"en": "Towards evening,",
+			"zh": "傍晚时分，"
+		},
+		{
+			"i": 8,
+			"start": 33.09,
+			"end": 34.98,
+			"en": "the boat struck a rock and",
+			"zh": "小船撞上了一块礁石"
+		},
+		{
+			"i": 9,
+			"start": 35.13,
+			"end": 38.15,
+			"en": "the girl jumped into the sea.",
+			"zh": "女孩跳入了海中。"
+		},
+		{
+			"i": 10,
+			"start": 38.3,
+			"end": 40.48,
+			"en": "Then she swam to the shore",
+			"zh": "然后她游向岸边"
+		},
+		{
+			"i": 11,
+			"start": 40.63,
+			"end": 44.56,
+			"en": "after spending the whole night in the water.",
+			"zh": "在水里待了一整夜。"
+		},
+		{
+			"i": 12,
+			"start": 44.71,
+			"end": 47.35,
+			"en": "During that time she covered",
+			"zh": "在那段时间里，她游了"
+		},
+		{
+			"i": 13,
+			"start": 47.5,
+			"end": 50.66,
+			"en": "a distance of eight miles.",
+			"zh": "八英里的距离。"
+		},
+		{
+			"i": 14,
+			"start": 50.81,
+			"end": 52.75,
+			"en": "Early next morning,",
+			"zh": "第二天一早，"
+		},
+		{
+			"i": 15,
+			"start": 52.9,
+			"end": 55.65,
+			"en": "she saw a light ahead.",
+			"zh": "她看到前方有灯光。"
+		},
+		{
+			"i": 16,
+			"start": 55.8,
+			"end": 58.75,
+			"en": "She knew she was near the shore",
+			"zh": "她知道她靠近岸边了"
+		},
+		{
+			"i": 17,
+			"start": 58.9,
+			"end": 63.36,
+			"en": "because the light was high up on the cliffs.",
+			"zh": "因为灯光在高高的悬崖上。"
+		},
+		{
+			"i": 18,
+			"start": 63.51,
+			"end": 66.01,
+			"en": "On arriving at the shore,",
+			"zh": "到达岸边后，"
+		},
+		{
+			"i": 19,
+			"start": 66.16,
+			"end": 69.41,
+			"en": "the girl struggled up the cliff towards",
+			"zh": "女孩艰难地爬上悬崖"
+		},
+		{
+			"i": 20,
+			"start": 69.56,
+			"end": 71.94,
+			"en": "the light she had seen.",
+			"zh": "朝着她看到的灯光。"
+		},
+		{
+			"i": 21,
+			"start": 72.09,
+			"end": 75.02,
+			"en": "That was all she remembered.",
+			"zh": "这就是她所记得的一切。"
+		},
+		{
+			"i": 22,
+			"start": 75.17,
+			"end": 77.82,
+			"en": "When she woke up a day later,",
+			"zh": "一天后她醒来时，"
+		},
+		{
+			"i": 23,
+			"start": 77.97,
+			"end": 81.97,
+			"en": "she found herself in hospital.",
+			"zh": "她发现自己躺在医院里。"
+		}
+	]
+}

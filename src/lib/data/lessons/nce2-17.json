@@ -1,0 +1,90 @@
+{
+	"id": "nce2-17",
+	"book": "nce2",
+	"title": "Always Young",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-17.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.34,
+			"end": 17.24,
+			"en": "Why doesn't Aunt Jennifer tell anyone how old she is?",
+			"zh": "珍妮弗姨妈为什么不告诉任何人她多大了？"
+		},
+		{
+			"i": 1,
+			"start": 17.39,
+			"end": 20.8,
+			"en": "My aunt Jennifer is an actress.",
+			"zh": "我的珍妮弗姨妈是个演员。"
+		},
+		{
+			"i": 2,
+			"start": 20.95,
+			"end": 25.06,
+			"en": "She must be at least thirty-five years old.",
+			"zh": "她肯定至少35岁了。"
+		},
+		{
+			"i": 3,
+			"start": 25.21,
+			"end": 31.53,
+			"en": "In spite of this, she often appears on the stage as a young girl.",
+			"zh": "尽管如此，她还是经常在舞台上扮演一个年轻姑娘。"
+		},
+		{
+			"i": 4,
+			"start": 31.68,
+			"end": 35.95,
+			"en": "Jennifer will have to take part in a new play soon.",
+			"zh": "珍妮弗很快就要参加一个新剧的演出了。"
+		},
+		{
+			"i": 5,
+			"start": 36.1,
+			"end": 41.03,
+			"en": "This time, she will be a girl of seventeen.",
+			"zh": "这次，她将扮演一个17岁的姑娘。"
+		},
+		{
+			"i": 6,
+			"start": 41.18,
+			"end": 49.02,
+			"en": "In the play, she must appear in a bright red dress and long black stockings.",
+			"zh": "在剧中，她必须穿一件鲜红的连衣裙和一双长长的黑丝袜。"
+		},
+		{
+			"i": 7,
+			"start": 49.17,
+			"end": 51.55,
+			"en": "Last year in another play,",
+			"zh": "去年在另一个剧中，"
+		},
+		{
+			"i": 8,
+			"start": 51.7,
+			"end": 58.3,
+			"en": "she had to wear short socks and a bright, orange-coloured dress.",
+			"zh": "她不得不穿短袜和一件鲜艳的橙色连衣裙。"
+		},
+		{
+			"i": 9,
+			"start": 58.45,
+			"end": 62.4,
+			"en": "If anyone ever asks her how old she is,",
+			"zh": "如果有人问起她多大了，"
+		},
+		{
+			"i": 10,
+			"start": 62.55,
+			"end": 66.55,
+			"en": "she always answers, 'Darling, it must be terrible to be grown up!'",
+			"zh": "她总是回答说：“亲爱的，长大成人真是太可怕了！”"
+		}
+	]
+}

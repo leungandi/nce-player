@@ -1,0 +1,97 @@
+{
+	"id": "nce2-05",
+	"book": "nce2",
+	"title": "No Wrong Numbers",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-05.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.38,
+			"end": 15.64,
+			"en": "What does 'No wrong numbers' mean?",
+			"zh": "“没有打错的电话”是什么意思？"
+		},
+		{
+			"i": 1,
+			"start": 15.79,
+			"end": 19.76,
+			"en": "Mr.James Scott has a garage in Silbury",
+			"zh": "詹姆斯·斯科特先生在西尔伯里有一家汽车修理厂"
+		},
+		{
+			"i": 2,
+			"start": 19.91,
+			"end": 25.45,
+			"en": "and now he has just bought another garage in Pinhurst.",
+			"zh": "现在他刚刚在平赫斯特又买了一家。"
+		},
+		{
+			"i": 3,
+			"start": 25.6,
+			"end": 29.57,
+			"en": "Pinhurst is only five miles from Silbury,",
+			"zh": "平赫斯特离西尔伯里只有五英里，"
+		},
+		{
+			"i": 4,
+			"start": 29.72,
+			"end": 34.42,
+			"en": "but Mr. Scott cannot get a telephone for his new garage,",
+			"zh": "但斯科特先生无法为他的新修理厂安装电话，"
+		},
+		{
+			"i": 5,
+			"start": 34.57,
+			"end": 38.81,
+			"en": "so he has just bought twelve pigeons.",
+			"zh": "所以他刚买了十二只鸽子。"
+		},
+		{
+			"i": 6,
+			"start": 38.96,
+			"end": 45.46,
+			"en": "Yesterday, a pigeon carried the first message from Pinhurst to Silbury.",
+			"zh": "昨天，一只鸽子把第一封信从平赫斯特带到了西尔伯里。"
+		},
+		{
+			"i": 7,
+			"start": 45.61,
+			"end": 49.15,
+			"en": "The bird covered the distance in three minutes.",
+			"zh": "这只鸟在三分钟内飞完了这段距离。"
+		},
+		{
+			"i": 8,
+			"start": 49.3,
+			"end": 50.71,
+			"en": "Up to now,",
+			"zh": "到目前为止，"
+		},
+		{
+			"i": 9,
+			"start": 50.86,
+			"end": 55.9,
+			"en": "Mr.Scott has sent a great many requests for spare parts",
+			"zh": "斯科特先生已经送出了大量的备件请求"
+		},
+		{
+			"i": 10,
+			"start": 56.05,
+			"end": 60.8,
+			"en": "and other urgent messages from one garage to the other.",
+			"zh": "以及其他紧急信息，从一家修理厂到另一家。"
+		},
+		{
+			"i": 11,
+			"start": 60.95,
+			"end": 64.95,
+			"en": "In this way, he has begun his own private 'telephone' service.",
+			"zh": "通过这种方式，他开创了自己私人的“电话”服务。"
+		}
+	]
+}

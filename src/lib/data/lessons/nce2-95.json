@@ -1,0 +1,174 @@
+{
+	"id": "nce2-95",
+	"book": "nce2",
+	"title": "A Fantasy",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-95.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 9.57,
+			"end": 14.77,
+			"en": "Why was the Ambassador particularly lucky?",
+			"zh": "为什么大使特别幸运？"
+		},
+		{
+			"i": 1,
+			"start": 14.92,
+			"end": 23.07,
+			"en": "When the Ambassador of Escalopia returned home for lunch, his wife got a shock.",
+			"zh": "当埃斯卡洛皮亚大使回家吃午饭时，他的妻子吓了一跳。"
+		},
+		{
+			"i": 2,
+			"start": 23.22,
+			"end": 28.59,
+			"en": "He looked pale and his clothes were in a frightful state.",
+			"zh": "他脸色苍白，衣服也糟透了。"
+		},
+		{
+			"i": 3,
+			"start": 28.74,
+			"end": 32.62,
+			"en": "'What has happened?' she asked.",
+			"zh": "“出什么事了？”她问道。"
+		},
+		{
+			"i": 4,
+			"start": 32.77,
+			"end": 37.66,
+			"en": "'How did your clothes get into such a mess?'",
+			"zh": "“你的衣服怎么搞得这么乱？”"
+		},
+		{
+			"i": 5,
+			"start": 37.81,
+			"end": 43.51,
+			"en": "'A fire extinguisher, my dear,' answered the Ambassador drily.",
+			"zh": "“灭火器，亲爱的，”大使干巴巴地回答道。"
+		},
+		{
+			"i": 6,
+			"start": 43.66,
+			"end": 48.48,
+			"en": "'University students set the Embassy on fire this morning.'",
+			"zh": "“今天早上大学生把大使馆点着了。”"
+		},
+		{
+			"i": 7,
+			"start": 48.63,
+			"end": 52.72,
+			"en": "'Good heavens!' exclaimed his wife.",
+			"zh": "“天哪！”他的妻子惊呼道。"
+		},
+		{
+			"i": 8,
+			"start": 52.87,
+			"end": 56.46,
+			"en": "'And where were you at the time?'",
+			"zh": "“那你当时在哪里？”"
+		},
+		{
+			"i": 9,
+			"start": 56.61,
+			"end": 61.3,
+			"en": "'I was in my office as usual,' answered the Ambassador.",
+			"zh": "“我像往常一样在办公室里，”大使回答道。"
+		},
+		{
+			"i": 10,
+			"start": 61.45,
+			"end": 64.26,
+			"en": "'The fire broke out in the basement.",
+			"zh": "“火灾发生在地下室。"
+		},
+		{
+			"i": 11,
+			"start": 64.41,
+			"end": 69.72,
+			"en": "I went down immediately, of course, and that fool, Horst,",
+			"zh": "我当然立刻下去了，然后那个傻瓜霍斯特，"
+		},
+		{
+			"i": 12,
+			"start": 69.87,
+			"end": 72.65,
+			"en": "aimed a fire extinguisher at me.",
+			"zh": "把灭火器对准了我。"
+		},
+		{
+			"i": 13,
+			"start": 72.8,
+			"end": 75.52,
+			"en": "He thought I was on fire.",
+			"zh": "他以为我着火了。"
+		},
+		{
+			"i": 14,
+			"start": 75.67,
+			"end": 80.18,
+			"en": "I must definitely get that fellow posted.'",
+			"zh": "我一定要把那个家伙调走。”"
+		},
+		{
+			"i": 15,
+			"start": 80.33,
+			"end": 84.25,
+			"en": "The Ambassador's wife went on asking questions,",
+			"zh": "大使夫人继续提问，"
+		},
+		{
+			"i": 16,
+			"start": 84.4,
+			"end": 90.12,
+			"en": "when she suddenly noticed a big hole in her husband's hat.",
+			"zh": "突然她发现丈夫的帽子上有一个大洞。"
+		},
+		{
+			"i": 17,
+			"start": 90.27,
+			"end": 94.73,
+			"en": "'And how can you explain that?' she asked.",
+			"zh": "“那你怎么解释那个？”她问道。"
+		},
+		{
+			"i": 18,
+			"start": 94.88,
+			"end": 98.41,
+			"en": "'Oh, that,' said the Ambassador.",
+			"zh": "“哦，那个，”大使说道。"
+		},
+		{
+			"i": 19,
+			"start": 98.56,
+			"end": 102.44,
+			"en": "'Someone fired a shot through my office window.",
+			"zh": "“有人朝我办公室窗户开了一枪。"
+		},
+		{
+			"i": 20,
+			"start": 102.59,
+			"end": 104.73,
+			"en": "Accurate, don't you think?",
+			"zh": "够准的，不是吗？"
+		},
+		{
+			"i": 21,
+			"start": 104.88,
+			"end": 109.21,
+			"en": "Fortunately, I wasn't wearing it at the time.",
+			"zh": "幸好，我当时没戴着它。"
+		},
+		{
+			"i": 22,
+			"start": 109.36,
+			"end": 113.36,
+			"en": "If I had been, I would not have been able to get home for lunch.'",
+			"zh": "如果我当时戴着，我就不能回家吃午饭了。”"
+		}
+	]
+}

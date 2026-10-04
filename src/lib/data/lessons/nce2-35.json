@@ -1,0 +1,167 @@
+{
+	"id": "nce2-35",
+	"book": "nce2",
+	"title": "Stop Thief",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-35.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 11.67,
+			"end": 16.26,
+			"en": "How did Roy stop the thieves?",
+			"zh": "罗伊是怎样制止小偷的？"
+		},
+		{
+			"i": 1,
+			"start": 16.41,
+			"end": 20.47,
+			"en": "Roy Trenton used to drive a taxi.",
+			"zh": "罗伊·特伦顿以前是开出租车的。"
+		},
+		{
+			"i": 2,
+			"start": 20.62,
+			"end": 23.5,
+			"en": "A short while ago, however,",
+			"zh": "然而，不久前，"
+		},
+		{
+			"i": 3,
+			"start": 23.65,
+			"end": 25.78,
+			"en": "he became a bus driver",
+			"zh": "他当上了一名公共汽车司机，"
+		},
+		{
+			"i": 4,
+			"start": 25.93,
+			"end": 29.12,
+			"en": "and he has not regretted it.",
+			"zh": "他一点也不后悔。"
+		},
+		{
+			"i": 5,
+			"start": 29.27,
+			"end": 34.38,
+			"en": "He is finding his new work far more exciting.",
+			"zh": "他觉得自己的新工作更加激动人心。"
+		},
+		{
+			"i": 6,
+			"start": 34.53,
+			"end": 35.6,
+			"en": "When he was driving",
+			"zh": "最近，当他开着车"
+		},
+		{
+			"i": 7,
+			"start": 35.75,
+			"end": 38.8,
+			"en": "along Catford Street recently,",
+			"zh": "沿卡特福德大街行驶时，"
+		},
+		{
+			"i": 8,
+			"start": 38.95,
+			"end": 42.87,
+			"en": "he saw two thieves rush out of a shop",
+			"zh": "他看见两个小偷从一家商店里冲出来，"
+		},
+		{
+			"i": 9,
+			"start": 43.02,
+			"end": 46.22,
+			"en": "and run towards a waiting car.",
+			"zh": "朝一辆等在那里的汽车跑去。"
+		},
+		{
+			"i": 10,
+			"start": 46.37,
+			"end": 51.09,
+			"en": "One of them was carrying a bag full of money.",
+			"zh": "其中一个提着一满袋钱。"
+		},
+		{
+			"i": 11,
+			"start": 51.24,
+			"end": 54.31,
+			"en": "Roy acted quickly and drove the bus",
+			"zh": "罗伊迅速行动，"
+		},
+		{
+			"i": 12,
+			"start": 54.46,
+			"end": 57.14,
+			"en": "straight at the thieves.",
+			"zh": "把公共汽车径直朝小偷开去。"
+		},
+		{
+			"i": 13,
+			"start": 57.29,
+			"end": 60.52,
+			"en": "The one with the money got such a fright",
+			"zh": "拿钱的那个小偷吓了一大跳，"
+		},
+		{
+			"i": 14,
+			"start": 60.67,
+			"end": 63.1,
+			"en": "that he dropped the bag.",
+			"zh": "把袋子都弄掉了。"
+		},
+		{
+			"i": 15,
+			"start": 63.25,
+			"end": 67.45,
+			"en": "As the thieves were trying to get away in their car,",
+			"zh": "当小偷们试图乘车逃跑时，"
+		},
+		{
+			"i": 16,
+			"start": 67.6,
+			"end": 71.74,
+			"en": "Roy drove his bus into the back of it.",
+			"zh": "罗伊开着公共汽车撞在小偷汽车的尾部。"
+		},
+		{
+			"i": 17,
+			"start": 71.89,
+			"end": 75.31,
+			"en": "While the battered car was moving away,",
+			"zh": "就在那辆被撞坏的汽车开走的时候，"
+		},
+		{
+			"i": 18,
+			"start": 75.46,
+			"end": 79.18,
+			"en": "Roy stopped his bus and telephoned the police.",
+			"zh": "罗伊停下公共汽车给警察打了电话。"
+		},
+		{
+			"i": 19,
+			"start": 79.33,
+			"end": 84.9,
+			"en": "The thieves' car was badly damaged and easy to recognize.",
+			"zh": "小偷的汽车已严重受损，很容易辨认。"
+		},
+		{
+			"i": 20,
+			"start": 85.05,
+			"end": 87.12,
+			"en": "Shortly afterwards,",
+			"zh": "不久，"
+		},
+		{
+			"i": 21,
+			"start": 87.27,
+			"end": 91.27,
+			"en": "the police stopped the car and both men were arrested.",
+			"zh": "警察截住了那辆汽车，两名男子都被捕了。"
+		}
+	]
+}

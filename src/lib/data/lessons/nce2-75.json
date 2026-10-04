@@ -1,0 +1,125 @@
+{
+	"id": "nce2-75",
+	"book": "nce2",
+	"title": "SOS",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-75.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.24,
+			"end": 14.3,
+			"en": "How did the woman get help?",
+			"zh": "这位妇女是怎样获得救援的？"
+		},
+		{
+			"i": 1,
+			"start": 14.45,
+			"end": 19.53,
+			"en": "When a light passenger plane flew off course some time ago,",
+			"zh": "前些日子，一架小型客机偏离航线"
+		},
+		{
+			"i": 2,
+			"start": 19.68,
+			"end": 25.1,
+			"en": "it crashed in the mountains and its pilot was killed.",
+			"zh": "在山区坠毁，飞行员当场丧生。"
+		},
+		{
+			"i": 3,
+			"start": 25.25,
+			"end": 33.36,
+			"en": "The only passengers, a young woman and her two baby daughters, were unhurt.",
+			"zh": "唯一的乘客，一位年轻的妇女和她的两个女婴却安然无恙。"
+		},
+		{
+			"i": 4,
+			"start": 33.51,
+			"end": 35.93,
+			"en": "It was the middle of winter.",
+			"zh": "那时正值隆冬。"
+		},
+		{
+			"i": 5,
+			"start": 36.08,
+			"end": 39.62,
+			"en": "Snow lay thick on the ground.",
+			"zh": "地上覆盖着厚厚的积雪。"
+		},
+		{
+			"i": 6,
+			"start": 39.77,
+			"end": 44.9,
+			"en": "The woman knew that the nearest village was miles away.",
+			"zh": "妇女知道最近的村庄也在数英里之外。"
+		},
+		{
+			"i": 7,
+			"start": 45.05,
+			"end": 53.05,
+			"en": "When it grew dark, she turned a suitcase into a bed and put the children inside it,",
+			"zh": "天黑时，她把一只手提箱当作小床，把孩子们放了进去，"
+		},
+		{
+			"i": 8,
+			"start": 53.2,
+			"end": 57.78,
+			"en": "covering them with all the clothes she could find.",
+			"zh": "又把自己能找到的所有衣服都盖在了她们身上。"
+		},
+		{
+			"i": 9,
+			"start": 57.93,
+			"end": 62.32,
+			"en": "During the night, it got terribly cold.",
+			"zh": "夜里，天气变得异常寒冷。"
+		},
+		{
+			"i": 10,
+			"start": 62.47,
+			"end": 73.89,
+			"en": "The woman kept as near as she could to the children and even tried to get into the case herself, but it was too small.",
+			"zh": "妇女尽可能地靠近孩子，甚至想自己也钻进箱子里，但箱子太小了。"
+		},
+		{
+			"i": 11,
+			"start": 74.04,
+			"end": 75.64,
+			"en": "Early next morning,",
+			"zh": "第二天清早，"
+		},
+		{
+			"i": 12,
+			"start": 75.79,
+			"end": 82.55,
+			"en": "she heard planes passing overhead and wondered how she could send a signal.",
+			"zh": "她听到飞机从头顶飞过，心想该如何发出求救信号呢？"
+		},
+		{
+			"i": 13,
+			"start": 82.7,
+			"end": 91.83,
+			"en": "Then she had an idea. She stamped out the letters 'SOS' in the snow.",
+			"zh": "接着她有了一个主意。她在雪地上踩出了“SOS”这几个字母。"
+		},
+		{
+			"i": 14,
+			"start": 91.98,
+			"end": 100.32,
+			"en": "Fortunately, a pilot saw the signal and sent a message by radio to the nearest town.",
+			"zh": "幸运的是，一名飞行员看到了这个信号，并用无线电把消息发给了最近的城镇。"
+		},
+		{
+			"i": 15,
+			"start": 100.47,
+			"end": 104.47,
+			"en": "It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash.",
+			"zh": "不久，一架直升机飞抵现场，营救了这次飞机坠毁事故的幸存者。"
+		}
+	]
+}

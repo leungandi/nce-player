@@ -1,0 +1,97 @@
+{
+	"id": "nce2-12",
+	"book": "nce2",
+	"title": "Goodbye and Good Luck",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-12.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.64,
+			"end": 16,
+			"en": "Where is Captain Alison going and how?",
+			"zh": "艾莉森船长要去哪里，怎么去？"
+		},
+		{
+			"i": 1,
+			"start": 16.15,
+			"end": 23.53,
+			"en": "Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow.",
+			"zh": "我们的邻居，查尔斯·艾莉森船长，明天将从朴茨茅斯启航。"
+		},
+		{
+			"i": 2,
+			"start": 23.68,
+			"end": 27.36,
+			"en": "We'll meet him at the harbour early in the morning.",
+			"zh": "我们明天一早将在港口与他会合。"
+		},
+		{
+			"i": 3,
+			"start": 27.51,
+			"end": 31.49,
+			"en": "He will be in his small boat, Topsail.",
+			"zh": "他将乘坐他的小船“上帆号”。"
+		},
+		{
+			"i": 4,
+			"start": 31.64,
+			"end": 34.82,
+			"en": "Topsail is a famous little boat.",
+			"zh": "“上帆号”是一艘著名的小船。"
+		},
+		{
+			"i": 5,
+			"start": 34.97,
+			"end": 39.33,
+			"en": "It has sailed across the Atlantic many times.",
+			"zh": "它已经多次横渡大西洋。"
+		},
+		{
+			"i": 6,
+			"start": 39.48,
+			"end": 42.89,
+			"en": "Captain Alison will set out at eight o'clock,",
+			"zh": "艾莉森船长将在八点钟出发，"
+		},
+		{
+			"i": 7,
+			"start": 43.04,
+			"end": 45.85,
+			"en": "so we'll have plenty of time.",
+			"zh": "所以我们有充足的时间。"
+		},
+		{
+			"i": 8,
+			"start": 46,
+			"end": 50.01,
+			"en": "We'll see his boat and then we'll say goodbye to him.",
+			"zh": "我们将去看他的船，然后向他告别。"
+		},
+		{
+			"i": 9,
+			"start": 50.16,
+			"end": 52.94,
+			"en": "He will be away for two months.",
+			"zh": "他将离开两个月。"
+		},
+		{
+			"i": 10,
+			"start": 53.09,
+			"end": 55.76,
+			"en": "We are very proud of him.",
+			"zh": "我们为他感到非常自豪。"
+		},
+		{
+			"i": 11,
+			"start": 55.91,
+			"end": 59.91,
+			"en": "He will take part in an important race across the Atlantic.",
+			"zh": "他将参加一场重要的横渡大西洋的比赛。"
+		}
+	]
+}

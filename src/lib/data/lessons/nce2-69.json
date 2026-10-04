@@ -1,0 +1,104 @@
+{
+	"id": "nce2-69",
+	"book": "nce2",
+	"title": "But not Murder",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-69.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 11.05,
+			"end": 17.88,
+			"en": "Do you think that the writer passed his driving test? Why?",
+			"zh": "你认为作者通过驾照考试了吗？为什么？"
+		},
+		{
+			"i": 1,
+			"start": 18.03,
+			"end": 23.23,
+			"en": "I was being tested for a driving licence for the third time.",
+			"zh": "我第三次参加驾驶执照考试。"
+		},
+		{
+			"i": 2,
+			"start": 23.38,
+			"end": 30.03,
+			"en": "I had been asked to drive in heavy traffic and had done so successfully.",
+			"zh": "我被要求在车辆很多的道路上驾驶，并成功完成了。"
+		},
+		{
+			"i": 3,
+			"start": 30.18,
+			"end": 37.8,
+			"en": "After having been instructed to drive out of town, I began to acquire confidence.",
+			"zh": "在被指示开出市区后，我开始有了信心。"
+		},
+		{
+			"i": 4,
+			"start": 37.95,
+			"end": 44.89,
+			"en": "Sure that I had passed, I was almost beginning to enjoy my test.",
+			"zh": "确信我已通过，我几乎开始享受我的考试了。"
+		},
+		{
+			"i": 5,
+			"start": 45.04,
+			"end": 55.51,
+			"en": "The examiner must have been pleased with my performance, for he smiled and said, 'Just one more thing Mr. Eames.",
+			"zh": "考官一定对我的表现很满意，因为他微笑着说：“还有一件事，伊姆斯先生。"
+		},
+		{
+			"i": 6,
+			"start": 55.66,
+			"end": 61.6,
+			"en": "Let us suppose that a child suddenly crosses the road in front of you.",
+			"zh": "假设有个孩子突然从你车前跑过。"
+		},
+		{
+			"i": 7,
+			"start": 61.75,
+			"end": 68.17,
+			"en": "As soon as I tap on the window, you must stop within five feet.'",
+			"zh": "我一敲车窗，你必须在五英尺内把车停住。”"
+		},
+		{
+			"i": 8,
+			"start": 68.32,
+			"end": 74.49,
+			"en": "I continued driving and after some time, the examiner tapped loudly.",
+			"zh": "我继续驾驶，过了一会儿，考官大声敲击车窗。"
+		},
+		{
+			"i": 9,
+			"start": 74.64,
+			"end": 81.47,
+			"en": "Though the sound could be heard clearly, it took me a long time to react.",
+			"zh": "尽管声音听得很清楚，但我过了好一会儿才做出反应。"
+		},
+		{
+			"i": 10,
+			"start": 81.62,
+			"end": 87.49,
+			"en": "I suddenly pressed the brake pedal hard and we were both thrown forward.",
+			"zh": "我猛地踩下刹车踏板，结果我们俩都被猛地向前甩去。"
+		},
+		{
+			"i": 11,
+			"start": 87.64,
+			"end": 91.07,
+			"en": "The examiner looked at me sadly.",
+			"zh": "考官悲伤地看着我。"
+		},
+		{
+			"i": 12,
+			"start": 91.22,
+			"end": 95.22,
+			"en": "'Mr. Eames,' he said, in a mournful voice, 'you have just killed that child!'",
+			"zh": "“伊姆斯先生，”他用悲哀的声音说，“你刚才把那个孩子撞死了！”"
+		}
+	]
+}

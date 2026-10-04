@@ -1,0 +1,125 @@
+{
+	"id": "nce2-19",
+	"book": "nce2",
+	"title": "Sold Out",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-19.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.2,
+			"end": 14.99,
+			"en": "When will the writer see the play?",
+			"zh": "作者什么时候会看这部戏？"
+		},
+		{
+			"i": 1,
+			"start": 15.14,
+			"end": 19.32,
+			"en": "'The play may begin at any moment,' I said.",
+			"zh": "“这出戏随时都可能开始，”我说。"
+		},
+		{
+			"i": 2,
+			"start": 19.47,
+			"end": 24.4,
+			"en": "'It may have begun already,' Susan answered.",
+			"zh": "“可能已经开始了，”苏珊回答说。"
+		},
+		{
+			"i": 3,
+			"start": 24.55,
+			"end": 27.63,
+			"en": "I hurried to the ticket office.",
+			"zh": "我赶紧跑到售票处。"
+		},
+		{
+			"i": 4,
+			"start": 27.78,
+			"end": 32.2,
+			"en": "'May I have two tickets please?' I asked.",
+			"zh": "“请给我两张票好吗？”我问道。"
+		},
+		{
+			"i": 5,
+			"start": 32.35,
+			"end": 36.95,
+			"en": "'I'm sorry, we've sold out,' the girl said.",
+			"zh": "“对不起，票已经卖完了，”那个女孩说。"
+		},
+		{
+			"i": 6,
+			"start": 37.1,
+			"end": 41.36,
+			"en": "'What a pity!' Susan exclaimed.",
+			"zh": "“真可惜！”苏珊惊呼道。"
+		},
+		{
+			"i": 7,
+			"start": 41.51,
+			"end": 46.44,
+			"en": "Just then, a man hurried to the ticket office.",
+			"zh": "就在那时，一个男人匆匆跑到售票处。"
+		},
+		{
+			"i": 8,
+			"start": 46.59,
+			"end": 51,
+			"en": "'Can I return these two tickets?' he asked.",
+			"zh": "“我能退这两张票吗？”他问道。"
+		},
+		{
+			"i": 9,
+			"start": 51.15,
+			"end": 54.9,
+			"en": "'Certainly,' the girl said.",
+			"zh": "“当然可以，”那个女孩说。"
+		},
+		{
+			"i": 10,
+			"start": 55.05,
+			"end": 59.29,
+			"en": "I went back to the ticket office at once.",
+			"zh": "我立刻回到了售票处。"
+		},
+		{
+			"i": 11,
+			"start": 59.44,
+			"end": 65.06,
+			"en": "'Could I have those two tickets please?' I asked.",
+			"zh": "“我能要那两张票吗？”我问道。"
+		},
+		{
+			"i": 12,
+			"start": 65.21,
+			"end": 68.54,
+			"en": "'Certainly,' the girl said,",
+			"zh": "“当然可以，”那个女孩说，"
+		},
+		{
+			"i": 13,
+			"start": 68.69,
+			"end": 72.25,
+			"en": "'but they're for next Wednesday's performance.",
+			"zh": "“但那是下周三演出的票。"
+		},
+		{
+			"i": 14,
+			"start": 72.4,
+			"end": 75.2,
+			"en": "Do you still want them?'",
+			"zh": "你还要吗？”"
+		},
+		{
+			"i": 15,
+			"start": 75.35,
+			"end": 79.35,
+			"en": "'I might as well have them,' I said sadly.",
+			"zh": "“我还是把它们拿走吧，”我伤心地说。"
+		}
+	]
+}

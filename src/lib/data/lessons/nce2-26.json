@@ -1,0 +1,139 @@
+{
+	"id": "nce2-26",
+	"book": "nce2",
+	"title": "The Best Art Critics",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-26.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.99,
+			"end": 15.82,
+			"en": "Who is the student's best critic?",
+			"zh": "谁是学生最好的评论家？"
+		},
+		{
+			"i": 1,
+			"start": 15.97,
+			"end": 21.3,
+			"en": "I am an art student and I paint a lot of pictures.",
+			"zh": "我是一名艺术生，画了很多画。"
+		},
+		{
+			"i": 2,
+			"start": 21.45,
+			"end": 26.17,
+			"en": "Many people pretend that they understand modern art.",
+			"zh": "许多人假装他们懂现代艺术。"
+		},
+		{
+			"i": 3,
+			"start": 26.32,
+			"end": 30.4,
+			"en": "They always tell you what a picture is 'about'.",
+			"zh": "他们总是告诉你一幅画是“关于”什么的。"
+		},
+		{
+			"i": 4,
+			"start": 30.55,
+			"end": 35.15,
+			"en": "Of course, many pictures are not 'about' anything.",
+			"zh": "当然，许多画根本就不是“关于”什么的。"
+		},
+		{
+			"i": 5,
+			"start": 35.3,
+			"end": 37.96,
+			"en": "They are just pretty patterns.",
+			"zh": "它们只是漂亮的图案。"
+		},
+		{
+			"i": 6,
+			"start": 38.11,
+			"end": 44.03,
+			"en": "We like them in the same way that we like pretty curtain material.",
+			"zh": "我们喜欢它们的方式，就像我们喜欢漂亮的窗帘布料一样。"
+		},
+		{
+			"i": 7,
+			"start": 44.18,
+			"end": 51.86,
+			"en": "I think that young children often appreciate modern pictures better than anyone else.",
+			"zh": "我认为小孩子往往比任何人都更能欣赏现代画。"
+		},
+		{
+			"i": 8,
+			"start": 52.01,
+			"end": 54.12,
+			"en": "They notice more.",
+			"zh": "他们注意到更多。"
+		},
+		{
+			"i": 9,
+			"start": 54.27,
+			"end": 56.93,
+			"en": "My sister is only seven,",
+			"zh": "我的妹妹只有七岁，"
+		},
+		{
+			"i": 10,
+			"start": 57.08,
+			"end": 62.52,
+			"en": "but she always tells me whether my pictures are good or not.",
+			"zh": "但她总是告诉我我的画好不好。"
+		},
+		{
+			"i": 11,
+			"start": 62.67,
+			"end": 65.79,
+			"en": "She came into my room yesterday.",
+			"zh": "昨天她进了我的房间。"
+		},
+		{
+			"i": 12,
+			"start": 65.94,
+			"end": 69.21,
+			"en": "'What are you doing?' she asked.",
+			"zh": "“你在做什么？”她问。"
+		},
+		{
+			"i": 13,
+			"start": 69.36,
+			"end": 77.33,
+			"en": "'I'm hanging this picture on the wall,' I answered. 'It's a new one. Do you like it?'",
+			"zh": "“我正在把这幅画挂在墙上，”我回答。“这是一幅新画。你喜欢吗？”"
+		},
+		{
+			"i": 14,
+			"start": 77.48,
+			"end": 80.92,
+			"en": "She looked at it critically for a moment.",
+			"zh": "她批判性地看了一会儿。"
+		},
+		{
+			"i": 15,
+			"start": 81.07,
+			"end": 86.78,
+			"en": "'It's all right,' she said, 'but isn't it upside down?'",
+			"zh": "“还行，”她说，“但这幅画是不是倒着挂的？”"
+		},
+		{
+			"i": 16,
+			"start": 86.93,
+			"end": 88.82,
+			"en": "I looked at it again.",
+			"zh": "我又看了一遍。"
+		},
+		{
+			"i": 17,
+			"start": 88.97,
+			"end": 92.97,
+			"en": "She was right! It was!",
+			"zh": "她是对的！确实是！"
+		}
+	]
+}

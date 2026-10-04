@@ -1,0 +1,104 @@
+{
+	"id": "nce2-27",
+	"book": "nce2",
+	"title": "A Wet Night",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-27.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.29,
+			"end": 14.93,
+			"en": "What happened to the boys in the night?",
+			"zh": "晚上男孩们发生了什么事？"
+		},
+		{
+			"i": 1,
+			"start": 15.08,
+			"end": 21.7,
+			"en": "Late in the afternoon, the boys put up their tent in the middle of a field.",
+			"zh": "下午很晚的时候，男孩们把帐篷搭在了田野中央。"
+		},
+		{
+			"i": 2,
+			"start": 21.85,
+			"end": 27.83,
+			"en": "As soon as this was done, they cooked a meal over an open fire.",
+			"zh": "这一切刚弄好，他们就在篝火上做了一顿饭。"
+		},
+		{
+			"i": 3,
+			"start": 27.98,
+			"end": 32.84,
+			"en": "They were all hungry and the food smelled good.",
+			"zh": "他们都饿了，食物闻起来很香。"
+		},
+		{
+			"i": 4,
+			"start": 32.99,
+			"end": 40.76,
+			"en": "After a wonderful meal, they told stories and sang songs by the campfire.",
+			"zh": "美餐一顿之后，他们围着篝火讲故事，唱歌。"
+		},
+		{
+			"i": 5,
+			"start": 40.91,
+			"end": 44.56,
+			"en": "But some time later it began to rain.",
+			"zh": "但过了一会儿，天开始下雨了。"
+		},
+		{
+			"i": 6,
+			"start": 44.71,
+			"end": 51.32,
+			"en": "The boys felt tired so they put out the fire and crept into their tent.",
+			"zh": "男孩们感到疲倦了，于是他们熄灭了篝火，钻进了帐篷。"
+		},
+		{
+			"i": 7,
+			"start": 51.47,
+			"end": 58.51,
+			"en": "Their sleeping bags were warm and comfortable, so they all slept soundly.",
+			"zh": "他们的睡袋又暖和又舒服，所以他们都睡得很香。"
+		},
+		{
+			"i": 8,
+			"start": 58.66,
+			"end": 64.4,
+			"en": "In the middle of the night, two boys woke up and began shouting.",
+			"zh": "半夜里，两个男孩醒了，开始大叫起来。"
+		},
+		{
+			"i": 9,
+			"start": 64.55,
+			"end": 67.41,
+			"en": "The tent was full of water!",
+			"zh": "帐篷里全是水！"
+		},
+		{
+			"i": 10,
+			"start": 67.56,
+			"end": 73.5,
+			"en": "They all leapt out of their sleeping bags and hurried outside.",
+			"zh": "他们都跳出睡袋，匆匆忙忙跑到了外面。"
+		},
+		{
+			"i": 11,
+			"start": 73.65,
+			"end": 79.94,
+			"en": "It was raining heavily and they found that a stream had formed in the field.",
+			"zh": "雨下得很大，他们发现田野里形成了一条小溪。"
+		},
+		{
+			"i": 12,
+			"start": 80.09,
+			"end": 84.09,
+			"en": "The stream wound its way across the field and then flowed right under their tent!",
+			"zh": "小溪蜿蜒穿过田野，然后正好从他们的帐篷下面流过！"
+		}
+	]
+}

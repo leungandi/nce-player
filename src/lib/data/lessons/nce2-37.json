@@ -1,0 +1,181 @@
+{
+	"id": "nce2-37",
+	"book": "nce2",
+	"title": "The Olympic Games",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-37.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.34,
+			"end": 12.82,
+			"en": "When was the last time this country",
+			"zh": "这个国家上次是何时"
+		},
+		{
+			"i": 1,
+			"start": 12.97,
+			"end": 16.85,
+			"en": "hosted the Olympic Games?",
+			"zh": "举办奥运会的？"
+		},
+		{
+			"i": 2,
+			"start": 17,
+			"end": 18.83,
+			"en": "The Olympic Games will be held",
+			"zh": "奥运会将在"
+		},
+		{
+			"i": 3,
+			"start": 18.98,
+			"end": 22.45,
+			"en": "in our country in four years' time.",
+			"zh": "四年后在我国举行。"
+		},
+		{
+			"i": 4,
+			"start": 22.6,
+			"end": 24.99,
+			"en": "As a great many people will be",
+			"zh": "由于很多人将会"
+		},
+		{
+			"i": 5,
+			"start": 25.14,
+			"end": 26.82,
+			"en": "visiting the country,",
+			"zh": "访问这个国家，"
+		},
+		{
+			"i": 6,
+			"start": 26.97,
+			"end": 30.3,
+			"en": "the government will be building new hotels,",
+			"zh": "政府将建造新酒店、"
+		},
+		{
+			"i": 7,
+			"start": 30.45,
+			"end": 32.26,
+			"en": "an immense stadium,",
+			"zh": "一个巨大的体育场，"
+		},
+		{
+			"i": 8,
+			"start": 32.41,
+			"end": 36.17,
+			"en": "and a new Olympic-standard swimming pool.",
+			"zh": "和一个符合奥运标准的新游泳池。"
+		},
+		{
+			"i": 9,
+			"start": 36.32,
+			"end": 39.14,
+			"en": "They will also be building new roads",
+			"zh": "他们还将修建新道路"
+		},
+		{
+			"i": 10,
+			"start": 39.29,
+			"end": 41.94,
+			"en": "and a special railway line.",
+			"zh": "和一条专用铁路线。"
+		},
+		{
+			"i": 11,
+			"start": 42.09,
+			"end": 45.75,
+			"en": "The Games will be held just outside the capital",
+			"zh": "奥运会将在首都郊外举行，"
+		},
+		{
+			"i": 12,
+			"start": 45.9,
+			"end": 50.34,
+			"en": "and the whole area will be called 'Olympic City'.",
+			"zh": "整个地区将被命名为“奥运城”。"
+		},
+		{
+			"i": 13,
+			"start": 50.49,
+			"end": 53.1,
+			"en": "Workers will have completed the new roads",
+			"zh": "工人们将在今年年底"
+		},
+		{
+			"i": 14,
+			"start": 53.25,
+			"end": 55.67,
+			"en": "by the end of this year.",
+			"zh": "完成新道路的修建。"
+		},
+		{
+			"i": 15,
+			"start": 55.82,
+			"end": 58.01,
+			"en": "By the end of next year,",
+			"zh": "到明年年底，"
+		},
+		{
+			"i": 16,
+			"start": 58.16,
+			"end": 61.89,
+			"en": "they will have finished work on the new stadium.",
+			"zh": "他们将完成新体育场的建设工作。"
+		},
+		{
+			"i": 17,
+			"start": 62.04,
+			"end": 65.43,
+			"en": "The fantastic modern buildings have been designed",
+			"zh": "这些奇妙的现代化建筑已由"
+		},
+		{
+			"i": 18,
+			"start": 65.58,
+			"end": 68.32,
+			"en": "by Kurt Gunter.",
+			"zh": "库尔特·冈瑟设计。"
+		},
+		{
+			"i": 19,
+			"start": 68.47,
+			"end": 71.17,
+			"en": "Everybody will be watching anxiously",
+			"zh": "每个人都会焦急地关注"
+		},
+		{
+			"i": 20,
+			"start": 71.32,
+			"end": 74.48,
+			"en": "as the new buildings go up.",
+			"zh": "这些新建筑的建成。"
+		},
+		{
+			"i": 21,
+			"start": 74.63,
+			"end": 78.6,
+			"en": "We are all very excited and are looking forward to",
+			"zh": "我们都非常兴奋并期待着"
+		},
+		{
+			"i": 22,
+			"start": 78.75,
+			"end": 80.59,
+			"en": "the Olympic Games because",
+			"zh": "奥运会的到来，因为"
+		},
+		{
+			"i": 23,
+			"start": 80.74,
+			"end": 84.74,
+			"en": "they have never been held before in this country.",
+			"zh": "这个国家以前从未举办过奥运会。"
+		}
+	]
+}

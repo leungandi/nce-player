@@ -1,0 +1,111 @@
+{
+	"id": "nce2-79",
+	"book": "nce2",
+	"title": "By Air",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-79.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.25,
+			"end": 14.63,
+			"en": "Why did the plane turn back?",
+			"zh": "飞机为什么返航了？"
+		},
+		{
+			"i": 1,
+			"start": 14.78,
+			"end": 19.91,
+			"en": "I used to travel by air a great deal when I was a boy.",
+			"zh": "我小时候经常乘飞机旅行。"
+		},
+		{
+			"i": 2,
+			"start": 20.06,
+			"end": 28.77,
+			"en": "My parents used to live in South America and I used to fly there from Europe in the holidays.",
+			"zh": "我父母过去住在南美洲，我放假时常从欧洲飞到那里。"
+		},
+		{
+			"i": 3,
+			"start": 28.92,
+			"end": 36.1,
+			"en": "A flight attendant would take charge of me and I never had an unpleasant experience.",
+			"zh": "乘务员会照顾我，我从未有过不愉快的经历。"
+		},
+		{
+			"i": 4,
+			"start": 36.25,
+			"end": 44.01,
+			"en": "I am used to travelling by air and only on one occasion have I ever felt frightened.",
+			"zh": "我习惯了乘飞机旅行，只有一次感到害怕。"
+		},
+		{
+			"i": 5,
+			"start": 44.16,
+			"end": 51.05,
+			"en": "After taking off, we were flying low over the city and slowly gaining height,",
+			"zh": "起飞后，我们低空飞过城市，慢慢爬升，"
+		},
+		{
+			"i": 6,
+			"start": 51.2,
+			"end": 57.75,
+			"en": "when the plane suddenly turned round and flew back to the airport.",
+			"zh": "飞机突然掉头飞回了机场。"
+		},
+		{
+			"i": 7,
+			"start": 57.9,
+			"end": 63.31,
+			"en": "While we were waiting to land, a flight attendant told us to keep calm",
+			"zh": "当我们等待降落时，一位乘务员告诉我们要保持冷静，"
+		},
+		{
+			"i": 8,
+			"start": 63.46,
+			"end": 69.08,
+			"en": "and to get off the plane quietly as soon as it had touched down.",
+			"zh": "飞机一着陆就安静地下飞机。"
+		},
+		{
+			"i": 9,
+			"start": 69.23,
+			"end": 76.06,
+			"en": "Everybody on board was worried and we were curious to find out what had happened.",
+			"zh": "飞机上的每个人都很担心，我们都很好奇发生了什么事。"
+		},
+		{
+			"i": 10,
+			"start": 76.21,
+			"end": 81.02,
+			"en": "Later we learnt that there was a very important person on board.",
+			"zh": "后来我们得知飞机上有一位非常重要的人物。"
+		},
+		{
+			"i": 11,
+			"start": 81.17,
+			"end": 86.64,
+			"en": "The police had been told that a bomb had been planted on the plane.",
+			"zh": "警方接到报告说飞机上被安放了炸弹。"
+		},
+		{
+			"i": 12,
+			"start": 86.79,
+			"end": 91.74,
+			"en": "After we had landed, the plane was searched thoroughly.",
+			"zh": "飞机降落后，被彻底搜查了一番。"
+		},
+		{
+			"i": 13,
+			"start": 91.89,
+			"end": 95.89,
+			"en": "Fortunately, nothing was found and five hours later we were able to take off again.",
+			"zh": "幸运的是，什么也没发现，五小时后我们得以再次起飞。"
+		}
+	]
+}

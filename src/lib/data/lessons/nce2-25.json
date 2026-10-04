@@ -1,0 +1,139 @@
+{
+	"id": "nce2-25",
+	"book": "nce2",
+	"title": "Do the English Speak English",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-25.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 3.3,
+			"end": 12.11,
+			"en": "Do they speak English?",
+			"zh": "他们说英语吗？"
+		},
+		{
+			"i": 1,
+			"start": 12.26,
+			"end": 17.56,
+			"en": "Why does the writer not understand the porter?",
+			"zh": "为什么作者听不懂搬运工的话？"
+		},
+		{
+			"i": 2,
+			"start": 17.71,
+			"end": 20.9,
+			"en": "I arrived in London at last.",
+			"zh": "我终于抵达伦敦了。"
+		},
+		{
+			"i": 3,
+			"start": 21.05,
+			"end": 26.2,
+			"en": "The railway station was big, black and dark.",
+			"zh": "火车站又大，又黑，又暗。"
+		},
+		{
+			"i": 4,
+			"start": 26.35,
+			"end": 32.45,
+			"en": "I did not know the way to my hotel, so I asked a porter.",
+			"zh": "我不知道去旅馆的路，所以我问了一位搬运工。"
+		},
+		{
+			"i": 5,
+			"start": 32.6,
+			"end": 40.01,
+			"en": "I not only spoke English very carefully, but very clearly as well.",
+			"zh": "我不仅非常仔细地说英语，而且说得非常清楚。"
+		},
+		{
+			"i": 6,
+			"start": 40.16,
+			"end": 44.29,
+			"en": "The porter, however, could not understand me.",
+			"zh": "然而，那个搬运工却听不懂我。"
+		},
+		{
+			"i": 7,
+			"start": 44.44,
+			"end": 51.22,
+			"en": "I repeated my question several times and at last he understood.",
+			"zh": "我重复了我的问题好几次，最后他终于明白了。"
+		},
+		{
+			"i": 8,
+			"start": 51.37,
+			"end": 57.27,
+			"en": "he answered me, but he spoke neither slowly nor clearly.",
+			"zh": "他回答了我，但他既说得不慢也不清楚。"
+		},
+		{
+			"i": 9,
+			"start": 57.42,
+			"end": 60.97,
+			"en": "'I am a foreigner,' I said.",
+			"zh": "“我是一个外国人，”我说。"
+		},
+		{
+			"i": 10,
+			"start": 61.12,
+			"end": 67,
+			"en": "Then he spoke slowly, but I could not understand him.",
+			"zh": "然后他慢慢地说，但我仍然听不懂他。"
+		},
+		{
+			"i": 11,
+			"start": 67.15,
+			"end": 71.53,
+			"en": "My teacher never spoke English like that!",
+			"zh": "我的老师从来没有那样说过英语！"
+		},
+		{
+			"i": 12,
+			"start": 71.68,
+			"end": 75.76,
+			"en": "The porter and I looked at each other and smiled.",
+			"zh": "搬运工和我互相对视，然后笑了。"
+		},
+		{
+			"i": 13,
+			"start": 75.91,
+			"end": 79.99,
+			"en": "Then he said something and I understood it.",
+			"zh": "然后他说了一些话，我听懂了。"
+		},
+		{
+			"i": 14,
+			"start": 80.14,
+			"end": 84.17,
+			"en": "'You'll soon learn English!' he said.",
+			"zh": "“你很快就会学好英语的！”他说。"
+		},
+		{
+			"i": 15,
+			"start": 84.32,
+			"end": 86.38,
+			"en": "I wonder.",
+			"zh": "我怀疑。"
+		},
+		{
+			"i": 16,
+			"start": 86.53,
+			"end": 91.35,
+			"en": "In England, each person speaks a different language.",
+			"zh": "在英国，每个人都说着不同的语言。"
+		},
+		{
+			"i": 17,
+			"start": 91.5,
+			"end": 95.5,
+			"en": "The English understand each other, but I don't understand them!",
+			"zh": "英国人彼此听得懂，但我听不懂他们！"
+		}
+	]
+}

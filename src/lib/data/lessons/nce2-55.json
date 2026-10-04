@@ -1,0 +1,97 @@
+{
+	"id": "nce2-55",
+	"book": "nce2",
+	"title": "Not a Gold Mine",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-55.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.19,
+			"end": 14.1,
+			"en": "What did the team find?",
+			"zh": "团队发现了什么？"
+		},
+		{
+			"i": 1,
+			"start": 14.25,
+			"end": 20.21,
+			"en": "Dreams of finding lost treasure almost came true recently.",
+			"zh": "最近，寻找失落宝藏的梦想差点成真。"
+		},
+		{
+			"i": 2,
+			"start": 20.36,
+			"end": 25.13,
+			"en": "A new machine called 'The Revealer' has been invented",
+			"zh": "一种名为“揭示者”的新机器被发明出来"
+		},
+		{
+			"i": 3,
+			"start": 25.28,
+			"end": 31.92,
+			"en": "and it has been used to detect gold which has been buried in the ground.",
+			"zh": "并且它被用来探测埋在地下的黄金。"
+		},
+		{
+			"i": 4,
+			"start": 32.07,
+			"end": 41.82,
+			"en": "The machine was used in a cave near the seashore where--it is said--pirates used to hide gold.",
+			"zh": "这台机器被用在海边的一个洞穴里，据说海盗曾在那儿藏匿黄金。"
+		},
+		{
+			"i": 5,
+			"start": 41.97,
+			"end": 48.92,
+			"en": "The pirates would often bury gold in the cave and then fail to collect it.",
+			"zh": "海盗们经常把黄金埋在洞穴里，然后却未能取走。"
+		},
+		{
+			"i": 6,
+			"start": 49.07,
+			"end": 57.1,
+			"en": "Armed with the new machine, a search party went into the cave hoping to find buried treasure.",
+			"zh": "带着这台新机器，一支搜索队进入洞穴，希望能找到埋藏的宝藏。"
+		},
+		{
+			"i": 7,
+			"start": 57.25,
+			"end": 68.36,
+			"en": "The leader of the party was examining the soil near the entrance to the cave when the machine showed that there was gold under the ground.",
+			"zh": "当机器显示地下有黄金时，搜索队的队长正在检查洞穴入口附近的泥土。"
+		},
+		{
+			"i": 8,
+			"start": 68.51,
+			"end": 73.99,
+			"en": "Very excited, the party dug a hole two feet deep.",
+			"zh": "队员们非常兴奋，挖了一个两英尺深的洞。"
+		},
+		{
+			"i": 9,
+			"start": 74.14,
+			"end": 80.51,
+			"en": "They finally found a small gold coin which was almost worthless.",
+			"zh": "他们最终发现了一枚几乎毫无价值的小金币。"
+		},
+		{
+			"i": 10,
+			"start": 80.66,
+			"end": 91.06,
+			"en": "The party then searched the whole cave thoroughly but did not find anything except an empty tin trunk.",
+			"zh": "随后，队员们彻底搜查了整个洞穴，但除了一个空锡箱外什么也没找到。"
+		},
+		{
+			"i": 11,
+			"start": 91.21,
+			"end": 95.21,
+			"en": "In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon.",
+			"zh": "尽管如此，许多人仍然相信，“揭示者”很快会揭示出一些有价值的东西。"
+		}
+	]
+}

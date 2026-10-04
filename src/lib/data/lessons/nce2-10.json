@@ -1,0 +1,104 @@
+{
+	"id": "nce2-10",
+	"book": "nce2",
+	"title": "Not for Jazz",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-10.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 8.89,
+			"end": 12.42,
+			"en": "What happened to the clavichord?",
+			"zh": "古钢琴怎么了？"
+		},
+		{
+			"i": 1,
+			"start": 12.57,
+			"end": 15.95,
+			"en": "We have an old musical instrument.",
+			"zh": "我们有一件古老的乐器。"
+		},
+		{
+			"i": 2,
+			"start": 16.1,
+			"end": 18.76,
+			"en": "It is called a clavichord.",
+			"zh": "它被称为古钢琴。"
+		},
+		{
+			"i": 3,
+			"start": 18.91,
+			"end": 23.63,
+			"en": "It was made in Germany in 1681.",
+			"zh": "它于1681年在德国制造。"
+		},
+		{
+			"i": 4,
+			"start": 23.78,
+			"end": 27.16,
+			"en": "Our clavichord is kept in the living room.",
+			"zh": "我们的古钢琴被放在客厅里。"
+		},
+		{
+			"i": 5,
+			"start": 27.31,
+			"end": 31.46,
+			"en": "It has belonged to our family for a long time.",
+			"zh": "它属于我们家已经很长时间了。"
+		},
+		{
+			"i": 6,
+			"start": 31.61,
+			"end": 36.27,
+			"en": "The instrument was bought by my grandfather many years ago.",
+			"zh": "这件乐器是我祖父多年前买的。"
+		},
+		{
+			"i": 7,
+			"start": 36.42,
+			"end": 39.72,
+			"en": "Recently it was damaged by a visitor.",
+			"zh": "最近它被一位访客损坏了。"
+		},
+		{
+			"i": 8,
+			"start": 39.87,
+			"end": 42.73,
+			"en": "She tried to play jazz on it!",
+			"zh": "她试图用它演奏爵士乐！"
+		},
+		{
+			"i": 9,
+			"start": 42.88,
+			"end": 48.28,
+			"en": "She struck the keys too hard and two of the strings were broken.",
+			"zh": "她敲击琴键太用力，结果两根琴弦断了。"
+		},
+		{
+			"i": 10,
+			"start": 48.43,
+			"end": 51.17,
+			"en": "My father was shocked.",
+			"zh": "我的父亲感到震惊。"
+		},
+		{
+			"i": 11,
+			"start": 51.32,
+			"end": 54.21,
+			"en": "Now we are not allowed to touch it.",
+			"zh": "现在我们不被允许碰它。"
+		},
+		{
+			"i": 12,
+			"start": 54.36,
+			"end": 58.36,
+			"en": "It is being repaired by a friend of my father's.",
+			"zh": "它正在由我父亲的一位朋友修理。"
+		}
+	]
+}

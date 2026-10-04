@@ -42,6 +42,8 @@ jobs:
         env:
           # 自定义域名生效时 base 为空字符串，未生效时为 /nce-player
           BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          # 音频放在独立资源仓库，构建时指向它的 Pages 地址
+          VITE_MEDIA_BASE: https://leungandi.github.io/nce-audio
 
       - uses: actions/upload-pages-artifact@v3
         with:

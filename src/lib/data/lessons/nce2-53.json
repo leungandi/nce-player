@@ -1,0 +1,111 @@
+{
+	"id": "nce2-53",
+	"book": "nce2",
+	"title": "Hot Snake",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-53.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.58,
+			"end": 14.29,
+			"en": "What caused the fire?",
+			"zh": "火灾是由什么引起的？"
+		},
+		{
+			"i": 1,
+			"start": 14.44,
+			"end": 20.96,
+			"en": "At last firemen have put out a big forest fire in California.",
+			"zh": "消防队员终于扑灭了加利福尼亚州的一场森林大火。"
+		},
+		{
+			"i": 2,
+			"start": 21.11,
+			"end": 27.48,
+			"en": "Since then, they have been trying to find out how the fire began.",
+			"zh": "从那时起，他们一直在努力查明火灾是如何开始的。"
+		},
+		{
+			"i": 3,
+			"start": 27.63,
+			"end": 37.81,
+			"en": "Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away.",
+			"zh": "森林火灾通常是由碎玻璃或人们随意丢弃的烟头引起的。"
+		},
+		{
+			"i": 4,
+			"start": 37.96,
+			"end": 42.17,
+			"en": "Yesterday the firemen examined the ground carefully,",
+			"zh": "昨天消防队员仔细检查了地面，"
+		},
+		{
+			"i": 5,
+			"start": 42.32,
+			"end": 46.65,
+			"en": "but were not able to find any broken glass.",
+			"zh": "但没能找到任何碎玻璃。"
+		},
+		{
+			"i": 6,
+			"start": 46.8,
+			"end": 52.86,
+			"en": "They were also quite sure that a cigarette end did not start the fire.",
+			"zh": "他们也相当确定不是烟头引起的火灾。"
+		},
+		{
+			"i": 7,
+			"start": 53.01,
+			"end": 59.23,
+			"en": "This morning, however, a firemen accidentally discovered the cause.",
+			"zh": "然而，今天早上，一名消防队员偶然发现了起火原因。"
+		},
+		{
+			"i": 8,
+			"start": 59.38,
+			"end": 69.83,
+			"en": "He noticed the remains of a snake which was wound round the electric wires of a 16, 000-volt power line.",
+			"zh": "他发现了一条缠绕在16000伏高压电线上的蛇的残骸。"
+		},
+		{
+			"i": 9,
+			"start": 69.98,
+			"end": 74.5,
+			"en": "In this way, he was able to solve the mystery.",
+			"zh": "就这样，他解开了这个谜团。"
+		},
+		{
+			"i": 10,
+			"start": 74.65,
+			"end": 79.88,
+			"en": "The explanation was simple but very unusual.",
+			"zh": "解释很简单，但非常不同寻常。"
+		},
+		{
+			"i": 11,
+			"start": 80.03,
+			"end": 87.68,
+			"en": "A bird had snatched up the snake from the ground and then dropped it on to the wires.",
+			"zh": "一只鸟从地上抓起这条蛇，然后把它掉到了电线上。"
+		},
+		{
+			"i": 12,
+			"start": 87.83,
+			"end": 91.59,
+			"en": "The snake then wound itself round the wires.",
+			"zh": "然后蛇缠绕在电线上。"
+		},
+		{
+			"i": 13,
+			"start": 91.74,
+			"end": 95.74,
+			"en": "When it did so, it sent sparks down to the ground and these immediately started a fire.",
+			"zh": "当它这样做时，它向地面发出了火花，这些火花立刻引发了一场火灾。"
+		}
+	]
+}

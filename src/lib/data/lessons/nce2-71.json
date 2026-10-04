@@ -1,0 +1,97 @@
+{
+	"id": "nce2-71",
+	"book": "nce2",
+	"title": "A Famous Clock",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-71.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.44,
+			"end": 15.26,
+			"en": "Has Big Ben ever gone wrong?",
+			"zh": "大本钟出过错吗？"
+		},
+		{
+			"i": 1,
+			"start": 15.41,
+			"end": 21.84,
+			"en": "When you visit London, one of the first things you will see is Big Ben,",
+			"zh": "当你游览伦敦时，首先会看到的是大本钟，"
+		},
+		{
+			"i": 2,
+			"start": 21.99,
+			"end": 28.93,
+			"en": "the famous clock which can be heard all over the world on the B.B.C.",
+			"zh": "这个著名的钟，在BBC广播中全世界都能听到。"
+		},
+		{
+			"i": 3,
+			"start": 29.08,
+			"end": 35.21,
+			"en": "If the Houses of Parliament had not been burned down in 1834,",
+			"zh": "如果议会大厦在1834年没有被烧毁的话，"
+		},
+		{
+			"i": 4,
+			"start": 35.36,
+			"end": 39.72,
+			"en": "the great clock would never have been erected.",
+			"zh": "这个大钟就永远不会被建造。"
+		},
+		{
+			"i": 5,
+			"start": 39.87,
+			"end": 52.36,
+			"en": "Big Ben takes its name from Sir Benjamin Hall who was responsible for the making of the clock when the new Houses of Parliament were being built.",
+			"zh": "大本钟的名字来源于本杰明·霍尔爵士，他在建造新议会大厦时负责制造这个钟。"
+		},
+		{
+			"i": 6,
+			"start": 52.51,
+			"end": 60.2,
+			"en": "It is not only of immense size, but is extremely accurate as well.",
+			"zh": "它不仅体积巨大，而且极其精确。"
+		},
+		{
+			"i": 7,
+			"start": 60.35,
+			"end": 67.02,
+			"en": "Officials from Greenwich Observatory have the clock checked twice a day.",
+			"zh": "格林尼治天文台的官员每天检查这个钟两次。"
+		},
+		{
+			"i": 8,
+			"start": 67.17,
+			"end": 77.32,
+			"en": "On the B.B.C. you can hear the clock when it is actually striking because microphones are connected to the clock tower.",
+			"zh": "在BBC广播中，当大本钟报时时，你可以听到它的声音，因为麦克风连接到了钟楼。"
+		},
+		{
+			"i": 9,
+			"start": 77.47,
+			"end": 81.01,
+			"en": "Big Ben has rarely gone wrong.",
+			"zh": "大本钟很少出错。"
+		},
+		{
+			"i": 10,
+			"start": 81.16,
+			"end": 85.88,
+			"en": "Once, however, it failed to give the correct time.",
+			"zh": "然而，有一次它没能报出正确的时间。"
+		},
+		{
+			"i": 11,
+			"start": 86.03,
+			"end": 90.03,
+			"en": "A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down!",
+			"zh": "一位在钟楼上工作的画家把一罐颜料挂在了其中一根指针上，把它弄慢了！"
+		}
+	]
+}

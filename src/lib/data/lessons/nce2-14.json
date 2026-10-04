@@ -1,0 +1,111 @@
+{
+	"id": "nce2-14",
+	"book": "nce2",
+	"title": "Do You Speak English",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-14.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.47,
+			"end": 15.12,
+			"en": "Did the young man speak English?",
+			"zh": "那个年轻人会说英语吗？"
+		},
+		{
+			"i": 1,
+			"start": 15.27,
+			"end": 19.09,
+			"en": "I had an amusing experience last year.",
+			"zh": "去年我有一个有趣的经历。"
+		},
+		{
+			"i": 2,
+			"start": 19.24,
+			"end": 23.32,
+			"en": "After I had left a small village in the south of France,",
+			"zh": "在我离开法国南部的一个小村庄后，"
+		},
+		{
+			"i": 3,
+			"start": 23.47,
+			"end": 26.67,
+			"en": "I drove on to the next town.",
+			"zh": "我驱车前往下一个城镇。"
+		},
+		{
+			"i": 4,
+			"start": 26.82,
+			"end": 30.43,
+			"en": "On the way, a young man waved to me.",
+			"zh": "在路上，一个年轻人向我招手。"
+		},
+		{
+			"i": 5,
+			"start": 30.58,
+			"end": 34.47,
+			"en": "I stopped and he asked me for a lift.",
+			"zh": "我停了下来，他请求我搭他一程。"
+		},
+		{
+			"i": 6,
+			"start": 34.62,
+			"end": 37.75,
+			"en": "As soon as he had got into the car,",
+			"zh": "他一上车，"
+		},
+		{
+			"i": 7,
+			"start": 37.9,
+			"end": 44.21,
+			"en": "I said good morning to him in French and he replied in the same language.",
+			"zh": "我就用法语向他问好，他也用同样的语言回答我。"
+		},
+		{
+			"i": 8,
+			"start": 44.36,
+			"end": 46.5,
+			"en": "Apart from a few words,",
+			"zh": "除了一些词语，"
+		},
+		{
+			"i": 9,
+			"start": 46.65,
+			"end": 50.02,
+			"en": "I do not know any French at all.",
+			"zh": "我一点法语也不会。"
+		},
+		{
+			"i": 10,
+			"start": 50.17,
+			"end": 53.17,
+			"en": "Neither of us spoke during the journey.",
+			"zh": "在旅途中，我们两人都没有说话。"
+		},
+		{
+			"i": 11,
+			"start": 53.32,
+			"end": 60.48,
+			"en": "I had nearly reached the town, when the young man suddenly said, very slowly,",
+			"zh": "我快到城镇时，那个年轻人突然非常缓慢地说，"
+		},
+		{
+			"i": 12,
+			"start": 60.63,
+			"end": 64.48,
+			"en": "'Do you speak English?'",
+			"zh": "“你会说英语吗？”"
+		},
+		{
+			"i": 13,
+			"start": 64.63,
+			"end": 68.63,
+			"en": "As I soon learnt, he was English himself!",
+			"zh": "我很快了解到，他自己就是英国人！"
+		}
+	]
+}

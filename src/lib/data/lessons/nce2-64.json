@@ -1,0 +1,104 @@
+{
+	"id": "nce2-64",
+	"book": "nce2",
+	"title": "The Channel Tunnel",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-64.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10,
+			"end": 14.52,
+			"en": "Why was the first tunnel not completed?",
+			"zh": "为什么第一条隧道没有建成？"
+		},
+		{
+			"i": 1,
+			"start": 14.67,
+			"end": 20.65,
+			"en": "In 1858, a French engineer, Aime Thome de Gamond,",
+			"zh": "1858年，一位名叫埃梅·托梅·德·加蒙的法国工程师，"
+		},
+		{
+			"i": 2,
+			"start": 20.8,
+			"end": 27.54,
+			"en": "arrived in England with a plan for a 21-mile tunnel under the English Channel.",
+			"zh": "带着修建一条21英里长的英吉利海峡隧道的计划抵达英国。"
+		},
+		{
+			"i": 3,
+			"start": 27.69,
+			"end": 34.02,
+			"en": "He said that it would be possible to build a platform in the centre of the Channel.",
+			"zh": "他说可以在海峡中央修建一个平台。"
+		},
+		{
+			"i": 4,
+			"start": 34.17,
+			"end": 39.48,
+			"en": "This platform would serve as a port and a railway station.",
+			"zh": "这个平台将作为港口和火车站。"
+		},
+		{
+			"i": 5,
+			"start": 39.63,
+			"end": 46.2,
+			"en": "The tunnel would be well-ventilated if tall chimneys were built above sea level.",
+			"zh": "如果在海平面以上修建高烟囱，隧道将能很好地通风。"
+		},
+		{
+			"i": 6,
+			"start": 46.35,
+			"end": 53.78,
+			"en": "In 1860, a better plan was put forward by an Englishman, William Low.",
+			"zh": "1860年，英国人威廉·洛提出了一个更好的方案。"
+		},
+		{
+			"i": 7,
+			"start": 53.93,
+			"end": 58.51,
+			"en": "He suggested that a double railway-tunnel should be built.",
+			"zh": "他建议修建一条双轨铁路隧道。"
+		},
+		{
+			"i": 8,
+			"start": 58.66,
+			"end": 68.74,
+			"en": "This would solve the problem of ventilation for if a train entered this tunnel, it would draw in fresh air behind it.",
+			"zh": "这将解决通风问题，因为如果火车进入这条隧道，它会从后面吸入新鲜空气。"
+		},
+		{
+			"i": 9,
+			"start": 68.89,
+			"end": 73.82,
+			"en": "Forty-two years later a tunnel was actually begun.",
+			"zh": "四十二年后，一条隧道实际开始动工。"
+		},
+		{
+			"i": 10,
+			"start": 73.97,
+			"end": 81.98,
+			"en": "If, at the time, the British had not feared invasion, it would have been completed.",
+			"zh": "如果当时英国人没有害怕入侵，它就会建成。"
+		},
+		{
+			"i": 11,
+			"start": 82.13,
+			"end": 88.46,
+			"en": "The world had to wait almost another 100 years for the Channel Tunnel.",
+			"zh": "世界不得不又等了将近100年才等到英吉利海峡隧道。"
+		},
+		{
+			"i": 12,
+			"start": 88.61,
+			"end": 92.61,
+			"en": "It was officially opened on March 7, 1994, finally connecting Britain to the European continent.",
+			"zh": "它于1994年3月7日正式开通，最终将英国与欧洲大陆连接起来。"
+		}
+	]
+}

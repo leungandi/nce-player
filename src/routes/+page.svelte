@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { resolve } from '$app/paths';
 	import { onMount } from 'svelte';
+	import { books } from '#lib/data/index.js';
 
 	type Theme = 'light' | 'dark';
 
@@ -42,14 +43,21 @@
 
 	<main>
 		<section class="card">
-			<h2>先试一课</h2>
-			<p>
-				第二册第一课《A Private Conversation》已经跑通完整链路：点句即播、句级精确循环、
-				变速不变调、逐句中英对照、快捷键与进度记忆。
-			</p>
-			<p class="cta">
-				<a href={resolve('/lesson/[id]', { id: 'nce2-01' })}>开始精听 →</a>
-			</p>
+			<h2>选择课本</h2>
+			{#if books.length}
+				<ul class="books">
+					{#each books as book (book.key)}
+						<li>
+							<a href={resolve('/book/[key]', { key: book.key })}>
+								<span class="book-name">{book.name}</span>
+								<span class="book-meta">{book.titleEn} · {book.lessons.length} 课</span>
+							</a>
+						</li>
+					{/each}
+				</ul>
+			{:else}
+				<p>课文数据还没有生成，先运行 <code>node tools/build-book.mjs --book 2</code>。</p>
+			{/if}
 		</section>
 
 		<section class="card">
@@ -136,14 +144,31 @@
 		line-height: 1.7;
 	}
 
-	.cta {
-		margin-top: 14px !important;
+	.books {
+		list-style: none;
+		margin: 0;
+		padding: 0;
 	}
 
-	.cta a {
-		color: var(--accent);
+	.books li + li {
+		border-top: 1px solid var(--border);
+	}
+
+	.books a {
+		display: flex;
+		flex-direction: column;
+		gap: 3px;
+		padding: 11px 2px;
 		text-decoration: none;
-		font-weight: 600;
+	}
+
+	.books a:hover .book-name {
+		color: var(--accent);
+	}
+
+	.book-meta {
+		color: var(--text-muted);
+		font-size: 0.78rem;
 	}
 
 	.roadmap {

@@ -1,0 +1,146 @@
+{
+	"id": "nce2-02",
+	"book": "nce2",
+	"title": "Breakfast or Lunch",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-02.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.47,
+			"end": 15.85,
+			"en": "Why was the writer's aunt surprised?",
+			"zh": "作家的阿姨为什么感到惊讶？"
+		},
+		{
+			"i": 1,
+			"start": 16,
+			"end": 17.84,
+			"en": "It was Sunday.",
+			"zh": "那是星期天。"
+		},
+		{
+			"i": 2,
+			"start": 17.99,
+			"end": 21.88,
+			"en": "I never get up early on Sundays.",
+			"zh": "我星期天从不起早。"
+		},
+		{
+			"i": 3,
+			"start": 22.03,
+			"end": 26.66,
+			"en": "I sometimes stay in bed until lunchtime.",
+			"zh": "我有时会一直睡到午饭时间。"
+		},
+		{
+			"i": 4,
+			"start": 26.81,
+			"end": 30.91,
+			"en": "Last Sunday I got up very late.",
+			"zh": "上个星期天我起得很晚。"
+		},
+		{
+			"i": 5,
+			"start": 31.06,
+			"end": 33.3,
+			"en": "I looked out of the window.",
+			"zh": "我向窗外望去。"
+		},
+		{
+			"i": 6,
+			"start": 33.45,
+			"end": 35.69,
+			"en": "It was dark outside.",
+			"zh": "外面天很黑。"
+		},
+		{
+			"i": 7,
+			"start": 35.84,
+			"end": 39.45,
+			"en": "'What a day!' I thought.",
+			"zh": "“这是什么天气啊！”我想。"
+		},
+		{
+			"i": 8,
+			"start": 39.6,
+			"end": 42.46,
+			"en": "'It's raining again.'",
+			"zh": "“又下雨了。”"
+		},
+		{
+			"i": 9,
+			"start": 42.61,
+			"end": 45.89,
+			"en": "Just then, the telephone rang.",
+			"zh": "就在那时，电话响了。"
+		},
+		{
+			"i": 10,
+			"start": 46.04,
+			"end": 48.89,
+			"en": "It was my aunt Lucy.",
+			"zh": "是我的露西姨妈。"
+		},
+		{
+			"i": 11,
+			"start": 49.04,
+			"end": 52.94,
+			"en": "'I've just arrived by train,' she said.",
+			"zh": "她说：“我刚乘火车到了。”"
+		},
+		{
+			"i": 12,
+			"start": 53.09,
+			"end": 55.86,
+			"en": "'I'm coming to see you.'",
+			"zh": "“我要来看你。”"
+		},
+		{
+			"i": 13,
+			"start": 56.01,
+			"end": 60.39,
+			"en": "'But I'm still having breakfast,' I said.",
+			"zh": "“可是我还在吃早饭呢。”我说。"
+		},
+		{
+			"i": 14,
+			"start": 60.54,
+			"end": 63.69,
+			"en": "'What are you doing?' she asked.",
+			"zh": "她问：“你在做什么？”"
+		},
+		{
+			"i": 15,
+			"start": 63.84,
+			"end": 67.35,
+			"en": "'I'm having breakfast,' I repeated.",
+			"zh": "“我在吃早饭。”我重复道。"
+		},
+		{
+			"i": 16,
+			"start": 67.5,
+			"end": 70.25,
+			"en": "'Dear me,' she said.",
+			"zh": "“哎呀！”她说。"
+		},
+		{
+			"i": 17,
+			"start": 70.4,
+			"end": 73.24,
+			"en": "'Do you always get up so late?",
+			"zh": "“你总是起这么晚吗？"
+		},
+		{
+			"i": 18,
+			"start": 73.39,
+			"end": 77.39,
+			"en": "It's one o'clock!'",
+			"zh": "已经一点钟了！”"
+		}
+	]
+}

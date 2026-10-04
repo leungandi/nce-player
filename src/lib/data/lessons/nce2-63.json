@@ -1,0 +1,97 @@
+{
+	"id": "nce2-63",
+	"book": "nce2",
+	"title": "She Was Not Amused",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-63.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 11.28,
+			"end": 16.65,
+			"en": "Why did Jenny want to leave the wedding reception?",
+			"zh": "珍妮为什么想离开婚宴？"
+		},
+		{
+			"i": 1,
+			"start": 16.8,
+			"end": 24.05,
+			"en": "Jeremy Hampden has a large circle of friends and is very popular at parties.",
+			"zh": "杰里米·汉普顿交友甚广，在聚会上很受欢迎。"
+		},
+		{
+			"i": 2,
+			"start": 24.2,
+			"end": 34.7,
+			"en": "Everybody admires him for his great sense of humour--everybody, that is, except his six-year-old daughter, Jenny.",
+			"zh": "人人都羡慕他那绝妙的幽默感——人人都羡慕，除了他六岁的女儿珍妮。"
+		},
+		{
+			"i": 3,
+			"start": 34.85,
+			"end": 42.95,
+			"en": "Recently, one of Jeremy's closest friends asked him to make a speech at a wedding reception.",
+			"zh": "最近，杰里米的一位最亲密的朋友请他在一个婚宴上讲话。"
+		},
+		{
+			"i": 4,
+			"start": 43.1,
+			"end": 47.2,
+			"en": "This is the sort of thing that Jeremy loves.",
+			"zh": "这正是杰里米喜欢做的事情。"
+		},
+		{
+			"i": 5,
+			"start": 47.35,
+			"end": 52.69,
+			"en": "He prepared the speech carefully and went to the wedding with Jenny.",
+			"zh": "他精心准备了演讲稿，并和珍妮一起去了婚礼。"
+		},
+		{
+			"i": 6,
+			"start": 52.84,
+			"end": 61.37,
+			"en": "He had included a large number of funny stories in the speech and, of course, it was a great success.",
+			"zh": "他在演讲中讲了许多有趣的故事，当然，演讲非常成功。"
+		},
+		{
+			"i": 7,
+			"start": 61.52,
+			"end": 68.23,
+			"en": "As soon as he had finished Jenny told him she wanted to go home.",
+			"zh": "演讲刚一结束，珍妮就告诉他她想回家。"
+		},
+		{
+			"i": 8,
+			"start": 68.38,
+			"end": 74.83,
+			"en": "Jeremy was a little disappointed by this but he did as his daughter asked.",
+			"zh": "杰里米对此有点失望，但他还是照他女儿的要求做了。"
+		},
+		{
+			"i": 9,
+			"start": 74.98,
+			"end": 80.88,
+			"en": "On the way home, he asked Jenny if she had enjoyed the speech.",
+			"zh": "在回家的路上，他问珍妮是否喜欢那个演讲。"
+		},
+		{
+			"i": 10,
+			"start": 81.03,
+			"end": 84.95,
+			"en": "To his surprise she said she hadn't.",
+			"zh": "令他惊讶的是，她说她不喜欢。"
+		},
+		{
+			"i": 11,
+			"start": 85.1,
+			"end": 89.1,
+			"en": "Jeremy asked her why this was so and she told him that she did not like to see so many people laughing at him!",
+			"zh": "杰里米问她为什么不喜欢，她告诉他她不喜欢看到那么多人嘲笑他！"
+		}
+	]
+}

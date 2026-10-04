@@ -1,0 +1,90 @@
+{
+	"id": "nce2-24",
+	"book": "nce2",
+	"title": "It Could be Worse",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-24.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 10.39,
+			"end": 15.18,
+			"en": "Had the writer's money been stolen?",
+			"zh": "作者的钱被偷了吗？"
+		},
+		{
+			"i": 1,
+			"start": 15.33,
+			"end": 19.98,
+			"en": "I entered the hotel manager's office and sat down.",
+			"zh": "我走进旅馆经理的办公室，坐了下来。"
+		},
+		{
+			"i": 2,
+			"start": 20.13,
+			"end": 26.24,
+			"en": "I had just lost ￡50 and I felt very upset.",
+			"zh": "我刚刚丢失了50英镑，感到非常沮丧。"
+		},
+		{
+			"i": 3,
+			"start": 26.39,
+			"end": 33.18,
+			"en": "'I left the money in my room,' I said, 'and it's not there now.  '",
+			"zh": "“我把钱落在房间里了，”我说，“现在它不在那儿了。”"
+		},
+		{
+			"i": 4,
+			"start": 33.33,
+			"end": 38.78,
+			"en": "The manager was sympathetic, but he could do nothing.",
+			"zh": "经理深表同情，但他无能为力。"
+		},
+		{
+			"i": 5,
+			"start": 38.93,
+			"end": 43.93,
+			"en": "'Everyone's losing money these days,' he said.",
+			"zh": "“现在大家都在丢钱，”他说。"
+		},
+		{
+			"i": 6,
+			"start": 44.08,
+			"end": 52.38,
+			"en": "He started to complain about this wicked world but was interrupted by a knock at the door.",
+			"zh": "他开始抱怨这个邪恶的世界，但被一阵敲门声打断了。"
+		},
+		{
+			"i": 7,
+			"start": 52.53,
+			"end": 56.83,
+			"en": "A girl came in and put an envelope on his desk.",
+			"zh": "一个女孩走了进来，在他的桌上放了一个信封。"
+		},
+		{
+			"i": 8,
+			"start": 56.98,
+			"end": 59.82,
+			"en": "It contained ￡50.",
+			"zh": "里面装着50英镑。"
+		},
+		{
+			"i": 9,
+			"start": 59.97,
+			"end": 65.01,
+			"en": "'I found this outside this gentleman's room,' she said.",
+			"zh": "“我在这位先生的房间外面发现了这个，”她说。"
+		},
+		{
+			"i": 10,
+			"start": 65.16,
+			"end": 69.16,
+			"en": "'Well,' I said to the manager,'there is still some honesty in this world!'",
+			"zh": "“噢，”我对经理说，“这世界上还是有诚实可言的！”"
+		}
+	]
+}

@@ -1,0 +1,104 @@
+{
+	"id": "nce2-72",
+	"book": "nce2",
+	"title": "A Car Called Bluebird",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-72.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 11.59,
+			"end": 15.28,
+			"en": "What mistake was made?",
+			"zh": "犯了什么错误？"
+		},
+		{
+			"i": 1,
+			"start": 15.43,
+			"end": 25.99,
+			"en": "The great racing driver, Sir Malcolm Campbell, was the first man to drive at over 300 miles per hour.",
+			"zh": "伟大的赛车手马尔科姆·坎贝尔爵士是第一个时速超过300英里的人。"
+		},
+		{
+			"i": 2,
+			"start": 26.14,
+			"end": 36.17,
+			"en": "He set up a new world record in September 1935 at Bonneville Salt Flats, Utah.",
+			"zh": "他于1935年9月在犹他州博纳维尔盐滩创造了一项新的世界纪录。"
+		},
+		{
+			"i": 3,
+			"start": 36.32,
+			"end": 42.77,
+			"en": "Bluebird, the car he was driving, had been specially built for him.",
+			"zh": "他驾驶的赛车“蓝鸟”是专门为他制造的。"
+		},
+		{
+			"i": 4,
+			"start": 42.92,
+			"end": 50.27,
+			"en": "It was over 30 feet in length and had a 2, 500-horsepower engine.",
+			"zh": "它长30多英尺，配有2500马力的发动机。"
+		},
+		{
+			"i": 5,
+			"start": 50.42,
+			"end": 56.05,
+			"en": "Although Campbell reached a speed of over 304 miles per hour,",
+			"zh": "尽管坎贝尔达到了每小时304英里以上的速度，"
+		},
+		{
+			"i": 6,
+			"start": 56.2,
+			"end": 64.24,
+			"en": "he had great difficulty in controlling the car because a tyre burst during the first run.",
+			"zh": "但他很难控制赛车，因为在第一次行驶时，一个轮胎爆裂了。"
+		},
+		{
+			"i": 7,
+			"start": 64.39,
+			"end": 75.38,
+			"en": "After his attempt, Campbell was disappointed to learn that his average speed had been 299 miles per hour.",
+			"zh": "尝试结束后，坎贝尔沮丧地得知他的平均速度是每小时299英里。"
+		},
+		{
+			"i": 8,
+			"start": 75.53,
+			"end": 81.96,
+			"en": "However, a few days later, he was told that a mistake had been made.",
+			"zh": "然而，几天后，他被告知犯了一个错误。"
+		},
+		{
+			"i": 9,
+			"start": 82.11,
+			"end": 87.39,
+			"en": "His average speed had been 301 miles per hour.",
+			"zh": "他的平均速度是每小时301英里。"
+		},
+		{
+			"i": 10,
+			"start": 87.54,
+			"end": 95.43,
+			"en": "Since that time, racing drivers have reached speeds over 600 miles an hour.",
+			"zh": "从那时起，赛车手已经达到了每小时600英里以上的速度。"
+		},
+		{
+			"i": 11,
+			"start": 95.58,
+			"end": 105.76,
+			"en": "Following in his father's footsteps many years later, Sir Malcolm's son, Donald, also set up a world record.",
+			"zh": "许多年后，马尔科姆爵士的儿子唐纳德也追随父亲的脚步，创造了一项世界纪录。"
+		},
+		{
+			"i": 12,
+			"start": 105.91,
+			"end": 109.91,
+			"en": "Like his father, he was driving a car called Bluebird.",
+			"zh": "和他父亲一样，他驾驶的也是一辆名为“蓝鸟”的赛车。"
+		}
+	]
+}

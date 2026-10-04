@@ -6,6 +6,8 @@ _upstream
 tools/.cache
 tools/_yingyin
 tools/_yingyin.zip
+media
+nce-audio
 
 # Output
 .output
@@ -14,6 +16,7 @@ tools/_yingyin.zip
 .wrangler
 /.svelte-kit
 /build
+/dist
 
 # OS
 .DS_Store

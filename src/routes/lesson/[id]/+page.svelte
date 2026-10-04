@@ -35,7 +35,17 @@
 	let loopMode = $state<LoopMode>('off');
 	let translation = $state<TranslationMode>('both');
 	let rate = $state(1);
+	/** 睡眠定时器：0 表示关闭 */
+	let sleepMinutes = $state(0);
+	let sleepDeadline = $state(0);
+	let sleepLeft = $state(0);
 	let pendingSeek = 0;
+
+	const SLEEP_OPTIONS: number[] = [0, 5, 10, 15, 20, 30, 45, 60];
+
+	const sleepLabel = $derived(
+		sleepMinutes > 0 ? `剩余 ${formatTime(Math.ceil(sleepLeft / 1000))}` : '关闭'
+	);
 
 	/** 锁定模式下高亮锁定的那句，否则按播放时间走。 */
 	const activeIndex = $derived(
@@ -53,9 +63,35 @@
 				currentTime = audioEl.currentTime;
 			}
 			enforceSentenceLoop();
+			checkSleepTimer();
+			syncPositionState();
 			rafId = requestAnimationFrame(step);
 		};
 		rafId = requestAnimationFrame(step);
+	}
+
+	/** 睡眠定时器到点就暂停，并把定时器复位。 */
+	function checkSleepTimer() {
+		if (!sleepDeadline) return;
+		const left = sleepDeadline - Date.now();
+		sleepLeft = Math.max(0, left);
+		if (left <= 0) {
+			sleepDeadline = 0;
+			sleepMinutes = 0;
+			sleepLeft = 0;
+			audioEl?.pause();
+			if ('mediaSession' in navigator) navigator.mediaSession.playbackState = 'paused';
+		}
+	}
+
+	function setSleep(minutes: number) {
+		sleepMinutes = minutes;
+		sleepDeadline = minutes > 0 ? Date.now() + minutes * 60_000 : 0;
+		sleepLeft = minutes > 0 ? minutes * 60_000 : 0;
+	}
+
+	function cycleSleep() {
+		setSleep(cycle(SLEEP_OPTIONS, sleepMinutes));
 	}
 
 	function stopTicking() {
@@ -204,11 +240,13 @@
 	function onPlay() {
 		playing = true;
 		startTicking();
+		if ('mediaSession' in navigator) navigator.mediaSession.playbackState = 'playing';
 	}
 
 	function onPause() {
 		playing = false;
 		stopTicking();
+		if ('mediaSession' in navigator) navigator.mediaSession.playbackState = 'paused';
 		saveProgress();
 	}
 
@@ -217,8 +255,57 @@
 		stopTicking();
 		saveProgress();
 		if (loopMode === 'book') {
-			if (data.next) location.href = resolve('/lesson/[id]', { id: data.next.id });
+			if (data.next) goToLesson(data.next.id);
 			else activateLine(0);
+		}
+	}
+
+	function goToLesson(id: string) {
+		location.href = resolve('/lesson/[id]', { id });
+	}
+
+	/**
+	 * 锁屏 / 通知栏控制。上一句下一句映射到 seekbackward/seekforward，
+	 * 上下课映射到 previoustrack/nexttrack。
+	 */
+	function setupMediaSession() {
+		if (!('mediaSession' in navigator)) return;
+		const prev = data.prev;
+		const next = data.next;
+		navigator.mediaSession.metadata = new MediaMetadata({
+			title: lesson.title,
+			artist: `${lesson.book.toUpperCase()} · 新概念英语`,
+			album: '精听学习站',
+			artwork: [{ src: mediaUrl('icons/icon-512.png'), sizes: '512x512', type: 'image/png' }]
+		});
+		navigator.mediaSession.setActionHandler('play', () => void audioEl?.play());
+		navigator.mediaSession.setActionHandler('pause', () => audioEl?.pause());
+		navigator.mediaSession.setActionHandler('seekbackward', () => activateLine(activeIndex - 1));
+		navigator.mediaSession.setActionHandler('seekforward', () => activateLine(activeIndex + 1));
+		navigator.mediaSession.setActionHandler(
+			'previoustrack',
+			prev ? () => goToLesson(prev.id) : null
+		);
+		navigator.mediaSession.setActionHandler(
+			'nexttrack',
+			next ? () => goToLesson(next.id) : null
+		);
+	}
+
+	let lastPositionSecond = -1;
+	function syncPositionState() {
+		if (!('mediaSession' in navigator) || !duration) return;
+		const second = Math.floor(currentTime);
+		if (second === lastPositionSecond) return;
+		lastPositionSecond = second;
+		try {
+			navigator.mediaSession.setPositionState({
+				duration,
+				position: Math.min(currentTime, duration),
+				playbackRate: rate
+			});
+		} catch {
+			// 某些浏览器在状态不合法时会抛错，忽略
 		}
 	}
 
@@ -269,6 +356,7 @@
 	onMount(() => {
 		restoreProgress();
 		applyRate();
+		setupMediaSession();
 		if (audioEl) audioEl.loop = loopMode === 'list';
 
 		window.addEventListener('keydown', onKeydown);
@@ -295,11 +383,19 @@
 
 <div class="stage">
 	<header class="bar">
-		<a class="back" href={resolve('/')}>← 返回</a>
+		<a class="back" href={resolve('/book/[key]', { key: lesson.book })}>← 目录</a>
 		<div class="meta">
 			<h1>{lesson.title}</h1>
 			<p>{lesson.book.toUpperCase()} · 第 {lesson.id.split('-')[1]} 课 · {lines.length} 句</p>
 		</div>
+		<nav class="nav">
+			{#if data.prev}
+				<a href={resolve('/lesson/[id]', { id: data.prev.id })}>上一课</a>
+			{/if}
+			{#if data.next}
+				<a href={resolve('/lesson/[id]', { id: data.next.id })}>下一课</a>
+			{/if}
+		</nav>
 	</header>
 
 	<section class="controls" aria-label="播放控制">
@@ -367,6 +463,16 @@
 					{/each}
 				</select>
 			</label>
+
+			<button
+				class="chip"
+				class:armed={sleepMinutes > 0}
+				type="button"
+				onclick={cycleSleep}
+				title="到点自动暂停"
+			>
+				睡眠：{sleepLabel}
+			</button>
 		</div>
 	</section>
 
@@ -425,6 +531,28 @@
 		text-decoration: none;
 		font-size: 0.88rem;
 		white-space: nowrap;
+	}
+
+	.meta {
+		flex: 1;
+		min-width: 0;
+	}
+
+	.nav {
+		display: flex;
+		flex: none;
+		gap: 10px;
+	}
+
+	.nav a {
+		color: var(--text-muted);
+		text-decoration: none;
+		font-size: 0.8rem;
+		white-space: nowrap;
+	}
+
+	.nav a:hover {
+		color: var(--accent);
 	}
 
 	.meta h1 {
@@ -497,6 +625,12 @@
 
 	.chip:hover {
 		border-color: var(--accent);
+	}
+
+	.chip.armed {
+		border-color: var(--accent);
+		color: var(--accent);
+		background: var(--accent-soft);
 	}
 
 	.chip.select {

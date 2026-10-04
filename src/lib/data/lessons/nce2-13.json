@@ -1,0 +1,90 @@
+{
+	"id": "nce2-13",
+	"book": "nce2",
+	"title": "The Greenwood Boys",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-13.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 9.99,
+			"end": 15.13,
+			"en": "Why will the police have a difficult time?",
+			"zh": "警察为什么会遇到困难？"
+		},
+		{
+			"i": 1,
+			"start": 15.28,
+			"end": 19.23,
+			"en": "The Greenwood Boys are a group of pop singers.",
+			"zh": "“格林伍德少年”是一个流行歌手组合。"
+		},
+		{
+			"i": 2,
+			"start": 19.38,
+			"end": 24.33,
+			"en": "At present, they are visiting all parts of the country.",
+			"zh": "目前，他们正在全国各地巡回演出。"
+		},
+		{
+			"i": 3,
+			"start": 24.48,
+			"end": 27.61,
+			"en": "They will be arriving here tomorrow.",
+			"zh": "他们明天将抵达这里。"
+		},
+		{
+			"i": 4,
+			"start": 27.76,
+			"end": 35.66,
+			"en": "They will be coming by train and most of the young people in the town will be meeting them at the station.",
+			"zh": "他们将乘火车来，镇上的大部分年轻人会去车站迎接他们。"
+		},
+		{
+			"i": 5,
+			"start": 35.81,
+			"end": 40.67,
+			"en": "Tomorrow evening they will be singing at the Workers' Club.",
+			"zh": "明天晚上，他们将在工人俱乐部演唱。"
+		},
+		{
+			"i": 6,
+			"start": 40.82,
+			"end": 45.09,
+			"en": "The Greenwood Boys will be staying for five days.",
+			"zh": "“格林伍德少年”将停留5天。"
+		},
+		{
+			"i": 7,
+			"start": 45.24,
+			"end": 50.01,
+			"en": "During this time, they will give five performances.",
+			"zh": "在此期间，他们将演出5场。"
+		},
+		{
+			"i": 8,
+			"start": 50.16,
+			"end": 54.55,
+			"en": "As usual, the police will have a difficult time.",
+			"zh": "和往常一样，警察将遇到很多麻烦。"
+		},
+		{
+			"i": 9,
+			"start": 54.7,
+			"end": 57.41,
+			"en": "They will be trying to keep order.",
+			"zh": "他们将尽力维持秩序。"
+		},
+		{
+			"i": 10,
+			"start": 57.56,
+			"end": 61.56,
+			"en": "It is always the same on these occasions.",
+			"zh": "每逢这种场合，情况总是如此。"
+		}
+	]
+}

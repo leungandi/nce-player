@@ -1,0 +1,90 @@
+{
+	"id": "nce2-28",
+	"book": "nce2",
+	"title": "No Parking",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce2-28.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 9.64,
+			"end": 14.07,
+			"en": "What is Jasper White's problem?",
+			"zh": "贾斯珀·怀特有什么问题？"
+		},
+		{
+			"i": 1,
+			"start": 14.22,
+			"end": 20.97,
+			"en": "Jasper White is one of those rare people who believes in ancient myths.",
+			"zh": "贾斯珀·怀特是那种相信古代神话的稀有人物之一。"
+		},
+		{
+			"i": 2,
+			"start": 21.12,
+			"end": 31.81,
+			"en": "He has just bought a new house in the city, but ever since he moved in, he has had trouble with cars and their owners.",
+			"zh": "他刚在城里买了新房子，但自从他搬进来后，他就一直被汽车和它们的车主所困扰。"
+		},
+		{
+			"i": 3,
+			"start": 31.96,
+			"end": 40.41,
+			"en": "When he returns home at night, he always finds that someone has parked a car outside his gate.",
+			"zh": "每当他晚上回家时，他总是发现有人把车停在他家门口。"
+		},
+		{
+			"i": 4,
+			"start": 40.56,
+			"end": 48.87,
+			"en": "Because of this, he has not been able to get his own car into his garage even once.",
+			"zh": "因此，他甚至一次都没能把自己的车开进车库。"
+		},
+		{
+			"i": 5,
+			"start": 49.02,
+			"end": 58.79,
+			"en": "Jasper has put up 'No Parking' signs outside his gate, but these have not had any effect.",
+			"zh": "贾斯珀在他家门口竖起了“禁止停车”的牌子，但这些都没有任何效果。"
+		},
+		{
+			"i": 6,
+			"start": 58.94,
+			"end": 64.04,
+			"en": "Now he has put an ugly stone head over the gate.",
+			"zh": "现在他在门上放了一个丑陋的石头脑袋。"
+		},
+		{
+			"i": 7,
+			"start": 64.19,
+			"end": 69.36,
+			"en": "It is one of the ugliest faces I have ever seen.",
+			"zh": "这是我见过的最丑陋的脸之一。"
+		},
+		{
+			"i": 8,
+			"start": 69.51,
+			"end": 76.6,
+			"en": "I asked him what it was and he told me that it was Medusa, the Gorgon.",
+			"zh": "我问他那是什么，他告诉我那是美杜莎，那个戈尔贡女妖。"
+		},
+		{
+			"i": 9,
+			"start": 76.75,
+			"end": 82.43,
+			"en": "Jasper hopes that she will turn cars and their owners to stone.",
+			"zh": "贾斯珀希望她能把汽车和它们的车主变成石头。"
+		},
+		{
+			"i": 10,
+			"start": 82.58,
+			"end": 86.58,
+			"en": "But none of them has been turned to stone yet!",
+			"zh": "但他们中还没有人变成石头！"
+		}
+	]
+}
