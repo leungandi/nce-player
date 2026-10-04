@@ -1,6 +1,9 @@
-# 自建 NCE 学习站 · 总体计划（v2，待 review）
+# 开发计划与实施记录
 
-> 状态：技术选型已定稿（见 §8），剩两个命名问题等你确认。
+> **这是一份过程文档**：项目启动时的调研、方案对比、分期计划，以及后续每一阶段的实施记录。
+> 想了解"怎么跑起来""目录结构""数据结构"，请看 [README](../README.md) 和 [数据格式](data-format.md)。
+> 本文档的价值在于**记录为什么这么选**，以及每一步实际做了什么、和原计划差在哪。
+>
 > 参考项目：[iChochy/NCE](https://github.com/iChochy/NCE)（MIT，仅代码）
 > 素材上游：[tangx/New-Concept-English](https://github.com/tangx/New-Concept-English)（无 LICENSE）
 
@@ -410,23 +413,12 @@ Spring Boot + PostgreSQL，提供可选的账号与同步接口。前端只留�
 
 ---
 
-## 附：当前工作区状态
+## 附：环境说明
 
-```
-C:\NCE\
-├── PLAN.md                       ← 本文档
-├── _upstream\                    ← 上游项目克隆（仅作参考，已 gitignore）
-├── src\
-│   ├── lib\data\lessons\         ← 课文 JSON（由管线产出，随站点构建）
-│   ├── lib\player\               ← 播放逻辑（纯函数，带单测）
-│   └── routes\lesson\[id]\       ← 精听页
-├── static\audio\                 ← 阶段 1 临时存放音频，阶段 2 迁出
-└── tools\
-    ├── fetch-lesson.mjs          ← 数据管线：拉取一课并产出 lesson.json
-    └── inventory-resources.mjs   ← 资源盘点脚本
-```
+开发时的完整工程结构与运行方式见 [README](../README.md)，数据结构见 [数据格式](data-format.md)。
 
-> 网络说明：本机出网需要走本地代理，即 `HTTPS_PROXY=http://127.0.0.1:6789` 且 `NODE_USE_ENV_PROXY=1`。
+> 网络说明：若所在网络访问 GitHub 需要代理，给 Node 设置 `HTTPS_PROXY` 并开启
+> `NODE_USE_ENV_PROXY=1`（Node 24 起支持），三个管线脚本都要出网。
 
 ---
 

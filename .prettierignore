@@ -5,5 +5,4 @@ node_modules
 _upstream
 tools/_yingyin
 package-lock.json
-PLAN.md
 *.md
