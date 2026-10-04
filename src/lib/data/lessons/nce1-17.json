@@ -1,0 +1,167 @@
+{
+	"id": "nce1-17",
+	"book": "nce1",
+	"title": "How do you do",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-17.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.58,
+			"end": 2.74,
+			"en": "Lesson 17",
+			"zh": "第17课"
+		},
+		{
+			"i": 1,
+			"start": 2.89,
+			"end": 6.25,
+			"en": "How do you do?",
+			"zh": "你好！"
+		},
+		{
+			"i": 2,
+			"start": 6.4,
+			"end": 12.47,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.62,
+			"end": 19.44,
+			"en": "What are Michael Baker and Jeremy Short's jobs?",
+			"zh": "迈克尔·贝克和杰里米·肖特的职业是什么？"
+		},
+		{
+			"i": 4,
+			"start": 19.59,
+			"end": 25.04,
+			"en": "Come and meet our employees Mr.Richards.",
+			"zh": "理查兹先生，来见见我们的员工。"
+		},
+		{
+			"i": 5,
+			"start": 25.19,
+			"end": 28.3,
+			"en": "Thank you Mr. Jackson.",
+			"zh": "谢谢你，杰克逊先生。"
+		},
+		{
+			"i": 6,
+			"start": 28.45,
+			"end": 31.42,
+			"en": "This is Nicola Grey",
+			"zh": "这是尼古拉·格雷"
+		},
+		{
+			"i": 7,
+			"start": 31.57,
+			"end": 35.15,
+			"en": "and this is Claire Taylor.",
+			"zh": "这是克莱尔·泰勒。"
+		},
+		{
+			"i": 8,
+			"start": 35.3,
+			"end": 38.25,
+			"en": "How do you do?",
+			"zh": "你好！"
+		},
+		{
+			"i": 9,
+			"start": 38.4,
+			"end": 43.03,
+			"en": "Those women are very hard-working.",
+			"zh": "那些女士们非常勤奋。"
+		},
+		{
+			"i": 10,
+			"start": 43.18,
+			"end": 46.45,
+			"en": "What are their jobs?",
+			"zh": "她们的职业是什么？"
+		},
+		{
+			"i": 11,
+			"start": 46.6,
+			"end": 50.75,
+			"en": "They're keyboard operators.",
+			"zh": "她们是键盘操作员。"
+		},
+		{
+			"i": 12,
+			"start": 50.9,
+			"end": 53.7,
+			"en": "This is Michael Baker",
+			"zh": "这是迈克尔·贝克"
+		},
+		{
+			"i": 13,
+			"start": 53.85,
+			"end": 57.27,
+			"en": "and this is Jeremy Short.",
+			"zh": "这是杰里米·肖特。"
+		},
+		{
+			"i": 14,
+			"start": 57.42,
+			"end": 60.52,
+			"en": "How do you do?",
+			"zh": "你好！"
+		},
+		{
+			"i": 15,
+			"start": 60.67,
+			"end": 63.65,
+			"en": "They aren't very busy!",
+			"zh": "他们不太忙！"
+		},
+		{
+			"i": 16,
+			"start": 63.8,
+			"end": 67.8,
+			"en": "What are their jobs?",
+			"zh": "他们的职业是什么？"
+		},
+		{
+			"i": 17,
+			"start": 67.95,
+			"end": 70.06,
+			"en": "They're sales reps.",
+			"zh": "他们是销售代表。"
+		},
+		{
+			"i": 18,
+			"start": 70.21,
+			"end": 73.13,
+			"en": "They're very lazy.",
+			"zh": "他们很懒惰。"
+		},
+		{
+			"i": 19,
+			"start": 73.28,
+			"end": 76.88,
+			"en": "Who is this young man?",
+			"zh": "这个年轻人是谁？"
+		},
+		{
+			"i": 20,
+			"start": 77.03,
+			"end": 79.27,
+			"en": "This is Jim.",
+			"zh": "这是吉姆。"
+		},
+		{
+			"i": 21,
+			"start": 79.42,
+			"end": 83.42,
+			"en": "He's our office assistant.",
+			"zh": "他是我们的办公室助理。"
+		}
+	]
+}

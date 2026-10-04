@@ -1,0 +1,258 @@
+{
+	"id": "nce4-27",
+	"book": "nce4",
+	"title": "The vasa",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-27.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.85,
+			"end": 3.8,
+			"en": "Lesson 27",
+			"zh": "第27课"
+		},
+		{
+			"i": 1,
+			"start": 3.95,
+			"end": 12.19,
+			"en": "The 'Vasa'",
+			"zh": "“瓦萨”号"
+		},
+		{
+			"i": 2,
+			"start": 12.34,
+			"end": 20.42,
+			"en": "What happened to the 'Vasa' almost immediately after she was launched?",
+			"zh": "“瓦萨”号下水后几乎立刻发生了什么？"
+		},
+		{
+			"i": 3,
+			"start": 20.57,
+			"end": 24.17,
+			"en": "From the seventeenth-century empire of Sweden,",
+			"zh": "17世纪的瑞典王国"
+		},
+		{
+			"i": 4,
+			"start": 24.32,
+			"end": 34.69,
+			"en": "the story of a galleon that sank at the start of her maiden voyage in 1628 must be one of the strangest tales of the sea.",
+			"zh": "一艘名为“瓦萨”的帆船在1628年首次出航时就沉没了。这个故事一定是航海史上最离奇的事件之一。"
+		},
+		{
+			"i": 5,
+			"start": 34.84,
+			"end": 44.19,
+			"en": "For nearly three and a half centuries she lay at the bottom of Stockholm harbour until her discovery in 1956.",
+			"zh": "她在斯德哥尔摩港湾海底沉睡了将近3个半世纪，直到1956年才被发现。"
+		},
+		{
+			"i": 6,
+			"start": 44.34,
+			"end": 51.38,
+			"en": "This was the Vasa, royal flagship of the great imperial fleet.",
+			"zh": "这就是“瓦萨”号，一支强大皇家舰队的旗舰。"
+		},
+		{
+			"i": 7,
+			"start": 51.53,
+			"end": 56.08,
+			"en": "King Gustavus Adolphus 'The Northern Hurricane',",
+			"zh": "国王古斯塔夫·阿道夫，人称“北方飓风”，"
+		},
+		{
+			"i": 8,
+			"start": 56.23,
+			"end": 61.18,
+			"en": "then at the height of his military success in the 'Thirty Years' War,",
+			"zh": "当时正处于“三十年战争”军事胜利的巅峰时期，"
+		},
+		{
+			"i": 9,
+			"start": 61.33,
+			"end": 65.27,
+			"en": "had dictated her measurements and armament.",
+			"zh": "亲自规定了“瓦萨”号的尺寸和武器装备。"
+		},
+		{
+			"i": 10,
+			"start": 65.42,
+			"end": 70.58,
+			"en": "Triple gun-decks mounted sixty-four bronze cannon.",
+			"zh": "三层炮甲板上装载着64门青铜大炮。"
+		},
+		{
+			"i": 11,
+			"start": 70.73,
+			"end": 76.69,
+			"en": "She was intended to play a leading role in the growing might of Sweden.",
+			"zh": "她注定要在瑞典日益壮大的国力中扮演重要角色。"
+		},
+		{
+			"i": 12,
+			"start": 76.84,
+			"end": 87.43,
+			"en": "As she was prepared for her maiden voyage on August 10, 1628, Stockholm was in a ferment.",
+			"zh": "1628年8月10日，“瓦萨”号准备首次航行，斯德哥尔摩一片沸腾。"
+		},
+		{
+			"i": 13,
+			"start": 87.58,
+			"end": 90.49,
+			"en": "From the Skeppsbron and surrounding islands",
+			"zh": "从海事博物馆码头和周围的岛屿，"
+		},
+		{
+			"i": 14,
+			"start": 90.64,
+			"end": 97.65,
+			"en": "the people watched this thing of beauty begin to spread her sails and catch the wind.",
+			"zh": "人们看着这艘美丽的船开始张帆起航，乘风破浪。"
+		},
+		{
+			"i": 15,
+			"start": 97.8,
+			"end": 104.01,
+			"en": "They had laboured for three years to produce this floating work of art;",
+			"zh": "人们辛劳了3年才建造出这艘漂浮的艺术品；"
+		},
+		{
+			"i": 16,
+			"start": 104.16,
+			"end": 109.94,
+			"en": "she was more richly carved and ornamented than any previous ship.",
+			"zh": "她比以往任何一艘船都雕刻得更精美，装饰得更华丽。"
+		},
+		{
+			"i": 17,
+			"start": 110.09,
+			"end": 118.75,
+			"en": "The high stern castle was a riot of carved gods, demons, knights, kings, warriors,",
+			"zh": "高高的船尾楼雕刻着众神、恶魔、骑士、国王、武士、"
+		},
+		{
+			"i": 18,
+			"start": 118.9,
+			"end": 126.22,
+			"en": "mermaids, cherubs; and zoomorphic animal shapes ablaze with red and gold and blue,",
+			"zh": "美人鱼、小天使；还有栩栩如生的动物造型，它们都被漆成红、金和蓝色，"
+		},
+		{
+			"i": 19,
+			"start": 126.37,
+			"end": 130.42,
+			"en": "symbols of courage, power, and cruelty,",
+			"zh": "象征着勇气、力量和残酷，"
+		},
+		{
+			"i": 20,
+			"start": 130.57,
+			"end": 137.08,
+			"en": "were portrayed to stir the imaginations of the superstitious sailors of the day.",
+			"zh": "旨在激发当时迷信水手们的想象力。"
+		},
+		{
+			"i": 21,
+			"start": 137.23,
+			"end": 145.49,
+			"en": "Then the cannons of the anchored warships thundered a salute to which the Vasa fired in reply.",
+			"zh": "锚泊的军舰鸣炮致敬，“瓦萨”号也鸣炮回敬。"
+		},
+		{
+			"i": 22,
+			"start": 145.64,
+			"end": 152.77,
+			"en": "As she emerged from her drifting cloud of gun smoke with the water churned to foam beneath her bow,",
+			"zh": "当她从漂浮的硝烟中驶出，船头下的水花翻腾成泡沫，"
+		},
+		{
+			"i": 23,
+			"start": 152.92,
+			"end": 159.38,
+			"en": "her flags flying, pennants waving, sails filling in the breeze,",
+			"zh": "旗帜飘扬，三角旗招展，风帆鼓满，"
+		},
+		{
+			"i": 24,
+			"start": 159.53,
+			"end": 164.77,
+			"en": "and the red and gold or her superstructure ablaze with colour,",
+			"zh": "红金相间的上层建筑色彩斑斓，"
+		},
+		{
+			"i": 25,
+			"start": 164.92,
+			"end": 171.35,
+			"en": "she presented a more majestic spectacle than Stockholmers had ever seen before.",
+			"zh": "她展现出斯德哥尔摩人前所未见的雄伟景象。"
+		},
+		{
+			"i": 26,
+			"start": 171.5,
+			"end": 177.96,
+			"en": "All gun-ports were open and the muzzles peeped wickedly from them.",
+			"zh": "所有的炮门都敞开着，炮口不怀好意地探出。"
+		},
+		{
+			"i": 27,
+			"start": 178.11,
+			"end": 186.01,
+			"en": "As the wind freshened there came a sudden squall and the ship made a strange movement, listing to port.",
+			"zh": "随着风势渐强，一阵突如其来的飑风袭来，船身做了一个奇怪的动作，向左舷倾斜。"
+		},
+		{
+			"i": 28,
+			"start": 186.16,
+			"end": 191.53,
+			"en": "The Ordnance officer ordered all the port cannon to be heaved to starboard",
+			"zh": "炮兵军官命令将所有左舷的大炮都移到右舷，"
+		},
+		{
+			"i": 29,
+			"start": 191.68,
+			"end": 198.13,
+			"en": "to counteract the list but the steepening angle of the decks increased.",
+			"zh": "以抵消倾斜，但甲板的倾斜角度反而加剧了。"
+		},
+		{
+			"i": 30,
+			"start": 198.28,
+			"end": 202.76,
+			"en": "Then the sound of rumbling thunder reached the watchers on the shore,",
+			"zh": "接着，隆隆的雷鸣声传到了岸上的观望者耳中，"
+		},
+		{
+			"i": 31,
+			"start": 202.91,
+			"end": 213.84,
+			"en": "as cargo, ballast, ammunition and 400 people went sliding and crashing down to the port side of the steeply listing ship.",
+			"zh": "原来是货物、压舱物、弹药和400名船员滑向急剧倾斜的船只的左舷，发出撞击声。"
+		},
+		{
+			"i": 32,
+			"start": 213.99,
+			"end": 220.88,
+			"en": "The lower gun-ports were now below water and the inrush sealed the ship's fate.",
+			"zh": "下层炮门现在已在水面之下，涌入的海水注定了这艘船的命运。"
+		},
+		{
+			"i": 33,
+			"start": 221.03,
+			"end": 228.52,
+			"en": "In that first glorious hour, the mighty Vasa, which was intended to rule the Baltic,",
+			"zh": "在那光荣的第一个小时，原本注定要称霸波罗的海的“瓦萨”号，"
+		},
+		{
+			"i": 34,
+			"start": 228.67,
+			"end": 232.67,
+			"en": "sank with all flags flying--in the harbour of her birth.",
+			"zh": "带着所有飘扬的旗帜，沉入了她诞生时的港口。"
+		}
+	]
+}

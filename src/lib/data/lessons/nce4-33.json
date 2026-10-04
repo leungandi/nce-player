@@ -1,0 +1,216 @@
+{
+	"id": "nce4-33",
+	"book": "nce4",
+	"title": "Education",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-33.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.94,
+			"end": 2.89,
+			"en": "Lesson 33",
+			"zh": "第33课"
+		},
+		{
+			"i": 1,
+			"start": 3.04,
+			"end": 10.77,
+			"en": "Education",
+			"zh": "教育"
+		},
+		{
+			"i": 2,
+			"start": 10.92,
+			"end": 18.5,
+			"en": "Why is education democratic in bookless tribal societies?",
+			"zh": "为什么在没有书籍的部落社会中，教育是民主的？"
+		},
+		{
+			"i": 3,
+			"start": 18.65,
+			"end": 23.14,
+			"en": "Education is one of the key words of our time.",
+			"zh": "教育是我们这个时代的一个关键词。"
+		},
+		{
+			"i": 4,
+			"start": 23.29,
+			"end": 27.25,
+			"en": "A man without an education, many of us believe,",
+			"zh": "许多人认为，一个没有受过教育的人"
+		},
+		{
+			"i": 5,
+			"start": 27.4,
+			"end": 37,
+			"en": "is an unfortunate victim of adverse circumstances, deprived of one of the greatest twentieth-century opportunities.",
+			"zh": "是不幸境遇的受害者，被剥夺了20世纪最伟大的机会之一。"
+		},
+		{
+			"i": 6,
+			"start": 37.15,
+			"end": 46.69,
+			"en": "Convinced of the importance of education, modern states 'invest' in institutions of learning to get back 'interest'",
+			"zh": "现代国家深信教育的重要性，因此“投资”于学习机构，以期“回报”"
+		},
+		{
+			"i": 7,
+			"start": 46.84,
+			"end": 53.78,
+			"en": "in the form of a large group of enlightened young men and women who are potential leaders.",
+			"zh": "一大批开明的青年男女，他们是潜在的领导者。"
+		},
+		{
+			"i": 8,
+			"start": 53.93,
+			"end": 59.2,
+			"en": "Education, with its cycles of instruction so carefully worked out,",
+			"zh": "教育，有着精心设计的教学周期，"
+		},
+		{
+			"i": 9,
+			"start": 59.35,
+			"end": 70.62,
+			"en": "punctuated by textbooks--those purchasable wells of wisdom--what would civilization be like without its benefits?",
+			"zh": "以教科书——那些可以购买的智慧源泉——作为点缀，如果没有它的益处，文明会是什么样子？"
+		},
+		{
+			"i": 10,
+			"start": 70.77,
+			"end": 76.36,
+			"en": "So much is certain: that we would have doctors and preachers,",
+			"zh": "有一点是肯定的：我们会有医生和传教士，"
+		},
+		{
+			"i": 11,
+			"start": 76.51,
+			"end": 84.92,
+			"en": "lawyers and defendants marriages and births--but our spiritual outlook would be different.",
+			"zh": "律师和被告，婚姻和生育——但我们的精神观念会大相径庭。"
+		},
+		{
+			"i": 12,
+			"start": 85.07,
+			"end": 91.38,
+			"en": "We would lay less stress on 'facts and figures' and more on a good memory,",
+			"zh": "我们会更少强调“事实和数据”，而更多地关注良好的记忆力，"
+		},
+		{
+			"i": 13,
+			"start": 91.53,
+			"end": 98.89,
+			"en": "on applied psychology, and on the capacity of a man to get along with his fellow-citizens.",
+			"zh": "关注应用心理学，以及一个人与同胞和睦相处的能力。"
+		},
+		{
+			"i": 14,
+			"start": 99.04,
+			"end": 109.93,
+			"en": "If our educational system were fashioned after its bookless past we would have the most democratic form of 'college' imaginable.",
+			"zh": "如果我们的教育体系仿效其没有书籍的过去，我们就会拥有 imaginable 最民主的“大学”形式。"
+		},
+		{
+			"i": 15,
+			"start": 110.08,
+			"end": 116.77,
+			"en": "Among tribal people all knowledge inherited by tradition is shared by all;",
+			"zh": "在部落民族中，所有通过传统继承的知识都由所有人共享；"
+		},
+		{
+			"i": 16,
+			"start": 116.92,
+			"end": 126.3,
+			"en": "it is taught to every member of the tribe so that in this respect everybody is equally equipped for life.",
+			"zh": "它被传授给部落的每一个成员，因此在这方面，每个人都同样具备了生活的能力。"
+		},
+		{
+			"i": 17,
+			"start": 126.45,
+			"end": 136.85,
+			"en": "It is the ideal condition of the 'equal start' which only our most progressive forms of modern education try to regain.",
+			"zh": "这是“平等起步”的理想条件，只有我们最进步的现代教育形式才试图重新获得。"
+		},
+		{
+			"i": 18,
+			"start": 137,
+			"end": 145.48,
+			"en": "In primitive cultures the obligation to seek and to receive the traditional instruction is binding to all.",
+			"zh": "在原始文化中，寻求和接受传统教育的义务对所有人都有约束力。"
+		},
+		{
+			"i": 19,
+			"start": 145.63,
+			"end": 159.62,
+			"en": "There are no'illiterates' --if the term can be applied to peoples without a script--while our own compulsory school attendance became law in Germany in 1642,",
+			"zh": "没有“文盲”——如果这个词可以用来指没有文字的民族的话——而我们自己的义务入学制度于1642年在德国成为法律，"
+		},
+		{
+			"i": 20,
+			"start": 159.77,
+			"end": 170.99,
+			"en": "in France in 1806, and in England in 1876 and is still nonexistent in a number of 'civilized' nations.",
+			"zh": "1806年在法国，1876年在英国，并且在一些“文明”国家仍然不存在。"
+		},
+		{
+			"i": 21,
+			"start": 171.14,
+			"end": 176.51,
+			"en": "This shows how long it was before we deemed it necessary to make sure",
+			"zh": "这表明我们花了多长时间才认为有必要确保"
+		},
+		{
+			"i": 22,
+			"start": 176.66,
+			"end": 187.06,
+			"en": "that all our children could share in the knowledge accumulated by the 'happy few' during the past centuries.",
+			"zh": "我们的所有孩子都能分享过去几个世纪由“少数幸运儿”积累的知识。"
+		},
+		{
+			"i": 23,
+			"start": 187.21,
+			"end": 192.58,
+			"en": "Education in the wilderness is not a matter of monetary means.",
+			"zh": "荒野中的教育并非金钱问题。"
+		},
+		{
+			"i": 24,
+			"start": 192.73,
+			"end": 196.22,
+			"en": "All are entitled to an equal start.",
+			"zh": "所有人都有权获得平等的起步。"
+		},
+		{
+			"i": 25,
+			"start": 196.37,
+			"end": 205.98,
+			"en": "There is none of the hurry which, in our society, often hampers the full development of a growing personality.",
+			"zh": "那里没有我们社会中常常阻碍一个成长中的人格充分发展的匆忙。"
+		},
+		{
+			"i": 26,
+			"start": 206.13,
+			"end": 211.96,
+			"en": "There, a child grows up under the everpresent attention of his parents;",
+			"zh": "在那里，孩子在父母无时无刻的关怀下成长；"
+		},
+		{
+			"i": 27,
+			"start": 212.11,
+			"end": 219.21,
+			"en": "therefore the jungles and the savannahs know of no 'juvenile delinquency'.",
+			"zh": "因此，丛林和热带草原上没有“青少年犯罪”。"
+		},
+		{
+			"i": 28,
+			"start": 219.36,
+			"end": 223.36,
+			"en": "No necessity of making a living away from home results in neglect of children, and no father is confronted with his inability to 'buy' an education for his child.",
+			"zh": "没有离家谋生的必要导致儿童被忽视，也没有父亲面临无法为孩子“购买”教育的困境。"
+		}
+	]
+}

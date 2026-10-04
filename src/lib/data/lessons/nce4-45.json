@@ -1,0 +1,314 @@
+{
+	"id": "nce4-45",
+	"book": "nce4",
+	"title": "Of Men and Galaxies",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-45.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.87,
+			"end": 2.72,
+			"en": "Lesson 45",
+			"zh": "第45课"
+		},
+		{
+			"i": 1,
+			"start": 2.87,
+			"end": 11.05,
+			"en": "Of men and galaxies",
+			"zh": "人类与星系"
+		},
+		{
+			"i": 2,
+			"start": 11.2,
+			"end": 18.6,
+			"en": "What is the most influential factor in any human society?",
+			"zh": "在任何人类社会中，最具影响力的因素是什么？"
+		},
+		{
+			"i": 3,
+			"start": 18.75,
+			"end": 25.07,
+			"en": "In man's early days, competition with other creatures must have been critical.",
+			"zh": "在人类早期，与其他生物的竞争一定是至关重要的。"
+		},
+		{
+			"i": 4,
+			"start": 25.22,
+			"end": 28.73,
+			"en": "But this phase of our development is now finished.",
+			"zh": "但我们发展的这个阶段现在已经结束了。"
+		},
+		{
+			"i": 5,
+			"start": 28.88,
+			"end": 35.82,
+			"en": "Indeed, we lack practice and experience nowadays in dealing with primitive conditions.",
+			"zh": "事实上，我们现在缺乏处理原始条件的实践和经验。"
+		},
+		{
+			"i": 6,
+			"start": 35.97,
+			"end": 39.06,
+			"en": "I am sure that, without modern weapons,",
+			"zh": "我确信，如果没有现代武器，"
+		},
+		{
+			"i": 7,
+			"start": 39.21,
+			"end": 49.5,
+			"en": "I would make a very poor show of disputing the ownership of a cave with a bear, and in this I do not think that I stand alone.",
+			"zh": "我在与熊争夺洞穴所有权方面会表现得很糟糕，而且我认为我并非孤身一人。"
+		},
+		{
+			"i": 8,
+			"start": 49.65,
+			"end": 53.81,
+			"en": "The last creature to compete with man was the mosquito.",
+			"zh": "最后一种与人类竞争的生物是蚊子。"
+		},
+		{
+			"i": 9,
+			"start": 53.96,
+			"end": 61.38,
+			"en": "But even the mosquito has been subdued by attention to drainage and by chemical sprays.",
+			"zh": "但即使是蚊子也因对排水的重视和化学喷雾而被制服了。"
+		},
+		{
+			"i": 10,
+			"start": 61.53,
+			"end": 65.98,
+			"en": "Competition between ourselves, person against person,",
+			"zh": "我们彼此之间的竞争，人与人之间，"
+		},
+		{
+			"i": 11,
+			"start": 66.13,
+			"end": 74.4,
+			"en": "community against community, still persists, however; and it is as fierce as it ever was.",
+			"zh": "社群与社群之间，仍然存在；而且它和以往一样激烈。"
+		},
+		{
+			"i": 12,
+			"start": 74.55,
+			"end": 81.59,
+			"en": "But the competition of man against man is not the simple process envisioned in biology.",
+			"zh": "但人与人之间的竞争并不是生物学中设想的简单过程。"
+		},
+		{
+			"i": 13,
+			"start": 81.74,
+			"end": 88.4,
+			"en": "It is not a simple competition for a fixed amount of food determined by the physical environment,",
+			"zh": "这不是一种由物理环境决定的对固定数量食物的简单竞争，"
+		},
+		{
+			"i": 14,
+			"start": 88.55,
+			"end": 95.58,
+			"en": "because the environment that determines our evolution is no longer essentially physical.",
+			"zh": "因为决定我们进化的环境本质上不再是物理的了。"
+		},
+		{
+			"i": 15,
+			"start": 95.73,
+			"end": 101.54,
+			"en": "Our environment is chiefly conditoned by the things we believe.",
+			"zh": "我们的环境主要由我们所相信的事物所决定。"
+		},
+		{
+			"i": 16,
+			"start": 101.69,
+			"end": 107.32,
+			"en": "Morocco and California are bits of the Earth in very similar latitudes,",
+			"zh": "摩洛哥和加利福尼亚是地球上纬度非常相似的两个地方，"
+		},
+		{
+			"i": 17,
+			"start": 107.47,
+			"end": 115.64,
+			"en": "both on the west coasts of continents with similar climates, and probably with rather similar natural resources.",
+			"zh": "都位于大陆西海岸，气候相似，而且可能拥有相当相似的自然资源。"
+		},
+		{
+			"i": 18,
+			"start": 115.79,
+			"end": 119.87,
+			"en": "Yet their present development is wholly different,",
+			"zh": "然而，它们目前的发展却截然不同，"
+		},
+		{
+			"i": 19,
+			"start": 120.02,
+			"end": 123.33,
+			"en": "not so much because of different people even,",
+			"zh": "甚至不是因为不同的人，"
+		},
+		{
+			"i": 20,
+			"start": 123.48,
+			"end": 129.3,
+			"en": "but because of the different thoughts that exist in the minds of their inhabitants.",
+			"zh": "而是因为其居民心中存在的不同思想。"
+		},
+		{
+			"i": 21,
+			"start": 129.45,
+			"end": 132.29,
+			"en": "This is the point I wish to emphasize.",
+			"zh": "这就是我希望强调的重点。"
+		},
+		{
+			"i": 22,
+			"start": 132.44,
+			"end": 138.87,
+			"en": "The most important factor in our environment is the state of our own minds.",
+			"zh": "我们环境中最重要的因素是我们自己的心智状态。"
+		},
+		{
+			"i": 23,
+			"start": 139.02,
+			"end": 143.87,
+			"en": "It is well known that where the white man has invaded a primitive culture,",
+			"zh": "众所周知，当白人侵入原始文化时，"
+		},
+		{
+			"i": 24,
+			"start": 144.02,
+			"end": 151.2,
+			"en": "the most destructive effects have come not from physical weapons but from ideas.",
+			"zh": "最具破坏性的影响并非来自实体武器，而是来自思想。"
+		},
+		{
+			"i": 25,
+			"start": 151.35,
+			"end": 154.14,
+			"en": "Ideas are dangerous.",
+			"zh": "思想是危险的。"
+		},
+		{
+			"i": 26,
+			"start": 154.29,
+			"end": 160.96,
+			"en": "The Holy Office knew this full well when it caused heretics to be burned in days gone by.",
+			"zh": "过去的异端裁判所对此心知肚明，因为它曾将异教徒烧死。"
+		},
+		{
+			"i": 27,
+			"start": 161.11,
+			"end": 170.08,
+			"en": "Indeed, the concept of free speech only exists in our modern society because when you are inside a community,",
+			"zh": "事实上，言论自由的概念之所以存在于我们的现代社会，是因为当你身处一个社群中时，"
+		},
+		{
+			"i": 28,
+			"start": 170.23,
+			"end": 180.61,
+			"en": "you are conditioned by the conventions of the community to such a degree that it is very difficult to conceive of anything really destructive.",
+			"zh": "你被社群的习俗所制约，以至于很难构想出任何真正具有破坏性的事物。"
+		},
+		{
+			"i": 29,
+			"start": 180.76,
+			"end": 187.2,
+			"en": "It is only someone looking on from outside that can inject the dangerous thoughts.",
+			"zh": "只有旁观者才能注入危险的思想。"
+		},
+		{
+			"i": 30,
+			"start": 187.35,
+			"end": 194.89,
+			"en": "I do not doubt that it would be possible to inject ideas into the modern world that would utterly destroy us.",
+			"zh": "我不怀疑有可能向现代世界注入彻底摧毁我们的思想。"
+		},
+		{
+			"i": 31,
+			"start": 195.04,
+			"end": 201.02,
+			"en": "I would like to give you an example, but fortunately I cannot do so.",
+			"zh": "我想给你们举个例子，但幸运的是我不能。"
+		},
+		{
+			"i": 32,
+			"start": 201.17,
+			"end": 205.07,
+			"en": "Perhaps it will suffice to mention the nuclear bomb.",
+			"zh": "也许提到核弹就足够了。"
+		},
+		{
+			"i": 33,
+			"start": 205.22,
+			"end": 210.85,
+			"en": "Imagine the effect on a reasonably advanced technological society,",
+			"zh": "想象一下，对一个相当先进的科技社会，"
+		},
+		{
+			"i": 34,
+			"start": 211,
+			"end": 221.96,
+			"en": "one that still does not possess the bomb, of making it aware of the possibility, of supplying suffcient details to enable the thing to be constructed.",
+			"zh": "一个尚未拥有核弹的社会，如果让它意识到可能性，并提供足够的细节使其能够被建造出来，那会产生什么影响。"
+		},
+		{
+			"i": 35,
+			"start": 222.11,
+			"end": 229.91,
+			"en": "20 or 30 pages of information handed to any of the major world powers around the year 1925,",
+			"zh": "1925年左右，将20或30页信息交给任何一个世界主要大国，"
+		},
+		{
+			"i": 36,
+			"start": 230.06,
+			"end": 234.59,
+			"en": "would have been sufficient to change the course of world history.",
+			"zh": "足以改变世界历史的进程。"
+		},
+		{
+			"i": 37,
+			"start": 234.74,
+			"end": 239.25,
+			"en": "It is a strange thought, but I believe a correct one,",
+			"zh": "这是一个奇怪的想法，但我相信它是正确的，"
+		},
+		{
+			"i": 38,
+			"start": 239.4,
+			"end": 252.51,
+			"en": "that twenty or thirty pages of ideas and information would be capable of turning the present-day world upside down, or even destroying it.",
+			"zh": "即二三十页的思想和信息就足以颠覆当今世界，甚至摧毁它。"
+		},
+		{
+			"i": 39,
+			"start": 252.66,
+			"end": 258.03,
+			"en": "I have often tried to conceive of what those pages might contain,",
+			"zh": "我曾多次试图构想那些页面可能包含什么，"
+		},
+		{
+			"i": 40,
+			"start": 258.18,
+			"end": 266.66,
+			"en": "but of course I cannot do so because I am a prisoner of the present-day world, just as all of you are.",
+			"zh": "但我当然做不到，因为我是当今世界的囚徒，就像你们所有人一样。"
+		},
+		{
+			"i": 41,
+			"start": 266.81,
+			"end": 273.72,
+			"en": "We cannot think outside the particular patterns that our brains are conditioned to, or,",
+			"zh": "我们无法跳出我们大脑被制约的特定模式进行思考，或者说，"
+		},
+		{
+			"i": 42,
+			"start": 273.87,
+			"end": 277.87,
+			"en": "to be more accurate we can think only a very little way outside and then only if we are very original.",
+			"zh": "更准确地说，我们只能稍微跳出一点，而且只有当我们非常具有原创性时才能做到。"
+		}
+	]
+}

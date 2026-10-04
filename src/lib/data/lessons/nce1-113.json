@@ -1,0 +1,195 @@
+{
+	"id": "nce1-113",
+	"book": "nce1",
+	"title": "Small Change",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-113.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.73,
+			"end": 3.73,
+			"en": "Lesson 113",
+			"zh": "第113课"
+		},
+		{
+			"i": 1,
+			"start": 3.88,
+			"end": 6.33,
+			"en": "Small change",
+			"zh": "零钱"
+		},
+		{
+			"i": 2,
+			"start": 6.48,
+			"end": 11.83,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.98,
+			"end": 17.24,
+			"en": "Who has got some small change?",
+			"zh": "谁有零钱？"
+		},
+		{
+			"i": 4,
+			"start": 17.39,
+			"end": 18.92,
+			"en": "Fares, please!",
+			"zh": "请买票！"
+		},
+		{
+			"i": 5,
+			"start": 19.07,
+			"end": 21.39,
+			"en": "Trafalgar Square, please.",
+			"zh": "请到特拉法尔加广场。"
+		},
+		{
+			"i": 6,
+			"start": 21.54,
+			"end": 24.02,
+			"en": "I'm sorry, sir.",
+			"zh": "对不起，先生。"
+		},
+		{
+			"i": 7,
+			"start": 24.17,
+			"end": 27.99,
+			"en": "I can't change a ten-pound note.",
+			"zh": "我没法找开这张十英镑的钞票。"
+		},
+		{
+			"i": 8,
+			"start": 28.14,
+			"end": 31.82,
+			"en": "Haven't you got any small change?",
+			"zh": "你没有零钱吗？"
+		},
+		{
+			"i": 9,
+			"start": 31.97,
+			"end": 34.38,
+			"en": "I've got no small change,",
+			"zh": "我没有零钱，"
+		},
+		{
+			"i": 10,
+			"start": 34.53,
+			"end": 36.36,
+			"en": "I am afraid.",
+			"zh": "恐怕是这样。"
+		},
+		{
+			"i": 11,
+			"start": 36.51,
+			"end": 40.04,
+			"en": "I'll ask some of the passengers.",
+			"zh": "我去问问其他乘客。"
+		},
+		{
+			"i": 12,
+			"start": 40.19,
+			"end": 43.49,
+			"en": "Have you any small change, sir?",
+			"zh": "先生，您有零钱吗？"
+		},
+		{
+			"i": 13,
+			"start": 43.64,
+			"end": 44.81,
+			"en": "I'm sorry.",
+			"zh": "对不起。"
+		},
+		{
+			"i": 14,
+			"start": 44.96,
+			"end": 47.86,
+			"en": "I've got none.",
+			"zh": "我没有。"
+		},
+		{
+			"i": 15,
+			"start": 48.01,
+			"end": 51.65,
+			"en": "I haven't got any either.",
+			"zh": "我也没有。"
+		},
+		{
+			"i": 16,
+			"start": 51.8,
+			"end": 56.69,
+			"en": "Can you change this ten-pound note, madam?",
+			"zh": "女士，您能找开这张十英镑的钞票吗？"
+		},
+		{
+			"i": 17,
+			"start": 56.84,
+			"end": 59.98,
+			"en": "I'm afraid I can't.",
+			"zh": "恐怕我不能。"
+		},
+		{
+			"i": 18,
+			"start": 60.13,
+			"end": 62.79,
+			"en": "Neither can I.",
+			"zh": "我也不能。"
+		},
+		{
+			"i": 19,
+			"start": 62.94,
+			"end": 65.14,
+			"en": "I'm very sorry, sir.",
+			"zh": "我非常抱歉，先生。"
+		},
+		{
+			"i": 20,
+			"start": 65.29,
+			"end": 68.39,
+			"en": "You must get off the bus.",
+			"zh": "您必须下车。"
+		},
+		{
+			"i": 21,
+			"start": 68.54,
+			"end": 73.48,
+			"en": "None of our passengers can change this note.",
+			"zh": "我们没有一个乘客能找开这张钞票。"
+		},
+		{
+			"i": 22,
+			"start": 73.63,
+			"end": 76.21,
+			"en": "They're all millionaires!",
+			"zh": "他们都是百万富翁！"
+		},
+		{
+			"i": 23,
+			"start": 76.36,
+			"end": 79.21,
+			"en": "Except us.",
+			"zh": "除了我们。"
+		},
+		{
+			"i": 24,
+			"start": 79.36,
+			"end": 82.81,
+			"en": "I've got some small change.",
+			"zh": "我有一些零钱。"
+		},
+		{
+			"i": 25,
+			"start": 82.96,
+			"end": 86.96,
+			"en": "So have I.",
+			"zh": "我也有。"
+		}
+	]
+}

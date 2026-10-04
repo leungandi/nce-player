@@ -1,0 +1,167 @@
+{
+	"id": "nce1-87",
+	"book": "nce1",
+	"title": "A Car Crash",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-87.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.67,
+			"end": 2.92,
+			"en": "Lesson 87",
+			"zh": "第87课"
+		},
+		{
+			"i": 1,
+			"start": 3.07,
+			"end": 5.39,
+			"en": "A car crash",
+			"zh": "一场车祸"
+		},
+		{
+			"i": 2,
+			"start": 5.54,
+			"end": 11.24,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.39,
+			"end": 17.24,
+			"en": "Can the mechanics repair Mr. Wood's car?",
+			"zh": "机械师能修好伍德先生的车吗？"
+		},
+		{
+			"i": 4,
+			"start": 17.39,
+			"end": 19.97,
+			"en": "Is my car ready yet?",
+			"zh": "我的车修好了吗？"
+		},
+		{
+			"i": 5,
+			"start": 20.12,
+			"end": 22.12,
+			"en": "I don't know, sir.",
+			"zh": "我不知道，先生。"
+		},
+		{
+			"i": 6,
+			"start": 22.27,
+			"end": 25.42,
+			"en": "What's the number of your car?",
+			"zh": "您的车牌号是多少？"
+		},
+		{
+			"i": 7,
+			"start": 25.57,
+			"end": 32.03,
+			"en": "It's LFZ 312 G.",
+			"zh": "是 LFZ 312 G。"
+		},
+		{
+			"i": 8,
+			"start": 32.18,
+			"end": 35.25,
+			"en": "When did you bring it to us?",
+			"zh": "您什么时候把它送来的？"
+		},
+		{
+			"i": 9,
+			"start": 35.4,
+			"end": 38.96,
+			"en": "I brought it here three days ago.",
+			"zh": "我三天前把它送来的。"
+		},
+		{
+			"i": 10,
+			"start": 39.11,
+			"end": 42.8,
+			"en": "Ah yes, I remember now.",
+			"zh": "啊，是的，我现在想起来了。"
+		},
+		{
+			"i": 11,
+			"start": 42.95,
+			"end": 46.12,
+			"en": "Have your mechanics finished yet?",
+			"zh": "您的机械师修好了吗？"
+		},
+		{
+			"i": 12,
+			"start": 46.27,
+			"end": 49.41,
+			"en": "No, they're still working on it.",
+			"zh": "没有，他们还在修。"
+		},
+		{
+			"i": 13,
+			"start": 49.56,
+			"end": 55.61,
+			"en": "Let's go into the garage and have a look at it.",
+			"zh": "我们去车库看看吧。"
+		},
+		{
+			"i": 14,
+			"start": 55.76,
+			"end": 58.6,
+			"en": "Isn't that your car?",
+			"zh": "那不是你的车吗？"
+		},
+		{
+			"i": 15,
+			"start": 58.75,
+			"end": 62.39,
+			"en": "Well, it was my car.",
+			"zh": "嗯，那是我的车。"
+		},
+		{
+			"i": 16,
+			"start": 62.54,
+			"end": 65.08,
+			"en": "Didn't you have a crash?",
+			"zh": "你没有出车祸吗？"
+		},
+		{
+			"i": 17,
+			"start": 65.23,
+			"end": 66.8,
+			"en": "That's right.",
+			"zh": "是的。"
+		},
+		{
+			"i": 18,
+			"start": 66.95,
+			"end": 70.25,
+			"en": "I drove it into a lamp-post.",
+			"zh": "我把它撞到了路灯柱上。"
+		},
+		{
+			"i": 19,
+			"start": 70.4,
+			"end": 73.39,
+			"en": "Can your mechanics repair it?",
+			"zh": "你的机械师能修好它吗？"
+		},
+		{
+			"i": 20,
+			"start": 73.54,
+			"end": 76.87,
+			"en": "Well, they're trying to repair it, sir.",
+			"zh": "嗯，先生，他们正在努力修。"
+		},
+		{
+			"i": 21,
+			"start": 77.02,
+			"end": 81.02,
+			"en": "But to tell you the truth, you need a new car!",
+			"zh": "但说实话，你需要一辆新车了！"
+		}
+	]
+}

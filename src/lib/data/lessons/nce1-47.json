@@ -1,0 +1,139 @@
+{
+	"id": "nce1-47",
+	"book": "nce1",
+	"title": "A Cup of Coffee",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-47.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.68,
+			"end": 3.04,
+			"en": "Lesson 47",
+			"zh": "第47课"
+		},
+		{
+			"i": 1,
+			"start": 3.19,
+			"end": 6.12,
+			"en": "A cup of coffee",
+			"zh": "一杯咖啡"
+		},
+		{
+			"i": 2,
+			"start": 6.27,
+			"end": 12.01,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.16,
+			"end": 17,
+			"en": "How does Ann like her coffee?",
+			"zh": "安喜欢她的咖啡里放什么？"
+		},
+		{
+			"i": 4,
+			"start": 17.15,
+			"end": 20.46,
+			"en": "Do you like coffee, Ann?",
+			"zh": "安，你喜欢喝咖啡吗？"
+		},
+		{
+			"i": 5,
+			"start": 20.61,
+			"end": 23.28,
+			"en": "Yes, I do.",
+			"zh": "是的，我喜欢。"
+		},
+		{
+			"i": 6,
+			"start": 23.43,
+			"end": 26.25,
+			"en": "Do you want a cup?",
+			"zh": "你想来一杯吗？"
+		},
+		{
+			"i": 7,
+			"start": 26.4,
+			"end": 30.21,
+			"en": "Yes, please, Christine.",
+			"zh": "好的，谢谢，克里斯廷。"
+		},
+		{
+			"i": 8,
+			"start": 30.36,
+			"end": 33.43,
+			"en": "Do you want any sugar?",
+			"zh": "你想放糖吗？"
+		},
+		{
+			"i": 9,
+			"start": 33.58,
+			"end": 35.9,
+			"en": "Yes, please.",
+			"zh": "好的，谢谢。"
+		},
+		{
+			"i": 10,
+			"start": 36.05,
+			"end": 39.03,
+			"en": "Do you want any milk?",
+			"zh": "你想放牛奶吗？"
+		},
+		{
+			"i": 11,
+			"start": 39.18,
+			"end": 40.77,
+			"en": "No, thank you.",
+			"zh": "不，谢谢。"
+		},
+		{
+			"i": 12,
+			"start": 40.92,
+			"end": 44.41,
+			"en": "I don't like milk in my coffee.",
+			"zh": "我不喜欢咖啡里放牛奶。"
+		},
+		{
+			"i": 13,
+			"start": 44.56,
+			"end": 48.26,
+			"en": "I like black coffee.",
+			"zh": "我喜欢黑咖啡。"
+		},
+		{
+			"i": 14,
+			"start": 48.41,
+			"end": 51.18,
+			"en": "Do you like biscuits?",
+			"zh": "你喜欢饼干吗？"
+		},
+		{
+			"i": 15,
+			"start": 51.33,
+			"end": 53.73,
+			"en": "Yes, I do.",
+			"zh": "是的，我喜欢。"
+		},
+		{
+			"i": 16,
+			"start": 53.88,
+			"end": 55.87,
+			"en": "Do you want one?",
+			"zh": "你想来一块吗？"
+		},
+		{
+			"i": 17,
+			"start": 56.02,
+			"end": 60.02,
+			"en": "Yes, please.",
+			"zh": "好的，谢谢。"
+		}
+	]
+}

@@ -1,0 +1,139 @@
+{
+	"id": "nce1-09",
+	"book": "nce1",
+	"title": "How Are You Today",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-09.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.56,
+			"end": 2.33,
+			"en": "Lesson 9",
+			"zh": "第9课"
+		},
+		{
+			"i": 1,
+			"start": 2.48,
+			"end": 5.64,
+			"en": "How are you today?",
+			"zh": "你今天好吗？"
+		},
+		{
+			"i": 2,
+			"start": 5.79,
+			"end": 11.39,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.54,
+			"end": 15.02,
+			"en": "How is Emma?",
+			"zh": "艾玛好吗？"
+		},
+		{
+			"i": 4,
+			"start": 15.17,
+			"end": 17.04,
+			"en": "Hello Helen.",
+			"zh": "你好，海伦。"
+		},
+		{
+			"i": 5,
+			"start": 17.19,
+			"end": 18.87,
+			"en": "Hi Steven.",
+			"zh": "嗨，史蒂文。"
+		},
+		{
+			"i": 6,
+			"start": 19.02,
+			"end": 21.54,
+			"en": "How are you today?",
+			"zh": "你今天好吗？"
+		},
+		{
+			"i": 7,
+			"start": 21.69,
+			"end": 24.13,
+			"en": "I'm very well thank you.",
+			"zh": "我很好，谢谢。"
+		},
+		{
+			"i": 8,
+			"start": 24.28,
+			"end": 25.61,
+			"en": "And you?",
+			"zh": "你呢？"
+		},
+		{
+			"i": 9,
+			"start": 25.76,
+			"end": 28.64,
+			"en": "I'm fine thanks.",
+			"zh": "我很好，谢谢。"
+		},
+		{
+			"i": 10,
+			"start": 28.79,
+			"end": 30.65,
+			"en": "How is Tony?",
+			"zh": "托尼好吗？"
+		},
+		{
+			"i": 11,
+			"start": 30.8,
+			"end": 33.21,
+			"en": "He's fine thanks.",
+			"zh": "他很好，谢谢。"
+		},
+		{
+			"i": 12,
+			"start": 33.36,
+			"end": 34.8,
+			"en": "How's Emma?",
+			"zh": "艾玛好吗？"
+		},
+		{
+			"i": 13,
+			"start": 34.95,
+			"end": 39.05,
+			"en": "She's very well too Helen.",
+			"zh": "她也很好，海伦。"
+		},
+		{
+			"i": 14,
+			"start": 39.2,
+			"end": 40.55,
+			"en": "Goodbye Helen.",
+			"zh": "再见，海伦。"
+		},
+		{
+			"i": 15,
+			"start": 40.7,
+			"end": 42.61,
+			"en": "Nice to see you.",
+			"zh": "很高兴见到你。"
+		},
+		{
+			"i": 16,
+			"start": 42.76,
+			"end": 46.02,
+			"en": "Nice to see you too Steven.",
+			"zh": "史蒂文，我也很高兴见到你。"
+		},
+		{
+			"i": 17,
+			"start": 46.17,
+			"end": 50.17,
+			"en": "Goodbye.",
+			"zh": "再见。"
+		}
+	]
+}

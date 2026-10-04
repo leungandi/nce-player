@@ -1,0 +1,160 @@
+{
+	"id": "nce1-43",
+	"book": "nce1",
+	"title": "Hurry Up",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-43.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.78,
+			"end": 3.01,
+			"en": "Lesson 43",
+			"zh": "英语"
+		},
+		{
+			"i": 1,
+			"start": 3.16,
+			"end": 5.56,
+			"en": "Hurry up!",
+			"zh": "快点！"
+		},
+		{
+			"i": 2,
+			"start": 5.71,
+			"end": 11.18,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.33,
+			"end": 18.06,
+			"en": "How do you know Sam doesn't make the tea very often?",
+			"zh": "你怎么知道山姆不经常泡茶？"
+		},
+		{
+			"i": 4,
+			"start": 18.21,
+			"end": 21.99,
+			"en": "Can you make the tea, Sam?",
+			"zh": "山姆，你会泡茶吗？"
+		},
+		{
+			"i": 5,
+			"start": 22.14,
+			"end": 27.15,
+			"en": "Yes, of course I can, Penny.",
+			"zh": "是的，我当然会，潘妮。"
+		},
+		{
+			"i": 6,
+			"start": 27.3,
+			"end": 30.86,
+			"en": "Is there any water in this kettle?",
+			"zh": "这个水壶里有水吗？"
+		},
+		{
+			"i": 7,
+			"start": 31.01,
+			"end": 33.46,
+			"en": "Yes, there is.",
+			"zh": "是的，有水。"
+		},
+		{
+			"i": 8,
+			"start": 33.61,
+			"end": 35.24,
+			"en": "Where's the tea?",
+			"zh": "茶在哪里？"
+		},
+		{
+			"i": 9,
+			"start": 35.39,
+			"end": 40.84,
+			"en": "It's over there, behind the teapot.",
+			"zh": "它在那边，茶壶后面。"
+		},
+		{
+			"i": 10,
+			"start": 40.99,
+			"end": 43.41,
+			"en": "Can you see it?",
+			"zh": "你能看到吗？"
+		},
+		{
+			"i": 11,
+			"start": 43.56,
+			"end": 49.58,
+			"en": "I can see the teapot, but I can't see the tea.",
+			"zh": "我能看到茶壶，但我看不到茶。"
+		},
+		{
+			"i": 12,
+			"start": 49.73,
+			"end": 51.2,
+			"en": "There it is!",
+			"zh": "它在那儿！"
+		},
+		{
+			"i": 13,
+			"start": 51.35,
+			"end": 53.41,
+			"en": "It's in front of you!",
+			"zh": "就在你面前！"
+		},
+		{
+			"i": 14,
+			"start": 53.56,
+			"end": 58.64,
+			"en": "Ah yes, I can see it now.",
+			"zh": "啊，是的，我现在看到了。"
+		},
+		{
+			"i": 15,
+			"start": 58.79,
+			"end": 61.08,
+			"en": "Where are the cups?",
+			"zh": "杯子在哪里？"
+		},
+		{
+			"i": 16,
+			"start": 61.23,
+			"end": 63.95,
+			"en": "There are some in the cupboard.",
+			"zh": "橱柜里有一些。"
+		},
+		{
+			"i": 17,
+			"start": 64.1,
+			"end": 66.07,
+			"en": "Can you find them?",
+			"zh": "你能找到它们吗？"
+		},
+		{
+			"i": 18,
+			"start": 66.22,
+			"end": 68.98,
+			"en": "Yes. Here they are.",
+			"zh": "是的。它们在这里。"
+		},
+		{
+			"i": 19,
+			"start": 69.13,
+			"end": 70.86,
+			"en": "Hurry up, Sam!",
+			"zh": "快点，山姆！"
+		},
+		{
+			"i": 20,
+			"start": 71.01,
+			"end": 75.01,
+			"en": "The kettle's boiling!",
+			"zh": "水壶开了！"
+		}
+	]
+}

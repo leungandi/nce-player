@@ -1,0 +1,160 @@
+{
+	"id": "nce1-57",
+	"book": "nce1",
+	"title": "An Unusual Day",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-57.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.44,
+			"end": 2.97,
+			"en": "Lesson 57",
+			"zh": "第57课"
+		},
+		{
+			"i": 1,
+			"start": 3.12,
+			"end": 6.44,
+			"en": "An unusual day",
+			"zh": "不寻常的一天"
+		},
+		{
+			"i": 2,
+			"start": 6.59,
+			"end": 12.1,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.25,
+			"end": 17.47,
+			"en": "What is Mr. Sawyer doing tonight?",
+			"zh": "萨维尔先生今晚在做什么？"
+		},
+		{
+			"i": 4,
+			"start": 17.62,
+			"end": 20.29,
+			"en": "It is eight o'clock.",
+			"zh": "八点了。"
+		},
+		{
+			"i": 5,
+			"start": 20.44,
+			"end": 25.05,
+			"en": "The children go to school by car every day,",
+			"zh": "孩子们每天都乘车上学，"
+		},
+		{
+			"i": 6,
+			"start": 25.2,
+			"end": 31.02,
+			"en": "but today, they are going to school on foot.",
+			"zh": "但今天他们步行上学。"
+		},
+		{
+			"i": 7,
+			"start": 31.17,
+			"end": 33.42,
+			"en": "It is ten o'clock.",
+			"zh": "十点了。"
+		},
+		{
+			"i": 8,
+			"start": 33.57,
+			"end": 38.45,
+			"en": "Mrs. Sawyer usually stays at home in the morning,",
+			"zh": "萨维尔夫人通常上午呆在家里，"
+		},
+		{
+			"i": 9,
+			"start": 38.6,
+			"end": 44.35,
+			"en": "but this morning, she is going to the shops.",
+			"zh": "但今天上午她要去商店。"
+		},
+		{
+			"i": 10,
+			"start": 44.5,
+			"end": 47.01,
+			"en": "It is four o'clock.",
+			"zh": "四点了。"
+		},
+		{
+			"i": 11,
+			"start": 47.16,
+			"end": 53.91,
+			"en": "In the afternoon, Mrs. Sawyer usually drinks tea in the living room.",
+			"zh": "下午，萨维尔夫人通常在客厅里喝茶。"
+		},
+		{
+			"i": 12,
+			"start": 54.06,
+			"end": 61.01,
+			"en": "But this afternoon, she is drinking tea in the garden.",
+			"zh": "但今天下午，她在花园里喝茶。"
+		},
+		{
+			"i": 13,
+			"start": 61.16,
+			"end": 63.68,
+			"en": "It is six o'clock.",
+			"zh": "六点了。"
+		},
+		{
+			"i": 14,
+			"start": 63.83,
+			"end": 68.77,
+			"en": "In the evening, the children usually do their homework,",
+			"zh": "晚上，孩子们通常做作业，"
+		},
+		{
+			"i": 15,
+			"start": 68.92,
+			"end": 74.06,
+			"en": "but this evening, they are not doing their homework.",
+			"zh": "但今晚他们没有做作业。"
+		},
+		{
+			"i": 16,
+			"start": 74.21,
+			"end": 79.84,
+			"en": "At the moment, they are playing in the garden.",
+			"zh": "此刻，他们正在花园里玩耍。"
+		},
+		{
+			"i": 17,
+			"start": 79.99,
+			"end": 82.57,
+			"en": "It is nine o'clock.",
+			"zh": "九点了。"
+		},
+		{
+			"i": 18,
+			"start": 82.72,
+			"end": 87.88,
+			"en": "Mr. Sawyer usually reads his newspaper at night.",
+			"zh": "萨维尔先生通常晚上看报纸。"
+		},
+		{
+			"i": 19,
+			"start": 88.03,
+			"end": 92.38,
+			"en": "But he's not reading his newspaper tonight.",
+			"zh": "但今晚他没有看报纸。"
+		},
+		{
+			"i": 20,
+			"start": 92.53,
+			"end": 96.53,
+			"en": "At the moment, he's reading an interesting book.",
+			"zh": "此刻，他正在读一本有趣的书。"
+		}
+	]
+}

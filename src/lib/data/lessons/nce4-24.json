@@ -1,0 +1,223 @@
+{
+	"id": "nce4-24",
+	"book": "nce4",
+	"title": "Beauty",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-24.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.53,
+			"end": 2.03,
+			"en": "Lesson 24",
+			"zh": "第24课"
+		},
+		{
+			"i": 1,
+			"start": 2.18,
+			"end": 7.85,
+			"en": "Beauty",
+			"zh": "美"
+		},
+		{
+			"i": 2,
+			"start": 8,
+			"end": 17.22,
+			"en": "What do glimpses of beauty, either in nature or art, often suggest to the human mind?",
+			"zh": "无论是自然还是艺术中的一瞥之美，常常给人类心灵带来怎样的启示？"
+		},
+		{
+			"i": 3,
+			"start": 17.37,
+			"end": 19.85,
+			"en": "A young man sees a sunset and,",
+			"zh": "一个年轻人看到日落，"
+		},
+		{
+			"i": 4,
+			"start": 20,
+			"end": 24.93,
+			"en": "unable to understand or to express the emotion that it rouses in him,",
+			"zh": "无法理解或表达它在他心中唤起的情感，"
+		},
+		{
+			"i": 5,
+			"start": 25.08,
+			"end": 29.76,
+			"en": "concludes that it must be the gateway to a world that lies beyond",
+			"zh": "便断定它一定是通往一个彼岸世界的门户。"
+		},
+		{
+			"i": 6,
+			"start": 29.91,
+			"end": 35.23,
+			"en": "It is difficult for any of us in moments of intense aesthetic experience",
+			"zh": "在强烈的审美体验时刻，我们任何人都很难"
+		},
+		{
+			"i": 7,
+			"start": 35.38,
+			"end": 39.35,
+			"en": "to resist the suggestion that we are catching a glimpse of a light",
+			"zh": "抗拒这样一种暗示：我们正瞥见一道光，"
+		},
+		{
+			"i": 8,
+			"start": 39.5,
+			"end": 45.37,
+			"en": "that shines down to us from a different realm of existence, different and,",
+			"zh": "它从一个不同的存在领域向我们照耀，一个不同且，"
+		},
+		{
+			"i": 9,
+			"start": 45.52,
+			"end": 50.79,
+			"en": "because the experience is intensely moving, in some way higher.",
+			"zh": "因为这种体验极其动人，在某种程度上更高。"
+		},
+		{
+			"i": 10,
+			"start": 50.94,
+			"end": 57.29,
+			"en": "And, though the gleams blind and dazzle, yet do they convey a hint of beauty and serenity",
+			"zh": "而且，尽管这些微光令人目眩神迷，它们却传达了一种美和宁静的暗示，"
+		},
+		{
+			"i": 11,
+			"start": 57.44,
+			"end": 62.84,
+			"en": "greater than we have known or imagined. Greater too than we can describe;",
+			"zh": "超越了我们已知或想象的一切。也超越了我们所能描述的；"
+		},
+		{
+			"i": 12,
+			"start": 62.99,
+			"end": 67.85,
+			"en": "for language, which was invented to convey the meanings of this world",
+			"zh": "因为语言是为了传达这个世界的意义而发明的，"
+		},
+		{
+			"i": 13,
+			"start": 68,
+			"end": 72.67,
+			"en": "cannot readily be fitted to the uses of another.",
+			"zh": "无法轻易地适用于另一个世界的用途。"
+		},
+		{
+			"i": 14,
+			"start": 72.82,
+			"end": 79.69,
+			"en": "That all great art has this power of suggesting a world beyond is undeniable.",
+			"zh": "所有伟大艺术都具有暗示一个彼岸世界的力量，这是无可否认的。"
+		},
+		{
+			"i": 15,
+			"start": 79.84,
+			"end": 83.22,
+			"en": "In some moods, nature shares it.",
+			"zh": "在某些心境下，大自然也分享着这种力量。"
+		},
+		{
+			"i": 16,
+			"start": 83.37,
+			"end": 88.94,
+			"en": "There is no sky in June so blue that it does not point forward to a bluer,",
+			"zh": "六月的天空，没有一片蓝不会指向更蓝；"
+		},
+		{
+			"i": 17,
+			"start": 89.09,
+			"end": 94.48,
+			"en": "no sunset so beautiful that it does not waken the vision of a greater beauty,",
+			"zh": "没有一轮日落如此美丽，以至于它不会唤起对更伟大美的憧憬，"
+		},
+		{
+			"i": 18,
+			"start": 94.63,
+			"end": 98.08,
+			"en": "a vision which passes before it is fully glimpsed,",
+			"zh": "一种尚未完全捕捉便已消逝的憧憬，"
+		},
+		{
+			"i": 19,
+			"start": 98.23,
+			"end": 102.33,
+			"en": "and in passing leaves an indefinable longing and regret.",
+			"zh": "并在消逝中留下一种难以名状的渴望与遗憾。"
+		},
+		{
+			"i": 20,
+			"start": 102.48,
+			"end": 105.8,
+			"en": "But, if this world is not merely a bad joke,",
+			"zh": "但是，如果这个世界不仅仅是一个糟糕的玩笑，"
+		},
+		{
+			"i": 21,
+			"start": 105.95,
+			"end": 109.9,
+			"en": "life a vulgar flare amid the cool radiance of the stars,",
+			"zh": "生命不是群星凉爽光辉中一道庸俗的闪光，"
+		},
+		{
+			"i": 22,
+			"start": 110.05,
+			"end": 114.76,
+			"en": "and existence an empty laugh braying across the mysteries;",
+			"zh": "存在也不是在奥秘中咆哮的空洞笑声；"
+		},
+		{
+			"i": 23,
+			"start": 114.91,
+			"end": 118.99,
+			"en": "if these intimations of a something behind and beyond",
+			"zh": "如果这些关于某种在后和在上的暗示"
+		},
+		{
+			"i": 24,
+			"start": 119.14,
+			"end": 122.85,
+			"en": "are not evil humour born of indigestion,",
+			"zh": "不是消化不良产生的恶趣味，"
+		},
+		{
+			"i": 25,
+			"start": 123,
+			"end": 128.65,
+			"en": "or whimsies sent by the devil to mock and madden us, if, in a word",
+			"zh": "也不是魔鬼送来嘲弄和使我们发狂的怪念头，如果，一言以蔽之，"
+		},
+		{
+			"i": 26,
+			"start": 128.8,
+			"end": 134.46,
+			"en": "beauty means something yet we must not seek to interpret the meaning.",
+			"zh": "美有所指，那么我们就不必去诠释它的意义。"
+		},
+		{
+			"i": 27,
+			"start": 134.61,
+			"end": 139.58,
+			"en": "If we glimpse the unutterable, it is unwise to try to utter it,",
+			"zh": "如果我们瞥见了不可言说之物，试图言说它是不明智的，"
+		},
+		{
+			"i": 28,
+			"start": 139.73,
+			"end": 145.78,
+			"en": "nor should we seek to invest with significance that which we cannot grasp.",
+			"zh": "我们也不应试图赋予我们无法把握的事物以意义。"
+		},
+		{
+			"i": 29,
+			"start": 145.93,
+			"end": 149.93,
+			"en": "Beauty in terms of our human meanings is meaningless.",
+			"zh": "就我们人类的意义而言，美是无意义的。"
+		}
+	]
+}

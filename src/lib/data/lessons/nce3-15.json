@@ -1,0 +1,153 @@
+{
+	"id": "nce3-15",
+	"book": "nce3",
+	"title": "Fifty Pence Worth of Trouble",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-15.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.44,
+			"end": 2.5,
+			"en": "Lesson 15",
+			"zh": "第15课"
+		},
+		{
+			"i": 1,
+			"start": 2.65,
+			"end": 10.01,
+			"en": "Fifty pence worth of trouble",
+			"zh": "五十便士的麻烦"
+		},
+		{
+			"i": 2,
+			"start": 10.16,
+			"end": 16.5,
+			"en": "Did George get anything for his fifty pence? What?",
+			"zh": "乔治用他的五十便士买到什么东西了吗？什么东西？"
+		},
+		{
+			"i": 3,
+			"start": 16.65,
+			"end": 20.45,
+			"en": "Children always appreciate small gifts of money.",
+			"zh": "孩子们总是喜欢收到小额的零用钱。"
+		},
+		{
+			"i": 4,
+			"start": 20.6,
+			"end": 30.84,
+			"en": "Mum or dad, of course, provides a regular supply of pocket money, but uncles and aunts are always a source of extra income.",
+			"zh": "当然，爸爸妈妈会定期地给零花钱，但叔叔阿姨们总是额外的收入来源。"
+		},
+		{
+			"i": 5,
+			"start": 30.99,
+			"end": 35.02,
+			"en": "With some children, small sums go a long way.",
+			"zh": "对有些孩子来说，小数目也能派上大用场。"
+		},
+		{
+			"i": 6,
+			"start": 35.17,
+			"end": 43.01,
+			"en": "If fifty pence pieces are not exchanged for sweets, they rattle for months inside money boxes.",
+			"zh": "如果五十便士没有换成糖果，它们就会在钱箱里叮当响上好几个月。"
+		},
+		{
+			"i": 7,
+			"start": 43.16,
+			"end": 48.44,
+			"en": "Only very thrifty children manage to fill up a money box.",
+			"zh": "只有非常节俭的孩子才能把钱箱装满。"
+		},
+		{
+			"i": 8,
+			"start": 48.59,
+			"end": 56.8,
+			"en": "For most of them, fifty pence is a small price to pay for a nice big bar of chocolate.",
+			"zh": "对于他们中的大多数人来说，五十便士买一大块美味的巧克力是很划算的。"
+		},
+		{
+			"i": 9,
+			"start": 56.95,
+			"end": 62.19,
+			"en": "My nephew, George, has a money box but it is always empty.",
+			"zh": "我的侄子乔治有一个钱箱，但它总是空的。"
+		},
+		{
+			"i": 10,
+			"start": 62.34,
+			"end": 69.9,
+			"en": "Very few of the fifty pence pieces and pound coins I have given him have found their way there.",
+			"zh": "我给他的五十便士硬币和英镑硬币很少有能存到那里的。"
+		},
+		{
+			"i": 11,
+			"start": 70.05,
+			"end": 74.48,
+			"en": "I gave him fifty pence yesterday and advised him to save it.",
+			"zh": "昨天我给了他五十便士，并建议他存起来。"
+		},
+		{
+			"i": 12,
+			"start": 74.63,
+			"end": 79.41,
+			"en": "Instead, he bought himself fifty pence worth of trouble.",
+			"zh": "结果，他却给自己买来了五十便士的麻烦。"
+		},
+		{
+			"i": 13,
+			"start": 79.56,
+			"end": 89.66,
+			"en": "On his way to the sweet shop, he dropped his fifty pence and it bounced along the pavement and then disappeared down a drain.",
+			"zh": "在去糖果店的路上，他把五十便士掉了，它沿着人行道跳动，然后掉进了一个下水道。"
+		},
+		{
+			"i": 14,
+			"start": 89.81,
+			"end": 92.06,
+			"en": "George took off his jacket,",
+			"zh": "乔治脱下他的夹克，"
+		},
+		{
+			"i": 15,
+			"start": 92.21,
+			"end": 97.39,
+			"en": "rolled up his sleeves and pushed his right arm through the drain cover.",
+			"zh": "卷起袖子，把右臂伸进了下水道盖子。"
+		},
+		{
+			"i": 16,
+			"start": 97.54,
+			"end": 105.71,
+			"en": "He could not find his 50 pence piece anywhere, and what is more, he could not get his arm out.",
+			"zh": "他到处都找不到他的五十便士硬币，更糟的是，他抽不出他的胳膊了。"
+		},
+		{
+			"i": 17,
+			"start": 105.86,
+			"end": 115.2,
+			"en": "A crowd of people gathered round him and a lady rubbed his arm with soap and butter, but George was firmly stuck.",
+			"zh": "一群人围在他周围，一位女士用肥皂和黄油擦他的胳膊，但乔治被牢牢地卡住了。"
+		},
+		{
+			"i": 18,
+			"start": 115.35,
+			"end": 122.58,
+			"en": "The fire brigade was called and two fire fighters freed George using a special type of grease.",
+			"zh": "消防队被叫来了，两名消防队员用一种特殊的润滑脂把乔治解救了出来。"
+		},
+		{
+			"i": 19,
+			"start": 122.73,
+			"end": 126.73,
+			"en": "George was not too upset by his experience because the lady who owns the sweet shop heard about his troubles and rewarded him with a large box of chocolates.",
+			"zh": "乔治并没有因为这次经历而太难过，因为糖果店的老板娘听说了他的麻烦，并奖励了他一大盒巧克力。"
+		}
+	]
+}

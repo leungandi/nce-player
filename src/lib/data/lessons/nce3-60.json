@@ -1,0 +1,293 @@
+{
+	"id": "nce3-60",
+	"book": "nce3",
+	"title": "Too Early and Too Late",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-60.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.22,
+			"end": 2.24,
+			"en": "Lesson 60",
+			"zh": "第60课"
+		},
+		{
+			"i": 1,
+			"start": 2.39,
+			"end": 10.47,
+			"en": "Too early and too late",
+			"zh": "为时过早和为时过晚"
+		},
+		{
+			"i": 2,
+			"start": 10.62,
+			"end": 15.61,
+			"en": "Why did the young girl miss the train?",
+			"zh": "小女孩为什么错过了火车？"
+		},
+		{
+			"i": 3,
+			"start": 15.76,
+			"end": 23.16,
+			"en": "Punctuality is a necessary habit in all public affairs in civilized society.",
+			"zh": "在文明社会中，准时是处理一切公共事务的必要习惯。"
+		},
+		{
+			"i": 4,
+			"start": 23.31,
+			"end": 31.38,
+			"en": "Without it, nothing could ever be brought to a conclusion; everything would be in a state of chaos.",
+			"zh": "没有它，任何事情都无法成功；一切都将处于混乱之中。"
+		},
+		{
+			"i": 5,
+			"start": 31.53,
+			"end": 38.29,
+			"en": "Only in a sparsely-populated rural community is it possible to disregard it.",
+			"zh": "只有在人口稀少的乡村社区，才有可能忽视它。"
+		},
+		{
+			"i": 6,
+			"start": 38.44,
+			"end": 43.89,
+			"en": "In ordinary living, there can be some tolerance of unpunctuality.",
+			"zh": "在日常生活中，对不准时可以有一些宽容。"
+		},
+		{
+			"i": 7,
+			"start": 44.04,
+			"end": 53.38,
+			"en": "The intellectual, who is working on some abstruse problem, has everything coordinated and organized for the matter in hand.",
+			"zh": "正在研究某个深奥问题的知识分子，会把手头的一切事物都协调组织好。"
+		},
+		{
+			"i": 8,
+			"start": 53.53,
+			"end": 57.92,
+			"en": "He is therefore forgiven if late for a dinner party.",
+			"zh": "因此，如果他赴晚宴迟到了，是可以被原谅的。"
+		},
+		{
+			"i": 9,
+			"start": 58.07,
+			"end": 65.48,
+			"en": "But people are often reproached for unpunctuality when their only fault is cutting things fine.",
+			"zh": "但人们常常因为不准时而受到指责，尽管他们唯一的过错只是把时间安排得太紧凑。"
+		},
+		{
+			"i": 10,
+			"start": 65.63,
+			"end": 70.32,
+			"en": "It is hard for energetic, quick-minded people to waste time,",
+			"zh": "对于精力充沛、头脑敏捷的人来说，浪费时间是很难的，"
+		},
+		{
+			"i": 11,
+			"start": 70.47,
+			"end": 76.1,
+			"en": "so they are often tempted to finish a job before setting out to keep an appointment.",
+			"zh": "所以他们常常想在赴约之前完成一项工作。"
+		},
+		{
+			"i": 12,
+			"start": 76.25,
+			"end": 85.73,
+			"en": "If no accidents occur on the way, like punctured tyres, diversions of traffic, sudden descent of fog, they will be on time.",
+			"zh": "如果路上没有发生意外，比如爆胎、交通改道、突如其来的大雾，他们就会准时到达。"
+		},
+		{
+			"i": 13,
+			"start": 85.88,
+			"end": 91.89,
+			"en": "They are often more industrious, useful citizens than those who are never late.",
+			"zh": "他们往往比那些从不迟到的人更勤劳、更有用。"
+		},
+		{
+			"i": 14,
+			"start": 92.04,
+			"end": 97.97,
+			"en": "The over-punctual can be as much a trial to others as the unpunctual.",
+			"zh": "过分准时的人和不准时的人一样，都会给别人带来麻烦。"
+		},
+		{
+			"i": 15,
+			"start": 98.12,
+			"end": 104.41,
+			"en": "The guest who arrives half an hour too soon is the greatest nuisance.",
+			"zh": "提前半小时到达的客人是最让人讨厌的。"
+		},
+		{
+			"i": 16,
+			"start": 104.56,
+			"end": 108.17,
+			"en": "Some friends of my family had this irritating habit.",
+			"zh": "我家里有些朋友就有这种令人恼火的习惯。"
+		},
+		{
+			"i": 17,
+			"start": 108.32,
+			"end": 113.94,
+			"en": "The only thing to do was ask them to come half an hour later than the other guests.",
+			"zh": "唯一的办法就是请他们比其他客人晚半小时来。"
+		},
+		{
+			"i": 18,
+			"start": 114.09,
+			"end": 117.54,
+			"en": "Then they arrived just when we wanted them.",
+			"zh": "这样他们就能在我们想要的时候到达。"
+		},
+		{
+			"i": 19,
+			"start": 117.69,
+			"end": 125.82,
+			"en": "If you are catching a train, it is always better to be comfortably early than even a fraction of a minute too late.",
+			"zh": "如果你要赶火车，最好是提前充足时间，而不是哪怕晚一分钟。"
+		},
+		{
+			"i": 20,
+			"start": 125.97,
+			"end": 129.42,
+			"en": "Although being early may mean wasting a little time,",
+			"zh": "尽管提前到达可能会浪费一点时间，"
+		},
+		{
+			"i": 21,
+			"start": 129.57,
+			"end": 135.33,
+			"en": "this will be less than if you miss the train and have to wait an hour or more for the next one;",
+			"zh": "但这比你错过火车，不得不等一个多小时才能搭乘下一班车要好；"
+		},
+		{
+			"i": 22,
+			"start": 135.48,
+			"end": 146.2,
+			"en": "and you avoid the frustration of arriving at the very moment when the train is drawing out of the station and being unable to get on it.",
+			"zh": "而且你还能避免那种火车正驶出车站而你却无法上车的沮丧。"
+		},
+		{
+			"i": 23,
+			"start": 146.35,
+			"end": 155.87,
+			"en": "An even harder situation is to be on the platform in good time for a train and still to see it go off without you.",
+			"zh": "更令人恼火的情况是，你准时到了站台，却眼睁睁看着火车没有你开走。"
+		},
+		{
+			"i": 24,
+			"start": 156.02,
+			"end": 162.57,
+			"en": "Such an experience befell a certain young girl the first time she was travelling alone.",
+			"zh": "这样的经历就发生在一个年轻女孩身上，那是她第一次独自旅行。"
+		},
+		{
+			"i": 25,
+			"start": 162.72,
+			"end": 167.05,
+			"en": "She entered the station twenty minutes before the train was due,",
+			"zh": "她在火车到站前20分钟就进了车站，"
+		},
+		{
+			"i": 26,
+			"start": 167.2,
+			"end": 169.81,
+			"en": "since her parents had impressed upon her",
+			"zh": "因为她的父母曾告诫她"
+		},
+		{
+			"i": 27,
+			"start": 169.96,
+			"end": 179.17,
+			"en": "that it would be unforgivable to miss it and cause the friends with whom she was going to stay to make two journeys to meet her.",
+			"zh": "错过火车是不可原谅的，那会让她要去拜访的朋友来接她两次。"
+		},
+		{
+			"i": 28,
+			"start": 179.32,
+			"end": 183.77,
+			"en": "She gave her luggage to a porter and showed him her ticket.",
+			"zh": "她把行李交给一个搬运工，并给他看了她的车票。"
+		},
+		{
+			"i": 29,
+			"start": 183.92,
+			"end": 189.01,
+			"en": "To her horror he said that she was two hours too soon.",
+			"zh": "让她吃惊的是，他说她早来了两个小时。"
+		},
+		{
+			"i": 30,
+			"start": 189.16,
+			"end": 198.7,
+			"en": "She felt in her handbag for the piece of paper on which her father had written down all the details of the journey and gave it to the porter.",
+			"zh": "她从手提包里摸索出父亲写下所有旅行细节的纸条，交给了搬运工。"
+		},
+		{
+			"i": 31,
+			"start": 198.85,
+			"end": 210.75,
+			"en": "He agreed that a train did come into the station at the time on the paper and that it did stop, but only to take on mail, not passengers.",
+			"zh": "他承认火车确实在纸上写的时间到达车站，也确实停靠了，但那只是为了装载邮件，而不是载客。"
+		},
+		{
+			"i": 32,
+			"start": 210.9,
+			"end": 218.14,
+			"en": "The girl asked to see a timetable, feeling sure that her father could not have made such a mistake.",
+			"zh": "女孩要求看时刻表，她确信她父亲不可能犯这样的错误。"
+		},
+		{
+			"i": 33,
+			"start": 218.29,
+			"end": 223.04,
+			"en": "The porter went to fetch one and arrived back with the station master,",
+			"zh": "搬运工去拿时刻表，回来时带着站长，"
+		},
+		{
+			"i": 34,
+			"start": 223.19,
+			"end": 232.89,
+			"en": "who produced it with a flourish and pointed out a microscopic 'o' beside the time of the arrival of the train at his station;",
+			"zh": "站长得意地拿出时刻表，指出了他们车站火车到站时间旁边的一个微小的“o”；"
+		},
+		{
+			"i": 35,
+			"start": 233.04,
+			"end": 238.71,
+			"en": "this little 'o' indicated that the train only stopped for mail.",
+			"zh": "这个小小的“o”表示火车只停靠装载邮件。"
+		},
+		{
+			"i": 36,
+			"start": 238.86,
+			"end": 243.44,
+			"en": "Just as that moment the train came into the station.",
+			"zh": "就在那时，火车进站了。"
+		},
+		{
+			"i": 37,
+			"start": 243.59,
+			"end": 250.63,
+			"en": "The girl, tears streaming down her face, begged to be allowed to slip into the guard's van.",
+			"zh": "女孩泪流满面，乞求允许她溜进守车。"
+		},
+		{
+			"i": 38,
+			"start": 250.78,
+			"end": 256.93,
+			"en": "But the station master was adamant: rules could not be broken.",
+			"zh": "但站长态度坚决：规则不能打破。"
+		},
+		{
+			"i": 39,
+			"start": 257.08,
+			"end": 261.08,
+			"en": "And she had to watch that train disappear towards her destination while she was left behind.",
+			"zh": "她不得不眼睁睁看着那列火车开往目的地，而她却被留在了原地。"
+		}
+	]
+}

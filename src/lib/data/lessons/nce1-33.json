@@ -1,0 +1,118 @@
+{
+	"id": "nce1-33",
+	"book": "nce1",
+	"title": "A Fine Day",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-33.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.71,
+			"end": 3.11,
+			"en": "Lesson 33",
+			"zh": "第33课"
+		},
+		{
+			"i": 1,
+			"start": 3.26,
+			"end": 5.87,
+			"en": "A fine day",
+			"zh": "美好的一天"
+		},
+		{
+			"i": 2,
+			"start": 6.02,
+			"end": 11.27,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.42,
+			"end": 16.11,
+			"en": "Where is the Jones family?",
+			"zh": "琼斯一家在哪里？"
+		},
+		{
+			"i": 4,
+			"start": 16.26,
+			"end": 19.82,
+			"en": "It is a fine day today.",
+			"zh": "今天天气很好。"
+		},
+		{
+			"i": 5,
+			"start": 19.97,
+			"end": 24.03,
+			"en": "There are some clouds in the sky,",
+			"zh": "天空中有些云，"
+		},
+		{
+			"i": 6,
+			"start": 24.18,
+			"end": 27.59,
+			"en": "but the sun is shining.",
+			"zh": "但是阳光普照。"
+		},
+		{
+			"i": 7,
+			"start": 27.74,
+			"end": 31.63,
+			"en": "Mr. Jones is with his family.",
+			"zh": "琼斯先生和家人在一起。"
+		},
+		{
+			"i": 8,
+			"start": 31.78,
+			"end": 35.68,
+			"en": "They are walking over the bridge.",
+			"zh": "他们正走过桥。"
+		},
+		{
+			"i": 9,
+			"start": 35.83,
+			"end": 39.71,
+			"en": "There are some boats on the river.",
+			"zh": "河上有一些船。"
+		},
+		{
+			"i": 10,
+			"start": 39.86,
+			"end": 45.58,
+			"en": "Mr. Jones and his wife are looking at them.",
+			"zh": "琼斯先生和他的妻子正在看它们。"
+		},
+		{
+			"i": 11,
+			"start": 45.73,
+			"end": 50.03,
+			"en": "Sally is looking at a big ship.",
+			"zh": "萨莉正在看一艘大船。"
+		},
+		{
+			"i": 12,
+			"start": 50.18,
+			"end": 54.6,
+			"en": "The ship is going under the bridge.",
+			"zh": "船正在从桥下穿过。"
+		},
+		{
+			"i": 13,
+			"start": 54.75,
+			"end": 59.36,
+			"en": "Tim is looking at an aeroplane.",
+			"zh": "蒂姆正在看一架飞机。"
+		},
+		{
+			"i": 14,
+			"start": 59.51,
+			"end": 63.51,
+			"en": "The aeroplane is flying over the river.",
+			"zh": "飞机正在河上空飞过。"
+		}
+	]
+}

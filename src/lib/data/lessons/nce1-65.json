@@ -1,0 +1,195 @@
+{
+	"id": "nce1-65",
+	"book": "nce1",
+	"title": "Not a Baby",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-65.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.73,
+			"end": 3.2,
+			"en": "Lesson 65",
+			"zh": "第65课"
+		},
+		{
+			"i": 1,
+			"start": 3.35,
+			"end": 6.1,
+			"en": "Not a baby",
+			"zh": "不是小孩子"
+		},
+		{
+			"i": 2,
+			"start": 6.25,
+			"end": 11.43,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.58,
+			"end": 17.52,
+			"en": "Does Jill take the key to the front door?",
+			"zh": "吉尔拿走了前门的钥匙吗？"
+		},
+		{
+			"i": 4,
+			"start": 17.67,
+			"end": 22.48,
+			"en": "What are you going to do this evening, Jill?",
+			"zh": "吉尔，你今晚打算做什么？"
+		},
+		{
+			"i": 5,
+			"start": 22.63,
+			"end": 27,
+			"en": "I'm going to meet some friends, Dad.",
+			"zh": "爸爸，我打算去见几个朋友。"
+		},
+		{
+			"i": 6,
+			"start": 27.15,
+			"end": 30.04,
+			"en": "You mustn't come home late.",
+			"zh": "你不许回来太晚。"
+		},
+		{
+			"i": 7,
+			"start": 30.19,
+			"end": 34.72,
+			"en": "You must be home at half past ten.",
+			"zh": "你必须在十点半之前到家。"
+		},
+		{
+			"i": 8,
+			"start": 34.87,
+			"end": 39.26,
+			"en": "I can't get home so early, Dad!",
+			"zh": "爸爸，我不能那么早回家！"
+		},
+		{
+			"i": 9,
+			"start": 39.41,
+			"end": 44.33,
+			"en": "Can I have the key to the front door, please?",
+			"zh": "我能拿前门的钥匙吗？"
+		},
+		{
+			"i": 10,
+			"start": 44.48,
+			"end": 47.46,
+			"en": "No, you can't.",
+			"zh": "不，你不能。"
+		},
+		{
+			"i": 11,
+			"start": 47.61,
+			"end": 51.74,
+			"en": "Jill's eighteen years old, Tom.",
+			"zh": "吉尔已经十八岁了，汤姆。"
+		},
+		{
+			"i": 12,
+			"start": 51.89,
+			"end": 54.59,
+			"en": "She's not a baby.",
+			"zh": "她不是小孩子。"
+		},
+		{
+			"i": 13,
+			"start": 54.74,
+			"end": 56.83,
+			"en": "Give her the key.",
+			"zh": "把钥匙给她吧。"
+		},
+		{
+			"i": 14,
+			"start": 56.98,
+			"end": 60.93,
+			"en": "She always comes home early.",
+			"zh": "她总是回家很早的。"
+		},
+		{
+			"i": 15,
+			"start": 61.08,
+			"end": 64.3,
+			"en": "Oh, all right!",
+			"zh": "哦，好吧！"
+		},
+		{
+			"i": 16,
+			"start": 64.45,
+			"end": 66.12,
+			"en": "Here you are.",
+			"zh": "给你。"
+		},
+		{
+			"i": 17,
+			"start": 66.27,
+			"end": 71.37,
+			"en": "But you mustn't come home after a quarter past eleven.",
+			"zh": "但是你不能在十一点一刻之后回家。"
+		},
+		{
+			"i": 18,
+			"start": 71.52,
+			"end": 73.42,
+			"en": "Do you hear?",
+			"zh": "听到了吗？"
+		},
+		{
+			"i": 19,
+			"start": 73.57,
+			"end": 75.67,
+			"en": "Yes, Dad.",
+			"zh": "是的，爸爸。"
+		},
+		{
+			"i": 20,
+			"start": 75.82,
+			"end": 77.66,
+			"en": "Thanks, Mum.",
+			"zh": "谢谢，妈妈。"
+		},
+		{
+			"i": 21,
+			"start": 77.81,
+			"end": 79.77,
+			"en": "That's all right.",
+			"zh": "没关系。"
+		},
+		{
+			"i": 22,
+			"start": 79.92,
+			"end": 81.37,
+			"en": "Goodbye.",
+			"zh": "再见。"
+		},
+		{
+			"i": 23,
+			"start": 81.52,
+			"end": 84.24,
+			"en": "Enjoy yourself!",
+			"zh": "玩得开心！"
+		},
+		{
+			"i": 24,
+			"start": 84.39,
+			"end": 88.15,
+			"en": "We always enjoy ourselves, Mum.",
+			"zh": "妈妈，我们总是玩得很开心的。"
+		},
+		{
+			"i": 25,
+			"start": 88.3,
+			"end": 92.3,
+			"en": "Bye-bye.",
+			"zh": "再见。"
+		}
+	]
+}

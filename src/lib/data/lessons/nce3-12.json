@@ -1,0 +1,153 @@
+{
+	"id": "nce3-12",
+	"book": "nce3",
+	"title": "Life on a Desert Island",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-12.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.49,
+			"end": 2.12,
+			"en": "Lesson 12",
+			"zh": "第12课"
+		},
+		{
+			"i": 1,
+			"start": 2.27,
+			"end": 9.46,
+			"en": "Life on a desert island",
+			"zh": "荒岛生活"
+		},
+		{
+			"i": 2,
+			"start": 9.61,
+			"end": 16.09,
+			"en": "What was exceptional about the two men's stay on the desert island?",
+			"zh": "那两个人留在荒岛上有什么特别之处？"
+		},
+		{
+			"i": 3,
+			"start": 16.24,
+			"end": 22.04,
+			"en": "Most of us have formed an unrealistic picture of life on a desert island.",
+			"zh": "我们大多数人对荒岛生活形成了一种不切实际的想象。"
+		},
+		{
+			"i": 4,
+			"start": 22.19,
+			"end": 29.7,
+			"en": "We sometimes imagine a desert island to be a sort of paradise where the sun always shines.",
+			"zh": "我们有时把荒岛想象成一个阳光普照的天堂。"
+		},
+		{
+			"i": 5,
+			"start": 29.85,
+			"end": 32.29,
+			"en": "Life there is simple and good.",
+			"zh": "那里的生活简单而美好。"
+		},
+		{
+			"i": 6,
+			"start": 32.44,
+			"end": 37.37,
+			"en": "Ripe fruit falls from the trees and you never have to work.",
+			"zh": "成熟的果实从树上掉下来，你根本不用劳动。"
+		},
+		{
+			"i": 7,
+			"start": 37.52,
+			"end": 41.01,
+			"en": "The other side of the picture is quite the opposite.",
+			"zh": "而另一方面的情况却恰恰相反。"
+		},
+		{
+			"i": 8,
+			"start": 41.16,
+			"end": 43.79,
+			"en": "Life on a desert island is wretched.",
+			"zh": "荒岛上的生活是悲惨的。"
+		},
+		{
+			"i": 9,
+			"start": 43.94,
+			"end": 52.34,
+			"en": "You either starve to death or live like Robinson Crusoe, waiting for a boat which never comes.",
+			"zh": "你不是饿死，就是像鲁滨逊漂流记一样，苦等一艘永不来临的船。"
+		},
+		{
+			"i": 10,
+			"start": 52.49,
+			"end": 60.66,
+			"en": "Perhaps there is an element of truth in both these pictures, but few of us have had the opportunity to find out.",
+			"zh": "也许这两种景象都有点真实性，但我们很少有人有机会去证实。"
+		},
+		{
+			"i": 11,
+			"start": 60.81,
+			"end": 69.1,
+			"en": "Two men who recently spent five days on a coral island wished they had stayed there longer.",
+			"zh": "最近，有两个人在一个珊瑚岛上待了五天，他们真希望能在那里待得更久。"
+		},
+		{
+			"i": 12,
+			"start": 69.25,
+			"end": 75.7,
+			"en": "They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired.",
+			"zh": "他们正驾驶一艘严重受损的船从维尔京群岛前往迈阿密修理。"
+		},
+		{
+			"i": 13,
+			"start": 75.85,
+			"end": 80,
+			"en": "During the journey, their boat began to sink.",
+			"zh": "旅途中，他们的船开始下沉。"
+		},
+		{
+			"i": 14,
+			"start": 80.15,
+			"end": 93.48,
+			"en": "They quickly loaded a small rubber dinghy with food, matches, and cans of beer and rowed for a few miles across the Caribbean until they arrived at a tiny coral island.",
+			"zh": "他们迅速将食物、火柴和几罐啤酒装上一艘小橡皮艇，划行了几英里穿过加勒比海，直到抵达一个微小的珊瑚岛。"
+		},
+		{
+			"i": 15,
+			"start": 93.63,
+			"end": 101.37,
+			"en": "There were hardly any trees on the island and there was no water, but this did not prove to be a problem.",
+			"zh": "岛上几乎没有树木，也没有水，但这并没有成为一个问题。"
+		},
+		{
+			"i": 16,
+			"start": 101.52,
+			"end": 105.13,
+			"en": "The men collected rainwater in the rubber dinghy.",
+			"zh": "两人用橡皮艇收集雨水。"
+		},
+		{
+			"i": 17,
+			"start": 105.28,
+			"end": 109.41,
+			"en": "As they had brought a spear gun with them, they had plenty to eat.",
+			"zh": "由于他们带了一支鱼枪，所以食物很充足。"
+		},
+		{
+			"i": 18,
+			"start": 109.56,
+			"end": 117.05,
+			"en": "They caught lobster and fish every day, and as one of them put it 'ate like kings'.",
+			"zh": "他们每天都捕捞龙虾和鱼，正如其中一人所说，他们“吃得像国王一样”。"
+		},
+		{
+			"i": 19,
+			"start": 117.2,
+			"end": 121.2,
+			"en": "When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave.",
+			"zh": "五天后，当一艘过往的油轮救起他们时，两人都真诚地感到遗憾，因为他们不得不离开。"
+		}
+	]
+}

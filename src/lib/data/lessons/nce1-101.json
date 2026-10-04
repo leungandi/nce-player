@@ -1,0 +1,181 @@
+{
+	"id": "nce1-101",
+	"book": "nce1",
+	"title": "A Card From Jimmy",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-101.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.81,
+			"end": 4.14,
+			"en": "Lesson 101",
+			"zh": "第101课"
+		},
+		{
+			"i": 1,
+			"start": 4.29,
+			"end": 7.28,
+			"en": "A card from Jimmy",
+			"zh": "吉米的明信片"
+		},
+		{
+			"i": 2,
+			"start": 7.43,
+			"end": 12.79,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.94,
+			"end": 23.46,
+			"en": "Does grandmother seem pleased to get a card from Jimmy? Why/Why not?",
+			"zh": "奶奶收到吉米的明信片似乎很高兴吗？为什么/为什么不？"
+		},
+		{
+			"i": 4,
+			"start": 23.61,
+			"end": 28.79,
+			"en": "Read Jimmy's card to me please, Penny.",
+			"zh": "请把吉米的明信片读给我听，潘妮。"
+		},
+		{
+			"i": 5,
+			"start": 28.94,
+			"end": 37.01,
+			"en": "'I have just arrived in Scotland and I'm staying at a Youth Hostel.'",
+			"zh": "“我刚到苏格兰，住在青年旅社。”"
+		},
+		{
+			"i": 6,
+			"start": 37.16,
+			"end": 38.82,
+			"en": "Eh?",
+			"zh": "嗯？"
+		},
+		{
+			"i": 7,
+			"start": 38.97,
+			"end": 43.89,
+			"en": "He says he's just arrived in Scotland.",
+			"zh": "他说他刚到苏格兰。"
+		},
+		{
+			"i": 8,
+			"start": 44.04,
+			"end": 49.26,
+			"en": "He says he's staying at a Youth Hostel.",
+			"zh": "他说他住在青年旅社。"
+		},
+		{
+			"i": 9,
+			"start": 49.41,
+			"end": 56.19,
+			"en": "You know he's a member of the Y.H.A.",
+			"zh": "你知道他是青年旅社协会的成员。"
+		},
+		{
+			"i": 10,
+			"start": 56.34,
+			"end": 58.03,
+			"en": "The what?",
+			"zh": "什么？"
+		},
+		{
+			"i": 11,
+			"start": 58.18,
+			"end": 61.16,
+			"en": "The Y.H.A., Mum.",
+			"zh": "青年旅社协会，妈妈。"
+		},
+		{
+			"i": 12,
+			"start": 61.31,
+			"end": 65.67,
+			"en": "The Youth Hostels Association.",
+			"zh": "青年旅社协会。"
+		},
+		{
+			"i": 13,
+			"start": 65.82,
+			"end": 69.21,
+			"en": "What else does he say?",
+			"zh": "他还说了些什么？"
+		},
+		{
+			"i": 14,
+			"start": 69.36,
+			"end": 72.3,
+			"en": "'I'll write a letter soon.",
+			"zh": "“我很快会写信的。"
+		},
+		{
+			"i": 15,
+			"start": 72.45,
+			"end": 76.49,
+			"en": "I hope you are all well.'",
+			"zh": "希望你们都好。”"
+		},
+		{
+			"i": 16,
+			"start": 76.64,
+			"end": 80.15,
+			"en": "What? Speak up, Penny.",
+			"zh": "什么？大声点，潘妮。"
+		},
+		{
+			"i": 17,
+			"start": 80.3,
+			"end": 84.05,
+			"en": "I'm afraid I can't hear you.",
+			"zh": "我恐怕听不清你说什么。"
+		},
+		{
+			"i": 18,
+			"start": 84.2,
+			"end": 88.3,
+			"en": "He says he'll write a letter soon.",
+			"zh": "他说他很快会写信。"
+		},
+		{
+			"i": 19,
+			"start": 88.45,
+			"end": 92.45,
+			"en": "He hopes we are all well.",
+			"zh": "他希望我们都好。"
+		},
+		{
+			"i": 20,
+			"start": 92.6,
+			"end": 95.56,
+			"en": "'Love, Jimmy.'",
+			"zh": "“爱你的，吉米。”"
+		},
+		{
+			"i": 21,
+			"start": 95.71,
+			"end": 97.76,
+			"en": "Is that all?",
+			"zh": "就这些吗？"
+		},
+		{
+			"i": 22,
+			"start": 97.91,
+			"end": 102.28,
+			"en": "He doesn't say very much, does he?",
+			"zh": "他没说多少，是吧？"
+		},
+		{
+			"i": 23,
+			"start": 102.43,
+			"end": 106.43,
+			"en": "He can't write very much on a card, Mum.",
+			"zh": "他在明信片上写不了很多，妈妈。"
+		}
+	]
+}

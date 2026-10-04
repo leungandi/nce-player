@@ -1,7 +1,13 @@
 import catalogJson from './catalog.json';
 import type { Lesson } from './types';
 
-export type CatalogLesson = { id: string; no: number; title: string };
+export type CatalogLesson = {
+	id: string;
+	no: number;
+	title: string;
+	/** 一课覆盖多课时给出范围，如第一册的 `01–02` */
+	label?: string;
+};
 export type CatalogBook = {
 	key: string;
 	name: string;

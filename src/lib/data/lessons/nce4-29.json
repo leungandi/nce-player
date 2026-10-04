@@ -1,0 +1,181 @@
+{
+	"id": "nce4-29",
+	"book": "nce4",
+	"title": "The Hovercraft",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-29.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 1.06,
+			"end": 2.81,
+			"en": "Lesson 29",
+			"zh": "第29课"
+		},
+		{
+			"i": 1,
+			"start": 2.96,
+			"end": 10.16,
+			"en": "The hovercraft",
+			"zh": "气垫船"
+		},
+		{
+			"i": 2,
+			"start": 10.31,
+			"end": 16.4,
+			"en": "What is a hovercraft riding on when it is in motion?",
+			"zh": "气垫船开动时，它骑在什么上面？"
+		},
+		{
+			"i": 3,
+			"start": 16.55,
+			"end": 22.14,
+			"en": "Many strange new means of transport have been developed in our century,",
+			"zh": "本世纪人们发明了许多稀奇古怪的交通工具，"
+		},
+		{
+			"i": 4,
+			"start": 22.29,
+			"end": 27.14,
+			"en": "the strangest of them being perhaps the hovercraft.",
+			"zh": "其中最奇特的也许要算是气垫船了。"
+		},
+		{
+			"i": 5,
+			"start": 27.29,
+			"end": 35.29,
+			"en": "In 1953, a former electronics engineer in his fifties, Christopher Cockerell,",
+			"zh": "1953年，一位50多岁、曾任电子工程师的克里斯托弗·科克雷尔，"
+		},
+		{
+			"i": 6,
+			"start": 35.44,
+			"end": 39.37,
+			"en": "who had turned to boat-building on the Norfolk Broads,",
+			"zh": "他已转行在诺福克湖区制造船只，"
+		},
+		{
+			"i": 7,
+			"start": 39.52,
+			"end": 47.98,
+			"en": "suggested an idea on which he had been working for many years to the British Government and industrial circles.",
+			"zh": "他把多年来一直致力于研究的一种设想，呈报给了英国政府和工业界。"
+		},
+		{
+			"i": 8,
+			"start": 48.13,
+			"end": 60.05,
+			"en": "It was the idea of supporting a craft on a 'pad', or cushion, of low-pressure air, ringed with a curtain of higher pressure air.",
+			"zh": "他的设想是：让航行器由一个低压气垫支撑，气垫四周由一道高压空气幕环绕。"
+		},
+		{
+			"i": 9,
+			"start": 60.2,
+			"end": 69.23,
+			"en": "Ever since, people have had difficulty in deciding whether the craft should be ranged among ships, planes,",
+			"zh": "从那时起，人们就很难确定这种航行器究竟是船、是飞机，"
+		},
+		{
+			"i": 10,
+			"start": 69.38,
+			"end": 77.42,
+			"en": "or land vehicles--for it is something in between a boat and an aircraft.",
+			"zh": "还是陆上交通工具——因为它介于船和飞机之间。"
+		},
+		{
+			"i": 11,
+			"start": 77.57,
+			"end": 91.39,
+			"en": "As a shipbuilder, Cockerell was trying to find a solution to the problem of the wave resistance which wastes a good deal of a surface ship's power and limits its speed.",
+			"zh": "作为一名造船工程师，科克雷尔当时正试图解决波浪阻力问题，波浪阻力消耗了水面船只的大部分动力，并限制了它的航速。"
+		},
+		{
+			"i": 12,
+			"start": 91.54,
+			"end": 102.45,
+			"en": "His answer was to lift the vessel out of the water by making it ride on a cushion of air, no more than one or two feet thick.",
+			"zh": "他的答案是让船只骑在厚度不超过一两英尺的气垫上，从而使其脱离水面。"
+		},
+		{
+			"i": 13,
+			"start": 102.6,
+			"end": 109.45,
+			"en": "This is done by a great number of ring-shaped air jets on the bottom of the craft.",
+			"zh": "这是通过航行器底部大量的环形喷气口完成的。"
+		},
+		{
+			"i": 14,
+			"start": 109.6,
+			"end": 122.14,
+			"en": "It 'flies', therefore, but it cannot fly higher--its action depends on the surface, water or ground, over which it rides.",
+			"zh": "因此它“飞行”，但不能飞得更高——它的运行依赖于它所行驶的水面或地面。"
+		},
+		{
+			"i": 15,
+			"start": 122.29,
+			"end": 128.42,
+			"en": "The first tests on the Solent in 1959 caused a sensation.",
+			"zh": "1959年在索伦特海峡进行的首次试验引起了轰动。"
+		},
+		{
+			"i": 16,
+			"start": 128.57,
+			"end": 139.42,
+			"en": "The hovercraft travelled first over the water, then mounted the beach, climbed up the dunes, and sat down on a road.",
+			"zh": "气垫船先是在水面上行驶，然后登上沙滩，爬上沙丘，最后停在一条公路上。"
+		},
+		{
+			"i": 17,
+			"start": 139.57,
+			"end": 148.74,
+			"en": "Later it crossed the Channel, riding smoothly over the waves, which presented no problem.",
+			"zh": "后来它穿越了英吉利海峡，平稳地在海浪上行驶，这没有造成任何问题。"
+		},
+		{
+			"i": 18,
+			"start": 148.89,
+			"end": 156.16,
+			"en": "Since that time, various types of hovercraft have appeared and taken up regular service.",
+			"zh": "从那时起，各种型号的气垫船相继问世，并投入了定期运营。"
+		},
+		{
+			"i": 19,
+			"start": 156.31,
+			"end": 164.67,
+			"en": "The hovercraft is particularly useful in large areas with poor communications such as Africa or Australia;",
+			"zh": "气垫船在非洲或澳大利亚等交通不便的广大地区尤其有用；"
+		},
+		{
+			"i": 20,
+			"start": 164.82,
+			"end": 171.74,
+			"en": "it can become a 'flying fruit-bowl', carrying bananas from the plantations to the ports;",
+			"zh": "它可以变成一个“飞行水果盘”，将香蕉从种植园运到港口；"
+		},
+		{
+			"i": 21,
+			"start": 171.89,
+			"end": 175.52,
+			"en": "giant hovercraft liners could span the Atlantic;",
+			"zh": "巨型气垫船班轮可以横跨大西洋；"
+		},
+		{
+			"i": 22,
+			"start": 175.67,
+			"end": 179.84,
+			"en": "and the railway of the future may well be the 'hovertrain',",
+			"zh": "而未来的铁路很可能就是“气垫列车”，"
+		},
+		{
+			"i": 23,
+			"start": 179.99,
+			"end": 183.99,
+			"en": "riding on its air cushion over a single rail, which it never touches, at speeds, up to 300 m.p.h.--the possibilities appear unlimited.",
+			"zh": "它们在单轨上方的气垫上行驶，永不接触轨道，时速可达300英里——其可能性似乎无限。"
+		}
+	]
+}

@@ -1,0 +1,230 @@
+{
+	"id": "nce3-35",
+	"book": "nce3",
+	"title": "Justice was Done",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-35.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.43,
+			"end": 2.49,
+			"en": "Lesson 35",
+			"zh": "第35课"
+		},
+		{
+			"i": 1,
+			"start": 2.64,
+			"end": 10.41,
+			"en": "Justice was done",
+			"zh": "正义得以伸张"
+		},
+		{
+			"i": 2,
+			"start": 10.56,
+			"end": 15.13,
+			"en": "The word 'justice' is given two different meanings in the text.",
+			"zh": "在课文中，“正义”一词被赋予了两种不同的含义。"
+		},
+		{
+			"i": 3,
+			"start": 15.28,
+			"end": 19.7,
+			"en": "What is the distinction between them?",
+			"zh": "它们之间有什么区别呢？"
+		},
+		{
+			"i": 4,
+			"start": 19.85,
+			"end": 25.34,
+			"en": "The word justice is usually associated with courts of law.",
+			"zh": "“正义”一词通常与法庭联系在一起。"
+		},
+		{
+			"i": 5,
+			"start": 25.49,
+			"end": 33,
+			"en": "We might say that justice has been done when a man's innocence or guilt has been proved beyond doubt.",
+			"zh": "当一个人的清白或罪行被无可置疑地证明时，我们可能会说正义得到了伸张。"
+		},
+		{
+			"i": 6,
+			"start": 33.15,
+			"end": 37.6,
+			"en": "Justice is part of the complex machinery of the law.",
+			"zh": "正义是法律复杂机制的一部分。"
+		},
+		{
+			"i": 7,
+			"start": 37.75,
+			"end": 44.73,
+			"en": "Those who seek it, undertake an arduous journey and can never be sure that they will find it.",
+			"zh": "追求正义的人会踏上一段艰难的旅程，而且永远无法确定他们是否会找到它。"
+		},
+		{
+			"i": 8,
+			"start": 44.88,
+			"end": 51.03,
+			"en": "Judges, however wise or eminent, are human and can make mistakes.",
+			"zh": "法官，无论多么明智或杰出，都是人，也可能犯错误。"
+		},
+		{
+			"i": 9,
+			"start": 51.18,
+			"end": 58.01,
+			"en": "There are rare instances when justice almost ceases to be an abstract concept.",
+			"zh": "在极少数情况下，正义几乎不再是一个抽象的概念。"
+		},
+		{
+			"i": 10,
+			"start": 58.16,
+			"end": 64.15,
+			"en": "Reward or punishment are meted out quite independent of human interference.",
+			"zh": "奖励或惩罚在完全没有人类干预的情况下被施加。"
+		},
+		{
+			"i": 11,
+			"start": 64.3,
+			"end": 69.29,
+			"en": "At such times, justice acts like a living force.",
+			"zh": "在这种时候，正义就像一股活生生的力量。"
+		},
+		{
+			"i": 12,
+			"start": 69.44,
+			"end": 73.36,
+			"en": "When we use a phrase like 'it serves him right',",
+			"zh": "当我们使用“活该”这样的短语时，"
+		},
+		{
+			"i": 13,
+			"start": 73.51,
+			"end": 83.69,
+			"en": "we are, in part, admitting that a certain set of circumstances has enabled justice to act of its own accord.",
+			"zh": "我们部分承认了某种情况使正义得以自然而然地发挥作用。"
+		},
+		{
+			"i": 14,
+			"start": 83.84,
+			"end": 89.33,
+			"en": "When a thief was caught on the premises of a large jewellery store one morning,",
+			"zh": "一天早上，当一个小偷在一家大型珠宝店的院子里被抓到时，"
+		},
+		{
+			"i": 15,
+			"start": 89.48,
+			"end": 97.52,
+			"en": "the shop assistants must have found it impossible to resist the temptation to say 'it serves him right'.",
+			"zh": "店员们一定觉得很难抵制住说“活该”的冲动。"
+		},
+		{
+			"i": 16,
+			"start": 97.67,
+			"end": 105.92,
+			"en": "The shop was an old converted house with many large, disused fireplaces and tall, narrow chimneys.",
+			"zh": "这家店是一座由老房子改建而成的，有很多大的废弃壁炉和又高又窄的烟囱。"
+		},
+		{
+			"i": 17,
+			"start": 106.07,
+			"end": 112.71,
+			"en": "Towards midday, a girl heard a muffled cry coming from behind one of the walls.",
+			"zh": "快到中午时，一个女孩听到墙后传来一阵低沉的哭声。"
+		},
+		{
+			"i": 18,
+			"start": 112.86,
+			"end": 115.64,
+			"en": "As the cry was repeated several times,",
+			"zh": "哭声重复了几次之后，"
+		},
+		{
+			"i": 19,
+			"start": 115.79,
+			"end": 121.22,
+			"en": "she ran to tell the manager who promptly rang up the fire brigade.",
+			"zh": "她跑去告诉经理，经理立刻给消防队打了电话。"
+		},
+		{
+			"i": 20,
+			"start": 121.37,
+			"end": 124.5,
+			"en": "The cry had certainly come from one of the chimneys,",
+			"zh": "哭声确实是从一个烟囱里传出来的，"
+		},
+		{
+			"i": 21,
+			"start": 124.65,
+			"end": 132.1,
+			"en": "but as there were so many of them, the firemen could not be certain which one it was.",
+			"zh": "但由于烟囱太多，消防员无法确定是哪一个。"
+		},
+		{
+			"i": 22,
+			"start": 132.25,
+			"end": 139.52,
+			"en": "They located the right chimney by tapping at the walls and listening for the man's cries.",
+			"zh": "他们通过敲击墙壁并聆听那个人的哭声来确定正确的烟囱。"
+		},
+		{
+			"i": 23,
+			"start": 139.67,
+			"end": 144.08,
+			"en": "After chipping through a wall which was eighteen inches thick,",
+			"zh": "在凿穿一堵18英寸厚的墙后，"
+		},
+		{
+			"i": 24,
+			"start": 144.23,
+			"end": 148.25,
+			"en": "they found that a man had been trapped in the chimney.",
+			"zh": "他们发现一个人被困在烟囱里了。"
+		},
+		{
+			"i": 25,
+			"start": 148.4,
+			"end": 153.06,
+			"en": "As it was extremely narrow, the man was unable to move,",
+			"zh": "由于烟囱非常狭窄，那个人无法动弹，"
+		},
+		{
+			"i": 26,
+			"start": 153.21,
+			"end": 160.76,
+			"en": "but the fire fighters were eventually able to free him by cutting a huge hole in the wall.",
+			"zh": "但消防员最终通过在墙上凿开一个大洞，成功地解救了他。"
+		},
+		{
+			"i": 27,
+			"start": 160.91,
+			"end": 164.83,
+			"en": "The sorry-looking, blackened figure that emerged,",
+			"zh": "那个狼狈不堪、浑身漆黑的人影出现后，"
+		},
+		{
+			"i": 28,
+			"start": 164.98,
+			"end": 173.07,
+			"en": "admitted at once that he had tried to break into the shop during the night but had got stuck in the chimney.",
+			"zh": "立刻承认他曾试图在夜间闯入商店，但被卡在了烟囱里。"
+		},
+		{
+			"i": 29,
+			"start": 173.22,
+			"end": 177.1,
+			"en": "He had been there for nearly ten hours.",
+			"zh": "他已经在里面待了将近十个小时。"
+		},
+		{
+			"i": 30,
+			"start": 177.25,
+			"end": 181.25,
+			"en": "Justice had been done even before the man was handed over to the police.",
+			"zh": "甚至在将那个人移交给警方之前，正义就已经得到了伸张。"
+		}
+	]
+}

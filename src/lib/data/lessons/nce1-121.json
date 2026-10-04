@@ -1,0 +1,153 @@
+{
+	"id": "nce1-121",
+	"book": "nce1",
+	"title": "The Man in a Hat",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-121.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.61,
+			"end": 3.88,
+			"en": "Lesson 121",
+			"zh": "第121课"
+		},
+		{
+			"i": 1,
+			"start": 4.03,
+			"end": 7.11,
+			"en": "The man in a hat",
+			"zh": "戴帽子的男人"
+		},
+		{
+			"i": 2,
+			"start": 7.26,
+			"end": 12.77,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.92,
+			"end": 20.33,
+			"en": "Why didn't Caroline recognize the customer straight away?",
+			"zh": "为什么卡罗琳没有立刻认出这位顾客？"
+		},
+		{
+			"i": 4,
+			"start": 20.48,
+			"end": 30.52,
+			"en": "I bought two expensive dictionaries here half an hour ago, but I forgot to take them with me.",
+			"zh": "半小时前我在这儿买了词典，可是我忘记把它们带走了。"
+		},
+		{
+			"i": 5,
+			"start": 30.67,
+			"end": 33.36,
+			"en": "Who served you, sir?",
+			"zh": "是谁为您服务的，先生？"
+		},
+		{
+			"i": 6,
+			"start": 33.51,
+			"end": 37.67,
+			"en": "The lady who is standing behind the counter.",
+			"zh": "是那位站在柜台后面的女士。"
+		},
+		{
+			"i": 7,
+			"start": 37.82,
+			"end": 41,
+			"en": "Which books did you buy?",
+			"zh": "您买的是哪些书？"
+		},
+		{
+			"i": 8,
+			"start": 41.15,
+			"end": 44.81,
+			"en": "The books which are on the counter.",
+			"zh": "是柜台上的那些书。"
+		},
+		{
+			"i": 9,
+			"start": 44.96,
+			"end": 50.04,
+			"en": "Did you serve this gentleman half an hour ago, Caroline?",
+			"zh": "半小时前你为这位先生服务过吗，卡罗琳？"
+		},
+		{
+			"i": 10,
+			"start": 50.19,
+			"end": 54.6,
+			"en": "He says he's the man who bought these books.",
+			"zh": "他说他就是买这些书的人。"
+		},
+		{
+			"i": 11,
+			"start": 54.75,
+			"end": 57.35,
+			"en": "I can't remember.",
+			"zh": "我记不起来了。"
+		},
+		{
+			"i": 12,
+			"start": 57.5,
+			"end": 62.39,
+			"en": "The man who I served was wearing a hat.",
+			"zh": "我为之服务的那个人戴着一顶帽子。"
+		},
+		{
+			"i": 13,
+			"start": 62.54,
+			"end": 65.77,
+			"en": "Have you got a hat, sir?",
+			"zh": "您有帽子吗，先生？"
+		},
+		{
+			"i": 14,
+			"start": 65.92,
+			"end": 68,
+			"en": "Yes, I have.",
+			"zh": "是的，我有。"
+		},
+		{
+			"i": 15,
+			"start": 68.15,
+			"end": 70.76,
+			"en": "Would you put it on, please?",
+			"zh": "请您戴上好吗？"
+		},
+		{
+			"i": 16,
+			"start": 70.91,
+			"end": 72.56,
+			"en": "All right.",
+			"zh": "好的。"
+		},
+		{
+			"i": 17,
+			"start": 72.71,
+			"end": 76.95,
+			"en": "Is this the man that you served, Caroline?",
+			"zh": "卡罗琳，这就是您为之服务过的那个人吗？"
+		},
+		{
+			"i": 18,
+			"start": 77.1,
+			"end": 78.16,
+			"en": "Yes.",
+			"zh": "是的。"
+		},
+		{
+			"i": 19,
+			"start": 78.31,
+			"end": 82.31,
+			"en": "I recognize him now.",
+			"zh": "我现在认出他了。"
+		}
+	]
+}

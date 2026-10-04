@@ -1,0 +1,202 @@
+{
+	"id": "nce4-36",
+	"book": "nce4",
+	"title": "The Cost of Government",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-36.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.73,
+			"end": 3.51,
+			"en": "Lesson 36",
+			"zh": "第36课"
+		},
+		{
+			"i": 1,
+			"start": 3.66,
+			"end": 11.01,
+			"en": "The cost of government",
+			"zh": "政府的开支"
+		},
+		{
+			"i": 2,
+			"start": 11.16,
+			"end": 21.42,
+			"en": "What's the most important factor, both in government or business, for keeping running costs low?",
+			"zh": "无论在政府还是企业中，降低运营成本最重要的因素是什么？"
+		},
+		{
+			"i": 3,
+			"start": 21.57,
+			"end": 27.82,
+			"en": "If a nation is essentialy disunited, it is left to the government to hold it together.",
+			"zh": "如果一个国家本质上是分裂的，就只能由政府来维系它的统一。"
+		},
+		{
+			"i": 4,
+			"start": 27.97,
+			"end": 39.27,
+			"en": "This increases the expense of government, and reduces correspondingly the amount of economic resources that could be used for developing the country.",
+			"zh": "这增加了政府开支，并相应减少了可用于国家发展的经济资源。"
+		},
+		{
+			"i": 5,
+			"start": 39.42,
+			"end": 45.59,
+			"en": "And it should not be forgotten how small those resources are in a poor and backward country.",
+			"zh": "而且不应忘记，在一个贫穷落后的国家，这些资源是多么微薄。"
+		},
+		{
+			"i": 6,
+			"start": 45.74,
+			"end": 52.51,
+			"en": "Where the cost of government is high, resources for development are correspondingly low.",
+			"zh": "政府开支高的地方，发展资源也相应地少。"
+		},
+		{
+			"i": 7,
+			"start": 52.66,
+			"end": 59.69,
+			"en": "This may be illustrated by comparing the position of a nation with that of a private business enterprise.",
+			"zh": "这可以通过比较一个国家与一个私营企业的情况来说明。"
+		},
+		{
+			"i": 8,
+			"start": 59.84,
+			"end": 66.73,
+			"en": "An enterprise has to incur certain costs and expenses in order to stay in business.",
+			"zh": "一个企业为了维持经营，必须承担一定的成本和开支。"
+		},
+		{
+			"i": 9,
+			"start": 66.88,
+			"end": 75.21,
+			"en": "For our purposes, we are concerned only with one kind of cost--the cost of managing and administering the business.",
+			"zh": "就我们的目的而言，我们只关注一种成本——管理和经营企业的成本。"
+		},
+		{
+			"i": 10,
+			"start": 75.36,
+			"end": 82.38,
+			"en": "Such administrative overheads in a business are analogous to the cost of government in a nation.",
+			"zh": "企业中的此类行政管理费用类似于一个国家中的政府开支。"
+		},
+		{
+			"i": 11,
+			"start": 82.53,
+			"end": 88.06,
+			"en": "The administrative overheads of a business are low to the extent that everyone working in the business",
+			"zh": "企业的行政管理费用之所以低，是因为企业中的每个人"
+		},
+		{
+			"i": 12,
+			"start": 88.21,
+			"end": 93.91,
+			"en": "can be trusted to behave in a way that best promotes the interests of the firm.",
+			"zh": "都可以被信任，以最有利于公司利益的方式行事。"
+		},
+		{
+			"i": 13,
+			"start": 94.06,
+			"end": 97.64,
+			"en": "If they can each be trusted to take such responsibilities,",
+			"zh": "如果每个人都可以被信任来承担这些责任，"
+		},
+		{
+			"i": 14,
+			"start": 97.79,
+			"end": 106.26,
+			"en": "and to exercise such initiative as falls within their sphere, then administrative overheads will be low.",
+			"zh": "并在其职责范围内发挥主动性，那么行政管理费用就会很低。"
+		},
+		{
+			"i": 15,
+			"start": 106.41,
+			"end": 115.91,
+			"en": "It will be low because it will be necessary to have only one man looking after each job without having another man to check upon what he is doing,",
+			"zh": "之所以低，是因为只需要一个人负责一项工作，而不需要另一个人来检查他正在做什么，"
+		},
+		{
+			"i": 16,
+			"start": 116.06,
+			"end": 120.44,
+			"en": "keep him in line, and report on him to someone else.",
+			"zh": "约束他，并向其他人汇报他的情况。"
+		},
+		{
+			"i": 17,
+			"start": 120.59,
+			"end": 126.73,
+			"en": "But if no one can be trusted to act in a loyal and responsible manner towards his job,",
+			"zh": "但如果没人能被信任以忠诚负责的态度对待自己的工作，"
+		},
+		{
+			"i": 18,
+			"start": 126.88,
+			"end": 136.51,
+			"en": "then the business will require armies of administrators, checkers and foremen and administrative overheads will rise correspondingly.",
+			"zh": "那么企业将需要大量的管理人员、检查员和工头，行政管理费用也将相应地增加。"
+		},
+		{
+			"i": 19,
+			"start": 136.66,
+			"end": 144.61,
+			"en": "As administrative overheads rise, so the earnings of the business after meeting the expense of administration, will fall;",
+			"zh": "随着行政管理费用的增加，企业在支付行政开支后的收益将下降；"
+		},
+		{
+			"i": 20,
+			"start": 144.76,
+			"end": 152.71,
+			"en": "and the business will have less money to distribute as dividends or invest directly in its future progress and development.",
+			"zh": "企业将没有足够的资金来分配股息，或直接投资于其未来的发展。"
+		},
+		{
+			"i": 21,
+			"start": 152.86,
+			"end": 155.91,
+			"en": "It is precisely the same with a nation.",
+			"zh": "一个国家也是如此。"
+		},
+		{
+			"i": 22,
+			"start": 156.06,
+			"end": 162.02,
+			"en": "To the extent that the people can be relied on to behave in a loyal and responsible manner,",
+			"zh": "只要人民能够被信任以忠诚负责的方式行事，"
+		},
+		{
+			"i": 23,
+			"start": 162.17,
+			"end": 168.45,
+			"en": "the government does not require armies of police and civil servants to keep them in order.",
+			"zh": "政府就不需要大批警察和公务员来维持秩序。"
+		},
+		{
+			"i": 24,
+			"start": 168.6,
+			"end": 177.06,
+			"en": "But if a nation is disunited, the government cannot be sure that the actions of the people will be in the interests of the nation;",
+			"zh": "但如果一个国家是分裂的，政府就不能确定人民的行为是否符合国家利益；"
+		},
+		{
+			"i": 25,
+			"start": 177.21,
+			"end": 182.21,
+			"en": "and it will have to watch, check, and control the people accordingly.",
+			"zh": "它就必须相应地监视、检查和控制人民。"
+		},
+		{
+			"i": 26,
+			"start": 182.36,
+			"end": 186.36,
+			"en": "A disunited nation therefore has to incur unduly high costs of government.",
+			"zh": "因此，一个分裂的国家必然会产生过高的政府开支。"
+		}
+	]
+}

@@ -1,0 +1,139 @@
+{
+	"id": "nce1-31",
+	"book": "nce1",
+	"title": "Where's Sally",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-31.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.51,
+			"end": 2.89,
+			"en": "Lesson 31",
+			"zh": "第31课"
+		},
+		{
+			"i": 1,
+			"start": 3.04,
+			"end": 5.5,
+			"en": "Where's Sally?",
+			"zh": "萨莉在哪儿？"
+		},
+		{
+			"i": 2,
+			"start": 5.65,
+			"end": 11.3,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.45,
+			"end": 15.69,
+			"en": "Is the cat climbing the tree?",
+			"zh": "猫在爬树吗？"
+		},
+		{
+			"i": 4,
+			"start": 15.84,
+			"end": 18.52,
+			"en": "Where's Sally, Jack?",
+			"zh": "杰克，萨莉在哪儿？"
+		},
+		{
+			"i": 5,
+			"start": 18.67,
+			"end": 21.3,
+			"en": "She's in the garden, Jean.",
+			"zh": "她在花园里，琼。"
+		},
+		{
+			"i": 6,
+			"start": 21.45,
+			"end": 23.32,
+			"en": "What's she doing?",
+			"zh": "她在做什么？"
+		},
+		{
+			"i": 7,
+			"start": 23.47,
+			"end": 26.41,
+			"en": "She's sitting under the tree.",
+			"zh": "她坐在树下。"
+		},
+		{
+			"i": 8,
+			"start": 26.56,
+			"end": 29.73,
+			"en": "Is Tim in the garden, too?",
+			"zh": "蒂姆也在花园里吗？"
+		},
+		{
+			"i": 9,
+			"start": 29.88,
+			"end": 31.67,
+			"en": "Yes, he is.",
+			"zh": "是的，他在。"
+		},
+		{
+			"i": 10,
+			"start": 31.82,
+			"end": 34.53,
+			"en": "He's climbing the tree.",
+			"zh": "他在爬树。"
+		},
+		{
+			"i": 11,
+			"start": 34.68,
+			"end": 36.76,
+			"en": "I beg your pardon?",
+			"zh": "请再说一遍？"
+		},
+		{
+			"i": 12,
+			"start": 36.91,
+			"end": 39.32,
+			"en": "Who's climbing the tree?",
+			"zh": "谁在爬树？"
+		},
+		{
+			"i": 13,
+			"start": 39.47,
+			"end": 41.26,
+			"en": "Tim is.",
+			"zh": "蒂姆在爬。"
+		},
+		{
+			"i": 14,
+			"start": 41.41,
+			"end": 44.1,
+			"en": "What about the dog?",
+			"zh": "那狗呢？"
+		},
+		{
+			"i": 15,
+			"start": 44.25,
+			"end": 46.74,
+			"en": "The dog's in the garden, too.",
+			"zh": "狗也在花园里。"
+		},
+		{
+			"i": 16,
+			"start": 46.89,
+			"end": 49.87,
+			"en": "It's running across the grass.",
+			"zh": "它正在草地上跑。"
+		},
+		{
+			"i": 17,
+			"start": 50.02,
+			"end": 54.02,
+			"en": "It's running after a cat.",
+			"zh": "它在追一只猫。"
+		}
+	]
+}

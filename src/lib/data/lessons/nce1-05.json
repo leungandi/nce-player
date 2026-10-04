@@ -1,0 +1,181 @@
+{
+	"id": "nce1-05",
+	"book": "nce1",
+	"title": "Nice to Meet You.",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-05.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.58,
+			"end": 2.25,
+			"en": "Lesson 5",
+			"zh": "第5课"
+		},
+		{
+			"i": 1,
+			"start": 2.4,
+			"end": 4.93,
+			"en": "Nice to meet you.",
+			"zh": "很高兴认识你。"
+		},
+		{
+			"i": 2,
+			"start": 5.08,
+			"end": 9.8,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 9.95,
+			"end": 14.08,
+			"en": "Is Chang-woo Chinese?",
+			"zh": "昌宇是中国人吗？"
+		},
+		{
+			"i": 4,
+			"start": 14.23,
+			"end": 15.92,
+			"en": "Good morning.",
+			"zh": "早上好。"
+		},
+		{
+			"i": 5,
+			"start": 16.07,
+			"end": 19.57,
+			"en": "Good morning Mr. Blake.",
+			"zh": "布莱克先生，早上好。"
+		},
+		{
+			"i": 6,
+			"start": 19.72,
+			"end": 23.46,
+			"en": "This is Miss Sophie Dupont.",
+			"zh": "这是索菲·杜邦小姐。"
+		},
+		{
+			"i": 7,
+			"start": 23.61,
+			"end": 26.4,
+			"en": "Sophie is a new student.",
+			"zh": "索菲是新学生。"
+		},
+		{
+			"i": 8,
+			"start": 26.55,
+			"end": 28.84,
+			"en": "She is French.",
+			"zh": "她是法国人。"
+		},
+		{
+			"i": 9,
+			"start": 28.99,
+			"end": 32.39,
+			"en": "Sophie this is Hans.",
+			"zh": "索菲，这是汉斯。"
+		},
+		{
+			"i": 10,
+			"start": 32.54,
+			"end": 34.41,
+			"en": "He is German.",
+			"zh": "他是德国人。"
+		},
+		{
+			"i": 11,
+			"start": 34.56,
+			"end": 37.18,
+			"en": "Nice to meet you.",
+			"zh": "很高兴认识你。"
+		},
+		{
+			"i": 12,
+			"start": 37.33,
+			"end": 39.84,
+			"en": "And this is Naoko.",
+			"zh": "这是直子。"
+		},
+		{
+			"i": 13,
+			"start": 39.99,
+			"end": 42.1,
+			"en": "She's Japanese.",
+			"zh": "她是日本人。"
+		},
+		{
+			"i": 14,
+			"start": 42.25,
+			"end": 44.66,
+			"en": "Nice to meet you.",
+			"zh": "很高兴认识你。"
+		},
+		{
+			"i": 15,
+			"start": 44.81,
+			"end": 47.34,
+			"en": "And this is Chang-woo.",
+			"zh": "这是昌宇。"
+		},
+		{
+			"i": 16,
+			"start": 47.49,
+			"end": 49.11,
+			"en": "He's Korean.",
+			"zh": "他是韩国人。"
+		},
+		{
+			"i": 17,
+			"start": 49.26,
+			"end": 51.5,
+			"en": "Nice to meet you.",
+			"zh": "很高兴认识你。"
+		},
+		{
+			"i": 18,
+			"start": 51.65,
+			"end": 53.99,
+			"en": "And this is Luming.",
+			"zh": "这是鲁明。"
+		},
+		{
+			"i": 19,
+			"start": 54.14,
+			"end": 56.05,
+			"en": "He's Chinese.",
+			"zh": "他是中国人。"
+		},
+		{
+			"i": 20,
+			"start": 56.2,
+			"end": 58.41,
+			"en": "Nice to meet you.",
+			"zh": "很高兴认识你。"
+		},
+		{
+			"i": 21,
+			"start": 58.56,
+			"end": 61.58,
+			"en": "And this is Xiaohui.",
+			"zh": "这是晓惠。"
+		},
+		{
+			"i": 22,
+			"start": 61.73,
+			"end": 64.06,
+			"en": "She is Chinese too.",
+			"zh": "她也是中国人。"
+		},
+		{
+			"i": 23,
+			"start": 64.21,
+			"end": 68.21,
+			"en": "Nice to meet you.",
+			"zh": "很高兴认识你。"
+		}
+	]
+}

@@ -1,0 +1,146 @@
+{
+	"id": "nce1-35",
+	"book": "nce1",
+	"title": "Our Village",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-35.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.68,
+			"end": 3.06,
+			"en": "Lesson 35",
+			"zh": "第35课"
+		},
+		{
+			"i": 1,
+			"start": 3.21,
+			"end": 5.91,
+			"en": "Our village",
+			"zh": "我们的村庄"
+		},
+		{
+			"i": 2,
+			"start": 6.06,
+			"end": 11.59,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.74,
+			"end": 18.82,
+			"en": "Are the children coming out of the park or going into it?",
+			"zh": "孩子们是走出公园还是走进公园？"
+		},
+		{
+			"i": 4,
+			"start": 18.97,
+			"end": 23.35,
+			"en": "This is a photograph of our village.",
+			"zh": "这是我们村庄的一张照片。"
+		},
+		{
+			"i": 5,
+			"start": 23.5,
+			"end": 26.74,
+			"en": "Our village is in a valley.",
+			"zh": "我们的村庄坐落在山谷里。"
+		},
+		{
+			"i": 6,
+			"start": 26.89,
+			"end": 30.09,
+			"en": "It is between two hills.",
+			"zh": "它在两座山之间。"
+		},
+		{
+			"i": 7,
+			"start": 30.24,
+			"end": 34.54,
+			"en": "The village is on a river.",
+			"zh": "村庄在一条河边。"
+		},
+		{
+			"i": 8,
+			"start": 34.69,
+			"end": 39.47,
+			"en": "Here is another photograph of the village.",
+			"zh": "这是村庄的另一张照片。"
+		},
+		{
+			"i": 9,
+			"start": 39.62,
+			"end": 46.24,
+			"en": "My wife and I are walking along the banks of the river.",
+			"zh": "我妻子和我在河岸边散步。"
+		},
+		{
+			"i": 10,
+			"start": 46.39,
+			"end": 49.44,
+			"en": "We are on the left.",
+			"zh": "我们在左边。"
+		},
+		{
+			"i": 11,
+			"start": 49.59,
+			"end": 52.78,
+			"en": "There is a boy in the water.",
+			"zh": "水里有个男孩。"
+		},
+		{
+			"i": 12,
+			"start": 52.93,
+			"end": 58.11,
+			"en": "He is swimming across the river.",
+			"zh": "他正在横渡河流。"
+		},
+		{
+			"i": 13,
+			"start": 58.26,
+			"end": 61.61,
+			"en": "Here is another photograph.",
+			"zh": "这是另一张照片。"
+		},
+		{
+			"i": 14,
+			"start": 61.76,
+			"end": 64.61,
+			"en": "This is the school building.",
+			"zh": "这是学校教学楼。"
+		},
+		{
+			"i": 15,
+			"start": 64.76,
+			"end": 67.94,
+			"en": "It is beside a park.",
+			"zh": "它在公园旁边。"
+		},
+		{
+			"i": 16,
+			"start": 68.09,
+			"end": 71.37,
+			"en": "The park is on the right.",
+			"zh": "公园在右边。"
+		},
+		{
+			"i": 17,
+			"start": 71.52,
+			"end": 75.84,
+			"en": "Some children are coming out of the building.",
+			"zh": "一些孩子正从教学楼里出来。"
+		},
+		{
+			"i": 18,
+			"start": 75.99,
+			"end": 79.99,
+			"en": "Some of them are going into the park.",
+			"zh": "他们中的一些人正走进公园。"
+		}
+	]
+}

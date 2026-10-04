@@ -1,0 +1,153 @@
+{
+	"id": "nce3-03",
+	"book": "nce3",
+	"title": "An Unknown Goddess",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-03.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.95,
+			"end": 2.19,
+			"en": "Lesson 3",
+			"zh": "第3课"
+		},
+		{
+			"i": 1,
+			"start": 2.34,
+			"end": 10.49,
+			"en": "An unknown goddess",
+			"zh": "一个不知名的女神"
+		},
+		{
+			"i": 2,
+			"start": 10.64,
+			"end": 16.08,
+			"en": "How did the archaeologists know that the statue was a goddess?",
+			"zh": "考古学家怎么知道这座雕像是女神？"
+		},
+		{
+			"i": 3,
+			"start": 16.23,
+			"end": 24.18,
+			"en": "Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea.",
+			"zh": "不久前，考古学家在爱琴海的凯阿岛上有一项有趣的发现。"
+		},
+		{
+			"i": 4,
+			"start": 24.33,
+			"end": 32.56,
+			"en": "An American team explored a temple which stands in an ancient city on the promontory of Ayia Irini.",
+			"zh": "一个美国小组考察了在阿伊亚伊里尼海角的一座古城中的一座神庙。"
+		},
+		{
+			"i": 5,
+			"start": 32.71,
+			"end": 38.83,
+			"en": "The city at one time must have been prosperous, for it enjoyed a high level of civilization.",
+			"zh": "这座城市曾一度繁荣，因为它享有高度的文明。"
+		},
+		{
+			"i": 6,
+			"start": 38.98,
+			"end": 43.92,
+			"en": "Houses -- often three storeys high -- were built of stone.",
+			"zh": "房屋——通常有三层楼高——是用石头建造的。"
+		},
+		{
+			"i": 7,
+			"start": 44.07,
+			"end": 48.24,
+			"en": "They had large rooms with beautifully decorated walls.",
+			"zh": "它们有大房间，墙壁装饰精美。"
+		},
+		{
+			"i": 8,
+			"start": 48.39,
+			"end": 57.31,
+			"en": "The city was even equipped with a drainage system, for a great many clay pipes were found beneath the narrow streets.",
+			"zh": "这座城市甚至配备了排水系统，因为在狭窄的街道下发现了大量的陶土管道。"
+		},
+		{
+			"i": 9,
+			"start": 57.46,
+			"end": 67,
+			"en": "The temple which the archaeologists explored was used as a place of worship from the fifteenth century B.C. until Roman times.",
+			"zh": "考古学家考察的神庙从公元前15世纪一直到罗马时代都被用作礼拜场所。"
+		},
+		{
+			"i": 10,
+			"start": 67.15,
+			"end": 74.06,
+			"en": "In the most sacred room of the temple, clay fragments of fifteen statues were found.",
+			"zh": "在神庙最神圣的房间里，发现了15尊雕像的陶土碎片。"
+		},
+		{
+			"i": 11,
+			"start": 74.21,
+			"end": 80.03,
+			"en": "Each of these represented a goddess and had, at one time, been painted.",
+			"zh": "每一尊都代表一位女神，并且曾被涂上颜色。"
+		},
+		{
+			"i": 12,
+			"start": 80.18,
+			"end": 86.87,
+			"en": "The body of one statue was found among remains dating from the 15th century B.C.",
+			"zh": "一尊雕像的身体是在可追溯到公元前15世纪的遗迹中发现的。"
+		},
+		{
+			"i": 13,
+			"start": 87.02,
+			"end": 92.65,
+			"en": "Its missing head happened to be among remains of the fifth century B.C.",
+			"zh": "它缺失的头部碰巧在公元前5世纪的遗迹中。"
+		},
+		{
+			"i": 14,
+			"start": 92.8,
+			"end": 97.69,
+			"en": "This head must have been found in Classical times and carefully preserved.",
+			"zh": "这个头部一定是在古典时期被发现并精心保存下来的。"
+		},
+		{
+			"i": 15,
+			"start": 97.84,
+			"end": 101.72,
+			"en": "It was very old and precious even then.",
+			"zh": "即使在当时，它也非常古老而珍贵。"
+		},
+		{
+			"i": 16,
+			"start": 101.87,
+			"end": 110.92,
+			"en": "When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman.",
+			"zh": "当考古学家重组这些碎片时，他们惊讶地发现这位女神竟然是一个看起来非常现代的女人。"
+		},
+		{
+			"i": 17,
+			"start": 111.07,
+			"end": 115.61,
+			"en": "She stood three feet high and her hands rested on her hips.",
+			"zh": "她身高三英尺，双手叉腰。"
+		},
+		{
+			"i": 18,
+			"start": 115.76,
+			"end": 119.8,
+			"en": "She was wearing a full-length skirt which swept the ground.",
+			"zh": "她穿着一件拖地的长裙。"
+		},
+		{
+			"i": 19,
+			"start": 119.95,
+			"end": 123.95,
+			"en": "Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity.",
+			"zh": "尽管她年代久远，但确实非常优雅，不过到目前为止，考古学家们还未能发现她的身份。"
+		}
+	]
+}

@@ -1,0 +1,181 @@
+{
+	"id": "nce1-125",
+	"book": "nce1",
+	"title": "Tea for Two",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-125.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.51,
+			"end": 3.31,
+			"en": "Lesson 125",
+			"zh": "第125课"
+		},
+		{
+			"i": 1,
+			"start": 3.46,
+			"end": 6.11,
+			"en": "Tea for two",
+			"zh": "两人喝茶"
+		},
+		{
+			"i": 2,
+			"start": 6.26,
+			"end": 11.07,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.22,
+			"end": 16.32,
+			"en": "Does Susan have tea by herself?",
+			"zh": "苏珊独自一人喝茶吗？"
+		},
+		{
+			"i": 4,
+			"start": 16.47,
+			"end": 20.82,
+			"en": "Can't you come in and have tea now, Peter?",
+			"zh": "彼得，你现在不能进来喝茶吗？"
+		},
+		{
+			"i": 5,
+			"start": 20.97,
+			"end": 22.23,
+			"en": "Not yet.",
+			"zh": "还不能。"
+		},
+		{
+			"i": 6,
+			"start": 22.38,
+			"end": 25.63,
+			"en": "I must water the garden first.",
+			"zh": "我必须先浇花园。"
+		},
+		{
+			"i": 7,
+			"start": 25.78,
+			"end": 29.37,
+			"en": "Do you have to water it now?",
+			"zh": "你现在非浇不可吗？"
+		},
+		{
+			"i": 8,
+			"start": 29.52,
+			"end": 31.39,
+			"en": "I'm afraid I must.",
+			"zh": "恐怕非浇不可。"
+		},
+		{
+			"i": 9,
+			"start": 31.54,
+			"end": 32.87,
+			"en": "Look at it!",
+			"zh": "你瞧！"
+		},
+		{
+			"i": 10,
+			"start": 33.02,
+			"end": 35.26,
+			"en": "It's terribly dry.",
+			"zh": "干得厉害。"
+		},
+		{
+			"i": 11,
+			"start": 35.41,
+			"end": 37.85,
+			"en": "What a nuisance!",
+			"zh": "真讨厌！"
+		},
+		{
+			"i": 12,
+			"start": 38,
+			"end": 41.83,
+			"en": "Last summer it was very dry, too.",
+			"zh": "去年夏天也是很干。"
+		},
+		{
+			"i": 13,
+			"start": 41.98,
+			"end": 44.01,
+			"en": "Don't you remember?",
+			"zh": "你不记得了吗？"
+		},
+		{
+			"i": 14,
+			"start": 44.16,
+			"end": 47.37,
+			"en": "I had to water it every day.",
+			"zh": "我不得不每天浇水。"
+		},
+		{
+			"i": 15,
+			"start": 47.52,
+			"end": 52.55,
+			"en": "Well, I'll have tea by myself.",
+			"zh": "哎，我一个人喝茶了。"
+		},
+		{
+			"i": 16,
+			"start": 52.7,
+			"end": 54.58,
+			"en": "That was quick!",
+			"zh": "真快！"
+		},
+		{
+			"i": 17,
+			"start": 54.73,
+			"end": 57.33,
+			"en": "Have you finished already?",
+			"zh": "你已经浇完了吗？"
+		},
+		{
+			"i": 18,
+			"start": 57.48,
+			"end": 58.49,
+			"en": "Yes.",
+			"zh": "是的。"
+		},
+		{
+			"i": 19,
+			"start": 58.64,
+			"end": 61.2,
+			"en": "Look out of the window.",
+			"zh": "你往窗外看。"
+		},
+		{
+			"i": 20,
+			"start": 61.35,
+			"end": 63.31,
+			"en": "It's raining!",
+			"zh": "下雨了！"
+		},
+		{
+			"i": 21,
+			"start": 63.46,
+			"end": 68.65,
+			"en": "That means you don't need to water the garden.",
+			"zh": "这意味着你不用浇花园了。"
+		},
+		{
+			"i": 22,
+			"start": 68.8,
+			"end": 72.14,
+			"en": "That was a pleasant surprise.",
+			"zh": "这真是个意外的惊喜。"
+		},
+		{
+			"i": 23,
+			"start": 72.29,
+			"end": 76.29,
+			"en": "It means I can have tea, instead.",
+			"zh": "这意味着我可以去喝茶了。"
+		}
+	]
+}

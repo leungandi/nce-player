@@ -1,0 +1,146 @@
+{
+	"id": "nce1-53",
+	"book": "nce1",
+	"title": "An Interesting Climate",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-53.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.66,
+			"end": 3.34,
+			"en": "Lesson 53",
+			"zh": "第53课"
+		},
+		{
+			"i": 1,
+			"start": 3.49,
+			"end": 7.11,
+			"en": "An interesting climate",
+			"zh": "有趣的气候"
+		},
+		{
+			"i": 2,
+			"start": 7.26,
+			"end": 13.46,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 13.61,
+			"end": 21.5,
+			"en": "What is the favourite subject of conversation in England?",
+			"zh": "在英国，人们最喜欢谈论什么？"
+		},
+		{
+			"i": 4,
+			"start": 21.65,
+			"end": 24.64,
+			"en": "Where do you come from?",
+			"zh": "你来自哪里？"
+		},
+		{
+			"i": 5,
+			"start": 24.79,
+			"end": 27.67,
+			"en": "I come from England.",
+			"zh": "我来自英格兰。"
+		},
+		{
+			"i": 6,
+			"start": 27.82,
+			"end": 31.67,
+			"en": "What's the climate like in your country?",
+			"zh": "你们国家的气候怎么样？"
+		},
+		{
+			"i": 7,
+			"start": 31.82,
+			"end": 37.32,
+			"en": "It's mild, but it's not always pleasant.",
+			"zh": "气候温和，但并非总是宜人的。"
+		},
+		{
+			"i": 8,
+			"start": 37.47,
+			"end": 44.28,
+			"en": "The weather's often cold in the North and windy in the East.",
+			"zh": "北部常寒冷，东部常刮风。"
+		},
+		{
+			"i": 9,
+			"start": 44.43,
+			"end": 52.18,
+			"en": "It's often wet in the West and sometimes warm in the South.",
+			"zh": "西部常潮湿，南部有时温暖。"
+		},
+		{
+			"i": 10,
+			"start": 52.33,
+			"end": 56.51,
+			"en": "Which seasons do you like best?",
+			"zh": "你最喜欢哪个季节？"
+		},
+		{
+			"i": 11,
+			"start": 56.66,
+			"end": 59.84,
+			"en": "I like spring and summer.",
+			"zh": "我喜欢春天和夏天。"
+		},
+		{
+			"i": 12,
+			"start": 59.99,
+			"end": 65.53,
+			"en": "The days are long and the nights are short.",
+			"zh": "白天长，夜晚短。"
+		},
+		{
+			"i": 13,
+			"start": 65.68,
+			"end": 70.71,
+			"en": "The sun rises early and sets late.",
+			"zh": "太阳升得早，落得晚。"
+		},
+		{
+			"i": 14,
+			"start": 70.86,
+			"end": 74.76,
+			"en": "I don't like autumn and winter.",
+			"zh": "我不喜欢秋天和冬天。"
+		},
+		{
+			"i": 15,
+			"start": 74.91,
+			"end": 80.61,
+			"en": "The days are short and the nights are long.",
+			"zh": "白天短，夜晚长。"
+		},
+		{
+			"i": 16,
+			"start": 80.76,
+			"end": 86.4,
+			"en": "The sun rises late and sets early.",
+			"zh": "太阳升得晚，落得早。"
+		},
+		{
+			"i": 17,
+			"start": 86.55,
+			"end": 93.64,
+			"en": "Our climate is not very good, but it's certainly interesting.",
+			"zh": "我们的气候不怎么样，但确实很有趣。"
+		},
+		{
+			"i": 18,
+			"start": 93.79,
+			"end": 97.79,
+			"en": "It's our favourite subject of conversation.",
+			"zh": "这是我们最喜欢谈论的话题。"
+		}
+	]
+}

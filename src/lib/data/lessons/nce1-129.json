@@ -1,0 +1,195 @@
+{
+	"id": "nce1-129",
+	"book": "nce1",
+	"title": "Seventy Miles an Hour",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-129.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.61,
+			"end": 3.66,
+			"en": "Lesson 129",
+			"zh": "第129课"
+		},
+		{
+			"i": 1,
+			"start": 3.81,
+			"end": 6.93,
+			"en": "Seventy miles an hour",
+			"zh": "时速七十英里"
+		},
+		{
+			"i": 2,
+			"start": 7.08,
+			"end": 12.19,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.34,
+			"end": 19.08,
+			"en": "What does Ann advise her husband to do next time?",
+			"zh": "安建议她丈夫下次做什么？"
+		},
+		{
+			"i": 4,
+			"start": 19.23,
+			"end": 20.93,
+			"en": "Look, Gary!",
+			"zh": "瞧，加里！"
+		},
+		{
+			"i": 5,
+			"start": 21.08,
+			"end": 24.36,
+			"en": "That policeman's waving to you.",
+			"zh": "那个警察在向你招手。"
+		},
+		{
+			"i": 6,
+			"start": 24.51,
+			"end": 27.76,
+			"en": "He wants you to stop.",
+			"zh": "他要你停车。"
+		},
+		{
+			"i": 7,
+			"start": 27.91,
+			"end": 31.17,
+			"en": "Where do you think you are?",
+			"zh": "你以为你在哪里？"
+		},
+		{
+			"i": 8,
+			"start": 31.32,
+			"end": 33.41,
+			"en": "On a race track?",
+			"zh": "在赛车场上吗？"
+		},
+		{
+			"i": 9,
+			"start": 33.56,
+			"end": 38.73,
+			"en": "You must have been driving at seventy miles an hour.",
+			"zh": "你刚才一定是以每小时七十英里的速度行驶。"
+		},
+		{
+			"i": 10,
+			"start": 38.88,
+			"end": 41.7,
+			"en": "I can't have been.",
+			"zh": "我不可能开那么快。"
+		},
+		{
+			"i": 11,
+			"start": 41.85,
+			"end": 46.22,
+			"en": "I was doing eighty when I overtook you.",
+			"zh": "我超过你的时候，我开的是八十。"
+		},
+		{
+			"i": 12,
+			"start": 46.37,
+			"end": 49.62,
+			"en": "Didn't you see the speed limit?",
+			"zh": "你没看到限速标志吗？"
+		},
+		{
+			"i": 13,
+			"start": 49.77,
+			"end": 52.68,
+			"en": "I'm afraid I didn't, officer.",
+			"zh": "恐怕我没有，警官。"
+		},
+		{
+			"i": 14,
+			"start": 52.83,
+			"end": 55.86,
+			"en": "I must have been dreaming.",
+			"zh": "我当时一定是在做梦。"
+		},
+		{
+			"i": 15,
+			"start": 56.01,
+			"end": 58.75,
+			"en": "He wasn't dreaming, officer.",
+			"zh": "他没在做梦，警官。"
+		},
+		{
+			"i": 16,
+			"start": 58.9,
+			"end": 63.31,
+			"en": "I was telling him to drive slowly.",
+			"zh": "我当时正在叫他慢点开。"
+		},
+		{
+			"i": 17,
+			"start": 63.46,
+			"end": 67.65,
+			"en": "That's why I didn't see the sign.",
+			"zh": "那就是我没看到标志的原因。"
+		},
+		{
+			"i": 18,
+			"start": 67.8,
+			"end": 71.6,
+			"en": "Let me see your driving licence.",
+			"zh": "让我看看你的驾照。"
+		},
+		{
+			"i": 19,
+			"start": 71.75,
+			"end": 74.61,
+			"en": "I won't charge you this time.",
+			"zh": "这次我不罚你。"
+		},
+		{
+			"i": 20,
+			"start": 74.76,
+			"end": 78.29,
+			"en": "But you'd better not do it again!",
+			"zh": "但你最好别再犯了！"
+		},
+		{
+			"i": 21,
+			"start": 78.44,
+			"end": 79.59,
+			"en": "Thank you.",
+			"zh": "谢谢你。"
+		},
+		{
+			"i": 22,
+			"start": 79.74,
+			"end": 83.24,
+			"en": "I'll certainly be more careful.",
+			"zh": "我一定会更小心的。"
+		},
+		{
+			"i": 23,
+			"start": 83.39,
+			"end": 87.3,
+			"en": "I told you to drive slowly, Gary.",
+			"zh": "我叫你慢点开的，加里。"
+		},
+		{
+			"i": 24,
+			"start": 87.45,
+			"end": 91.64,
+			"en": "You always tell me to drive slowly, darling.",
+			"zh": "你总是叫我慢点开，亲爱的。"
+		},
+		{
+			"i": 25,
+			"start": 91.79,
+			"end": 95.79,
+			"en": "Well, next time you'd better take my advice!",
+			"zh": "嗯，下次你最好听我的劝告！"
+		}
+	]
+}

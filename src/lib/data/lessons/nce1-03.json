@@ -1,0 +1,125 @@
+{
+	"id": "nce1-03",
+	"book": "nce1",
+	"title": "Sorry, Sir.",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-03.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.79,
+			"end": 2.83,
+			"en": "Lesson 3",
+			"zh": "第3课"
+		},
+		{
+			"i": 1,
+			"start": 2.98,
+			"end": 5.6,
+			"en": "Sorry sir.",
+			"zh": "对不起，先生。"
+		},
+		{
+			"i": 2,
+			"start": 5.75,
+			"end": 11.56,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.71,
+			"end": 17.41,
+			"en": "Does the man get his umbrella back?",
+			"zh": "这位男士找回他的伞了吗？"
+		},
+		{
+			"i": 4,
+			"start": 17.56,
+			"end": 21.85,
+			"en": "My coat and my umbrella please.",
+			"zh": "请把我的大衣和雨伞给我。"
+		},
+		{
+			"i": 5,
+			"start": 22,
+			"end": 24.88,
+			"en": "Here is my ticket.",
+			"zh": "这是我的票。"
+		},
+		{
+			"i": 6,
+			"start": 25.03,
+			"end": 26.71,
+			"en": "Thank you sir.",
+			"zh": "谢谢您，先生。"
+		},
+		{
+			"i": 7,
+			"start": 26.86,
+			"end": 28.94,
+			"en": "Number five.",
+			"zh": "五号。"
+		},
+		{
+			"i": 8,
+			"start": 29.09,
+			"end": 33.57,
+			"en": "Here's your umbrella and your coat.",
+			"zh": "这是您的伞和大衣。"
+		},
+		{
+			"i": 9,
+			"start": 33.72,
+			"end": 37.24,
+			"en": "This is not my umbrella.",
+			"zh": "这不是我的伞。"
+		},
+		{
+			"i": 10,
+			"start": 37.39,
+			"end": 39.52,
+			"en": "Sorry sir.",
+			"zh": "对不起，先生。"
+		},
+		{
+			"i": 11,
+			"start": 39.67,
+			"end": 42.41,
+			"en": "Is this your umbrella?",
+			"zh": "这是您的伞吗？"
+		},
+		{
+			"i": 12,
+			"start": 42.56,
+			"end": 45.54,
+			"en": "No it isn't.",
+			"zh": "不，它不是。"
+		},
+		{
+			"i": 13,
+			"start": 45.69,
+			"end": 47.61,
+			"en": "Is this it?",
+			"zh": "是这把吗？"
+		},
+		{
+			"i": 14,
+			"start": 47.76,
+			"end": 50.38,
+			"en": "Yes it is.",
+			"zh": "是的，就是它。"
+		},
+		{
+			"i": 15,
+			"start": 50.53,
+			"end": 54.53,
+			"en": "Thank you very much.",
+			"zh": "非常感谢。"
+		}
+	]
+}

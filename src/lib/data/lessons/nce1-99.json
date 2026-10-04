@@ -1,0 +1,153 @@
+{
+	"id": "nce1-99",
+	"book": "nce1",
+	"title": "Ow",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-99.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.65,
+			"end": 2.7,
+			"en": "Lesson 99",
+			"zh": "第99课"
+		},
+		{
+			"i": 1,
+			"start": 2.85,
+			"end": 4.59,
+			"en": "Ow!",
+			"zh": "哎哟！"
+		},
+		{
+			"i": 2,
+			"start": 4.74,
+			"end": 10.34,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 10.49,
+			"end": 15.41,
+			"en": "Must Andy go to see the doctor?",
+			"zh": "安迪必须去看医生吗？"
+		},
+		{
+			"i": 4,
+			"start": 15.56,
+			"end": 16.9,
+			"en": "Ow!",
+			"zh": "哎哟！"
+		},
+		{
+			"i": 5,
+			"start": 17.05,
+			"end": 19.91,
+			"en": "What's the matter, Andy?",
+			"zh": "怎么了，安迪？"
+		},
+		{
+			"i": 6,
+			"start": 20.06,
+			"end": 23.47,
+			"en": "I slipped and fell downstairs.",
+			"zh": "我滑了一下，从楼上摔下来了。"
+		},
+		{
+			"i": 7,
+			"start": 23.62,
+			"end": 26.31,
+			"en": "Have you hurt yourself?",
+			"zh": "你摔伤了吗？"
+		},
+		{
+			"i": 8,
+			"start": 26.46,
+			"end": 28.33,
+			"en": "Yes, I have.",
+			"zh": "是的，我摔伤了。"
+		},
+		{
+			"i": 9,
+			"start": 28.48,
+			"end": 32.39,
+			"en": "I think that I've hurt my back.",
+			"zh": "我想我伤了背。"
+		},
+		{
+			"i": 10,
+			"start": 32.54,
+			"end": 35.14,
+			"en": "Try and stand up.",
+			"zh": "试试站起来。"
+		},
+		{
+			"i": 11,
+			"start": 35.29,
+			"end": 37.3,
+			"en": "Can you stand up?",
+			"zh": "你能站起来吗？"
+		},
+		{
+			"i": 12,
+			"start": 37.45,
+			"end": 38.38,
+			"en": "Here.",
+			"zh": "来。"
+		},
+		{
+			"i": 13,
+			"start": 38.53,
+			"end": 41.36,
+			"en": "Let me help you.",
+			"zh": "我来帮你。"
+		},
+		{
+			"i": 14,
+			"start": 41.51,
+			"end": 43.84,
+			"en": "I'm sorry, Lucy.",
+			"zh": "对不起，露西。"
+		},
+		{
+			"i": 15,
+			"start": 43.99,
+			"end": 47.89,
+			"en": "I'm afraid that I can't get up.",
+			"zh": "恐怕我站不起来。"
+		},
+		{
+			"i": 16,
+			"start": 48.04,
+			"end": 52.82,
+			"en": "I think that the doctor had better see you.",
+			"zh": "我认为你最好去看医生。"
+		},
+		{
+			"i": 17,
+			"start": 52.97,
+			"end": 56.82,
+			"en": "I'll phone Dr. Carter.",
+			"zh": "我给卡特医生打电话。"
+		},
+		{
+			"i": 18,
+			"start": 56.97,
+			"end": 61.68,
+			"en": "The doctor says that he will come at once.",
+			"zh": "医生说他马上就来。"
+		},
+		{
+			"i": 19,
+			"start": 61.83,
+			"end": 65.83,
+			"en": "I'm sure that you need an X-ray, Andy.",
+			"zh": "安迪，我肯定你需要拍X光片。"
+		}
+	]
+}

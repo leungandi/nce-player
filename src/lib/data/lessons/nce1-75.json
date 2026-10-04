@@ -1,0 +1,174 @@
+{
+	"id": "nce1-75",
+	"book": "nce1",
+	"title": "Uncomfortable Shoes",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-75.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.93,
+			"end": 3.58,
+			"en": "Lesson 75",
+			"zh": "第75课"
+		},
+		{
+			"i": 1,
+			"start": 3.73,
+			"end": 6.83,
+			"en": "Uncomfortable shoes",
+			"zh": "不舒适的鞋"
+		},
+		{
+			"i": 2,
+			"start": 6.98,
+			"end": 12.23,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.38,
+			"end": 17.86,
+			"en": "What's wrong with the fashionable shoes?",
+			"zh": "这些时髦的鞋有什么问题？"
+		},
+		{
+			"i": 4,
+			"start": 18.01,
+			"end": 21.93,
+			"en": "Do you have any shoes like these?",
+			"zh": "你们有这种鞋吗？"
+		},
+		{
+			"i": 5,
+			"start": 22.08,
+			"end": 23.65,
+			"en": "What size?",
+			"zh": "多少尺码？"
+		},
+		{
+			"i": 6,
+			"start": 23.8,
+			"end": 25.71,
+			"en": "Size five.",
+			"zh": "5码。"
+		},
+		{
+			"i": 7,
+			"start": 25.86,
+			"end": 27.15,
+			"en": "What colour?",
+			"zh": "什么颜色？"
+		},
+		{
+			"i": 8,
+			"start": 27.3,
+			"end": 28.76,
+			"en": "Black.",
+			"zh": "黑色。"
+		},
+		{
+			"i": 9,
+			"start": 28.91,
+			"end": 30.14,
+			"en": "I'm sorry.",
+			"zh": "很抱歉。"
+		},
+		{
+			"i": 10,
+			"start": 30.29,
+			"end": 32.7,
+			"en": "We don't have any.",
+			"zh": "我们没有。"
+		},
+		{
+			"i": 11,
+			"start": 32.85,
+			"end": 37.37,
+			"en": "But my sister bought this pair last month.",
+			"zh": "可是我姐姐上个月买了一双这种鞋。"
+		},
+		{
+			"i": 12,
+			"start": 37.52,
+			"end": 39.79,
+			"en": "Did she buy them here?",
+			"zh": "她是在这儿买的吗？"
+		},
+		{
+			"i": 13,
+			"start": 39.94,
+			"end": 44.21,
+			"en": "No, she bought them in the U. S.",
+			"zh": "不，她是在美国买的。"
+		},
+		{
+			"i": 14,
+			"start": 44.36,
+			"end": 51.67,
+			"en": "We had some shoes like those a month ago, but we don't have any now.",
+			"zh": "一个月前我们有这种鞋，但现在没有了。"
+		},
+		{
+			"i": 15,
+			"start": 51.82,
+			"end": 55.37,
+			"en": "Can you get a pair for me, please?",
+			"zh": "您能给我进一双吗？"
+		},
+		{
+			"i": 16,
+			"start": 55.52,
+			"end": 58.39,
+			"en": "I'm afraid that I can't.",
+			"zh": "恐怕不能。"
+		},
+		{
+			"i": 17,
+			"start": 58.54,
+			"end": 64.05,
+			"en": "They were in fashion last year and the year before last.",
+			"zh": "这种鞋去年和前年很流行。"
+		},
+		{
+			"i": 18,
+			"start": 64.2,
+			"end": 68.95,
+			"en": "But they're not in fashion this year.",
+			"zh": "但今年不流行了。"
+		},
+		{
+			"i": 19,
+			"start": 69.1,
+			"end": 72.94,
+			"en": "These shoes are in fashion now.",
+			"zh": "现在这种鞋很流行。"
+		},
+		{
+			"i": 20,
+			"start": 73.09,
+			"end": 76.31,
+			"en": "They look very uncomfortable.",
+			"zh": "这种鞋看起来很不舒服。"
+		},
+		{
+			"i": 21,
+			"start": 76.46,
+			"end": 79.33,
+			"en": "They are very uncomfortable.",
+			"zh": "它们是很不舒服。"
+		},
+		{
+			"i": 22,
+			"start": 79.48,
+			"end": 83.48,
+			"en": "But women always wear uncomfortable shoes!",
+			"zh": "但是女士们总是穿不舒服的鞋！"
+		}
+	]
+}

@@ -1,0 +1,195 @@
+{
+	"id": "nce3-40",
+	"book": "nce3",
+	"title": "Who's Who",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-40.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.27,
+			"end": 1.84,
+			"en": "Lesson 40",
+			"zh": "第40课"
+		},
+		{
+			"i": 1,
+			"start": 1.99,
+			"end": 7.99,
+			"en": "Who's who",
+			"zh": "谁是谁"
+		},
+		{
+			"i": 2,
+			"start": 8.14,
+			"end": 14.06,
+			"en": "How did the policeman discover that the whole thing was a joke?",
+			"zh": "警察是如何发现这整件事是个恶作剧的？"
+		},
+		{
+			"i": 3,
+			"start": 14.21,
+			"end": 22.56,
+			"en": "It has never been explained why university students seem to enjoy practical jokes more than anyone else.",
+			"zh": "大学学生为什么似乎比其他人更喜欢恶作剧，这一点从未得到解释。"
+		},
+		{
+			"i": 4,
+			"start": 22.71,
+			"end": 28.64,
+			"en": "Students specialize in a particular type of practical joke: the hoax.",
+			"zh": "学生们擅长一种特殊类型的恶作剧：骗局。"
+		},
+		{
+			"i": 5,
+			"start": 28.79,
+			"end": 39.3,
+			"en": "Inviting the fire brigade to put out a nonexistent fire is a crude form of deception which no self-respecting student would ever indulde in.",
+			"zh": "邀请消防队扑灭一场不存在的火灾是一种粗俗的欺骗形式，任何有自尊的学生都不会沉溺其中。"
+		},
+		{
+			"i": 6,
+			"start": 39.45,
+			"end": 46.78,
+			"en": "Students often create amusing situations which are funny to everyone except the victims.",
+			"zh": "学生们经常制造一些有趣的场面，除了受害者，每个人都觉得好笑。"
+		},
+		{
+			"i": 7,
+			"start": 46.93,
+			"end": 54.09,
+			"en": "When a student recently saw two workmen using a pneumatic drill outside his university,",
+			"zh": "最近，当一名学生看到两名工人在他大学外面使用一台气动钻时，"
+		},
+		{
+			"i": 8,
+			"start": 54.24,
+			"end": 61.05,
+			"en": "he immediately telephoned the police and informed them that two students dressed up as workmen",
+			"zh": "他立即打电话报警，并告知警察有两名打扮成工人的学生"
+		},
+		{
+			"i": 9,
+			"start": 61.2,
+			"end": 64.54,
+			"en": "were tearing up the road with a pneumatic drill.",
+			"zh": "正在用气动钻挖路。"
+		},
+		{
+			"i": 10,
+			"start": 64.69,
+			"end": 72.55,
+			"en": "As soon as he had hung up, he went over to the workmen and told them that if a policeman ordered them to go away,",
+			"zh": "他一挂掉电话，就走到工人那里，告诉他们如果一个警察命令他们离开，"
+		},
+		{
+			"i": 11,
+			"start": 72.7,
+			"end": 75.27,
+			"en": "they were not to take him seriously.",
+			"zh": "他们不必把他当真。"
+		},
+		{
+			"i": 12,
+			"start": 75.42,
+			"end": 83.63,
+			"en": "He added that a student had dressed up as a policeman and was playing all sorts of silly jokes on people.",
+			"zh": "他补充说，有个学生打扮成警察，正在对人们开各种愚蠢的玩笑。"
+		},
+		{
+			"i": 13,
+			"start": 83.78,
+			"end": 91.43,
+			"en": "Both the police and the workmen were grateful to the student for this piece of advance information.",
+			"zh": "警察和工人都很感谢这名学生提供的这条提前消息。"
+		},
+		{
+			"i": 14,
+			"start": 91.58,
+			"end": 98.58,
+			"en": "The student hid in an archway nearby where he could watch and hear everything that went on.",
+			"zh": "这名学生藏在附近的一个拱门里，在那里他能看到和听到发生的一切。"
+		},
+		{
+			"i": 15,
+			"start": 98.73,
+			"end": 105.6,
+			"en": "Sure enough, a policeman arrived on the scene and politely asked the workmen to go away.",
+			"zh": "果不其然，一名警察来到了现场，并礼貌地要求工人离开。"
+		},
+		{
+			"i": 16,
+			"start": 105.75,
+			"end": 113.39,
+			"en": "When he received a very rude reply from one of the workmen, he threatened to remove them by force.",
+			"zh": "当他从其中一名工人那里得到非常粗鲁的答复时，他威胁要强行把他们带走。"
+		},
+		{
+			"i": 17,
+			"start": 113.54,
+			"end": 119.01,
+			"en": "The workmen told him to do as he pleased and the policeman telephoned for help.",
+			"zh": "工人们告诉他想怎样就怎样，于是警察打电话请求支援。"
+		},
+		{
+			"i": 18,
+			"start": 119.16,
+			"end": 125.64,
+			"en": "Shortly afterwards, 4 more policemen arrived and remonstrated with the workmen.",
+			"zh": "不久之后，又有4名警察赶到，并与工人们进行交涉。"
+		},
+		{
+			"i": 19,
+			"start": 125.79,
+			"end": 132.69,
+			"en": "As the men refused to stop working, the police attempted to seize the pneumatic drill.",
+			"zh": "由于工人们拒绝停止工作，警察试图没收气动钻。"
+		},
+		{
+			"i": 20,
+			"start": 132.84,
+			"end": 137.89,
+			"en": "The workmen struggled fiercely and one of them lost his temper.",
+			"zh": "工人们激烈反抗，其中一人发了脾气。"
+		},
+		{
+			"i": 21,
+			"start": 138.04,
+			"end": 140.72,
+			"en": "He threatened to call the police.",
+			"zh": "他威胁要报警。"
+		},
+		{
+			"i": 22,
+			"start": 140.87,
+			"end": 150.19,
+			"en": "At this, the police pointed out ironically that this would hardly be necessary as the men were already under arrest.",
+			"zh": "听罢此言，警察讽刺地指出，这几乎没有必要，因为这些人已经被逮捕了。"
+		},
+		{
+			"i": 23,
+			"start": 150.34,
+			"end": 159.46,
+			"en": "Pretending to speak seriously, one of the workmen asked if he might make a telephone call before being taken to the station.",
+			"zh": "其中一名工人假装认真地问道，在被带到警察局之前，他是否可以打个电话。"
+		},
+		{
+			"i": 24,
+			"start": 159.61,
+			"end": 164.94,
+			"en": "Permission was granted and a policeman accompanied him to a pay phone.",
+			"zh": "许可被准予，一名警察陪他去了公用电话亭。"
+		},
+		{
+			"i": 25,
+			"start": 165.09,
+			"end": 169.09,
+			"en": "Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax.",
+			"zh": "只有当他看到那个人实际上是在打电话给警察时，他才意识到他们都成了骗局的受害者。"
+		}
+	]
+}

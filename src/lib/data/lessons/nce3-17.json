@@ -1,0 +1,160 @@
+{
+	"id": "nce3-17",
+	"book": "nce3",
+	"title": "The Longest Suspension Bridge in the World",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-17.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.29,
+			"end": 2.68,
+			"en": "Lesson 17",
+			"zh": "第17课"
+		},
+		{
+			"i": 1,
+			"start": 2.83,
+			"end": 12.15,
+			"en": "The longest suspension bridge in the world",
+			"zh": "世界上最长的吊桥"
+		},
+		{
+			"i": 2,
+			"start": 12.3,
+			"end": 16.52,
+			"en": "How is the bridge supported?",
+			"zh": "这座桥是如何支撑起来的？"
+		},
+		{
+			"i": 3,
+			"start": 16.67,
+			"end": 28.28,
+			"en": "Verrazano, an Italian about whom little is known, sailed into New York Harbour in 1524 and named it Angouleme.",
+			"zh": "韦拉扎诺，一位鲜为人知的意大利人，于1524年航行进入纽约港，并将其命名为昂古莱姆。"
+		},
+		{
+			"i": 4,
+			"start": 28.43,
+			"end": 39.28,
+			"en": "He described it as 'a very agreeable situation located within two small hills in the midst of which flowed a great river.'",
+			"zh": "他将其描述为“一个非常宜人的地方，坐落在两座小山之间，中间流淌着一条大河。”"
+		},
+		{
+			"i": 5,
+			"start": 39.43,
+			"end": 47.92,
+			"en": "Though Verrazano is by no means considered to be a great explorer, his name will probably remain immortal,",
+			"zh": "尽管韦拉扎诺绝不被认为是一位伟大的探险家，但他的名字可能会流芳百世，"
+		},
+		{
+			"i": 6,
+			"start": 48.07,
+			"end": 59.17,
+			"en": "for on November 21st, 1964, the longest suspension bridge in the world was named after him.",
+			"zh": "因为在1964年11月21日，世界上最长的吊桥以他的名字命名。"
+		},
+		{
+			"i": 7,
+			"start": 59.32,
+			"end": 67.57,
+			"en": "The Verrazano Bridge, which was designed by Othmar Ammann, joins Brooklyn to Staten Island.",
+			"zh": "韦拉扎诺大桥由奥斯马·阿曼设计，连接着布鲁克林和史泰登岛。"
+		},
+		{
+			"i": 8,
+			"start": 67.72,
+			"end": 72.37,
+			"en": "It has a span of 4, 260 feet.",
+			"zh": "它有一个4260英尺的跨度。"
+		},
+		{
+			"i": 9,
+			"start": 72.52,
+			"end": 79.77,
+			"en": "The bridge is so long that the shape of the earth had to be taken into account by its designer.",
+			"zh": "这座桥非常长，以至于它的设计师不得不将地球的形状考虑在内。"
+		},
+		{
+			"i": 10,
+			"start": 79.92,
+			"end": 85.38,
+			"en": "Two great towers support four huge cables.",
+			"zh": "两座巨大的塔架支撑着四根巨大的缆索。"
+		},
+		{
+			"i": 11,
+			"start": 85.53,
+			"end": 92.13,
+			"en": "The towers are built on immense underwater platforms made of steel and concrete.",
+			"zh": "这些塔架建在由钢和混凝土制成的巨大水下平台上。"
+		},
+		{
+			"i": 12,
+			"start": 92.28,
+			"end": 97.5,
+			"en": "The platforms extend to a depth of over 100 feet under the sea.",
+			"zh": "这些平台延伸到海面以下100多英尺的深度。"
+		},
+		{
+			"i": 13,
+			"start": 97.65,
+			"end": 101.33,
+			"en": "These alone took sixteen months to build.",
+			"zh": "仅仅这些就花了16个月来建造。"
+		},
+		{
+			"i": 14,
+			"start": 101.48,
+			"end": 108.1,
+			"en": "Above the surface of the water, the towers rise to a height of nearly 700 feet.",
+			"zh": "在水面之上，塔架上升到近700英尺的高度。"
+		},
+		{
+			"i": 15,
+			"start": 108.25,
+			"end": 112.47,
+			"en": "They support the cables from which the bridge has been suspended.",
+			"zh": "它们支撑着悬挂大桥的缆索。"
+		},
+		{
+			"i": 16,
+			"start": 112.62,
+			"end": 119.47,
+			"en": "Each of the four cables contains 26, 108 lengths of wire.",
+			"zh": "四根缆索中的每一根都含有26108股钢丝。"
+		},
+		{
+			"i": 17,
+			"start": 119.62,
+			"end": 129.58,
+			"en": "It has been estimated that if the bridge were packed with cars, it would still only be carrying a third of its total capacity.",
+			"zh": "据估计，即使桥上挤满了汽车，它也只承载了其总容量的三分之一。"
+		},
+		{
+			"i": 18,
+			"start": 129.73,
+			"end": 135.78,
+			"en": "However, size and strength are not the only important things about this bridge.",
+			"zh": "然而，尺寸和强度并不是这座桥唯一重要的方面。"
+		},
+		{
+			"i": 19,
+			"start": 135.93,
+			"end": 141.34,
+			"en": "Despite its immensity, it is both simple and elegant,",
+			"zh": "尽管它如此巨大，却既简洁又优雅，"
+		},
+		{
+			"i": 20,
+			"start": 141.49,
+			"end": 145.49,
+			"en": "fulfilling its designer's dream to creat 'an enormous object drawn as faintly as possible'.",
+			"zh": "实现了设计师创造“一个尽可能轻描淡写地勾勒出的巨大物体”的梦想。"
+		}
+	]
+}

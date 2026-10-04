@@ -1,0 +1,153 @@
+{
+	"id": "nce3-13",
+	"book": "nce3",
+	"title": "It's Only Me",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-13.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.63,
+			"end": 2.69,
+			"en": "Lesson 13",
+			"zh": "第13课"
+		},
+		{
+			"i": 1,
+			"start": 2.84,
+			"end": 10.72,
+			"en": "'It's only me'",
+			"zh": "“是我呀”"
+		},
+		{
+			"i": 2,
+			"start": 10.87,
+			"end": 16.27,
+			"en": "What did the man expect to find under the stairs?",
+			"zh": "那个男人期望在楼梯下找到什么？"
+		},
+		{
+			"i": 3,
+			"start": 16.42,
+			"end": 24.81,
+			"en": "After her husband had gone to work, Mrs. Richards sent her children to school and went upstairs to her bedroom.",
+			"zh": "丈夫去上班后，理查兹夫人把孩子们送去学校，然后上楼到卧室。"
+		},
+		{
+			"i": 4,
+			"start": 24.96,
+			"end": 34.74,
+			"en": "She was too excited to do any housework that morning, for in the evening she would be going to a fancy-dress party with her husband.",
+			"zh": "那个上午她兴奋得顾不上做家务，因为晚上她要和丈夫一起去参加一个化装舞会。"
+		},
+		{
+			"i": 5,
+			"start": 34.89,
+			"end": 44.08,
+			"en": "She intended to dress up as a ghost and as she had made her costume the night before, she was impatient to try it on.",
+			"zh": "她打算打扮成一个鬼魂。由于头天晚上她已做好了化装服，所以她迫不及待地想试穿一下。"
+		},
+		{
+			"i": 6,
+			"start": 44.23,
+			"end": 49.47,
+			"en": "Though the costume consisted only of a sheet, it was very effective.",
+			"zh": "尽管化装服只是一块床单，但效果却非常好。"
+		},
+		{
+			"i": 7,
+			"start": 49.62,
+			"end": 53.78,
+			"en": "After putting it on, Mrs. Richards went downstairs.",
+			"zh": "穿上衣服后，理查兹夫人下了楼。"
+		},
+		{
+			"i": 8,
+			"start": 53.93,
+			"end": 58.12,
+			"en": "She wanted to find out whether it would be comfortable to wear.",
+			"zh": "她想看看穿上是否舒服。"
+		},
+		{
+			"i": 9,
+			"start": 58.27,
+			"end": 64.69,
+			"en": "Just as Mrs. Richards was entering the dining-room, there was a knock on the front door.",
+			"zh": "理查兹夫人刚走进饭厅，前门就传来了敲门声。"
+		},
+		{
+			"i": 10,
+			"start": 64.84,
+			"end": 67.33,
+			"en": "She knew that it must be the baker.",
+			"zh": "她知道肯定是面包师。"
+		},
+		{
+			"i": 11,
+			"start": 67.48,
+			"end": 74.27,
+			"en": "She had told him to come straight in if ever she failed to open the door and to leave the bread on the kitchen table.",
+			"zh": "她曾告诉他，如果她没有开门，他就直接进来，把面包放在厨房的桌子上。"
+		},
+		{
+			"i": 12,
+			"start": 74.42,
+			"end": 81.98,
+			"en": "Not wanting to frighten the poor man, Mrs. Richards quickly hid in the small storeroom under the stairs.",
+			"zh": "理查兹夫人不想吓着那个可怜的人，便迅速躲到了楼梯下的小储藏室里。"
+		},
+		{
+			"i": 13,
+			"start": 82.13,
+			"end": 86.9,
+			"en": "She heard the front door open and heavy footsteps in the hall.",
+			"zh": "她听到前门打开了，走廊里传来沉重的脚步声。"
+		},
+		{
+			"i": 14,
+			"start": 87.05,
+			"end": 91.33,
+			"en": "Suddenly the door of the storeroom was opened and a man entered.",
+			"zh": "突然，储藏室的门开了，一个男人走了进来。"
+		},
+		{
+			"i": 15,
+			"start": 91.48,
+			"end": 98.63,
+			"en": "Mrs. Richards realized that it must be the man from the Electricity Board who had come to read the metre.",
+			"zh": "理查兹夫人意识到这一定是电力公司的抄表员。"
+		},
+		{
+			"i": 16,
+			"start": 98.78,
+			"end": 102,
+			"en": "She tried to explain the situation, saying",
+			"zh": "她试图解释情况，说道："
+		},
+		{
+			"i": 17,
+			"start": 102.15,
+			"end": 106.34,
+			"en": "'It's only me', but it was too late.",
+			"zh": "“是我呀”，但为时已晚。"
+		},
+		{
+			"i": 18,
+			"start": 106.49,
+			"end": 111.67,
+			"en": "The man let out a cry and jumped back several paces.",
+			"zh": "那个男人大叫一声，后退了几步。"
+		},
+		{
+			"i": 19,
+			"start": 111.82,
+			"end": 115.82,
+			"en": "When Mrs. Richards walked towards him, he fled, slamming the door behind him.",
+			"zh": "当理查兹夫人走向他时，他逃走了，并在身后砰地关上了门。"
+		}
+	]
+}

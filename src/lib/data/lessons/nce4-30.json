@@ -1,0 +1,230 @@
+{
+	"id": "nce4-30",
+	"book": "nce4",
+	"title": "Exploring the Sea-Floor",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-30.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.93,
+			"end": 2.23,
+			"en": "Lesson 30",
+			"zh": "第30课"
+		},
+		{
+			"i": 1,
+			"start": 2.38,
+			"end": 9.33,
+			"en": "Exploring the sea-floor",
+			"zh": "探索海底"
+		},
+		{
+			"i": 2,
+			"start": 9.48,
+			"end": 17.3,
+			"en": "How did people probably imagine the sea-floor before it was investigated?",
+			"zh": "在海底被勘测之前，人们可能如何想象它？"
+		},
+		{
+			"i": 3,
+			"start": 17.45,
+			"end": 24.75,
+			"en": "Our knowledge of the oceans a hundred years ago was confined to the two-dimensional shape of the sea surface",
+			"zh": "一百年前，我们对海洋的了解仅限于海面的二维形状"
+		},
+		{
+			"i": 4,
+			"start": 24.9,
+			"end": 33.38,
+			"en": "and the hazards of navigation presented by the irregularities in depth of the shallow water close to the land.",
+			"zh": "以及陆地附近浅水区深度不规则所带来的航行危险。"
+		},
+		{
+			"i": 5,
+			"start": 33.53,
+			"end": 36.71,
+			"en": "The open sea was deep and mysterious,",
+			"zh": "开阔的海洋深邃而神秘，"
+		},
+		{
+			"i": 6,
+			"start": 36.86,
+			"end": 45.52,
+			"en": "and anyone who gave more than a passing thought to the bottom confines of the oceans probably assumed that the sea-bed was flat.",
+			"zh": "任何对海洋底部边界稍加思考的人可能都认为海床是平坦的。"
+		},
+		{
+			"i": 7,
+			"start": 45.67,
+			"end": 53.11,
+			"en": "Sir James Clark Ross had obtained a sounding of over 2, 400 fathoms in 1839,",
+			"zh": "詹姆斯·克拉克·罗斯爵士于1839年测得超过2400噚的深度，"
+		},
+		{
+			"i": 8,
+			"start": 53.26,
+			"end": 63.23,
+			"en": "but it was not until 1869, when H.M.S. Porcupine was put at the disposal of the Royal Society for several cruises",
+			"zh": "但直到1869年，当“豪猪号”军舰被皇家学会征用进行数次航行时，"
+		},
+		{
+			"i": 9,
+			"start": 63.38,
+			"end": 71.69,
+			"en": "that a series of deep soundings was obtained in the Atlantic and the first samples were collected by dredging the bottom.",
+			"zh": "才在大西洋获得了一系列深海探测数据，并通过海底拖网收集了第一批样本。"
+		},
+		{
+			"i": 10,
+			"start": 71.84,
+			"end": 78.86,
+			"en": "Shortly after this the famous H.M.S. Challenger expedition established the study of the sea-floor",
+			"zh": "此后不久，著名的“挑战者号”军舰远征队确立了海底研究"
+		},
+		{
+			"i": 11,
+			"start": 79.01,
+			"end": 84.22,
+			"en": "as a subject worthy of the most qualified physicists and geologists.",
+			"zh": "成为值得最合格的物理学家和地质学家研究的课题。"
+		},
+		{
+			"i": 12,
+			"start": 84.37,
+			"end": 89.47,
+			"en": "A burst of activity associated with the laying of submarine cables",
+			"zh": "随之而来的海底电缆铺设热潮"
+		},
+		{
+			"i": 13,
+			"start": 89.62,
+			"end": 97.13,
+			"en": "soon confirmed the Challenger's observation that many parts of the ocean were two to three miles deep,",
+			"zh": "很快证实了“挑战者号”的观测结果：海洋许多地方深达两到三英里，"
+		},
+		{
+			"i": 14,
+			"start": 97.28,
+			"end": 102.59,
+			"en": "and the existence of underwater features of considerable magnitude.",
+			"zh": "并存在着规模巨大的水下特征。"
+		},
+		{
+			"i": 15,
+			"start": 102.74,
+			"end": 108.87,
+			"en": "Today, enough soundings are available to enable a relief map of the Atlantic to be drawn",
+			"zh": "如今，已有的测深数据足以绘制出大西洋的浮雕地图，"
+		},
+		{
+			"i": 16,
+			"start": 109.02,
+			"end": 114.63,
+			"en": "and we know something of the great variety of the sea bed's topography.",
+			"zh": "我们对海底地形的巨大多样性有了一定的了解。"
+		},
+		{
+			"i": 17,
+			"start": 114.78,
+			"end": 118.41,
+			"en": "Since the sea covers the greater part of the earth's surface,",
+			"zh": "由于海洋覆盖了地球表面的大部分，"
+		},
+		{
+			"i": 18,
+			"start": 118.56,
+			"end": 124.73,
+			"en": "it is quite reasonable to regard the sea floor as the basic form of the crust of the earth,",
+			"zh": "将海底视为地壳的基本形态是相当合理的，"
+		},
+		{
+			"i": 19,
+			"start": 124.88,
+			"end": 128.59,
+			"en": "with superimposed upon it the continents,",
+			"zh": "大陆、"
+		},
+		{
+			"i": 20,
+			"start": 128.74,
+			"end": 132.9,
+			"en": "together with the islands and other features of the oceans.",
+			"zh": "以及岛屿和海洋的其他特征都叠加其上。"
+		},
+		{
+			"i": 21,
+			"start": 133.05,
+			"end": 140.8,
+			"en": "The continents form rugged tablelands which stand nearly three miles above the floor of the open ocean.",
+			"zh": "大陆形成了崎岖不平的高原，它们比开阔海洋的海底高出近三英里。"
+		},
+		{
+			"i": 22,
+			"start": 140.95,
+			"end": 148.48,
+			"en": "From the shore line, out to a distance which may be anywhere from a few miles to a few hundred miles,",
+			"zh": "从海岸线向外延伸，距离可能从几英里到几百英里不等，"
+		},
+		{
+			"i": 23,
+			"start": 148.63,
+			"end": 155.3,
+			"en": "runs the gentle slope of the continental shelf, geologically part of the continents.",
+			"zh": "是大陆架的平缓斜坡，它在地质学上属于大陆的一部分。"
+		},
+		{
+			"i": 24,
+			"start": 155.45,
+			"end": 162.55,
+			"en": "The real dividing line between continents and oceans occurs at the foot of a steeper slope.",
+			"zh": "大陆和海洋的真正分界线出现在一个更陡峭的斜坡底部。"
+		},
+		{
+			"i": 25,
+			"start": 162.7,
+			"end": 168.76,
+			"en": "This continental slope usually starts at a place somewhere near the 100-fathom mark",
+			"zh": "这个大陆坡通常始于100噚标记附近的某个地方，"
+		},
+		{
+			"i": 26,
+			"start": 168.91,
+			"end": 178.93,
+			"en": "and in the course of a few hundred miles reaches the true ocean floor at 2, 500-3, 500 fathoms.",
+			"zh": "并在几百英里的延伸中到达2500-3500噚的真正海底。"
+		},
+		{
+			"i": 27,
+			"start": 179.08,
+			"end": 183.34,
+			"en": "The slope averages about 1 in 30, but contains steep,",
+			"zh": "该斜坡平均坡度约为1:30，但包含陡峭的、"
+		},
+		{
+			"i": 28,
+			"start": 183.49,
+			"end": 187.99,
+			"en": "probably vertical, cliffs, and gentle sediment-covered terraces,",
+			"zh": "可能是垂直的悬崖，以及平缓的被沉积物覆盖的阶地，"
+		},
+		{
+			"i": 29,
+			"start": 188.14,
+			"end": 194.21,
+			"en": "and near its lower reaches there is a long tailing-off which is almost certainly the result of",
+			"zh": "在其下部区域，有一个长长的逐渐减缓的坡段，这几乎肯定是由于"
+		},
+		{
+			"i": 30,
+			"start": 194.36,
+			"end": 198.36,
+			"en": "material transported out to deep water after being eroded from the continental masses.",
+			"zh": "物质从大陆块体被侵蚀后输送到深水区的结果。"
+		}
+	]
+}

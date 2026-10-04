@@ -1,0 +1,300 @@
+{
+	"id": "nce4-25",
+	"book": "nce4",
+	"title": "Non-Auditory Effects of Noise",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-25.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.72,
+			"end": 3.24,
+			"en": "Lesson 25",
+			"zh": "第25课"
+		},
+		{
+			"i": 1,
+			"start": 3.39,
+			"end": 12.89,
+			"en": "Non-auditory effects of noise",
+			"zh": "噪音的非听觉效应"
+		},
+		{
+			"i": 2,
+			"start": 13.04,
+			"end": 20.82,
+			"en": "What conclusion does the author draw about noise and health in this piece?",
+			"zh": "作者在这篇文章中对噪音和健康得出了什么结论？"
+		},
+		{
+			"i": 3,
+			"start": 20.97,
+			"end": 24.77,
+			"en": "Many people in industry and the Services,",
+			"zh": "许多工业界和服务行业的人，"
+		},
+		{
+			"i": 4,
+			"start": 24.92,
+			"end": 27.96,
+			"en": "who have practical experience of noise,",
+			"zh": "对噪音有实际经验，"
+		},
+		{
+			"i": 5,
+			"start": 28.11,
+			"end": 33.37,
+			"en": "regard any investigation of this question as a waste of time;",
+			"zh": "认为对此问题的任何调查都是浪费时间；"
+		},
+		{
+			"i": 6,
+			"start": 33.52,
+			"end": 39.44,
+			"en": "they are not prepared even to admit the possibility that noise affects people.",
+			"zh": "他们甚至不愿承认噪音会影响人们的可能性。"
+		},
+		{
+			"i": 7,
+			"start": 39.59,
+			"end": 40.99,
+			"en": "On the other hand,",
+			"zh": "另一方面，"
+		},
+		{
+			"i": 8,
+			"start": 41.14,
+			"end": 45.9,
+			"en": "those who dislike noise will sometimes use most inadequate evidence",
+			"zh": "那些不喜欢噪音的人有时会使用最不充分的证据"
+		},
+		{
+			"i": 9,
+			"start": 46.05,
+			"end": 51.09,
+			"en": "to support their pleas for a quieter society.",
+			"zh": "来支持他们对更安静社会的呼吁。"
+		},
+		{
+			"i": 10,
+			"start": 51.24,
+			"end": 57.1,
+			"en": "This is a pity, because noise abatement really is a good cause,",
+			"zh": "这很可惜，因为减少噪音确实是一项很好的事业，"
+		},
+		{
+			"i": 11,
+			"start": 57.25,
+			"end": 63.88,
+			"en": "and it is likely to be discredited if it gets to be associated with bad science.",
+			"zh": "如果它与糟糕的科学联系起来，就可能会声名扫地。"
+		},
+		{
+			"i": 12,
+			"start": 64.03,
+			"end": 69.63,
+			"en": "One allegation often made is that noise produces mental illness.",
+			"zh": "常见的一种说法是噪音会引起精神疾病。"
+		},
+		{
+			"i": 13,
+			"start": 69.78,
+			"end": 73.93,
+			"en": "A recent article in a weekly newspaper, for instance,",
+			"zh": "例如，最近一家周报上的一篇文章，"
+		},
+		{
+			"i": 14,
+			"start": 74.08,
+			"end": 80.57,
+			"en": "was headed with a striking illustration of a lady in a state of considerable distress,",
+			"zh": "开头是一幅引人注目的插图，描绘了一位极度痛苦的女士，"
+		},
+		{
+			"i": 15,
+			"start": 80.72,
+			"end": 88.07,
+			"en": "with the caption 'She was yet another victim, reduced to a screaming wreck'.",
+			"zh": "配文是“她又是另一个受害者，沦为尖叫的废人”。"
+		},
+		{
+			"i": 16,
+			"start": 88.22,
+			"end": 93.61,
+			"en": "On turning eagerly to the text, one learns that the lady was a typist",
+			"zh": "焦急地读下去，人们了解到这位女士是一名打字员，"
+		},
+		{
+			"i": 17,
+			"start": 93.76,
+			"end": 97.71,
+			"en": "who found the sound of office typewriters worried her more and more",
+			"zh": "她发现办公室打字机的声音越来越让她烦恼，"
+		},
+		{
+			"i": 18,
+			"start": 97.86,
+			"end": 102.56,
+			"en": "until eventually she had to go into a mental hospital.",
+			"zh": "直到最后她不得不进了精神病院。"
+		},
+		{
+			"i": 19,
+			"start": 102.71,
+			"end": 110.3,
+			"en": "Now the snag in this sort of anecdote is of course that one cannot distinguish cause and effect.",
+			"zh": "这种轶事的症结当然在于无法区分因果。"
+		},
+		{
+			"i": 20,
+			"start": 110.45,
+			"end": 113.03,
+			"en": "Was the noise a cause of the illness,",
+			"zh": "噪音是疾病的原因，"
+		},
+		{
+			"i": 21,
+			"start": 113.18,
+			"end": 117.33,
+			"en": "or were the complaints about noise merely a symptom?",
+			"zh": "还是对噪音的抱怨仅仅是一种症状？"
+		},
+		{
+			"i": 22,
+			"start": 117.48,
+			"end": 120.15,
+			"en": "Another patient might equally well complain",
+			"zh": "另一位病人也可能同样抱怨说"
+		},
+		{
+			"i": 23,
+			"start": 120.3,
+			"end": 124.77,
+			"en": "that her neighbours were combining to slander her and persecute her,",
+			"zh": "她的邻居们合伙诽谤她、迫害她，"
+		},
+		{
+			"i": 24,
+			"start": 124.92,
+			"end": 129.59,
+			"en": "and yet one might be cautious about believing this statement.",
+			"zh": "但人们可能会对相信这种说法持谨慎态度。"
+		},
+		{
+			"i": 25,
+			"start": 129.74,
+			"end": 137.02,
+			"en": "What is needed in the case of noise is a study of large numbers of people living under noisy conditions,",
+			"zh": "对于噪音问题，需要对大量生活在嘈杂条件下的人进行研究，"
+		},
+		{
+			"i": 26,
+			"start": 137.17,
+			"end": 142.51,
+			"en": "to discover whether they are mentally ill more often than other people are.",
+			"zh": "以发现他们是否比其他人更容易患精神疾病。"
+		},
+		{
+			"i": 27,
+			"start": 142.66,
+			"end": 146.61,
+			"en": "Some time ago the United States Navy, for instance,",
+			"zh": "例如，前一段时间美国海军"
+		},
+		{
+			"i": 28,
+			"start": 146.76,
+			"end": 151.85,
+			"en": "examined a very large number of men working on aircraft carriers:",
+			"zh": "检查了大量在航空母舰上工作的男性："
+		},
+		{
+			"i": 29,
+			"start": 152,
+			"end": 156.24,
+			"en": "the study was known as Project Anehin.",
+			"zh": "这项研究被称为“阿内欣计划”。"
+		},
+		{
+			"i": 30,
+			"start": 156.39,
+			"end": 161.52,
+			"en": "It can be unpleasant to live even several miles from an aerodrome;",
+			"zh": "即使住在离机场几英里远的地方也会令人不快；"
+		},
+		{
+			"i": 31,
+			"start": 161.67,
+			"end": 168.45,
+			"en": "if you think what it must be like to share the deck of a ship with several squadrons of jet aircraft,",
+			"zh": "如果你想象一下与几个中队的喷气式飞机共享一艘船的甲板会是怎样，"
+		},
+		{
+			"i": 32,
+			"start": 168.6,
+			"end": 174.83,
+			"en": "you will realize that a modern navy is a good place to study noise.",
+			"zh": "你就会意识到现代海军是研究噪音的好地方。"
+		},
+		{
+			"i": 33,
+			"start": 174.98,
+			"end": 179.46,
+			"en": "But neither psychiatric interviews nor objective tests",
+			"zh": "但是，无论是精神病学访谈还是客观测试，"
+		},
+		{
+			"i": 34,
+			"start": 179.61,
+			"end": 184.26,
+			"en": "were able to show any effects upon these American sailors.",
+			"zh": "都未能显示出对这些美国水兵有任何影响。"
+		},
+		{
+			"i": 35,
+			"start": 184.41,
+			"end": 189.84,
+			"en": "This result merely confirms earlier American and British studies:",
+			"zh": "这一结果仅仅证实了早期的美国和英国研究："
+		},
+		{
+			"i": 36,
+			"start": 189.99,
+			"end": 193.75,
+			"en": "if there is any effect of noise upon mental health,",
+			"zh": "如果噪音对心理健康有任何影响，"
+		},
+		{
+			"i": 37,
+			"start": 193.9,
+			"end": 202.39,
+			"en": "it must be so small that present methods of psychiatric diagnosis cannot find it.",
+			"zh": "那么它一定非常微小，以至于目前的精神病诊断方法无法发现。"
+		},
+		{
+			"i": 38,
+			"start": 202.54,
+			"end": 207.58,
+			"en": "That does not prove that it does not exist; but it does mean",
+			"zh": "这并不能证明它不存在；但它确实意味着"
+		},
+		{
+			"i": 39,
+			"start": 207.73,
+			"end": 213.57,
+			"en": "that noise is less dangerous than, say being brought up in an orphanage",
+			"zh": "噪音的危险性低于，比如在孤儿院中长大，"
+		},
+		{
+			"i": 40,
+			"start": 213.72,
+			"end": 217.72,
+			"en": "--which really is a mental health hazard.",
+			"zh": "——那才真的是一种心理健康危害。"
+		}
+	]
+}

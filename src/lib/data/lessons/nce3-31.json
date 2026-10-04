@@ -1,0 +1,216 @@
+{
+	"id": "nce3-31",
+	"book": "nce3",
+	"title": "A Lovable Eccentric",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-31.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.28,
+			"end": 2.37,
+			"en": "Lesson 31",
+			"zh": "第31课"
+		},
+		{
+			"i": 1,
+			"start": 2.52,
+			"end": 10.43,
+			"en": "A lovable eccentric",
+			"zh": "可爱的怪人"
+		},
+		{
+			"i": 2,
+			"start": 10.58,
+			"end": 16.22,
+			"en": "Why did the shop assistant refuse to serve Dickie?",
+			"zh": "为什么店员拒绝为迪基服务？"
+		},
+		{
+			"i": 3,
+			"start": 16.37,
+			"end": 21.96,
+			"en": "True eccentrics never deliberately set out to draw attention to themselves.",
+			"zh": "真正的怪人从不刻意引人注目。"
+		},
+		{
+			"i": 4,
+			"start": 22.11,
+			"end": 29.57,
+			"en": "They disregard social conventions without being conscious that they are doing anything extraordinary.",
+			"zh": "他们无视社会习俗，却没意识到自己在做任何非凡的事情。"
+		},
+		{
+			"i": 5,
+			"start": 29.72,
+			"end": 40.42,
+			"en": "This invariably wins them the love and respect of others, for they add colour to the dull routine of everyday life.",
+			"zh": "这总能让他们赢得他人的爱戴和尊重，因为他们为平淡的日常生活增添了色彩。"
+		},
+		{
+			"i": 6,
+			"start": 40.57,
+			"end": 47.71,
+			"en": "Up to the time of his death, Richard Colson was one of the most notable figures in our town.",
+			"zh": "直到去世，理查德·科尔森都是我们镇上最著名的人物之一。"
+		},
+		{
+			"i": 7,
+			"start": 47.86,
+			"end": 48.47,
+			"en": "He was a shrewd and wealthy businessman,",
+			"zh": "他是一位精明富有的商人，"
+		},
+		{
+			"i": 8,
+			"start": 48.62,
+			"end": 56.99,
+			"en": "but most people in the town hardly knew anything about this side of his life.",
+			"zh": "但镇上大多数人对他生活的这一面几乎一无所知。"
+		},
+		{
+			"i": 9,
+			"start": 57.14,
+			"end": 65.65,
+			"en": "He was known to us all as Dickie and his eccentricity had become legendary long before he died.",
+			"zh": "他被我们称为迪基，他的怪癖在他去世前很久就已成为传奇。"
+		},
+		{
+			"i": 10,
+			"start": 65.8,
+			"end": 68.77,
+			"en": "Dickie disliked snobs intensely.",
+			"zh": "迪基非常讨厌势利小人。"
+		},
+		{
+			"i": 11,
+			"start": 68.92,
+			"end": 75.68,
+			"en": "Though he owned a large car, he hardly ever used it, preferring always to go on foot.",
+			"zh": "尽管他有一辆大车，但他几乎从不用它，总是喜欢步行。"
+		},
+		{
+			"i": 12,
+			"start": 75.83,
+			"end": 80.96,
+			"en": "Even when it was raining heavily, he refused to carry an umbrella.",
+			"zh": "即使下大雨，他也不撑伞。"
+		},
+		{
+			"i": 13,
+			"start": 81.11,
+			"end": 89,
+			"en": "One day, he walked into an expensive shop after having been caught in a particularly heavy shower.",
+			"zh": "一天，他在一场大雨中淋湿后走进一家昂贵的商店。"
+		},
+		{
+			"i": 14,
+			"start": 89.15,
+			"end": 93.82,
+			"en": "He wanted to buy a ￡300 watch for his wife,",
+			"zh": "他想为妻子买一块300英镑的手表，"
+		},
+		{
+			"i": 15,
+			"start": 93.97,
+			"end": 100.69,
+			"en": "but he was in such a bedraggled condition that an assistant refused to serve him.",
+			"zh": "但他衣衫褴褛，店员拒绝为他服务。"
+		},
+		{
+			"i": 16,
+			"start": 100.84,
+			"end": 107.05,
+			"en": "Dickie left the shop without a word and returned carrying a large cloth bag.",
+			"zh": "迪基一言不发地离开了商店，然后提着一个大布袋回来了。"
+		},
+		{
+			"i": 17,
+			"start": 107.2,
+			"end": 111.64,
+			"en": "As it was extremely heavy, he dumped it on the counter.",
+			"zh": "因为袋子很重，他把它扔在柜台上。"
+		},
+		{
+			"i": 18,
+			"start": 111.79,
+			"end": 119.93,
+			"en": "The assistant asked him to leave, but Dickie paid no attention to him and requested to see the manager.",
+			"zh": "店员让他离开，但迪基没有理会他，要求见经理。"
+		},
+		{
+			"i": 19,
+			"start": 120.08,
+			"end": 122.79,
+			"en": "Recognizing who the customer was,",
+			"zh": "经理认出了这位顾客，"
+		},
+		{
+			"i": 20,
+			"start": 122.94,
+			"end": 129.48,
+			"en": "the manager was most apologetic and reprimanded the assistant severely.",
+			"zh": "非常抱歉，并严厉训斥了店员。"
+		},
+		{
+			"i": 21,
+			"start": 129.63,
+			"end": 135.44,
+			"en": "When Dickie was given the watch, he presented the assistant with the cloth bag.",
+			"zh": "当迪基拿到手表时，他把布袋递给了店员。"
+		},
+		{
+			"i": 22,
+			"start": 135.59,
+			"end": 140.28,
+			"en": "It contained ￡300 in pennies.",
+			"zh": "里面装着300英镑的便士。"
+		},
+		{
+			"i": 23,
+			"start": 140.43,
+			"end": 148.61,
+			"en": "He insisted on the assistant's counting the money before he left--30, 000 pennies in all!",
+			"zh": "他坚持要店员在他离开前数清钱——总共3万枚便士！"
+		},
+		{
+			"i": 24,
+			"start": 148.76,
+			"end": 157.05,
+			"en": "On another occasion, he invited a number of important critics to see his private collection of modern paintings.",
+			"zh": "另一次，他邀请了一些重要的评论家参观他的现代绘画私人收藏。"
+		},
+		{
+			"i": 25,
+			"start": 157.2,
+			"end": 161.59,
+			"en": "This exhibition received a great deal of attention in the press,",
+			"zh": "这次展览受到了媒体的广泛关注，"
+		},
+		{
+			"i": 26,
+			"start": 161.74,
+			"end": 166.41,
+			"en": "for though the pictures were supposed to be the work of famous artists,",
+			"zh": "因为尽管这些画被认为是著名艺术家的作品，"
+		},
+		{
+			"i": 27,
+			"start": 166.56,
+			"end": 170.48,
+			"en": "they had in fact been painted by Dickie.",
+			"zh": "但实际上它们是迪基画的。"
+		},
+		{
+			"i": 28,
+			"start": 170.63,
+			"end": 174.63,
+			"en": "It took him four years to stage this elaborate joke simply to prove that critics do not always know what they are talking about.",
+			"zh": "他花了四年时间策划这个精心设计的玩笑，只是为了证明评论家并不总是知道他们在说什么。"
+		}
+	]
+}

@@ -1,0 +1,167 @@
+{
+	"id": "nce1-139",
+	"book": "nce1",
+	"title": "Is That You, John",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-139.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.6,
+			"end": 3.39,
+			"en": "Lesson 139",
+			"zh": "第139课"
+		},
+		{
+			"i": 1,
+			"start": 3.54,
+			"end": 6.7,
+			"en": "Is that you, John?",
+			"zh": "是你吗，约翰？"
+		},
+		{
+			"i": 2,
+			"start": 6.85,
+			"end": 12.38,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.53,
+			"end": 20.14,
+			"en": "Which John Smith does Graham Turner think he is talking to?",
+			"zh": "格雷厄姆·特纳认为他正在和哪位约翰·史密斯通话？"
+		},
+		{
+			"i": 4,
+			"start": 20.29,
+			"end": 22.55,
+			"en": "Is that you, John?",
+			"zh": "是你吗，约翰？"
+		},
+		{
+			"i": 5,
+			"start": 22.7,
+			"end": 24.65,
+			"en": "Yes, speaking.",
+			"zh": "是的，我就是。"
+		},
+		{
+			"i": 6,
+			"start": 24.8,
+			"end": 29.17,
+			"en": "Tell Mary we'll be late for dinner this evening.",
+			"zh": "告诉玛丽，我们今晚晚饭会迟到。"
+		},
+		{
+			"i": 7,
+			"start": 29.32,
+			"end": 33.08,
+			"en": "I'm afraid I don't understand.",
+			"zh": "恐怕我不明白。"
+		},
+		{
+			"i": 8,
+			"start": 33.23,
+			"end": 35.97,
+			"en": "Hasn't Mary told you?",
+			"zh": "玛丽没告诉你吗？"
+		},
+		{
+			"i": 9,
+			"start": 36.12,
+			"end": 41.33,
+			"en": "She invited Charlotte and me to dinner this evening.",
+			"zh": "她邀请夏洛特和我今晚吃饭。"
+		},
+		{
+			"i": 10,
+			"start": 41.48,
+			"end": 51.31,
+			"en": "I said I would be at your house at six o'clock, but the boss wants me to do some extra work.",
+			"zh": "我说我六点钟会到你家，但老板要我加班。"
+		},
+		{
+			"i": 11,
+			"start": 51.46,
+			"end": 54.57,
+			"en": "I'll have to stay at the office.",
+			"zh": "我得留在办公室。"
+		},
+		{
+			"i": 12,
+			"start": 54.72,
+			"end": 57.96,
+			"en": "I don't know when I'll finish.",
+			"zh": "我不知道什么时候能完。"
+		},
+		{
+			"i": 13,
+			"start": 58.11,
+			"end": 66.01,
+			"en": "Oh, and by the way, my wife wants to know if Mary needs any help.",
+			"zh": "哦，顺便说一下，我妻子想知道玛丽是否需要帮忙。"
+		},
+		{
+			"i": 14,
+			"start": 66.16,
+			"end": 70.52,
+			"en": "I don't know what you're talking about.",
+			"zh": "我不知道你在说什么。"
+		},
+		{
+			"i": 15,
+			"start": 70.67,
+			"end": 74.28,
+			"en": "That is John Smith, isn't it?",
+			"zh": "你是约翰·史密斯，对吗？"
+		},
+		{
+			"i": 16,
+			"start": 74.43,
+			"end": 77.07,
+			"en": "Yes, I'm John Smith.",
+			"zh": "是的，我就是约翰·史密斯。"
+		},
+		{
+			"i": 17,
+			"start": 77.22,
+			"end": 82.19,
+			"en": "You are John Smith, the engineer, aren't you?",
+			"zh": "你是工程师约翰·史密斯，对吗？"
+		},
+		{
+			"i": 18,
+			"start": 82.34,
+			"end": 84.19,
+			"en": "That's right.",
+			"zh": "没错。"
+		},
+		{
+			"i": 19,
+			"start": 84.34,
+			"end": 89.98,
+			"en": "You work for the Overseas Engineering Company, don't you?",
+			"zh": "你在海外工程公司工作，对吗？"
+		},
+		{
+			"i": 20,
+			"start": 90.13,
+			"end": 91.81,
+			"en": "No, I don't.",
+			"zh": "不，我不是。"
+		},
+		{
+			"i": 21,
+			"start": 91.96,
+			"end": 95.96,
+			"en": "I'm John Smith the telephone engineer and I'm repairing your telephone line.",
+			"zh": "我是电话工程师约翰·史密斯，我正在修理你的电话线。"
+		}
+	]
+}

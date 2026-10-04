@@ -1,0 +1,202 @@
+{
+	"id": "nce3-08",
+	"book": "nce3",
+	"title": "A Famous Monastery",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-08.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.54,
+			"end": 2,
+			"en": "Lesson 8",
+			"zh": "第8课"
+		},
+		{
+			"i": 1,
+			"start": 2.15,
+			"end": 9.34,
+			"en": "A famous monastery",
+			"zh": "一座著名的修道院"
+		},
+		{
+			"i": 2,
+			"start": 9.49,
+			"end": 14.88,
+			"en": "What are the St.Bernard dogs used for?",
+			"zh": "圣伯纳狗是用来做什么的？"
+		},
+		{
+			"i": 3,
+			"start": 15.03,
+			"end": 20.34,
+			"en": "The Great St.Bernard Pass connects Switzerland to Italy.",
+			"zh": "大圣伯纳山口连接着瑞士和意大利。"
+		},
+		{
+			"i": 4,
+			"start": 20.49,
+			"end": 28,
+			"en": "At 2,473 metres, it is the highest mountain pass in Europe.",
+			"zh": "它海拔2473米，是欧洲最高的山口。"
+		},
+		{
+			"i": 5,
+			"start": 28.15,
+			"end": 31.56,
+			"en": "The famous monastery of St.Bernard,",
+			"zh": "著名的圣伯纳修道院，"
+		},
+		{
+			"i": 6,
+			"start": 31.71,
+			"end": 36.8,
+			"en": "which was founded in the eleventh century, lies about a mile away.",
+			"zh": "建立于11世纪，距此约一英里。"
+		},
+		{
+			"i": 7,
+			"start": 36.95,
+			"end": 44.49,
+			"en": "For hundreds of years, St.Bernard dogs have saved the lives of travellers crossing the dangerous Pass.",
+			"zh": "数百年来，圣伯纳狗一直在拯救穿越这个危险山口的旅行者的生命。"
+		},
+		{
+			"i": 8,
+			"start": 44.64,
+			"end": 49.05,
+			"en": "These friendly dogs, which were first brought from Asia,",
+			"zh": "这些友善的狗，最初从亚洲引进，"
+		},
+		{
+			"i": 9,
+			"start": 49.2,
+			"end": 53.24,
+			"en": "were used as watchdogs even in Roman times.",
+			"zh": "甚至在罗马时代就被用作看门狗。"
+		},
+		{
+			"i": 10,
+			"start": 53.39,
+			"end": 58.77,
+			"en": "Now that a tunnel has been built through the mountains, the Pass is less dangerous,",
+			"zh": "如今，随着一条穿山隧道的建成，这个山口不再那么危险了，"
+		},
+		{
+			"i": 11,
+			"start": 58.92,
+			"end": 66.17,
+			"en": "but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty.",
+			"zh": "但是每年，只要有旅行者遇到困难，这些狗仍然会被派出去在雪地里搜救。"
+		},
+		{
+			"i": 12,
+			"start": 66.32,
+			"end": 67.78,
+			"en": "Despite the new tunnel,",
+			"zh": "尽管有了新隧道，"
+		},
+		{
+			"i": 13,
+			"start": 67.93,
+			"end": 74.54,
+			"en": "there are still a few people who rashly attempt to cross the Pass on foot.",
+			"zh": "仍然有一些人冒险徒步穿越山口。"
+		},
+		{
+			"i": 14,
+			"start": 74.69,
+			"end": 78.15,
+			"en": "During the summer months, the monastery is very busy,",
+			"zh": "在夏季，修道院非常繁忙，"
+		},
+		{
+			"i": 15,
+			"start": 78.3,
+			"end": 83.86,
+			"en": "for it is visited by thousands of people who cross the Pass in cars.",
+			"zh": "因为成千上万驾车穿越山口的人会来这里参观。"
+		},
+		{
+			"i": 16,
+			"start": 84.01,
+			"end": 90.17,
+			"en": "As there are so many people about, the dogs have to be kept in a special enclosure.",
+			"zh": "由于人太多，狗必须被关在一个特殊的围栏里。"
+		},
+		{
+			"i": 17,
+			"start": 90.32,
+			"end": 95.57,
+			"en": "In winter, however, life at the monastery is quite different.",
+			"zh": "然而，在冬天，修道院的生活则截然不同。"
+		},
+		{
+			"i": 18,
+			"start": 95.72,
+			"end": 98.58,
+			"en": "The temperature drops to -30 degrees,",
+			"zh": "气温降至零下30度，"
+		},
+		{
+			"i": 19,
+			"start": 98.73,
+			"end": 102.59,
+			"en": "and very few people attempt to cross the Pass.",
+			"zh": "很少有人尝试穿越山口。"
+		},
+		{
+			"i": 20,
+			"start": 102.74,
+			"end": 107.53,
+			"en": "The monks prefer winter to summer for they have more privacy.",
+			"zh": "僧侣们更喜欢冬天而不是夏天，因为他们有更多的隐私。"
+		},
+		{
+			"i": 21,
+			"start": 107.68,
+			"end": 110.24,
+			"en": "The dogs have greater freedom, too,",
+			"zh": "狗也有更大的自由，"
+		},
+		{
+			"i": 22,
+			"start": 110.39,
+			"end": 113.77,
+			"en": "for they are allowed to wander outside their enclosure.",
+			"zh": "因为它们被允许在围栏外自由漫步。"
+		},
+		{
+			"i": 23,
+			"start": 113.92,
+			"end": 122.21,
+			"en": "The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter.",
+			"zh": "冬季修道院唯一的常客是圣诞节和复活节前往那里的滑雪者们。"
+		},
+		{
+			"i": 24,
+			"start": 122.36,
+			"end": 124.19,
+			"en": "These young people,",
+			"zh": "这些年轻人，"
+		},
+		{
+			"i": 25,
+			"start": 124.34,
+			"end": 126.41,
+			"en": "who love the peace of the mountains,",
+			"zh": "热爱山间的宁静，"
+		},
+		{
+			"i": 26,
+			"start": 126.56,
+			"end": 130.56,
+			"en": "always receive a warm welcome at St.Bernard's monastery.",
+			"zh": "总能在圣伯纳修道院受到热烈的欢迎。"
+		}
+	]
+}

@@ -145,7 +145,8 @@ function mergeTranslations(englishLines, chineseLines) {
 
 function titleFromFilename(name) {
 	return name
-		.replace(/^\d+\s*[－\-.]\s*/, '')
+		// 第一册形如 `001&002－Excuse Me`，两段课号都要去掉
+		.replace(/^\d+(?:&\d+)?\s*[－\-.]\s*/, '')
 		.replace(/\.(lrc|mp3)$/i, '')
 		.trim();
 }
@@ -240,8 +241,11 @@ async function main() {
 		)
 		.map((node) => {
 			const filename = path.basename(node.path);
-			const no = Number((filename.match(/^(\d+)/) ?? [])[1]);
-			return { node, filename, no, title: titleFromFilename(filename) };
+			// 第一册一个音频覆盖两课，文件名形如 `001&002－Excuse Me`
+			const match = filename.match(/^(\d+)(?:&(\d+))?/);
+			const no = Number(match?.[1]);
+			const endNo = match?.[2] ? Number(match[2]) : null;
+			return { node, filename, no, endNo, title: titleFromFilename(filename) };
 		})
 		.filter((entry) => Number.isFinite(entry.no))
 		.sort((a, b) => a.no - b.no);
@@ -257,7 +261,14 @@ async function main() {
 		const lessonFile = path.join(LESSON_DIR, `${id}.json`);
 		const audioFile = path.join(audioDir, `${id}.m4a`);
 
-		catalogLessons.push({ id, no: entry.no, title: entry.title });
+		catalogLessons.push({
+			id,
+			no: entry.no,
+			title: entry.title,
+			...(entry.endNo
+				? { label: `${String(entry.no).padStart(2, '0')}–${String(entry.endNo).padStart(2, '0')}` }
+				: {})
+		});
 
 		// 只认"课文和音频都在、且音频非空"的成果，避免把上次失败留下的空文件当成已完成
 		const audioReady = existsSync(audioFile) && statSync(audioFile).size > 1024;

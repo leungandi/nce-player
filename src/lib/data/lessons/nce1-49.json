@@ -1,0 +1,160 @@
+{
+	"id": "nce1-49",
+	"book": "nce1",
+	"title": "At the Butcher's",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-49.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.64,
+			"end": 2.9,
+			"en": "Lesson 49",
+			"zh": "第49课"
+		},
+		{
+			"i": 1,
+			"start": 3.05,
+			"end": 5.51,
+			"en": "At the butcher's",
+			"zh": "在肉店"
+		},
+		{
+			"i": 2,
+			"start": 5.66,
+			"end": 11.23,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.38,
+			"end": 15.56,
+			"en": "What does Mr. Bird like?",
+			"zh": "伯德先生喜欢什么？"
+		},
+		{
+			"i": 4,
+			"start": 15.71,
+			"end": 20.49,
+			"en": "Do you want any meat today, Mrs. Bird?",
+			"zh": "伯德夫人，您今天想买些肉吗？"
+		},
+		{
+			"i": 5,
+			"start": 20.64,
+			"end": 23.15,
+			"en": "Yes, please.",
+			"zh": "是的，请给我。"
+		},
+		{
+			"i": 6,
+			"start": 23.3,
+			"end": 26.9,
+			"en": "Do you want beef or lamb?",
+			"zh": "您想要牛肉还是羊肉？"
+		},
+		{
+			"i": 7,
+			"start": 27.05,
+			"end": 29.62,
+			"en": "Beef, please.",
+			"zh": "请给我牛肉。"
+		},
+		{
+			"i": 8,
+			"start": 29.77,
+			"end": 33.6,
+			"en": "This lamb's very good.",
+			"zh": "这羊肉很好。"
+		},
+		{
+			"i": 9,
+			"start": 33.75,
+			"end": 38.47,
+			"en": "I like lamb, but my husband doesn't.",
+			"zh": "我喜欢羊肉，但我丈夫不喜欢。"
+		},
+		{
+			"i": 10,
+			"start": 38.62,
+			"end": 41.42,
+			"en": "What about some steak?",
+			"zh": "来点牛排怎么样？"
+		},
+		{
+			"i": 11,
+			"start": 41.57,
+			"end": 44.85,
+			"en": "This is a nice piece.",
+			"zh": "这块很好。"
+		},
+		{
+			"i": 12,
+			"start": 45,
+			"end": 48.12,
+			"en": "Give me that piece, please.",
+			"zh": "请把那块给我。"
+		},
+		{
+			"i": 13,
+			"start": 48.27,
+			"end": 52.81,
+			"en": "And a pound of mince, too.",
+			"zh": "还有一磅肉末。"
+		},
+		{
+			"i": 14,
+			"start": 52.96,
+			"end": 57.31,
+			"en": "Do you want a chicken, Mrs. Bird?",
+			"zh": "伯德夫人，您要只鸡吗？"
+		},
+		{
+			"i": 15,
+			"start": 57.46,
+			"end": 59.73,
+			"en": "They're very nice.",
+			"zh": "这些鸡很好。"
+		},
+		{
+			"i": 16,
+			"start": 59.88,
+			"end": 62.08,
+			"en": "No, thank you.",
+			"zh": "不，谢谢。"
+		},
+		{
+			"i": 17,
+			"start": 62.23,
+			"end": 64.9,
+			"en": "My husband likes steak,",
+			"zh": "我丈夫喜欢牛排，"
+		},
+		{
+			"i": 18,
+			"start": 65.05,
+			"end": 68.49,
+			"en": "but he doesn't like chicken.",
+			"zh": "但他不喜欢鸡肉。"
+		},
+		{
+			"i": 19,
+			"start": 68.64,
+			"end": 72.82,
+			"en": "To tell you the truth, Mrs. Bird,",
+			"zh": "说实话，伯德夫人，"
+		},
+		{
+			"i": 20,
+			"start": 72.97,
+			"end": 76.97,
+			"en": "I don't like chicken either!",
+			"zh": "我也不喜欢鸡肉！"
+		}
+	]
+}

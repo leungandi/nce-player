@@ -1,0 +1,139 @@
+{
+	"id": "nce1-19",
+	"book": "nce1",
+	"title": "Tired and Thirsty",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-19.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.65,
+			"end": 2.71,
+			"en": "Lesson 19",
+			"zh": "第19课"
+		},
+		{
+			"i": 1,
+			"start": 2.86,
+			"end": 6.09,
+			"en": "Tired and thirsty",
+			"zh": "又累又渴"
+		},
+		{
+			"i": 2,
+			"start": 6.24,
+			"end": 12.13,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.28,
+			"end": 17.8,
+			"en": "Why do the children thank their mother?",
+			"zh": "孩子们为什么感谢他们的妈妈？"
+		},
+		{
+			"i": 4,
+			"start": 17.95,
+			"end": 20.7,
+			"en": "What's the matter children?",
+			"zh": "孩子们，怎么了？"
+		},
+		{
+			"i": 5,
+			"start": 20.85,
+			"end": 22.56,
+			"en": "We're tired ...",
+			"zh": "我们累了……"
+		},
+		{
+			"i": 6,
+			"start": 22.71,
+			"end": 25.11,
+			"en": "... and thirsty  Mum.",
+			"zh": "……而且渴了，妈妈。"
+		},
+		{
+			"i": 7,
+			"start": 25.26,
+			"end": 27.67,
+			"en": "Sit down here.",
+			"zh": "坐到这儿来。"
+		},
+		{
+			"i": 8,
+			"start": 27.82,
+			"end": 29.96,
+			"en": "Are you all right now?",
+			"zh": "你们现在好了吗？"
+		},
+		{
+			"i": 9,
+			"start": 30.11,
+			"end": 32.37,
+			"en": "No we aren't.",
+			"zh": "不，我们没有。"
+		},
+		{
+			"i": 10,
+			"start": 32.52,
+			"end": 33.46,
+			"en": "Look!",
+			"zh": "看！"
+		},
+		{
+			"i": 11,
+			"start": 33.61,
+			"end": 36.79,
+			"en": "There's an ice cream man.",
+			"zh": "有个卖冰淇淋的。"
+		},
+		{
+			"i": 12,
+			"start": 36.94,
+			"end": 40.53,
+			"en": "Two ice cream please.",
+			"zh": "请来两个冰淇淋。"
+		},
+		{
+			"i": 13,
+			"start": 40.68,
+			"end": 43.51,
+			"en": "Here you are children.",
+			"zh": "孩子们，给你们。"
+		},
+		{
+			"i": 14,
+			"start": 43.66,
+			"end": 45.94,
+			"en": "Thanks Mum.",
+			"zh": "谢谢妈妈。"
+		},
+		{
+			"i": 15,
+			"start": 46.09,
+			"end": 49.67,
+			"en": "These ice creams are nice.",
+			"zh": "这些冰淇淋真好吃。"
+		},
+		{
+			"i": 16,
+			"start": 49.82,
+			"end": 52.74,
+			"en": "Are you all right now?",
+			"zh": "你们现在好了吗？"
+		},
+		{
+			"i": 17,
+			"start": 52.89,
+			"end": 56.89,
+			"en": "Yes we are thank you!",
+			"zh": "是的，我们好了，谢谢！"
+		}
+	]
+}

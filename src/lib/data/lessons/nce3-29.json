@@ -1,0 +1,223 @@
+{
+	"id": "nce3-29",
+	"book": "nce3",
+	"title": "Funny or Not",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-29.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.3,
+			"end": 2.08,
+			"en": "Lesson 29",
+			"zh": "第29课"
+		},
+		{
+			"i": 1,
+			"start": 2.23,
+			"end": 9.19,
+			"en": "Funny or not?",
+			"zh": "好笑与否？"
+		},
+		{
+			"i": 2,
+			"start": 9.34,
+			"end": 14.31,
+			"en": "What is the basis of 'sick' humour?",
+			"zh": "“病态”幽默的基础是什么？"
+		},
+		{
+			"i": 3,
+			"start": 14.46,
+			"end": 20.99,
+			"en": "Whether we find a joke funny or not largely depends on where we have been brought up.",
+			"zh": "我们觉得一个笑话好不好笑，在很大程度上取决于我们是在哪里长大的。"
+		},
+		{
+			"i": 4,
+			"start": 21.14,
+			"end": 27.43,
+			"en": "The sense of humour is mysteriously bound up with national characteristics.",
+			"zh": "幽默感与民族特点有着神秘的联系。"
+		},
+		{
+			"i": 5,
+			"start": 27.58,
+			"end": 33,
+			"en": "A Frenchman, for instance, might find it hard to laugh at a Russian joke.",
+			"zh": "例如，法国人可能觉得俄罗斯笑话不好笑。"
+		},
+		{
+			"i": 6,
+			"start": 33.15,
+			"end": 38.59,
+			"en": "In the same way, a Russian might fail to see anything amusing in a joke",
+			"zh": "同样，俄罗斯人可能觉得一个笑话没什么可乐的，"
+		},
+		{
+			"i": 7,
+			"start": 38.74,
+			"end": 42.93,
+			"en": "which would make an Englishman laugh to tears.",
+			"zh": "而这个笑话却能让英国人捧腹大笑。"
+		},
+		{
+			"i": 8,
+			"start": 43.08,
+			"end": 47.84,
+			"en": "Most funny stories are based on comic situations.",
+			"zh": "大多数有趣的故事都基于滑稽的情境。"
+		},
+		{
+			"i": 9,
+			"start": 47.99,
+			"end": 54.41,
+			"en": "In spite of national differences, certain funny situations have a universal appeal.",
+			"zh": "尽管存在民族差异，但某些滑稽情境具有普遍的吸引力。"
+		},
+		{
+			"i": 10,
+			"start": 54.56,
+			"end": 56.32,
+			"en": "No matter where you live,",
+			"zh": "无论你住在哪里，"
+		},
+		{
+			"i": 11,
+			"start": 56.47,
+			"end": 63.01,
+			"en": "you would find it difficult not to laugh at, say, Charlie Chaplin's early films.",
+			"zh": "你都会觉得很难不对，比如说，查理·卓别林的早期电影发笑。"
+		},
+		{
+			"i": 12,
+			"start": 63.16,
+			"end": 71.36,
+			"en": "However, a new type of humour, which stems largely from U.S., has recently come into fashion.",
+			"zh": "然而，一种主要源自美国的幽默新类型，最近流行起来。"
+		},
+		{
+			"i": 13,
+			"start": 71.51,
+			"end": 82.53,
+			"en": "It is called 'sick humour'. Comedians base their jokes on tragic situations like violent death or serious accidents.",
+			"zh": "它被称为“病态幽默”。喜剧演员将他们的笑话建立在悲剧情境上，例如暴力死亡或严重事故。"
+		},
+		{
+			"i": 14,
+			"start": 82.68,
+			"end": 87.15,
+			"en": "Many people find this sort of joke distasteful.",
+			"zh": "许多人觉得这种笑话令人反感。"
+		},
+		{
+			"i": 15,
+			"start": 87.3,
+			"end": 93.72,
+			"en": "The following example of 'sick humour' will enable you to judge for yourself.",
+			"zh": "下面这个“病态幽默”的例子能让你自己评判。"
+		},
+		{
+			"i": 16,
+			"start": 93.87,
+			"end": 100.4,
+			"en": "A man who had broken his right leg was taken to hospital a few weeks before Christmas.",
+			"zh": "一个右腿骨折的男人在圣诞节前几周被送进了医院。"
+		},
+		{
+			"i": 17,
+			"start": 100.55,
+			"end": 102.71,
+			"en": "From the moment he arrived there,",
+			"zh": "从他到达那里那一刻起，"
+		},
+		{
+			"i": 18,
+			"start": 102.86,
+			"end": 108.69,
+			"en": "he kept on pestering his doctor to tell him when he would be able to go home.",
+			"zh": "他就一直缠着医生，问他什么时候能回家。"
+		},
+		{
+			"i": 19,
+			"start": 108.84,
+			"end": 112.57,
+			"en": "He dreaded having to spend Christmas in hospital.",
+			"zh": "他害怕不得不在医院过圣诞节。"
+		},
+		{
+			"i": 20,
+			"start": 112.72,
+			"end": 117.83,
+			"en": "Though the doctor did his best, the patient's recovery was slow.",
+			"zh": "尽管医生尽了力，但病人的康复很慢。"
+		},
+		{
+			"i": 21,
+			"start": 117.98,
+			"end": 123.53,
+			"en": "On Christmas day, the man still had his right leg in plaster.",
+			"zh": "圣诞节那天，这个男人右腿上仍然打着石膏。"
+		},
+		{
+			"i": 22,
+			"start": 123.68,
+			"end": 129.29,
+			"en": "He spent a miserable day in bed thinking of all the fun he was missing.",
+			"zh": "他在床上度过了悲惨的一天，想着自己错过了所有的乐趣。"
+		},
+		{
+			"i": 23,
+			"start": 129.44,
+			"end": 134.12,
+			"en": "The following day, however, the doctor consoled him by telling him",
+			"zh": "然而，第二天，医生安慰他说，"
+		},
+		{
+			"i": 24,
+			"start": 134.27,
+			"end": 141.41,
+			"en": "that his chances of being able to leave hospital in time for New Year celebrations were good.",
+			"zh": "他赶在新年庆祝活动前出院的可能性很大。"
+		},
+		{
+			"i": 25,
+			"start": 141.56,
+			"end": 149.53,
+			"en": "The man took heart and sure enough, on New Year's Eve he was able to hobble along to a party.",
+			"zh": "男人振作起来，果然，在除夕夜他能一瘸一拐地去参加派对。"
+		},
+		{
+			"i": 26,
+			"start": 149.68,
+			"end": 154.48,
+			"en": "To compensate for his unpleasant experiences in hospital,",
+			"zh": "为了弥补他在医院的不愉快经历，"
+		},
+		{
+			"i": 27,
+			"start": 154.63,
+			"end": 158.13,
+			"en": "the man drank a little more than was good for him.",
+			"zh": "他多喝了一点酒，这对他身体不好。"
+		},
+		{
+			"i": 28,
+			"start": 158.28,
+			"end": 167,
+			"en": "In the process, he enjoyed himself thoroughly and kept telling everybody how much he hated hospitals.",
+			"zh": "在此过程中，他玩得很开心，并且不停地告诉所有人他有多么讨厌医院。"
+		},
+		{
+			"i": 29,
+			"start": 167.15,
+			"end": 171.15,
+			"en": "He was still mumbling something about hospitals at the end of the party when he slipped on a piece of ice and broke his left leg.",
+			"zh": "派对结束时，他还在嘟囔着关于医院的事情，这时他滑到了一块冰上，摔断了左腿。"
+		}
+	]
+}

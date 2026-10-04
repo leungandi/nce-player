@@ -1,0 +1,181 @@
+{
+	"id": "nce1-91",
+	"book": "nce1",
+	"title": "Poor Ian",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-91.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.91,
+			"end": 3.3,
+			"en": "Lesson 91",
+			"zh": "第91课"
+		},
+		{
+			"i": 1,
+			"start": 3.45,
+			"end": 6.11,
+			"en": "Poor Ian!",
+			"zh": "可怜的伊恩！"
+		},
+		{
+			"i": 2,
+			"start": 6.26,
+			"end": 11.98,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.13,
+			"end": 17.4,
+			"en": "Who wanted to sell the house?",
+			"zh": "谁想卖掉房子？"
+		},
+		{
+			"i": 4,
+			"start": 17.55,
+			"end": 21.1,
+			"en": "Has Ian sold his house yet?",
+			"zh": "伊恩把他的房子卖了吗？"
+		},
+		{
+			"i": 5,
+			"start": 21.25,
+			"end": 23.06,
+			"en": "Yes, he has.",
+			"zh": "是的，他卖了。"
+		},
+		{
+			"i": 6,
+			"start": 23.21,
+			"end": 26.77,
+			"en": "He sold it last week.",
+			"zh": "他上周卖的。"
+		},
+		{
+			"i": 7,
+			"start": 26.92,
+			"end": 31.3,
+			"en": "Has he moved to his new house yet?",
+			"zh": "他搬到新家了吗？"
+		},
+		{
+			"i": 8,
+			"start": 31.45,
+			"end": 33.66,
+			"en": "No, not yet.",
+			"zh": "不，还没有。"
+		},
+		{
+			"i": 9,
+			"start": 33.81,
+			"end": 35.9,
+			"en": "He's still here.",
+			"zh": "他还在这儿。"
+		},
+		{
+			"i": 10,
+			"start": 36.05,
+			"end": 39.67,
+			"en": "He's going to move tomorrow.",
+			"zh": "他明天就要搬家了。"
+		},
+		{
+			"i": 11,
+			"start": 39.82,
+			"end": 43.97,
+			"en": "When? Tomorrow morning?",
+			"zh": "什么时候？明天早上吗？"
+		},
+		{
+			"i": 12,
+			"start": 44.12,
+			"end": 47.68,
+			"en": "No. Tomorrow afternoon.",
+			"zh": "不，明天下午。"
+		},
+		{
+			"i": 13,
+			"start": 47.83,
+			"end": 49.74,
+			"en": "I'll miss him.",
+			"zh": "我会想念他的。"
+		},
+		{
+			"i": 14,
+			"start": 49.89,
+			"end": 54.42,
+			"en": "He has always been a good neighbour.",
+			"zh": "他一直是个好邻居。"
+		},
+		{
+			"i": 15,
+			"start": 54.57,
+			"end": 58.02,
+			"en": "He's a very nice person.",
+			"zh": "他是个很好的人。"
+		},
+		{
+			"i": 16,
+			"start": 58.17,
+			"end": 62.06,
+			"en": "We'll all miss him.",
+			"zh": "我们都会想念他的。"
+		},
+		{
+			"i": 17,
+			"start": 62.21,
+			"end": 67.39,
+			"en": "When will the new people move into this house?",
+			"zh": "新住户什么时候搬进这所房子？"
+		},
+		{
+			"i": 18,
+			"start": 67.54,
+			"end": 74.07,
+			"en": "I think that they'll move in the day after tomorrow.",
+			"zh": "我想他们会在后天搬进来。"
+		},
+		{
+			"i": 19,
+			"start": 74.22,
+			"end": 79.56,
+			"en": "Will you see Ian today, Jenny?",
+			"zh": "珍妮，你今天会见到伊恩吗？"
+		},
+		{
+			"i": 20,
+			"start": 79.71,
+			"end": 82.94,
+			"en": "Yes, I will.",
+			"zh": "是的，我会的。"
+		},
+		{
+			"i": 21,
+			"start": 83.09,
+			"end": 87.68,
+			"en": "Please give him my regards.",
+			"zh": "请代我向他问好。"
+		},
+		{
+			"i": 22,
+			"start": 87.83,
+			"end": 94.34,
+			"en": "Poor Ian! He didn't want to leave this house.",
+			"zh": "可怜的伊恩！他不想离开这所房子。"
+		},
+		{
+			"i": 23,
+			"start": 94.49,
+			"end": 98.49,
+			"en": "No, he didn't want to leave, but his wife did!",
+			"zh": "不，他不想走，但是他妻子想！"
+		}
+	]
+}

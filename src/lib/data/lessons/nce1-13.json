@@ -1,0 +1,132 @@
+{
+	"id": "nce1-13",
+	"book": "nce1",
+	"title": "A New Dress",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-13.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.41,
+			"end": 2.56,
+			"en": "Lesson 13",
+			"zh": "第13课"
+		},
+		{
+			"i": 1,
+			"start": 2.71,
+			"end": 5.38,
+			"en": "A new dress",
+			"zh": "新连衣裙"
+		},
+		{
+			"i": 2,
+			"start": 5.53,
+			"end": 11.57,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.72,
+			"end": 16.52,
+			"en": "What colour is Anna's hat?",
+			"zh": "安娜的帽子是什么颜色的？"
+		},
+		{
+			"i": 4,
+			"start": 16.67,
+			"end": 20.31,
+			"en": "What colour's your new dress?",
+			"zh": "你的新连衣裙是什么颜色的？"
+		},
+		{
+			"i": 5,
+			"start": 20.46,
+			"end": 22.37,
+			"en": "It's green.",
+			"zh": "是绿色的。"
+		},
+		{
+			"i": 6,
+			"start": 22.52,
+			"end": 25.63,
+			"en": "Come upstairs and see it.",
+			"zh": "到楼上来看看吧。"
+		},
+		{
+			"i": 7,
+			"start": 25.78,
+			"end": 27.38,
+			"en": "Thank you.",
+			"zh": "谢谢。"
+		},
+		{
+			"i": 8,
+			"start": 27.53,
+			"end": 28.51,
+			"en": "Look!",
+			"zh": "看！"
+		},
+		{
+			"i": 9,
+			"start": 28.66,
+			"end": 30.64,
+			"en": "Here it is!",
+			"zh": "在这儿呢！"
+		},
+		{
+			"i": 10,
+			"start": 30.79,
+			"end": 33.36,
+			"en": "That's a nice dress.",
+			"zh": "这件连衣裙真漂亮。"
+		},
+		{
+			"i": 11,
+			"start": 33.51,
+			"end": 36.01,
+			"en": "It's very smart.",
+			"zh": "它很时髦。"
+		},
+		{
+			"i": 12,
+			"start": 36.16,
+			"end": 39.07,
+			"en": "My hat's new too.",
+			"zh": "我的帽子也是新的。"
+		},
+		{
+			"i": 13,
+			"start": 39.22,
+			"end": 41.47,
+			"en": "What colour is it?",
+			"zh": "它是什么颜色的？"
+		},
+		{
+			"i": 14,
+			"start": 41.62,
+			"end": 44.03,
+			"en": "It's the same colour.",
+			"zh": "是同样的颜色。"
+		},
+		{
+			"i": 15,
+			"start": 44.18,
+			"end": 46.97,
+			"en": "It's green  too.",
+			"zh": "也是绿色的。"
+		},
+		{
+			"i": 16,
+			"start": 47.12,
+			"end": 51.12,
+			"en": "That is a lovely hat!",
+			"zh": "那真是一顶可爱的帽子！"
+		}
+	]
+}

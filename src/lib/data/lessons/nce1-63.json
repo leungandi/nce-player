@@ -1,0 +1,181 @@
+{
+	"id": "nce1-63",
+	"book": "nce1",
+	"title": "Thank You, Doctor.",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-63.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.78,
+			"end": 3.3,
+			"en": "Lesson 63",
+			"zh": "第63课"
+		},
+		{
+			"i": 1,
+			"start": 3.45,
+			"end": 6.3,
+			"en": "Thank you, doctor.",
+			"zh": "谢谢您，医生。"
+		},
+		{
+			"i": 2,
+			"start": 6.45,
+			"end": 12.54,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.69,
+			"end": 19.07,
+			"en": "Who else is in bed today? Why?",
+			"zh": "今天还有谁躺在床上？为什么？"
+		},
+		{
+			"i": 4,
+			"start": 19.22,
+			"end": 21.43,
+			"en": "How's Jimmy today?",
+			"zh": "吉米今天怎么样了？"
+		},
+		{
+			"i": 5,
+			"start": 21.58,
+			"end": 22.55,
+			"en": "Better.",
+			"zh": "好多了。"
+		},
+		{
+			"i": 6,
+			"start": 22.7,
+			"end": 24.86,
+			"en": "Thank you, doctor.",
+			"zh": "谢谢您，医生。"
+		},
+		{
+			"i": 7,
+			"start": 25.01,
+			"end": 29.13,
+			"en": "Can I see him please, Mrs. Williams?",
+			"zh": "我能看看他吗，威廉斯夫人？"
+		},
+		{
+			"i": 8,
+			"start": 29.28,
+			"end": 31.2,
+			"en": "Certainly, doctor.",
+			"zh": "当然可以，医生。"
+		},
+		{
+			"i": 9,
+			"start": 31.35,
+			"end": 34.02,
+			"en": "Come upstairs.",
+			"zh": "上楼来吧。"
+		},
+		{
+			"i": 10,
+			"start": 34.17,
+			"end": 36.94,
+			"en": "You look very well, Jimmy.",
+			"zh": "你看上去很好，吉米。"
+		},
+		{
+			"i": 11,
+			"start": 37.09,
+			"end": 42.45,
+			"en": "You are better now, but you mustn't get up yet.",
+			"zh": "你现在好些了，但是还不能起床。"
+		},
+		{
+			"i": 12,
+			"start": 42.6,
+			"end": 48.17,
+			"en": "You must stay in bed for another two days.",
+			"zh": "你必须再卧床两天。"
+		},
+		{
+			"i": 13,
+			"start": 48.32,
+			"end": 53.06,
+			"en": "The boy mustn't go to school yet, Mrs. Williams.",
+			"zh": "这孩子还不能去上学，威廉斯夫人。"
+		},
+		{
+			"i": 14,
+			"start": 53.21,
+			"end": 57.96,
+			"en": "And he mustn't eat rich food.",
+			"zh": "他也不能吃油腻的食物。"
+		},
+		{
+			"i": 15,
+			"start": 58.11,
+			"end": 61.94,
+			"en": "Does he have a temperature, doctor?",
+			"zh": "他发烧吗，医生？"
+		},
+		{
+			"i": 16,
+			"start": 62.09,
+			"end": 63.91,
+			"en": "No, he doesn't.",
+			"zh": "不，他没有。"
+		},
+		{
+			"i": 17,
+			"start": 64.06,
+			"end": 66.91,
+			"en": "Must he stay in bed?",
+			"zh": "他必须卧床吗？"
+		},
+		{
+			"i": 18,
+			"start": 67.06,
+			"end": 72.69,
+			"en": "Yes. He must remain in bed for another two days.",
+			"zh": "是的。他必须再卧床两天。"
+		},
+		{
+			"i": 19,
+			"start": 72.84,
+			"end": 83.34,
+			"en": "He can get up for about two hours each day, but you must keep the room warm.",
+			"zh": "他每天可以起床大约两小时，但是你必须保持房间温暖。"
+		},
+		{
+			"i": 20,
+			"start": 83.49,
+			"end": 87.2,
+			"en": "Where's Mr. Williams this evening?",
+			"zh": "威廉斯先生今晚在哪儿？"
+		},
+		{
+			"i": 21,
+			"start": 87.35,
+			"end": 90.33,
+			"en": "He's in bed, doctor.",
+			"zh": "他在床上，医生。"
+		},
+		{
+			"i": 22,
+			"start": 90.48,
+			"end": 93.09,
+			"en": "Can you see him please?",
+			"zh": "您能去看看他吗？"
+		},
+		{
+			"i": 23,
+			"start": 93.24,
+			"end": 97.24,
+			"en": "He has a bad cold, too!",
+			"zh": "他也得了重感冒！"
+		}
+	]
+}

@@ -1,0 +1,167 @@
+{
+	"id": "nce1-85",
+	"book": "nce1",
+	"title": "Paris in the Spring.",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-85.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.54,
+			"end": 2.79,
+			"en": "Lesson 85",
+			"zh": "第85课"
+		},
+		{
+			"i": 1,
+			"start": 2.94,
+			"end": 6.19,
+			"en": "'Paris in the Spring'.",
+			"zh": "“春天的巴黎”。"
+		},
+		{
+			"i": 2,
+			"start": 6.34,
+			"end": 11.6,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.75,
+			"end": 18.48,
+			"en": "At what time of year did Ken visit Paris?",
+			"zh": "肯是在一年中的什么时候访问巴黎的？"
+		},
+		{
+			"i": 4,
+			"start": 18.63,
+			"end": 20.03,
+			"en": "Hello, Ken.",
+			"zh": "你好，肯。"
+		},
+		{
+			"i": 5,
+			"start": 20.18,
+			"end": 22.05,
+			"en": "Hi, George.",
+			"zh": "嗨，乔治。"
+		},
+		{
+			"i": 6,
+			"start": 22.2,
+			"end": 25.06,
+			"en": "Have you just been to the cinema?",
+			"zh": "你刚去电影院了吗？"
+		},
+		{
+			"i": 7,
+			"start": 25.21,
+			"end": 27.36,
+			"en": "Yes, I have.",
+			"zh": "是的，我去了。"
+		},
+		{
+			"i": 8,
+			"start": 27.51,
+			"end": 28.99,
+			"en": "What's on?",
+			"zh": "正在放映什么？"
+		},
+		{
+			"i": 9,
+			"start": 29.14,
+			"end": 31.51,
+			"en": "'Paris in the Spring'.",
+			"zh": "“春天的巴黎”。"
+		},
+		{
+			"i": 10,
+			"start": 31.66,
+			"end": 34.72,
+			"en": "Oh, I've already seen it.",
+			"zh": "哦，我已经看过了。"
+		},
+		{
+			"i": 11,
+			"start": 34.87,
+			"end": 38.69,
+			"en": "I saw it on television last year.",
+			"zh": "我去年在电视上看过。"
+		},
+		{
+			"i": 12,
+			"start": 38.84,
+			"end": 43.28,
+			"en": "It's an old film, but it's very good.",
+			"zh": "那是一部老电影，但非常好。"
+		},
+		{
+			"i": 13,
+			"start": 43.43,
+			"end": 46.66,
+			"en": "Paris is a beautiful city.",
+			"zh": "巴黎是一座美丽的城市。"
+		},
+		{
+			"i": 14,
+			"start": 46.81,
+			"end": 48.82,
+			"en": "I've never been there.",
+			"zh": "我从未去过那里。"
+		},
+		{
+			"i": 15,
+			"start": 48.97,
+			"end": 51.85,
+			"en": "Have you ever been there, Ken?",
+			"zh": "你去过那里吗，肯？"
+		},
+		{
+			"i": 16,
+			"start": 52,
+			"end": 53.8,
+			"en": "Yes, I have.",
+			"zh": "是的，我去过。"
+		},
+		{
+			"i": 17,
+			"start": 53.95,
+			"end": 57.2,
+			"en": "I was there in April.",
+			"zh": "我是四月份去的。"
+		},
+		{
+			"i": 18,
+			"start": 57.35,
+			"end": 60.31,
+			"en": "Paris in the spring, eh?",
+			"zh": "春天的巴黎，是吗？"
+		},
+		{
+			"i": 19,
+			"start": 60.46,
+			"end": 64.53,
+			"en": "It was spring, but the weather was awful.",
+			"zh": "那是春天，但天气很糟糕。"
+		},
+		{
+			"i": 20,
+			"start": 64.68,
+			"end": 67.74,
+			"en": "It rained all the time.",
+			"zh": "一直在下雨。"
+		},
+		{
+			"i": 21,
+			"start": 67.89,
+			"end": 71.89,
+			"en": "Just like London!",
+			"zh": "就像伦敦一样！"
+		}
+	]
+}

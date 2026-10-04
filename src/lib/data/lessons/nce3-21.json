@@ -1,0 +1,209 @@
+{
+	"id": "nce3-21",
+	"book": "nce3",
+	"title": "Daniel Mendoza",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-21.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.34,
+			"end": 2.06,
+			"en": "Lesson 21",
+			"zh": "第21课"
+		},
+		{
+			"i": 1,
+			"start": 2.21,
+			"end": 9.78,
+			"en": "Daniel Mendoza",
+			"zh": "丹尼尔·门多萨"
+		},
+		{
+			"i": 2,
+			"start": 9.93,
+			"end": 18.44,
+			"en": "How many unsuccessful attempts did Mendoza make before becoming Champion of all England?",
+			"zh": "门多萨在成为全英冠军之前，有过多少次失败的尝试？"
+		},
+		{
+			"i": 3,
+			"start": 18.59,
+			"end": 23.37,
+			"en": "Boxing matches were very popular in England two hundred years ago.",
+			"zh": "两百年前，拳击比赛在英格兰非常盛行。"
+		},
+		{
+			"i": 4,
+			"start": 23.52,
+			"end": 28.78,
+			"en": "In those days, boxers fought with bare fists for prize money.",
+			"zh": "在那些日子里，拳击手们赤手空拳地搏斗以争夺奖金。"
+		},
+		{
+			"i": 5,
+			"start": 28.93,
+			"end": 33.12,
+			"en": "Because of this, they were known as 'prizefighters'.",
+			"zh": "正因为如此，他们被称为“职业拳击手”。"
+		},
+		{
+			"i": 6,
+			"start": 33.27,
+			"end": 36.48,
+			"en": "However, boxing was very crude,",
+			"zh": "然而，拳击是非常原始的，"
+		},
+		{
+			"i": 7,
+			"start": 36.63,
+			"end": 44.79,
+			"en": "for there were no rules and a prizefighter could be seriously injured or even killed during a match.",
+			"zh": "因为当时没有规则，职业拳击手在比赛中可能会受重伤，甚至死亡。"
+		},
+		{
+			"i": 8,
+			"start": 44.94,
+			"end": 53.41,
+			"en": "One of the most colourful figures in boxing history was Daniel Mendoza, who was born in 1764.",
+			"zh": "拳击史上最引人注目的人物之一是丹尼尔·门多萨，他出生于1764年。"
+		},
+		{
+			"i": 9,
+			"start": 53.56,
+			"end": 62.48,
+			"en": "The use of gloves was not introduced until 1860, when the Marquis of Queensberry drew up the first set of rules.",
+			"zh": "直到1860年，昆斯伯里侯爵制定了第一套规则后，才引入了手套的使用。"
+		},
+		{
+			"i": 10,
+			"start": 62.63,
+			"end": 65.6,
+			"en": "Though he was technically a prizefighter,",
+			"zh": "尽管从技术上讲他是一名职业拳击手，"
+		},
+		{
+			"i": 11,
+			"start": 65.75,
+			"end": 73.56,
+			"en": "Mendoza did much to change crude prizefighting into a sport, for he brought science to the game.",
+			"zh": "但门多萨为将原始的职业拳击比赛转变为一项运动做了很多工作，因为他将科学带入了这项运动。"
+		},
+		{
+			"i": 12,
+			"start": 73.71,
+			"end": 78.26,
+			"en": "In his day, Mendoza enjoyed tremendous popularity.",
+			"zh": "在他那个时代，门多萨享有巨大的声望。"
+		},
+		{
+			"i": 13,
+			"start": 78.41,
+			"end": 81.79,
+			"en": "He was adored by rich and poor alike.",
+			"zh": "他深受富人和穷人的喜爱。"
+		},
+		{
+			"i": 14,
+			"start": 81.94,
+			"end": 88.27,
+			"en": "Mendoza rose to fame swiftly after a boxing match when he was only fourteen years old.",
+			"zh": "门多萨在14岁时参加一场拳击比赛后迅速成名。"
+		},
+		{
+			"i": 15,
+			"start": 88.42,
+			"end": 95.72,
+			"en": "This attracted the attention of Richard Humphries who was then the most eminent boxer in England.",
+			"zh": "这引起了理查德·汉弗莱斯的注意，他当时是英格兰最杰出的拳击手。"
+		},
+		{
+			"i": 16,
+			"start": 95.87,
+			"end": 100.83,
+			"en": "He offered to train Mendoza and his young pupil was quick to learn.",
+			"zh": "他主动提出训练门多萨，而他的年轻学生也学得很快。"
+		},
+		{
+			"i": 17,
+			"start": 100.98,
+			"end": 107.86,
+			"en": "In fact, Mendoza soon became so successful that Humphries turned against him.",
+			"zh": "事实上，门多萨很快就变得非常成功，以至于汉弗莱斯转而反对他。"
+		},
+		{
+			"i": 18,
+			"start": 108.01,
+			"end": 116.35,
+			"en": "The two men quarrelled bitterly and it was clear that the argument could only be settled by a fight.",
+			"zh": "两人激烈争吵，很明显，争论只能通过一场战斗来解决。"
+		},
+		{
+			"i": 19,
+			"start": 116.5,
+			"end": 121.45,
+			"en": "A match was held at Stilton, where both men fought for an hour.",
+			"zh": "在斯蒂尔顿举行了一场比赛，两人激战了一个小时。"
+		},
+		{
+			"i": 20,
+			"start": 121.6,
+			"end": 127.07,
+			"en": "The public bet a great deal of money on Mendoza, but he was defeated.",
+			"zh": "公众在门多萨身上下了大笔赌注，但他被击败了。"
+		},
+		{
+			"i": 21,
+			"start": 127.22,
+			"end": 133.82,
+			"en": "Mendoza met Humphries in the ring on a later occasion and he lost for a second time.",
+			"zh": "门多萨后来又在拳击台上与汉弗莱斯相遇，但他第二次输了。"
+		},
+		{
+			"i": 22,
+			"start": 133.97,
+			"end": 143.35,
+			"en": "It was not until his third match in 1790 that he finally beat Humphries and became Champion of England.",
+			"zh": "直到1790年的第三场比赛，他才最终击败汉弗莱斯，成为英格兰冠军。"
+		},
+		{
+			"i": 23,
+			"start": 143.5,
+			"end": 151.44,
+			"en": "Meanwhile, he founded a highly successful Academy and even Lord Byron became one of his pupils.",
+			"zh": "同时，他创办了一所非常成功的拳击学院，甚至拜伦勋爵也成了他的学生之一。"
+		},
+		{
+			"i": 24,
+			"start": 151.59,
+			"end": 159.7,
+			"en": "He earned enormous sums of money and was paid as much as ￡100 for a single appearance.",
+			"zh": "他赚取了巨额财富，单次出场费高达100英镑。"
+		},
+		{
+			"i": 25,
+			"start": 159.85,
+			"end": 165.76,
+			"en": "Despite this, he was so extravagant that he was always in debt.",
+			"zh": "尽管如此，他非常奢侈，总是负债累累。"
+		},
+		{
+			"i": 26,
+			"start": 165.91,
+			"end": 172.38,
+			"en": "After he was defeated by a boxer called Gentleman Jackson, he was quickly forgotten.",
+			"zh": "在他被一位名叫“绅士”杰克逊的拳击手击败后，他很快就被遗忘了。"
+		},
+		{
+			"i": 27,
+			"start": 172.53,
+			"end": 176.53,
+			"en": "He was sent to prison for failing to pay his debts and died in poverty in 1836.",
+			"zh": "他因未能偿还债务而被送进监狱，并于1836年贫困潦倒地去世。"
+		}
+	]
+}

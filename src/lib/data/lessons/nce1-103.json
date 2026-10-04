@@ -1,0 +1,188 @@
+{
+	"id": "nce1-103",
+	"book": "nce1",
+	"title": "The French Test",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-103.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.66,
+			"end": 3.39,
+			"en": "Lesson 103",
+			"zh": "第103课"
+		},
+		{
+			"i": 1,
+			"start": 3.54,
+			"end": 6.62,
+			"en": "The French test",
+			"zh": "法语考试"
+		},
+		{
+			"i": 2,
+			"start": 6.77,
+			"end": 12.67,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.82,
+			"end": 17.76,
+			"en": "How long did the exam last?",
+			"zh": "考试持续了多长时间？"
+		},
+		{
+			"i": 4,
+			"start": 17.91,
+			"end": 20.65,
+			"en": "How was the exam, Richard?",
+			"zh": "考试怎么样，理查德？"
+		},
+		{
+			"i": 5,
+			"start": 20.8,
+			"end": 22.41,
+			"en": "Not too bad.",
+			"zh": "不太糟。"
+		},
+		{
+			"i": 6,
+			"start": 22.56,
+			"end": 27.13,
+			"en": "I think I passed in English and Mathematics.",
+			"zh": "我想我英语和数学都及格了。"
+		},
+		{
+			"i": 7,
+			"start": 27.28,
+			"end": 30.19,
+			"en": "The questions were very easy.",
+			"zh": "题目很简单。"
+		},
+		{
+			"i": 8,
+			"start": 30.34,
+			"end": 33.84,
+			"en": "How about you, Gary?",
+			"zh": "你怎么样，加里？"
+		},
+		{
+			"i": 9,
+			"start": 33.99,
+			"end": 39.83,
+			"en": "The English and Maths papers weren't easy enough for me.",
+			"zh": "英语和数学试卷对我来说都不够简单。"
+		},
+		{
+			"i": 10,
+			"start": 39.98,
+			"end": 42.64,
+			"en": "I hope I haven't failed.",
+			"zh": "我希望我没考砸。"
+		},
+		{
+			"i": 11,
+			"start": 42.79,
+			"end": 46.45,
+			"en": "I think I failed the French paper.",
+			"zh": "我想我法语没及格。"
+		},
+		{
+			"i": 12,
+			"start": 46.6,
+			"end": 50.41,
+			"en": "I could answer sixteen of the questions.",
+			"zh": "我能回答十六道题。"
+		},
+		{
+			"i": 13,
+			"start": 50.56,
+			"end": 52.88,
+			"en": "They were very easy.",
+			"zh": "它们很简单。"
+		},
+		{
+			"i": 14,
+			"start": 53.03,
+			"end": 56.06,
+			"en": "But I couldn't answer the rest.",
+			"zh": "但我回答不了剩下的题。"
+		},
+		{
+			"i": 15,
+			"start": 56.21,
+			"end": 60.14,
+			"en": "They were too difficult for me.",
+			"zh": "它们对我来说太难了。"
+		},
+		{
+			"i": 16,
+			"start": 60.29,
+			"end": 63.7,
+			"en": "French tests are awful, aren't they?",
+			"zh": "法语考试糟透了，不是吗？"
+		},
+		{
+			"i": 17,
+			"start": 63.85,
+			"end": 65.57,
+			"en": "I hate them.",
+			"zh": "我讨厌它们。"
+		},
+		{
+			"i": 18,
+			"start": 65.72,
+			"end": 69.98,
+			"en": "I'm sure I've got a low mark.",
+			"zh": "我肯定我得了低分。"
+		},
+		{
+			"i": 19,
+			"start": 70.13,
+			"end": 72.58,
+			"en": "Oh, cheer up!",
+			"zh": "哦，振作起来！"
+		},
+		{
+			"i": 20,
+			"start": 72.73,
+			"end": 76.86,
+			"en": "Perhaps we didn't do too badly.",
+			"zh": "也许我们考得没那么糟。"
+		},
+		{
+			"i": 21,
+			"start": 77.01,
+			"end": 82.38,
+			"en": "The guy next to me wrote his name at the top of the paper.",
+			"zh": "我旁边那个家伙在试卷顶部写了他的名字。"
+		},
+		{
+			"i": 22,
+			"start": 82.53,
+			"end": 83.96,
+			"en": "Yes?",
+			"zh": "然后呢？"
+		},
+		{
+			"i": 23,
+			"start": 84.11,
+			"end": 89.21,
+			"en": "Then he sat there and looked at it for three hours!",
+			"zh": "然后他坐在那里看了三个小时！"
+		},
+		{
+			"i": 24,
+			"start": 89.36,
+			"end": 93.36,
+			"en": "He didn't write a word!",
+			"zh": "他一个字也没写！"
+		}
+	]
+}

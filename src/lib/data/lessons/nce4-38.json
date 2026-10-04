@@ -1,0 +1,216 @@
+{
+	"id": "nce4-38",
+	"book": "nce4",
+	"title": "Water and the Traveller",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-38.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.54,
+			"end": 2.26,
+			"en": "Lesson 38",
+			"zh": "第38课"
+		},
+		{
+			"i": 1,
+			"start": 2.41,
+			"end": 9.44,
+			"en": "Water and the traveller",
+			"zh": "水与旅行者"
+		},
+		{
+			"i": 2,
+			"start": 9.59,
+			"end": 13.35,
+			"en": "What does this text describe?",
+			"zh": "本文描述了什么？"
+		},
+		{
+			"i": 3,
+			"start": 13.5,
+			"end": 21.15,
+			"en": "Contamination of water supplies is usually due to poor sanitation close to water sources,",
+			"zh": "供水污染通常是由于水源附近卫生条件差，"
+		},
+		{
+			"i": 4,
+			"start": 21.3,
+			"end": 32.02,
+			"en": "sewage disposal into the sources themselves, leakage of sewage into distribution systems or contamination with industrial or farm waste.",
+			"zh": "污水直接排入水源，污水泄漏进入分配系统，或受到工业或农业废物的污染。"
+		},
+		{
+			"i": 5,
+			"start": 32.17,
+			"end": 39.57,
+			"en": "Even if a piped water supply is safe at its source, it is not always safe by the time it reaches the tap.",
+			"zh": "即使管道供水在其源头是安全的，但当它到达水龙头时，也并非总是安全的。"
+		},
+		{
+			"i": 6,
+			"start": 39.72,
+			"end": 45.61,
+			"en": "Intermittent tap-water supplies should be regarded as particularly suspect.",
+			"zh": "间歇性自来水供应应被视为特别可疑。"
+		},
+		{
+			"i": 7,
+			"start": 45.76,
+			"end": 50.93,
+			"en": "Travellers on short trips to areas with water supplies of uncertain quality",
+			"zh": "短途旅行到水质不确定地区的旅行者"
+		},
+		{
+			"i": 8,
+			"start": 51.08,
+			"end": 56.8,
+			"en": "should avoid drinking tap-water, or untreated water from any other source.",
+			"zh": "应避免饮用自来水，或任何其他来源的未经处理的水。"
+		},
+		{
+			"i": 9,
+			"start": 56.95,
+			"end": 68.12,
+			"en": "It is best to keep to hot drinks, bottled or canned drinks of well-known brand names-international standard of water treatment are usually followed at bottling plants.",
+			"zh": "最好只喝热饮、知名品牌的瓶装或罐装饮料——瓶装厂通常会遵循国际水处理标准。"
+		},
+		{
+			"i": 10,
+			"start": 68.27,
+			"end": 72.09,
+			"en": "Carbonated drinks are acidic, and slightly safer.",
+			"zh": "碳酸饮料呈酸性，稍微安全一些。"
+		},
+		{
+			"i": 11,
+			"start": 72.24,
+			"end": 78.99,
+			"en": "Make sure that all bottles are opened in your presence, and that their rims are clean and dry.",
+			"zh": "确保所有瓶子都是在你面前打开的，并且瓶口清洁干燥。"
+		},
+		{
+			"i": 12,
+			"start": 79.14,
+			"end": 82.21,
+			"en": "Boiling is always a good way of treating water.",
+			"zh": "煮沸始终是处理水的好方法。"
+		},
+		{
+			"i": 13,
+			"start": 82.36,
+			"end": 89.34,
+			"en": "Some hotels supply boiled water on request and this can be used for drinking, or for brushing teeth.",
+			"zh": "有些酒店应要求提供开水，可用于饮用或刷牙。"
+		},
+		{
+			"i": 14,
+			"start": 89.49,
+			"end": 97.71,
+			"en": "Portable boiling elements that can boil small quantities of water are useful when the right voltage of electricity is available.",
+			"zh": "当有合适的电压时，能烧开少量水的便携式电热棒会很有用。"
+		},
+		{
+			"i": 15,
+			"start": 97.86,
+			"end": 103.07,
+			"en": "Refuse politely any cold drink from an unknown source.",
+			"zh": "礼貌地拒绝任何来源不明的冷饮。"
+		},
+		{
+			"i": 16,
+			"start": 103.22,
+			"end": 106.64,
+			"en": "Ice is only as safe as the water from which it is made,",
+			"zh": "冰的安全性取决于制作它的水，"
+		},
+		{
+			"i": 17,
+			"start": 106.79,
+			"end": 111.65,
+			"en": "and should not be put in drinks unless it is known to be safe.",
+			"zh": "除非已知其安全，否则不应将其放入饮料中。"
+		},
+		{
+			"i": 18,
+			"start": 111.8,
+			"end": 118.02,
+			"en": "Drinks can be cooled by placing them on ice rather than adding ice to them.",
+			"zh": "饮料可以通过放在冰块上冷却，而不是将冰块加入饮料中。"
+		},
+		{
+			"i": 19,
+			"start": 118.17,
+			"end": 125.42,
+			"en": "Alcohol may be a medical disinfectant, but should not be relied upon to sterilize water.",
+			"zh": "酒精可能是医用消毒剂，但不应指望它能给水消毒。"
+		},
+		{
+			"i": 20,
+			"start": 125.57,
+			"end": 130.57,
+			"en": "Ethanol is more effective at a concentration of 50-70 percent;",
+			"zh": "乙醇在50-70%的浓度下更有效；"
+		},
+		{
+			"i": 21,
+			"start": 130.72,
+			"end": 135.76,
+			"en": "below 20 per cent, its bactericidal action is negligible.",
+			"zh": "低于20%时，其杀菌作用微乎其微。"
+		},
+		{
+			"i": 22,
+			"start": 135.91,
+			"end": 142.48,
+			"en": "Spirits labelled 95 proof contain only about 47 per cent alcohol.",
+			"zh": "标示为95度的烈酒只含有大约47%的酒精。"
+		},
+		{
+			"i": 23,
+			"start": 142.63,
+			"end": 144.74,
+			"en": "Beware of methylated alcohol,",
+			"zh": "警惕工业酒精（甲醇变性酒精），"
+		},
+		{
+			"i": 24,
+			"start": 144.89,
+			"end": 150.56,
+			"en": "which is very poisonous and should never be added to drinking water.",
+			"zh": "它剧毒，绝不应加入饮用水中。"
+		},
+		{
+			"i": 25,
+			"start": 150.71,
+			"end": 154.3,
+			"en": "If no other safe water supply can be obtained,",
+			"zh": "如果无法获得其他安全水源，"
+		},
+		{
+			"i": 26,
+			"start": 154.45,
+			"end": 161.35,
+			"en": "tap water that is too hot to touch can be left to cool and is generally safe to drink.",
+			"zh": "热得烫手的自来水可以放凉后饮用，通常是安全的。"
+		},
+		{
+			"i": 27,
+			"start": 161.5,
+			"end": 169.14,
+			"en": "Those planning a trip to remote areas, or intending to live in countries where drinking water is not readily available,",
+			"zh": "计划去偏远地区旅行，或打算生活在饮用水不易获得的国家的人，"
+		},
+		{
+			"i": 28,
+			"start": 169.29,
+			"end": 173.29,
+			"en": "should know about the various possible methods for making water safe.",
+			"zh": "应该了解使水安全可饮用的各种可能方法。"
+		}
+	]
+}

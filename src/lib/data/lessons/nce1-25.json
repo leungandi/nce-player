@@ -1,0 +1,125 @@
+{
+	"id": "nce1-25",
+	"book": "nce1",
+	"title": "Mrs. Smith's Kitchen",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-25.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.41,
+			"end": 3.03,
+			"en": "Lesson 25",
+			"zh": "第25课"
+		},
+		{
+			"i": 1,
+			"start": 3.18,
+			"end": 6.46,
+			"en": "Mrs. Smith's Kitchen",
+			"zh": "史密斯太太的厨房"
+		},
+		{
+			"i": 2,
+			"start": 6.61,
+			"end": 12.43,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.58,
+			"end": 18.16,
+			"en": "What colour is the electric cooker?",
+			"zh": "电炉是什么颜色的？"
+		},
+		{
+			"i": 4,
+			"start": 18.31,
+			"end": 22.97,
+			"en": "Mrs. Smith's kitchen is small.",
+			"zh": "史密斯太太的厨房很小。"
+		},
+		{
+			"i": 5,
+			"start": 23.12,
+			"end": 27.56,
+			"en": "There is a refrigerator in the kitchen.",
+			"zh": "厨房里有台冰箱。"
+		},
+		{
+			"i": 6,
+			"start": 27.71,
+			"end": 31.47,
+			"en": "The refrigerator is white.",
+			"zh": "冰箱是白色的。"
+		},
+		{
+			"i": 7,
+			"start": 31.62,
+			"end": 34.88,
+			"en": "It is on the right.",
+			"zh": "它在右边。"
+		},
+		{
+			"i": 8,
+			"start": 35.03,
+			"end": 39.47,
+			"en": "There is an electric cooker in the kitchen.",
+			"zh": "厨房里有个电炉。"
+		},
+		{
+			"i": 9,
+			"start": 39.62,
+			"end": 42.8,
+			"en": "The cooker is blue.",
+			"zh": "电炉是蓝色的。"
+		},
+		{
+			"i": 10,
+			"start": 42.95,
+			"end": 46.07,
+			"en": "It is on the left.",
+			"zh": "它在左边。"
+		},
+		{
+			"i": 11,
+			"start": 46.22,
+			"end": 51.39,
+			"en": "There is a table in the middle of the room.",
+			"zh": "房间的中间有张桌子。"
+		},
+		{
+			"i": 12,
+			"start": 51.54,
+			"end": 55.12,
+			"en": "There is a bottle on the table.",
+			"zh": "桌子上有个瓶子。"
+		},
+		{
+			"i": 13,
+			"start": 55.27,
+			"end": 58.95,
+			"en": "The bottle is empty.",
+			"zh": "瓶子是空的。"
+		},
+		{
+			"i": 14,
+			"start": 59.1,
+			"end": 63.68,
+			"en": "There is a cup on the table, too.",
+			"zh": "桌子上也有个杯子。"
+		},
+		{
+			"i": 15,
+			"start": 63.83,
+			"end": 67.83,
+			"en": "The cup is clean.",
+			"zh": "杯子是干净的。"
+		}
+	]
+}

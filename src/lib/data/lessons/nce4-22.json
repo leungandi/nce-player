@@ -1,0 +1,251 @@
+{
+	"id": "nce4-22",
+	"book": "nce4",
+	"title": "Knowledge and Progress",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-22.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.44,
+			"end": 1.95,
+			"en": "Lesson 22",
+			"zh": "第22课"
+		},
+		{
+			"i": 1,
+			"start": 2.1,
+			"end": 8.78,
+			"en": "Knowledge and progress",
+			"zh": "知识与进步"
+		},
+		{
+			"i": 2,
+			"start": 8.93,
+			"end": 15.72,
+			"en": "In what two areas have people made no 'progress' at all?",
+			"zh": "人们在哪两个领域根本没有取得“进步”？"
+		},
+		{
+			"i": 3,
+			"start": 15.87,
+			"end": 21.26,
+			"en": "Why does the idea of progress loom so large in the modern world?",
+			"zh": "为什么进步的观念在现代世界如此重要？"
+		},
+		{
+			"i": 4,
+			"start": 21.41,
+			"end": 27.48,
+			"en": "Surely because progress of a particular kind is actually taking place around us",
+			"zh": "当然是因为某种特定的进步确实正在我们身边发生"
+		},
+		{
+			"i": 5,
+			"start": 27.63,
+			"end": 30.16,
+			"en": "and is becoming more and more manifest.",
+			"zh": "并且变得越来越明显。"
+		},
+		{
+			"i": 6,
+			"start": 30.31,
+			"end": 36.01,
+			"en": "Although mankind has undergone no general improvement in intelligence or morality,",
+			"zh": "尽管人类在智力或道德方面没有取得普遍的进步，"
+		},
+		{
+			"i": 7,
+			"start": 36.16,
+			"end": 41.22,
+			"en": "it has made extraordinary progress in the accumulation of knowledge.",
+			"zh": "但在知识积累方面取得了非凡的进步。"
+		},
+		{
+			"i": 8,
+			"start": 41.37,
+			"end": 45.54,
+			"en": "Knowledge began to increase as soon as the thoughts of one individual",
+			"zh": "知识的增长始于个体思想"
+		},
+		{
+			"i": 9,
+			"start": 45.69,
+			"end": 49.87,
+			"en": "could be communicated to another by means of speech.",
+			"zh": "可以通过言语传达给另一个人。"
+		},
+		{
+			"i": 10,
+			"start": 50.02,
+			"end": 53.52,
+			"en": "With the invention of writing, a great advance was made,",
+			"zh": "随着书写的发明，取得了巨大的进步，"
+		},
+		{
+			"i": 11,
+			"start": 53.67,
+			"end": 58.51,
+			"en": "for knowledge could then be not only communicated but also stored.",
+			"zh": "因为知识不仅可以交流，还可以储存。"
+		},
+		{
+			"i": 12,
+			"start": 58.66,
+			"end": 65.24,
+			"en": "Libraries made education possible, and education in its turn added to libraries:",
+			"zh": "图书馆使教育成为可能，而教育反过来又丰富了图书馆："
+		},
+		{
+			"i": 13,
+			"start": 65.39,
+			"end": 70.08,
+			"en": "the growth of knowledge followed a kind of compound interest law,",
+			"zh": "知识的增长遵循了一种复利法则，"
+		},
+		{
+			"i": 14,
+			"start": 70.23,
+			"end": 73.88,
+			"en": "which was greatly enhanced by the invention of printing.",
+			"zh": "印刷术的发明极大地促进了这一进程。"
+		},
+		{
+			"i": 15,
+			"start": 74.03,
+			"end": 79.38,
+			"en": "All this was comparatively slow until, with the coming of science,",
+			"zh": "所有这些都相对缓慢，直到科学的到来，"
+		},
+		{
+			"i": 16,
+			"start": 79.53,
+			"end": 81.8,
+			"en": "the tempo was suddenly raised.",
+			"zh": "节奏突然加快。"
+		},
+		{
+			"i": 17,
+			"start": 81.95,
+			"end": 87.29,
+			"en": "Then knowledge began to be accumulated according to a systematic plan.",
+			"zh": "于是知识开始按照系统的计划积累。"
+		},
+		{
+			"i": 18,
+			"start": 87.44,
+			"end": 92.83,
+			"en": "The trickle became a stream: the stream has now become a torrent.",
+			"zh": "涓涓细流汇成小溪：小溪现在已变成洪流。"
+		},
+		{
+			"i": 19,
+			"start": 92.98,
+			"end": 99.03,
+			"en": "Moreover, as soon as new knowledge is acquired, it is now turned to practical account.",
+			"zh": "此外，一旦获得新知识，它现在就会被付诸实践。"
+		},
+		{
+			"i": 20,
+			"start": 99.18,
+			"end": 101.86,
+			"en": "What is called 'modern civilization'",
+			"zh": "所谓的“现代文明”"
+		},
+		{
+			"i": 21,
+			"start": 102.01,
+			"end": 106.24,
+			"en": "is not the result of a balanced development of all man's nature,",
+			"zh": "并非人类所有本性平衡发展的结果，"
+		},
+		{
+			"i": 22,
+			"start": 106.39,
+			"end": 111.32,
+			"en": "but of accumulated knowledge applied to practical life.",
+			"zh": "而是积累的知识应用于实际生活的结果。"
+		},
+		{
+			"i": 23,
+			"start": 111.47,
+			"end": 114.38,
+			"en": "The problem now facing humanity is:",
+			"zh": "人类现在面临的问题是："
+		},
+		{
+			"i": 24,
+			"start": 114.53,
+			"end": 117.97,
+			"en": "What is going to be done with all this knowledge?",
+			"zh": "所有这些知识将如何利用？"
+		},
+		{
+			"i": 25,
+			"start": 118.12,
+			"end": 122.82,
+			"en": "As is so often pointed out, knowledge is a two-edged weapon",
+			"zh": "正如人们常指出的，知识是一把双刃剑"
+		},
+		{
+			"i": 26,
+			"start": 122.97,
+			"end": 126.73,
+			"en": "which can be used equally for good or evil.",
+			"zh": "既可以用于善，也可以用于恶。"
+		},
+		{
+			"i": 27,
+			"start": 126.88,
+			"end": 130.5,
+			"en": "It is now being used indifferently for both.",
+			"zh": "它现在被不加区分地同时用于两者。"
+		},
+		{
+			"i": 28,
+			"start": 130.65,
+			"end": 134.84,
+			"en": "Could any spectacle, for instance, be more grimly whimsical",
+			"zh": "比如，还有什么景象比这更令人感到残酷又荒诞呢？"
+		},
+		{
+			"i": 29,
+			"start": 134.99,
+			"end": 139.69,
+			"en": "than that of gunners using science to shatter men's bodies",
+			"zh": "炮兵利用科学来摧毁人的身体，"
+		},
+		{
+			"i": 30,
+			"start": 139.84,
+			"end": 144.57,
+			"en": "while, close at hand, surgeons use it to restore them?",
+			"zh": "而身边的外科医生却利用科学来修复他们？"
+		},
+		{
+			"i": 31,
+			"start": 144.72,
+			"end": 147.49,
+			"en": "We have to ask ourselves very seriously",
+			"zh": "我们必须非常严肃地问自己"
+		},
+		{
+			"i": 32,
+			"start": 147.64,
+			"end": 151.51,
+			"en": "what will happen if this twofold use of knowledge,",
+			"zh": "如果知识的这种双重用途，"
+		},
+		{
+			"i": 33,
+			"start": 151.66,
+			"end": 155.66,
+			"en": "with its ever-increasing power, continues.",
+			"zh": "及其不断增长的力量，继续下去，将会发生什么。"
+		}
+	]
+}

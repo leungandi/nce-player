@@ -1,0 +1,286 @@
+{
+	"id": "nce3-50",
+	"book": "nce3",
+	"title": "New Year Resolutions",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-50.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.52,
+			"end": 2.64,
+			"en": "Lesson 50",
+			"zh": "第50课"
+		},
+		{
+			"i": 1,
+			"start": 2.79,
+			"end": 10.84,
+			"en": "New Year resolutions",
+			"zh": "新年决心"
+		},
+		{
+			"i": 2,
+			"start": 10.99,
+			"end": 16.66,
+			"en": "What marked the end of the writer's New Year resolutions?",
+			"zh": "是什么标志着作者的新年决心的终结？"
+		},
+		{
+			"i": 3,
+			"start": 16.81,
+			"end": 19.76,
+			"en": "The New Year is a time for resolutions.",
+			"zh": "新年是制定决心的时候。"
+		},
+		{
+			"i": 4,
+			"start": 19.91,
+			"end": 27.39,
+			"en": "Mentally, at least, most of us could compile formidable lists of 'dos' and 'don'ts'.",
+			"zh": "至少在心理上，我们大多数人都能列出一长串“该做”和“不该做”的事情。"
+		},
+		{
+			"i": 5,
+			"start": 27.54,
+			"end": 34.12,
+			"en": "The same old favourites recur year in year out with monotonous regularity.",
+			"zh": "那些老掉牙的旧习惯年复一年地以单调的规律重现。"
+		},
+		{
+			"i": 6,
+			"start": 34.27,
+			"end": 38.2,
+			"en": "We resolve to get up earlier each morning, eat less,",
+			"zh": "我们下决心每天早起，少吃，"
+		},
+		{
+			"i": 7,
+			"start": 38.35,
+			"end": 43.97,
+			"en": "find more time to play with the children, do a thousand and one jobs about the house,",
+			"zh": "抽出更多时间陪孩子们玩，做成千上万件家务，"
+		},
+		{
+			"i": 8,
+			"start": 44.12,
+			"end": 51.58,
+			"en": "be nice to people we don't like, drive carefully, and take the dog for a walk every day.",
+			"zh": "对不喜欢的人和善，小心驾驶，以及每天遛狗。"
+		},
+		{
+			"i": 9,
+			"start": 51.73,
+			"end": 57.71,
+			"en": "Past experience has taught us that certain accomplishments are beyond attainment.",
+			"zh": "过去的经验告诉我们，有些成就是无法实现的。"
+		},
+		{
+			"i": 10,
+			"start": 57.86,
+			"end": 67.68,
+			"en": "If we remain inveterate smokers, it is only because we have so often experienced the frustration that results from failure.",
+			"zh": "如果我们仍是老烟枪，那只是因为我们屡次体验了失败带来的挫折感。"
+		},
+		{
+			"i": 11,
+			"start": 67.83,
+			"end": 77.22,
+			"en": "Most of us fail in our efforts at sel-improvement because our schemes are too ambitious and we never have time to carry them out.",
+			"zh": "我们大多数人在自我改进方面都失败了，因为我们的计划过于雄心勃勃，我们根本没有时间去实施。"
+		},
+		{
+			"i": 12,
+			"start": 77.37,
+			"end": 82.86,
+			"en": "We also make the fundamental error of announcing our resolutions to everybody",
+			"zh": "我们还犯了一个根本性的错误，那就是向所有人宣布我们的决心，"
+		},
+		{
+			"i": 13,
+			"start": 83.01,
+			"end": 89.05,
+			"en": "so that we look even more foolish when we slip back into our bad old ways.",
+			"zh": "这样当我们故态复萌时，就会显得更加愚蠢。"
+		},
+		{
+			"i": 14,
+			"start": 89.2,
+			"end": 96.06,
+			"en": "Aware of these pitfalls, this year I attempted to keep my resolutions to myself.",
+			"zh": "意识到这些陷阱，今年我试图把我的决心藏在心里。"
+		},
+		{
+			"i": 15,
+			"start": 96.21,
+			"end": 106.46,
+			"en": "I limited myself to two modest ambitions: to do physical exercises every morning and to read more of an evening.",
+			"zh": "我只限制自己两个适度的抱负：每天早上做体育锻炼，晚上多读书。"
+		},
+		{
+			"i": 16,
+			"start": 106.61,
+			"end": 117.75,
+			"en": "An all-night party on New Year's Eve provided me with a good excuse for not carrying out either of these new resolutions on the first day of the year,",
+			"zh": "新年前夜的通宵派对给了我一个很好的借口，让我在新年第一天没有执行这两项新决心，"
+		},
+		{
+			"i": 17,
+			"start": 117.9,
+			"end": 123.52,
+			"en": "but on the second, I applied myself assiduously to the task.",
+			"zh": "但在第二天，我勤奋地投入到这项任务中。"
+		},
+		{
+			"i": 18,
+			"start": 123.67,
+			"end": 133.25,
+			"en": "The daily exercises lasted only eleven minutes and I proposed to do them early in the morning before anyone had got up.",
+			"zh": "每天的锻炼只持续11分钟，我打算在大家起床之前一大早做。"
+		},
+		{
+			"i": 19,
+			"start": 133.4,
+			"end": 141.59,
+			"en": "The self-discipline required to drag myself out of bed 11 minutes earlier than usual was considerable.",
+			"zh": "要比平时早11分钟把自己从床上拽起来，需要的自律性是相当大的。"
+		},
+		{
+			"i": 20,
+			"start": 141.74,
+			"end": 150.88,
+			"en": "Nevertheless, I managed to creep down into the living room for two days before anyone found me out.",
+			"zh": "尽管如此，我还是设法偷偷溜到客厅里去了两天，才被人发现。"
+		},
+		{
+			"i": 21,
+			"start": 151.03,
+			"end": 157.67,
+			"en": "After jumping about on the carpet and twisting the human frame into uncomfortable positions,",
+			"zh": "在地毯上跳来跳去，把身体扭曲成不舒服的姿势之后，"
+		},
+		{
+			"i": 22,
+			"start": 157.82,
+			"end": 162.74,
+			"en": "I sat down at the breakfast table in an exhausted condition.",
+			"zh": "我筋疲力尽地坐到早餐桌旁。"
+		},
+		{
+			"i": 23,
+			"start": 162.89,
+			"end": 165.63,
+			"en": "It was this that betrayed me.",
+			"zh": "就是这个把我出卖了。"
+		},
+		{
+			"i": 24,
+			"start": 165.78,
+			"end": 170.36,
+			"en": "The next morning the whole family trooped in to watch the performance.",
+			"zh": "第二天早上，全家人都跑进来观看表演。"
+		},
+		{
+			"i": 25,
+			"start": 170.51,
+			"end": 180.25,
+			"en": "That was really unsettling but I fended off the taunts and jibes of the family good-humouredly and soon everybody got used to the idea.",
+			"zh": "这确实让人不安，但我还是好脾气地抵挡住了家人的嘲讽和揶揄，很快大家就习惯了。"
+		},
+		{
+			"i": 26,
+			"start": 180.4,
+			"end": 183.7,
+			"en": "However, my enthusiasm waned.",
+			"zh": "然而，我的热情消退了。"
+		},
+		{
+			"i": 27,
+			"start": 183.85,
+			"end": 187.52,
+			"en": "The time I spent at exercises gradually diminished.",
+			"zh": "我花在锻炼上的时间逐渐减少。"
+		},
+		{
+			"i": 28,
+			"start": 187.67,
+			"end": 192.14,
+			"en": "Little by little the eleven minutes fell to zero.",
+			"zh": "渐渐地，那11分钟变成了零。"
+		},
+		{
+			"i": 29,
+			"start": 192.29,
+			"end": 197.18,
+			"en": "By January 10th, I was back to where I had started from.",
+			"zh": "到了1月10日，我又回到了起点。"
+		},
+		{
+			"i": 30,
+			"start": 197.33,
+			"end": 203.39,
+			"en": "I argued that if I spent less time exhausting myself at exercises in the morning,",
+			"zh": "我辩解说，如果早上少花点时间在锻炼上把自己搞得精疲力尽，"
+		},
+		{
+			"i": 31,
+			"start": 203.54,
+			"end": 208.17,
+			"en": "I would keep my mind fresh for reading when I got home from work.",
+			"zh": "那么我下班回家时，头脑会更清醒，可以用来阅读。"
+		},
+		{
+			"i": 32,
+			"start": 208.32,
+			"end": 212.01,
+			"en": "Resisting the hypnotizing effect of television,",
+			"zh": "抵制住电视的催眠作用，"
+		},
+		{
+			"i": 33,
+			"start": 212.16,
+			"end": 217.03,
+			"en": "I sat in my room for a few evenings with my eyes glued to a book.",
+			"zh": "有几个晚上，我坐在房间里，眼睛紧盯着一本书。"
+		},
+		{
+			"i": 34,
+			"start": 217.18,
+			"end": 226.9,
+			"en": "One night, however, feeling cold and lonely, I went downstairs and sat in front of the television pretending to read.",
+			"zh": "然而，有一天晚上，我感到又冷又寂寞，于是下楼坐在电视机前假装看书。"
+		},
+		{
+			"i": 35,
+			"start": 227.05,
+			"end": 237.17,
+			"en": "That proved to be my undoing, for I soon got back to my old bad habit of dozing off in front of the screen.",
+			"zh": "那被证明是我的失败，因为我很快又回到了在屏幕前打瞌睡的旧习惯。"
+		},
+		{
+			"i": 36,
+			"start": 237.32,
+			"end": 241.07,
+			"en": "I still haven't given up my resolution to do more reading.",
+			"zh": "我还没有放弃多读书的决心。"
+		},
+		{
+			"i": 37,
+			"start": 241.22,
+			"end": 248.55,
+			"en": "In fact, I have just bought a book entitled How to Read a Thousand Words a Minute.",
+			"zh": "事实上，我刚买了一本名为《如何一分钟阅读一千字》的书。"
+		},
+		{
+			"i": 38,
+			"start": 248.7,
+			"end": 252.7,
+			"en": "Perhaps it will solve my problem, but I just haven't had time to read it!",
+			"zh": "也许它能解决我的问题，但我就是没时间读它！"
+		}
+	]
+}

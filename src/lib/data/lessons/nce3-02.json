@@ -1,0 +1,174 @@
+{
+	"id": "nce3-02",
+	"book": "nce3",
+	"title": "Thirteen Equals One",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-02.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.29,
+			"end": 2.03,
+			"en": "Lesson 2",
+			"zh": "第2课"
+		},
+		{
+			"i": 1,
+			"start": 2.18,
+			"end": 9.95,
+			"en": "Thirteen equals one",
+			"zh": "十三等于一"
+		},
+		{
+			"i": 2,
+			"start": 10.1,
+			"end": 16.48,
+			"en": "Was the vicar pleased that the clock was striking? Why?",
+			"zh": "牧师对钟声响起感到高兴吗？为什么？"
+		},
+		{
+			"i": 3,
+			"start": 16.63,
+			"end": 20.72,
+			"en": "Our vicar is always raising money for one cause or another,",
+			"zh": "我们的牧师总是为这样或那样的缘故筹款，"
+		},
+		{
+			"i": 4,
+			"start": 20.87,
+			"end": 26.34,
+			"en": "but he has never managed to get enough money to have the church clock repaired.",
+			"zh": "但他从未筹集到足够的钱来修理教堂的时钟。"
+		},
+		{
+			"i": 5,
+			"start": 26.49,
+			"end": 36.23,
+			"en": "The big clock which used to strike the hours day and night was damaged many years ago and has been silent ever since.",
+			"zh": "那座日夜报时的大钟多年前损坏了，从那以后就一直沉默不语。"
+		},
+		{
+			"i": 6,
+			"start": 36.38,
+			"end": 43.33,
+			"en": "One night, however, our vicar woke up with a start:the clock was striking the hours!",
+			"zh": "然而，一天晚上，我们的牧师突然惊醒：钟正在报时！"
+		},
+		{
+			"i": 7,
+			"start": 43.48,
+			"end": 47.23,
+			"en": "Looking at his watch, he saw that it was one o'clock,",
+			"zh": "他看了看表，发现是一点钟，"
+		},
+		{
+			"i": 8,
+			"start": 47.38,
+			"end": 51.76,
+			"en": "but the bell struck thirteen times before it stopped.",
+			"zh": "但钟声响了十三次才停下来。"
+		},
+		{
+			"i": 9,
+			"start": 51.91,
+			"end": 57.88,
+			"en": "Armed with a torch, the vicar went up into the clock tower to see what was going on.",
+			"zh": "牧师拿着手电筒，爬上钟楼，想看看发生了什么事。"
+		},
+		{
+			"i": 10,
+			"start": 58.03,
+			"end": 66.09,
+			"en": "In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer.",
+			"zh": "在手电筒的光束中，他看到一个人影，他立刻认出那是比尔·威尔金斯，我们当地的杂货商。"
+		},
+		{
+			"i": 11,
+			"start": 66.24,
+			"end": 71.42,
+			"en": "'Whatever are you doing up here Bill?' asked the vicar in surprise.",
+			"zh": "“比尔，你在这上面做什么？”牧师惊讶地问道。"
+		},
+		{
+			"i": 12,
+			"start": 71.57,
+			"end": 75.08,
+			"en": "'I'm trying to repair the bell, ' answered Bill.",
+			"zh": "“我正在努力修理钟，”比尔回答道。"
+		},
+		{
+			"i": 13,
+			"start": 75.23,
+			"end": 78.49,
+			"en": "'I've been coming up here night after night for weeks now.",
+			"zh": "“我来这里已经好几个星期了，夜复一夜。"
+		},
+		{
+			"i": 14,
+			"start": 78.64,
+			"end": 82.25,
+			"en": "You see, I was hoping to give you a surprise.'",
+			"zh": "你看，我本来希望能给你一个惊喜。”"
+		},
+		{
+			"i": 15,
+			"start": 82.4,
+			"end": 85.67,
+			"en": "'You certainly did give me a surprise!' said the vicar.",
+			"zh": "“你确实给了我一个惊喜！”牧师说。"
+		},
+		{
+			"i": 16,
+			"start": 85.82,
+			"end": 89.36,
+			"en": "'You've probably woken up everyone in the village as well.",
+			"zh": "“你可能也把村里所有人都吵醒了。"
+		},
+		{
+			"i": 17,
+			"start": 89.51,
+			"end": 92.86,
+			"en": "Still, I'm glad the bell is working again.'",
+			"zh": "不过，我很高兴钟又响了。”"
+		},
+		{
+			"i": 18,
+			"start": 93.01,
+			"end": 97.92,
+			"en": "'That's the trouble, vicar, 'answered Bill. 'It's working all right,",
+			"zh": "“问题就在这儿，牧师，”比尔回答道。“它确实在响，"
+		},
+		{
+			"i": 19,
+			"start": 98.07,
+			"end": 104.86,
+			"en": "but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it.'",
+			"zh": "但我担心一点钟的时候它会响十三次，我对此束手无策。”"
+		},
+		{
+			"i": 20,
+			"start": 105.01,
+			"end": 107.9,
+			"en": "'We'll get used to that, Bill, 'said the vicar.",
+			"zh": "“我们会习惯的，比尔，”牧师说。"
+		},
+		{
+			"i": 21,
+			"start": 108.05,
+			"end": 112.8,
+			"en": "'Thirteen is not as good as one, but it's better than nothing.",
+			"zh": "“十三次不如一次好，但总比没有好。"
+		},
+		{
+			"i": 22,
+			"start": 112.95,
+			"end": 116.95,
+			"en": "Now let's go downstairs and have a cup of tea.'",
+			"zh": "现在我们下去喝杯茶吧。”"
+		}
+	]
+}

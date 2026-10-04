@@ -1,0 +1,153 @@
+{
+	"id": "nce1-07",
+	"book": "nce1",
+	"title": "Are You a Teacher",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-07.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.53,
+			"end": 2.43,
+			"en": "Lesson 7",
+			"zh": "第7课"
+		},
+		{
+			"i": 1,
+			"start": 2.58,
+			"end": 5.88,
+			"en": "Are you a teacher?",
+			"zh": "你是老师吗？"
+		},
+		{
+			"i": 2,
+			"start": 6.03,
+			"end": 10.82,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 10.97,
+			"end": 15.09,
+			"en": "What is Rober's job?",
+			"zh": "罗伯特的工作是什么？"
+		},
+		{
+			"i": 4,
+			"start": 15.24,
+			"end": 17.85,
+			"en": "I am a new student.",
+			"zh": "我是新学生。"
+		},
+		{
+			"i": 5,
+			"start": 18,
+			"end": 20.46,
+			"en": "My name's Robert.",
+			"zh": "我名叫罗伯特。"
+		},
+		{
+			"i": 6,
+			"start": 20.61,
+			"end": 22.3,
+			"en": "Nice to meet you.",
+			"zh": "很高兴见到你。"
+		},
+		{
+			"i": 7,
+			"start": 22.45,
+			"end": 25.55,
+			"en": "My name's Sophie.",
+			"zh": "我名叫索菲。"
+		},
+		{
+			"i": 8,
+			"start": 25.7,
+			"end": 27.75,
+			"en": "Are you French?",
+			"zh": "你是法国人吗？"
+		},
+		{
+			"i": 9,
+			"start": 27.9,
+			"end": 30.23,
+			"en": "Yes I am.",
+			"zh": "是，我是。"
+		},
+		{
+			"i": 10,
+			"start": 30.38,
+			"end": 33.07,
+			"en": "Are you French too?",
+			"zh": "你也是法国人吗？"
+		},
+		{
+			"i": 11,
+			"start": 33.22,
+			"end": 36.39,
+			"en": "No I am not.",
+			"zh": "不，我不是。"
+		},
+		{
+			"i": 12,
+			"start": 36.54,
+			"end": 39.95,
+			"en": "What nationality are you?",
+			"zh": "你是哪国人？"
+		},
+		{
+			"i": 13,
+			"start": 40.1,
+			"end": 43.4,
+			"en": "I'm Italian.",
+			"zh": "我是意大利人。"
+		},
+		{
+			"i": 14,
+			"start": 43.55,
+			"end": 45.97,
+			"en": "Are you a teacher?",
+			"zh": "你是老师吗？"
+		},
+		{
+			"i": 15,
+			"start": 46.12,
+			"end": 48.3,
+			"en": "No I'm not.",
+			"zh": "不，我不是。"
+		},
+		{
+			"i": 16,
+			"start": 48.45,
+			"end": 50.49,
+			"en": "What's your job?",
+			"zh": "你是做什么工作的？"
+		},
+		{
+			"i": 17,
+			"start": 50.64,
+			"end": 54.03,
+			"en": "I'm a keyboard operator.",
+			"zh": "我是打字员。"
+		},
+		{
+			"i": 18,
+			"start": 54.18,
+			"end": 56.19,
+			"en": "What's your job?",
+			"zh": "你是做什么工作的？"
+		},
+		{
+			"i": 19,
+			"start": 56.34,
+			"end": 60.34,
+			"en": "I'm an engineer.",
+			"zh": "我是工程师。"
+		}
+	]
+}

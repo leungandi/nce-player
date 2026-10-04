@@ -1,0 +1,195 @@
+{
+	"id": "nce4-18",
+	"book": "nce4",
+	"title": "Porpoises",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-18.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.88,
+			"end": 2.65,
+			"en": "Lesson 18",
+			"zh": "第18课"
+		},
+		{
+			"i": 1,
+			"start": 2.8,
+			"end": 8.85,
+			"en": "Porpoises",
+			"zh": "海豚"
+		},
+		{
+			"i": 2,
+			"start": 9,
+			"end": 15.48,
+			"en": "What would you say is the main characteristic of porpoises?",
+			"zh": "你认为海豚的主要特征是什么？"
+		},
+		{
+			"i": 3,
+			"start": 15.63,
+			"end": 23.44,
+			"en": "There has long been a superstition among mariners that porpoises will save drowning men by pushing them to the surface,",
+			"zh": "长期以来，水手们中间一直流传着一种迷信，认为海豚会把溺水的人托到水面，从而救他们的命，"
+		},
+		{
+			"i": 4,
+			"start": 23.59,
+			"end": 29.02,
+			"en": "or protect them from sharks by surrounding them in defensive formation.",
+			"zh": "或者通过组成防御队形来保护他们免受鲨鱼的袭击。"
+		},
+		{
+			"i": 5,
+			"start": 29.17,
+			"end": 34.6,
+			"en": "Marine Studio biologists have pointed out that, however intelligent they may be,",
+			"zh": "海洋生物研究所的生物学家指出，无论海豚多么聪明，"
+		},
+		{
+			"i": 6,
+			"start": 34.75,
+			"end": 40.44,
+			"en": "it is probably a mistake to credit dolphins with any motive of life-saving.",
+			"zh": "把它们任何行为都归结为救生动机，那可能是一种误解。"
+		},
+		{
+			"i": 7,
+			"start": 40.59,
+			"end": 49.51,
+			"en": "On the occasions when they have pushed to shore an unconscious human being they have much more likely done it out of curiosity or for sport,",
+			"zh": "在它们把不省人事的人推到岸边时，它们很可能只是出于好奇或玩耍，"
+		},
+		{
+			"i": 8,
+			"start": 49.66,
+			"end": 53.34,
+			"en": "as in riding the bow waves of a ship.",
+			"zh": "就像它们在船头波浪中冲浪一样。"
+		},
+		{
+			"i": 9,
+			"start": 53.49,
+			"end": 61.55,
+			"en": "In 1928 some porpoises were photographed working like beavers to push ashore a waterlogged mattress.",
+			"zh": "1928年，有人拍摄到一些海豚像海狸一样辛勤地把一张浸透了水的褥垫推到岸边。"
+		},
+		{
+			"i": 10,
+			"start": 61.7,
+			"end": 66.2,
+			"en": "If, as has been reported, they have protected humans from sharks,",
+			"zh": "如果像报道所说，它们保护过人类免遭鲨鱼袭击，"
+		},
+		{
+			"i": 11,
+			"start": 66.35,
+			"end": 73.88,
+			"en": "it may have been because curiosity attracted them and because the scent of a possible meal attracted the sharks.",
+			"zh": "那可能是因为好奇心吸引了海豚，而一顿美餐的气味吸引了鲨鱼。"
+		},
+		{
+			"i": 12,
+			"start": 74.03,
+			"end": 77.17,
+			"en": "Porpoises and sharks are natural enemies.",
+			"zh": "海豚和鲨鱼是天敌。"
+		},
+		{
+			"i": 13,
+			"start": 77.32,
+			"end": 84.82,
+			"en": "It is possible that upon such an occasion a battle ensued, with the sharks being driven away or killed.",
+			"zh": "在这种情况下，很可能发生了一场战斗，鲨鱼被赶跑或杀死。"
+		},
+		{
+			"i": 14,
+			"start": 84.97,
+			"end": 91.7,
+			"en": "Whether it be bird, fish or beast, the porpoise is intrigued with anything that is alive.",
+			"zh": "无论是鸟、鱼还是野兽，海豚对任何有生命的东西都充满好奇。"
+		},
+		{
+			"i": 15,
+			"start": 91.85,
+			"end": 97.63,
+			"en": "They are constantly after the turtles, who peacefully submit to all sorts of indignities.",
+			"zh": "它们总是追逐海龟，而海龟则平静地忍受着各种羞辱。"
+		},
+		{
+			"i": 16,
+			"start": 97.78,
+			"end": 103.38,
+			"en": "One young calf especially enjoyed raising a turtle to the surface with his snout,",
+			"zh": "有一只幼年海豚特别喜欢用它的鼻子把海龟顶到水面，"
+		},
+		{
+			"i": 17,
+			"start": 103.53,
+			"end": 108.23,
+			"en": "and then shoving him across the tank like an aquaplane.",
+			"zh": "然后像水上飞机一样把海龟推着穿过水箱。"
+		},
+		{
+			"i": 18,
+			"start": 108.38,
+			"end": 120.67,
+			"en": "Almost any day a young porpoises may be seen trying to turn a 300-pound sea turtle over by sticking his snout under the edge of his shell and pushing up for dear life.",
+			"zh": "几乎每天都能看到一只幼年海豚试图把一只300磅重的海龟翻过来，它把鼻子伸到海龟壳的边缘下面，拼命地往上顶。"
+		},
+		{
+			"i": 19,
+			"start": 120.82,
+			"end": 126.2,
+			"en": "This is not easy, and may require two porpoises working together.",
+			"zh": "这并不容易，可能需要两只海豚一起合作。"
+		},
+		{
+			"i": 20,
+			"start": 126.35,
+			"end": 136.3,
+			"en": "In another game, as the turtle swims across the oceanarium, the first porpoise swoops down from above and butts his shell with his belly.",
+			"zh": "在另一个游戏中，当海龟游过海洋馆时，第一只海豚从上方猛扑下来，用肚子撞击它的壳。"
+		},
+		{
+			"i": 21,
+			"start": 136.45,
+			"end": 139.52,
+			"en": "This knocks the turtle down several feet.",
+			"zh": "这把海龟撞下去好几英尺。"
+		},
+		{
+			"i": 22,
+			"start": 139.67,
+			"end": 147.1,
+			"en": "He no sooner recovers his equilibrium than the next porpoises comes along and hits him another crack.",
+			"zh": "它刚恢复平衡，下一只海豚就过来又撞它一下。"
+		},
+		{
+			"i": 23,
+			"start": 147.25,
+			"end": 152.92,
+			"en": "Eventually the turtle has been butted all the way down to the floor of the tank.",
+			"zh": "最终，海龟被一直撞到了水箱底部。"
+		},
+		{
+			"i": 24,
+			"start": 153.07,
+			"end": 160.97,
+			"en": "He is now satisfied merely to try to stand up, but as soon as he does so a porpoise knocks him flat.",
+			"zh": "它现在只满足于试图站起来，但它刚一站起来，一只海豚又把它撞倒。"
+		},
+		{
+			"i": 25,
+			"start": 161.12,
+			"end": 165.12,
+			"en": "The turtle at last gives up by pulling his feet under his shell and the game is over.",
+			"zh": "海龟最终放弃了，它把脚缩进壳里，游戏结束。"
+		}
+	]
+}

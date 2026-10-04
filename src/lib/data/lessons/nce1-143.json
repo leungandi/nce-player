@@ -1,0 +1,117 @@
+{
+	"id": "nce1-143",
+	"book": "nce1",
+	"title": "A Walk Through the Woods",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-143.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.95,
+			"end": 3.72,
+			"en": "Lesson 143",
+			"zh": "第143课"
+		},
+		{
+			"i": 1,
+			"start": 3.87,
+			"end": 7.18,
+			"en": "A walk through the woods",
+			"zh": "林中散步"
+		},
+		{
+			"i": 2,
+			"start": 7.33,
+			"end": 12.71,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.86,
+			"end": 19.69,
+			"en": "What was so funny about the words on the sign?",
+			"zh": "牌子上的字有什么好笑的？"
+		},
+		{
+			"i": 4,
+			"start": 19.84,
+			"end": 27.85,
+			"en": "I live in a very old town which is surrounded by beautiful woods.",
+			"zh": "我住在一个非常古老的小镇，它被美丽的树林环绕着。"
+		},
+		{
+			"i": 5,
+			"start": 28,
+			"end": 31.91,
+			"en": "It is a famous beauty spot.",
+			"zh": "这是一个著名的风景区。"
+		},
+		{
+			"i": 6,
+			"start": 32.06,
+			"end": 42.35,
+			"en": "On Sundays, hundreds of people come from the city to see our town and to walk through the woods.",
+			"zh": "每到星期天，成百上千的人从城里赶来参观我们的小镇，并在树林中散步。"
+		},
+		{
+			"i": 7,
+			"start": 42.5,
+			"end": 49.4,
+			"en": "Visitors have been asked to keep the woods clean and tidy.",
+			"zh": "游客们被要求保持树林的清洁整齐。"
+		},
+		{
+			"i": 8,
+			"start": 49.55,
+			"end": 58.84,
+			"en": "Litter baskets have been placed under the trees, but people still throw their rubbish everywhere.",
+			"zh": "树下放置了垃圾筐，但人们仍然随处乱扔垃圾。"
+		},
+		{
+			"i": 9,
+			"start": 58.99,
+			"end": 65.36,
+			"en": "Last Wednesday, I went for a walk in the woods.",
+			"zh": "上个星期三，我到树林里散步。"
+		},
+		{
+			"i": 10,
+			"start": 65.51,
+			"end": 70.59,
+			"en": "What I saw made me very sad.",
+			"zh": "我看到的一切让我很难过。"
+		},
+		{
+			"i": 11,
+			"start": 70.74,
+			"end": 77.97,
+			"en": "I counted seven old cars and three old refrigerators.",
+			"zh": "我数出了七辆旧汽车和三台旧冰箱。"
+		},
+		{
+			"i": 12,
+			"start": 78.12,
+			"end": 85.65,
+			"en": "The little baskets were empty and the ground was covered with pieces of paper,",
+			"zh": "那些垃圾筐都是空的，"
+		},
+		{
+			"i": 13,
+			"start": 85.8,
+			"end": 94.34,
+			"en": "cigarette ends, old tyres, empty bottles and rusty tins."
+		},
+		{
+			"i": 14,
+			"start": 94.49,
+			"end": 98.49,
+			"en": "Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecuted!'",
+			"zh": "在这些垃圾中，我发现了一个牌子，上面写着：“凡在此树林中乱扔垃圾者，将受到起诉！”"
+		}
+	]
+}

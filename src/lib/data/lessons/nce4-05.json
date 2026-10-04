@@ -1,0 +1,195 @@
+{
+	"id": "nce4-05",
+	"book": "nce4",
+	"title": "Youth",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-05.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.31,
+			"end": 2.13,
+			"en": "Lesson 5",
+			"zh": "第5课"
+		},
+		{
+			"i": 1,
+			"start": 2.28,
+			"end": 9.18,
+			"en": "Youth",
+			"zh": "青春"
+		},
+		{
+			"i": 2,
+			"start": 9.33,
+			"end": 14.29,
+			"en": "How does the writer like to treat young people?",
+			"zh": "作者喜欢如何对待年轻人？"
+		},
+		{
+			"i": 3,
+			"start": 14.44,
+			"end": 20.03,
+			"en": "People are always talking about 'the problem of youth'.",
+			"zh": "人们总是在谈论“青年问题”。"
+		},
+		{
+			"i": 4,
+			"start": 20.18,
+			"end": 24.11,
+			"en": "If there is one -- which I take leave to doubt",
+			"zh": "假如真有所谓“青年问题”——对此我不敢苟同"
+		},
+		{
+			"i": 5,
+			"start": 24.26,
+			"end": 29.83,
+			"en": "-- then it is older people who create it, not the young themselves.",
+			"zh": "——那么这个问题是由老年人造成的，而不是年轻人本身造成的。"
+		},
+		{
+			"i": 6,
+			"start": 29.98,
+			"end": 36.59,
+			"en": "Let us get down to fundamentals and agree that the young are after all human beings",
+			"zh": "让我们回归基本事实，承认年轻人毕竟也是人"
+		},
+		{
+			"i": 7,
+			"start": 36.74,
+			"end": 39.45,
+			"en": "-- people just like their elders.",
+			"zh": "——和他们的长辈一样的人。"
+		},
+		{
+			"i": 8,
+			"start": 39.6,
+			"end": 44.85,
+			"en": "There is only one difference between an old man and a young one:",
+			"zh": "老年人和年轻人只有一个区别："
+		},
+		{
+			"i": 9,
+			"start": 45,
+			"end": 48.7,
+			"en": "the young man has a glorious future before him",
+			"zh": "年轻人面前是光辉灿烂的未来"
+		},
+		{
+			"i": 10,
+			"start": 48.85,
+			"end": 56.97,
+			"en": "and the old one has a splendid future behind him: and maybe that is where the rub is.",
+			"zh": "而老年人身后是辉煌的过去：也许症结就在这里。"
+		},
+		{
+			"i": 11,
+			"start": 57.12,
+			"end": 63.27,
+			"en": "When I was a teenager, I felt that I was just young and uncertain --",
+			"zh": "当我还是个少年时，我觉得自己只是年轻和不确定——"
+		},
+		{
+			"i": 12,
+			"start": 63.42,
+			"end": 66.51,
+			"en": "that I was a new boy in a huge school,",
+			"zh": "我就像一个庞大校园里的新生，"
+		},
+		{
+			"i": 13,
+			"start": 66.66,
+			"end": 73.42,
+			"en": "and I would have been very pleased to be regarded as something so interesting as a problem.",
+			"zh": "如果被看作是像“问题”一样有趣的东西，我一定会非常高兴。"
+		},
+		{
+			"i": 14,
+			"start": 73.57,
+			"end": 78.77,
+			"en": "For one thing, being a problem gives you a certain identity,",
+			"zh": "首先，成为一个“问题”会给你某种身份感，"
+		},
+		{
+			"i": 15,
+			"start": 78.92,
+			"end": 83.99,
+			"en": "and that is one of the things the young are busily engaged in seeking.",
+			"zh": "而这正是年轻人正在努力寻找的东西之一。"
+		},
+		{
+			"i": 16,
+			"start": 84.14,
+			"end": 86.94,
+			"en": "I find young people exciting.",
+			"zh": "我觉得年轻人令人兴奋。"
+		},
+		{
+			"i": 17,
+			"start": 87.09,
+			"end": 89.27,
+			"en": "They have an air of freedom,",
+			"zh": "他们有一种自由的气息，"
+		},
+		{
+			"i": 18,
+			"start": 89.42,
+			"end": 95.32,
+			"en": "and they have not a dreary commitment to mean ambitions or love of comfort.",
+			"zh": "他们对平庸的野心或安逸享乐没有沉闷的执着。"
+		},
+		{
+			"i": 19,
+			"start": 95.47,
+			"end": 102.82,
+			"en": "They are not anxious social climbers, and they have no devotion to material things.",
+			"zh": "他们不是焦虑的社会攀爬者，他们对物质也没有任何执着。"
+		},
+		{
+			"i": 20,
+			"start": 102.97,
+			"end": 109.48,
+			"en": "All this seems to me to link them with life and the origins of things.",
+			"zh": "这一切在我看来，都把他们与生命和万物本源联系在一起。"
+		},
+		{
+			"i": 21,
+			"start": 109.63,
+			"end": 119.42,
+			"en": "It's as if they were in some sense cosmic beings in violent and lovely contrast with us suburban creatures.",
+			"zh": "仿佛他们在某种意义上是宇宙生灵，与我们这些市郊凡夫俗子形成强烈而可爱的对比。"
+		},
+		{
+			"i": 22,
+			"start": 119.57,
+			"end": 124.21,
+			"en": "All that is in my mind when I meet a young person.",
+			"zh": "当我遇到一个年轻人时，我心里想的就是这些。"
+		},
+		{
+			"i": 23,
+			"start": 124.36,
+			"end": 136.64,
+			"en": "He may be conceited, ill-mannered,  presumptuous or fatuous,  but I do not turn for protection to dreary cliches about respect for elders --",
+			"zh": "他可能自负、粗鲁、傲慢或愚蠢，但我不会用那些关于尊重长辈的陈词滥调来为自己辩护——"
+		},
+		{
+			"i": 24,
+			"start": 136.79,
+			"end": 141.23,
+			"en": "as if mere age were a reason for respect.",
+			"zh": "仿佛仅仅年龄就是值得尊重的理由。"
+		},
+		{
+			"i": 25,
+			"start": 141.38,
+			"end": 145.38,
+			"en": "I accept that we are equals, and I will argue with him, as an equal, if I think he is wrong.",
+			"zh": "我承认我们是平等的，如果我认为他错了，我会以平等的身份与他争辩。"
+		}
+	]
+}

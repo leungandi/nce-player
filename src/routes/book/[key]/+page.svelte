@@ -52,7 +52,7 @@
 		{#each book.lessons as lesson (lesson.id)}
 			<li>
 				<a href={resolve('/lesson/[id]', { id: lesson.id })}>
-					<span class="no">{String(lesson.no).padStart(2, '0')}</span>
+					<span class="no">{lesson.label ?? String(lesson.no).padStart(2, '0')}</span>
 					<span class="title">{lesson.title}</span>
 					{#if progress[lesson.id]}
 						<span class="at">{formatTime(progress[lesson.id])}</span>

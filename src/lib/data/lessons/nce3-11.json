@@ -1,0 +1,223 @@
+{
+	"id": "nce3-11",
+	"book": "nce3",
+	"title": "Not Guilty",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-11.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.44,
+			"end": 1.96,
+			"en": "Lesson 11",
+			"zh": "第11课"
+		},
+		{
+			"i": 1,
+			"start": 2.11,
+			"end": 8.71,
+			"en": "Not guilty",
+			"zh": "无罪"
+		},
+		{
+			"i": 2,
+			"start": 8.86,
+			"end": 13.07,
+			"en": "What was the Customs Officer looking for?",
+			"zh": "海关官员在找什么？"
+		},
+		{
+			"i": 3,
+			"start": 13.22,
+			"end": 22.85,
+			"en": "Customs Officers are quite tolerant these days, but they can still stop you when you are going through the Green Channel and have nothing to declare.",
+			"zh": "如今海关官员相当宽容，但当你走绿色通道并且没有东西要申报时，他们仍然可以拦住你。"
+		},
+		{
+			"i": 4,
+			"start": 23,
+			"end": 27.32,
+			"en": "Even really honest people are often made to feel guilty.",
+			"zh": "即使是非常诚实的人也常常会感到内疚。"
+		},
+		{
+			"i": 5,
+			"start": 27.47,
+			"end": 33.52,
+			"en": "The hardened professional smuggler, on the other hand, is never troubled by such feelings,",
+			"zh": "另一方面，那些老练的职业走私犯从不会被这种感觉所困扰，"
+		},
+		{
+			"i": 6,
+			"start": 33.67,
+			"end": 38.82,
+			"en": "even if he has five hundred gold watches hidden in his suitcase.",
+			"zh": "即使他的手提箱里藏着五百块金表。"
+		},
+		{
+			"i": 7,
+			"start": 38.97,
+			"end": 44.77,
+			"en": "When I returned from abroad recently, a particularly officious young Customs Officer",
+			"zh": "最近我从国外回来时，一位特别爱管闲事的年轻海关官员"
+		},
+		{
+			"i": 8,
+			"start": 44.92,
+			"end": 48.24,
+			"en": "clearly regarded me as a smuggler.",
+			"zh": "显然把我当成了走私犯。"
+		},
+		{
+			"i": 9,
+			"start": 48.39,
+			"end": 53.92,
+			"en": "'Have you anything to declare?' he asked, looking me in the eye.",
+			"zh": "“你有什么要申报的吗？”他直视着我的眼睛问道。"
+		},
+		{
+			"i": 10,
+			"start": 54.07,
+			"end": 57.46,
+			"en": "'No,' I answered confidently.",
+			"zh": "“没有，”我自信地回答道。"
+		},
+		{
+			"i": 11,
+			"start": 57.61,
+			"end": 61.4,
+			"en": "'Would you mind unlocking this suitcase please? '",
+			"zh": "“请您打开这个手提箱好吗？”"
+		},
+		{
+			"i": 12,
+			"start": 61.55,
+			"end": 63.82,
+			"en": "'Not at all,' I answered.",
+			"zh": "“当然可以，”我回答道。"
+		},
+		{
+			"i": 13,
+			"start": 63.97,
+			"end": 67.56,
+			"en": "The Officer went through the case with great care.",
+			"zh": "那个官员非常仔细地检查了箱子。"
+		},
+		{
+			"i": 14,
+			"start": 67.71,
+			"end": 73.42,
+			"en": "All the things I had packed so carefully were soon in a dreadful mess.",
+			"zh": "我费尽心思整理好的所有东西很快就乱七八糟了。"
+		},
+		{
+			"i": 15,
+			"start": 73.57,
+			"end": 78.12,
+			"en": "I felt sure I would never be able to close the case again.",
+			"zh": "我确信我再也无法把箱子合上了。"
+		},
+		{
+			"i": 16,
+			"start": 78.27,
+			"end": 82.19,
+			"en": "Suddenly, I saw the Officer's face light up.",
+			"zh": "突然，我看到那个官员的脸上露出了喜色。"
+		},
+		{
+			"i": 17,
+			"start": 82.34,
+			"end": 86.1,
+			"en": "He had spotted a tiny bottle at the bottom of my case",
+			"zh": "他发现了一个小瓶子在我的箱子底部"
+		},
+		{
+			"i": 18,
+			"start": 86.25,
+			"end": 89.2,
+			"en": "and he pounced on it with delight.",
+			"zh": "他欣喜若狂地扑了上去。"
+		},
+		{
+			"i": 19,
+			"start": 89.35,
+			"end": 94.53,
+			"en": "'Perfume, eh?' he asked sarcastically.",
+			"zh": "“香水，嗯？”他挖苦地问道。"
+		},
+		{
+			"i": 20,
+			"start": 94.68,
+			"end": 96.51,
+			"en": "'You should have declared that.",
+			"zh": "“你应该申报那个。"
+		},
+		{
+			"i": 21,
+			"start": 96.66,
+			"end": 101.23,
+			"en": "Perfume is not exempt from import duty.  '",
+			"zh": "香水不免除进口关税。”"
+		},
+		{
+			"i": 22,
+			"start": 101.38,
+			"end": 106.81,
+			"en": "'But it isn't perfume, I said. 'It's hair gel.  '",
+			"zh": "“但它不是香水，”我说，“它是发胶。”"
+		},
+		{
+			"i": 23,
+			"start": 106.96,
+			"end": 109.4,
+			"en": "Then I added with a smile,",
+			"zh": "然后我笑着补充道，"
+		},
+		{
+			"i": 24,
+			"start": 109.55,
+			"end": 113.21,
+			"en": "'It's a strange mixture I make myself.",
+			"zh": "“这是我自己调制的一种奇怪的混合物。”"
+		},
+		{
+			"i": 25,
+			"start": 113.36,
+			"end": 117.1,
+			"en": "As I expected, he did not believe me.",
+			"zh": "如我所料，他没有相信我。"
+		},
+		{
+			"i": 26,
+			"start": 117.25,
+			"end": 120.81,
+			"en": "'Try it!' I said encouragingly.",
+			"zh": "“尝尝看！”我鼓励地说。"
+		},
+		{
+			"i": 27,
+			"start": 120.96,
+			"end": 125.31,
+			"en": "The Officer unscrewed the cap and put the bottle to his nostrils.",
+			"zh": "那个官员拧开瓶盖，把瓶子凑到鼻孔前。"
+		},
+		{
+			"i": 28,
+			"start": 125.46,
+			"end": 131.81,
+			"en": "He was greeted by an unpleasant smell which convinced him that I was telling the truth.",
+			"zh": "一股难闻的气味扑鼻而来，这让他相信我说的是实话。"
+		},
+		{
+			"i": 29,
+			"start": 131.96,
+			"end": 135.96,
+			"en": "A few minutes later, I was able to hurry away with precious chalk marks on my baggage.",
+			"zh": "几分钟后，我带着行李上珍贵的粉笔标记，匆匆离开了。"
+		}
+	]
+}

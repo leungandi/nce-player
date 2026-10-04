@@ -1,0 +1,153 @@
+{
+	"id": "nce4-15",
+	"book": "nce4",
+	"title": "Secrecy in Industry",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-15.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.37,
+			"end": 2.43,
+			"en": "Lesson 15",
+			"zh": "第15课"
+		},
+		{
+			"i": 1,
+			"start": 2.58,
+			"end": 10.53,
+			"en": "Secrecy in industry",
+			"zh": "工业中的保密"
+		},
+		{
+			"i": 2,
+			"start": 10.68,
+			"end": 17.67,
+			"en": "Why is secrecy particularly important in the chemical industries?",
+			"zh": "为什么保密在化学工业中尤其重要？"
+		},
+		{
+			"i": 3,
+			"start": 17.82,
+			"end": 25.12,
+			"en": "Two factors weigh heavily against the effectiveness of scientific research in industry.",
+			"zh": "有两个因素严重阻碍了工业中科学研究的有效性。"
+		},
+		{
+			"i": 4,
+			"start": 25.27,
+			"end": 30.86,
+			"en": "One is the general atmosphere of secrecy in which it is carried out,",
+			"zh": "一个是它所进行的普遍保密氛围，"
+		},
+		{
+			"i": 5,
+			"start": 31.01,
+			"end": 35.9,
+			"en": "the other the lack of freedom of the individual research worker.",
+			"zh": "另一个是单个研究人员缺乏自由。"
+		},
+		{
+			"i": 6,
+			"start": 36.05,
+			"end": 39.98,
+			"en": "In so far as any inquiry is a secret one,",
+			"zh": "只要任何一项调查是秘密的，"
+		},
+		{
+			"i": 7,
+			"start": 40.13,
+			"end": 51.06,
+			"en": "it naturally limits all those engaged in carrying it out from effective contact with their fellow scientists either in other countries or in universities,",
+			"zh": "它自然会限制所有从事这项工作的人与他们在其他国家或大学的同行科学家进行有效接触，"
+		},
+		{
+			"i": 8,
+			"start": 51.21,
+			"end": 57.18,
+			"en": "or even, often enough, in other departments of the same firm.",
+			"zh": "甚至，在很多情况下，与同一公司的其他部门也无法有效接触。"
+		},
+		{
+			"i": 9,
+			"start": 57.33,
+			"end": 61.61,
+			"en": "The degree of secrecy naturally varies considerably.",
+			"zh": "保密程度自然差异很大。"
+		},
+		{
+			"i": 10,
+			"start": 61.76,
+			"end": 69,
+			"en": "Some of the bigger firms are engaged in researches which are of such general and fundamental nature",
+			"zh": "一些大公司从事的研究具有普遍性和基础性，"
+		},
+		{
+			"i": 11,
+			"start": 69.15,
+			"end": 74.87,
+			"en": "that it is a positive advantage to them not to keep them secret.",
+			"zh": "因此不保密对他们来说是一种积极的优势。"
+		},
+		{
+			"i": 12,
+			"start": 75.02,
+			"end": 85.6,
+			"en": "Yet a great many processes depending on such research are sought for with complete secrecy until the stage at which patents can be taken out.",
+			"zh": "然而，许多依赖此类研究的工艺在专利可以申请之前，都以完全保密的方式进行探索。"
+		},
+		{
+			"i": 13,
+			"start": 85.75,
+			"end": 92.28,
+			"en": "Even more processes are never patented at all but kept as secret processes.",
+			"zh": "甚至更多的工艺根本不申请专利，而是作为秘密工艺保存。"
+		},
+		{
+			"i": 14,
+			"start": 92.43,
+			"end": 96.85,
+			"en": "This applies particularly to chemical industries,",
+			"zh": "这尤其适用于化学工业，"
+		},
+		{
+			"i": 15,
+			"start": 97,
+			"end": 104.36,
+			"en": "where chance discoveries play a much larger part than they do in physical and mechanical industries.",
+			"zh": "因为在化学工业中，偶然发现所起的作用远大于在物理和机械工业中。"
+		},
+		{
+			"i": 16,
+			"start": 104.51,
+			"end": 113.02,
+			"en": "Sometimes the secrecy goes to such an extent that the whole nature of the research cannot be mentioned.",
+			"zh": "有时保密程度如此之高，以至于整个研究的性质都不能被提及。"
+		},
+		{
+			"i": 17,
+			"start": 113.17,
+			"end": 120.8,
+			"en": "Many firms, for instance have great difficulty in obtaining technical or scientific books from libraries",
+			"zh": "举例来说，许多公司在从图书馆获取技术或科学书籍时面临很大困难，"
+		},
+		{
+			"i": 18,
+			"start": 120.95,
+			"end": 127.5,
+			"en": "because they are unwilling to have their names entered as having taken out such and such a book,",
+			"zh": "因为他们不愿留下借阅某某书籍的记录，"
+		},
+		{
+			"i": 19,
+			"start": 127.65,
+			"end": 131.65,
+			"en": "for fear the agents of other firms should be able to trace the kind of research they are likely to be undertaking.",
+			"zh": "唯恐其他公司的代理人能够据此追踪他们可能正在进行的研究类型。"
+		}
+	]
+}

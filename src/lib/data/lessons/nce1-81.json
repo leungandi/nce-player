@@ -1,0 +1,202 @@
+{
+	"id": "nce1-81",
+	"book": "nce1",
+	"title": "Roast Beef and Potatoes",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-81.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.57,
+			"end": 2.9,
+			"en": "Lesson 81",
+			"zh": "第81课"
+		},
+		{
+			"i": 1,
+			"start": 3.05,
+			"end": 6.77,
+			"en": "Roast beef and potatoes",
+			"zh": "烤牛肉和土豆"
+		},
+		{
+			"i": 2,
+			"start": 6.92,
+			"end": 12.26,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.41,
+			"end": 16.86,
+			"en": "Why is Carol disappointed?",
+			"zh": "卡罗尔为什么感到失望？"
+		},
+		{
+			"i": 4,
+			"start": 17.01,
+			"end": 20.18,
+			"en": "Hi, Carol! Where's Tom?",
+			"zh": "嗨，卡罗尔！汤姆在哪儿？"
+		},
+		{
+			"i": 5,
+			"start": 20.33,
+			"end": 22.24,
+			"en": "He's upstairs.",
+			"zh": "他在楼上。"
+		},
+		{
+			"i": 6,
+			"start": 22.39,
+			"end": 24.45,
+			"en": "He's having a bath.",
+			"zh": "他正在洗澡。"
+		},
+		{
+			"i": 7,
+			"start": 24.6,
+			"end": 26.63,
+			"en": "Tom!",
+			"zh": "汤姆！"
+		},
+		{
+			"i": 8,
+			"start": 26.78,
+			"end": 28.13,
+			"en": "Yes?",
+			"zh": "怎么了？"
+		},
+		{
+			"i": 9,
+			"start": 28.28,
+			"end": 30,
+			"en": "Sam's here.",
+			"zh": "山姆来了。"
+		},
+		{
+			"i": 10,
+			"start": 30.15,
+			"end": 32.69,
+			"en": "I'm nearly ready.",
+			"zh": "我快好了。"
+		},
+		{
+			"i": 11,
+			"start": 32.84,
+			"end": 34.54,
+			"en": "Hello, Sam.",
+			"zh": "你好，山姆。"
+		},
+		{
+			"i": 12,
+			"start": 34.69,
+			"end": 36.44,
+			"en": "Have a cigarette.",
+			"zh": "来根烟吧。"
+		},
+		{
+			"i": 13,
+			"start": 36.59,
+			"end": 38.91,
+			"en": "No, thanks, Tom.",
+			"zh": "不了，谢谢你，汤姆。"
+		},
+		{
+			"i": 14,
+			"start": 39.06,
+			"end": 41.55,
+			"en": "Have a glass of whisky then.",
+			"zh": "那来杯威士忌吧。"
+		},
+		{
+			"i": 15,
+			"start": 41.7,
+			"end": 42.43,
+			"en": "OK.",
+			"zh": "好的。"
+		},
+		{
+			"i": 16,
+			"start": 42.58,
+			"end": 44.03,
+			"en": "Thanks.",
+			"zh": "谢谢。"
+		},
+		{
+			"i": 17,
+			"start": 44.18,
+			"end": 47.69,
+			"en": "Is dinnner ready, Carol?",
+			"zh": "晚饭准备好了吗，卡罗尔？"
+		},
+		{
+			"i": 18,
+			"start": 47.84,
+			"end": 49.97,
+			"en": "It's nearly ready.",
+			"zh": "差不多好了。"
+		},
+		{
+			"i": 19,
+			"start": 50.12,
+			"end": 54.65,
+			"en": "We can have dinner at seven o'clock.",
+			"zh": "我们七点可以吃晚饭。"
+		},
+		{
+			"i": 20,
+			"start": 54.8,
+			"end": 58.48,
+			"en": "Sam and I had lunch together today.",
+			"zh": "山姆和我今天一起吃了午饭。"
+		},
+		{
+			"i": 21,
+			"start": 58.63,
+			"end": 61.15,
+			"en": "We went to a restaurant.",
+			"zh": "我们去了一家餐馆。"
+		},
+		{
+			"i": 22,
+			"start": 61.3,
+			"end": 63.27,
+			"en": "What did you have?",
+			"zh": "你们吃了什么？"
+		},
+		{
+			"i": 23,
+			"start": 63.42,
+			"end": 67.34,
+			"en": "We had roast beef and potatoes.",
+			"zh": "我们吃了烤牛肉和土豆。"
+		},
+		{
+			"i": 24,
+			"start": 67.49,
+			"end": 68.56,
+			"en": "Oh!",
+			"zh": "哦！"
+		},
+		{
+			"i": 25,
+			"start": 68.71,
+			"end": 70.9,
+			"en": "What's the matter, Carol?",
+			"zh": "怎么了，卡罗尔？"
+		},
+		{
+			"i": 26,
+			"start": 71.05,
+			"end": 75.05,
+			"en": "Well, you're going to have roast beef and potatoes again tonight!",
+			"zh": "呃，你们今晚又要吃烤牛肉和土豆了！"
+		}
+	]
+}

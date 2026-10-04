@@ -1,0 +1,153 @@
+{
+	"id": "nce1-61",
+	"book": "nce1",
+	"title": "A Bad Cold",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-61.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.6,
+			"end": 2.91,
+			"en": "Lesson 61",
+			"zh": "第61课"
+		},
+		{
+			"i": 1,
+			"start": 3.06,
+			"end": 5.77,
+			"en": "A bad cold",
+			"zh": "重感冒"
+		},
+		{
+			"i": 2,
+			"start": 5.92,
+			"end": 11,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.15,
+			"end": 16.4,
+			"en": "What is good news for Jimmy?",
+			"zh": "对吉米来说什么是好消息？"
+		},
+		{
+			"i": 4,
+			"start": 16.55,
+			"end": 18.21,
+			"en": "Where's Jimmy?",
+			"zh": "吉米在哪里？"
+		},
+		{
+			"i": 5,
+			"start": 18.36,
+			"end": 20.54,
+			"en": "He's in bed.",
+			"zh": "他在床上。"
+		},
+		{
+			"i": 6,
+			"start": 20.69,
+			"end": 22.99,
+			"en": "What's the matter with him?",
+			"zh": "他怎么了？"
+		},
+		{
+			"i": 7,
+			"start": 23.14,
+			"end": 25.69,
+			"en": "He feels ill.",
+			"zh": "他感觉不舒服。"
+		},
+		{
+			"i": 8,
+			"start": 25.84,
+			"end": 27.71,
+			"en": "He looks ill.",
+			"zh": "他看起来不舒服。"
+		},
+		{
+			"i": 9,
+			"start": 27.86,
+			"end": 30.9,
+			"en": "We must call the doctor.",
+			"zh": "我们必须叫医生。"
+		},
+		{
+			"i": 10,
+			"start": 31.05,
+			"end": 33.97,
+			"en": "Yes, we must.",
+			"zh": "是的，我们必须。"
+		},
+		{
+			"i": 11,
+			"start": 34.12,
+			"end": 38.6,
+			"en": "Can you remember the doctor's telephone number?",
+			"zh": "你记得医生的电话号码吗？"
+		},
+		{
+			"i": 12,
+			"start": 38.75,
+			"end": 45.63,
+			"en": "Yes. It's 09754.",
+			"zh": "是的。是09754。"
+		},
+		{
+			"i": 13,
+			"start": 45.78,
+			"end": 48.22,
+			"en": "Open your mouth, Jimmy.",
+			"zh": "张开你的嘴，吉米。"
+		},
+		{
+			"i": 14,
+			"start": 48.37,
+			"end": 53.48,
+			"en": "Show me your tongue. Say, 'Ah'.",
+			"zh": "给我看看你的舌头。说，“啊”。"
+		},
+		{
+			"i": 15,
+			"start": 53.63,
+			"end": 57.07,
+			"en": "What's the matter with him, doctor?",
+			"zh": "医生，他怎么了？"
+		},
+		{
+			"i": 16,
+			"start": 57.22,
+			"end": 65.66,
+			"en": "He has a bad cold, Mr. Williams, so he must stay in bed for a week.",
+			"zh": "他得了重感冒，威廉姆斯先生，所以他必须卧床一周。"
+		},
+		{
+			"i": 17,
+			"start": 65.81,
+			"end": 69.2,
+			"en": "That's good news for Jimmy.",
+			"zh": "那对吉米来说是个好消息。"
+		},
+		{
+			"i": 18,
+			"start": 69.35,
+			"end": 72.21,
+			"en": "Good news? Why?",
+			"zh": "好消息？为什么？"
+		},
+		{
+			"i": 19,
+			"start": 72.36,
+			"end": 76.36,
+			"en": "Because he doesn't like school!",
+			"zh": "因为他不喜欢上学！"
+		}
+	]
+}

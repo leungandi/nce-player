@@ -1,0 +1,293 @@
+{
+	"id": "nce3-46",
+	"book": "nce3",
+	"title": "Do It Yourself",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-46.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.49,
+			"end": 2.46,
+			"en": "Lesson 46",
+			"zh": "第46课"
+		},
+		{
+			"i": 1,
+			"start": 2.61,
+			"end": 9.14,
+			"en": "Do it yourself",
+			"zh": "自己动手"
+		},
+		{
+			"i": 2,
+			"start": 9.29,
+			"end": 16.8,
+			"en": "Did the writer repair his lawn mower in the end? Why/Why not?",
+			"zh": "作者最终修好了他的割草机吗？为什么/为什么不？"
+		},
+		{
+			"i": 3,
+			"start": 16.95,
+			"end": 21.25,
+			"en": "So great is our passion for doing things for ourselves,",
+			"zh": "我们自己动手做事情的热情如此高涨，"
+		},
+		{
+			"i": 4,
+			"start": 21.4,
+			"end": 27.07,
+			"en": "that we are becoming increasingly less dependent on specialized labour.",
+			"zh": "以至于我们对专业劳动的依赖越来越少。"
+		},
+		{
+			"i": 5,
+			"start": 27.22,
+			"end": 35.07,
+			"en": "No one can plead ignorance of a subject any longer, for there are countless do-it-yourself publications.",
+			"zh": "任何人不能再声称对某事一无所知了，因为有无数的自己动手刊物。"
+		},
+		{
+			"i": 6,
+			"start": 35.22,
+			"end": 43.55,
+			"en": "Armed with the right tools and materials, newlyweds gaily embark on the task of decorating their own homes.",
+			"zh": "新婚夫妇带着合适的工具和材料，愉快地着手装饰自己的家园。"
+		},
+		{
+			"i": 7,
+			"start": 43.7,
+			"end": 50.44,
+			"en": "Men, particularly, spend hours of their leisure time installing their own fireplaces,",
+			"zh": "男人们，尤其是，花费数小时的闲暇时间安装自己的壁炉，"
+		},
+		{
+			"i": 8,
+			"start": 50.59,
+			"end": 56.08,
+			"en": "laying out their own gardens; building garages and making furniture.",
+			"zh": "布置自己的花园；建造车库和制作家具。"
+		},
+		{
+			"i": 9,
+			"start": 56.23,
+			"end": 62.33,
+			"en": "Some really keen enthusiasts go so far as to build their own computers.",
+			"zh": "一些真正热心的爱好者甚至自己组装电脑。"
+		},
+		{
+			"i": 10,
+			"start": 62.48,
+			"end": 70.06,
+			"en": "Shops cater for the do-it-yourself craze not only by running special advisory services for novices,",
+			"zh": "商店为了迎合这种自己动手热潮，不仅为新手提供专门的咨询服务，"
+		},
+		{
+			"i": 11,
+			"start": 70.21,
+			"end": 75.59,
+			"en": "but by offering consumers bits and pieces which they can assemble at home.",
+			"zh": "而且还向消费者提供他们可以在家组装的零配件。"
+		},
+		{
+			"i": 12,
+			"start": 75.74,
+			"end": 86.32,
+			"en": "Such things provide an excellent outlet for pent up creative energy, but unfortunately not all of us are born handymen.",
+			"zh": "这样的事情为积压的创造性精力提供了很好的发泄途径，但不幸的是，我们并非所有人都是天生的巧匠。"
+		},
+		{
+			"i": 13,
+			"start": 86.47,
+			"end": 93.79,
+			"en": "Some wives tend to believe that their husbands are infinitely resourceful and can fix anything.",
+			"zh": "一些妻子倾向于认为她们的丈夫足智多谋，什么都能修好。"
+		},
+		{
+			"i": 14,
+			"start": 93.94,
+			"end": 103.37,
+			"en": "Even men who can hardly drive a nail in straight are supposed to be born electricians, carpenters, plumbers and mechanics.",
+			"zh": "即使那些连钉子都钉不直的男人，也被认为是天生的电工、木匠、水管工和机械师。"
+		},
+		{
+			"i": 15,
+			"start": 103.52,
+			"end": 111.68,
+			"en": "When lights fuse, furniture gets rickety, pipes get clogged, or vacuum cleaners fail to operate,",
+			"zh": "当灯泡烧坏、家具摇晃、管道堵塞或吸尘器无法工作时，"
+		},
+		{
+			"i": 16,
+			"start": 111.83,
+			"end": 116.36,
+			"en": "some women assume that their husbands will somehow put things right.",
+			"zh": "一些女人会认为她们的丈夫总会把事情弄好。"
+		},
+		{
+			"i": 17,
+			"start": 116.51,
+			"end": 125.05,
+			"en": "The worst thing about the do-it-yourself game is that sometimes even men live under the delusion that they can do anything,",
+			"zh": "自己动手游戏的糟糕之处在于，有时连男人也活在自己无所不能的错觉中，"
+		},
+		{
+			"i": 18,
+			"start": 125.2,
+			"end": 128.9,
+			"en": "even when they have repeatedly been proved wrong.",
+			"zh": "即使他们一再被证明是错的。"
+		},
+		{
+			"i": 19,
+			"start": 129.05,
+			"end": 132.95,
+			"en": "It is a question of pride as much as anything else.",
+			"zh": "这更多的是一个面子问题。"
+		},
+		{
+			"i": 20,
+			"start": 133.1,
+			"end": 139.15,
+			"en": "Last spring my wife suggested that I call in a man to look at our lawn mower.",
+			"zh": "去年春天，我妻子建议我请人来修理我们的割草机。"
+		},
+		{
+			"i": 21,
+			"start": 139.3,
+			"end": 147.63,
+			"en": "It had broken down the previous summer, and though I promised to repair it, I had never got round to it.",
+			"zh": "它在前一个夏天坏了，虽然我答应修理，但一直没空动手。"
+		},
+		{
+			"i": 22,
+			"start": 147.78,
+			"end": 153.55,
+			"en": "I would not hear of the suggestion and said that I would fix it myself.",
+			"zh": "我不听她的建议，说我会自己修好它。"
+		},
+		{
+			"i": 23,
+			"start": 153.7,
+			"end": 160.3,
+			"en": "One Saturday afternoon, I hauled the machine into the garden and had a close look at it.",
+			"zh": "一个星期六下午，我把机器拖到花园里仔细查看。"
+		},
+		{
+			"i": 24,
+			"start": 160.45,
+			"end": 165.12,
+			"en": "As far as I could see, it needed only a minor adjustment:",
+			"zh": "据我所见，它只需要做一些小调整："
+		},
+		{
+			"i": 25,
+			"start": 165.27,
+			"end": 173.73,
+			"en": "a turn of a screw here, a little tightening up there, a drop of oil and it would be as good as new.",
+			"zh": "这里拧一下螺丝，那里紧一紧，再滴一滴油，就会焕然一新。"
+		},
+		{
+			"i": 26,
+			"start": 173.88,
+			"end": 178.89,
+			"en": "Inevitably the repair job was not quite so simple.",
+			"zh": "不可避免地，这项修理工作远没有那么简单。"
+		},
+		{
+			"i": 27,
+			"start": 179.04,
+			"end": 185.07,
+			"en": "The mower firmly refused to mow, so I decided to dismantle it.",
+			"zh": "割草机坚决不肯割草，所以我决定把它拆开。"
+		},
+		{
+			"i": 28,
+			"start": 185.22,
+			"end": 192.84,
+			"en": "The garden was soon littered with chunks of metal which had once made up a lawn mower.",
+			"zh": "花园里很快就散落着曾经组成割草机的金属碎片。"
+		},
+		{
+			"i": 29,
+			"start": 192.99,
+			"end": 198.46,
+			"en": "But I was extremely pleased with myself. I had traced the cause of the trouble.",
+			"zh": "但我对自己非常满意。我找到了故障的原因。"
+		},
+		{
+			"i": 30,
+			"start": 198.61,
+			"end": 203.49,
+			"en": "One of the links in the chain that drives the wheels had snapped.",
+			"zh": "驱动车轮的链条上的一环断裂了。"
+		},
+		{
+			"i": 31,
+			"start": 203.64,
+			"end": 214.55,
+			"en": "After buying a new chain I was faced with the insurmountable task of putting the confusing jigsaw puzzle together again.",
+			"zh": "买了一条新链条后，我面临着一项无法克服的任务：把这个令人困惑的拼图重新组装起来。"
+		},
+		{
+			"i": 32,
+			"start": 214.7,
+			"end": 222.2,
+			"en": "I was not surprised to find that the machine still refused to work after I had reassembled it,",
+			"zh": "我重新组装好机器后，发现它仍然无法工作，对此我并不感到惊讶，"
+		},
+		{
+			"i": 33,
+			"start": 222.35,
+			"end": 232.29,
+			"en": "for the simple reason that I was left with several curiously shaped bits of metal which did not seem to fit anywhere.",
+			"zh": "理由很简单，我剩下了一些形状奇特的金属零件，似乎哪里也安不上。"
+		},
+		{
+			"i": 34,
+			"start": 232.44,
+			"end": 234.86,
+			"en": "I gave up in despair.",
+			"zh": "我绝望地放弃了。"
+		},
+		{
+			"i": 35,
+			"start": 235.01,
+			"end": 237.97,
+			"en": "The weeks passed and the grass grew.",
+			"zh": "几周过去了，草长高了。"
+		},
+		{
+			"i": 36,
+			"start": 238.12,
+			"end": 241.37,
+			"en": "When my wife nagged me to do something about it,",
+			"zh": "当我妻子唠叨我该做些什么时，"
+		},
+		{
+			"i": 37,
+			"start": 241.52,
+			"end": 246.76,
+			"en": "I told her that either I would have to buy a new mower or let the grass grow.",
+			"zh": "我告诉她，要么我买一台新割草机，要么就让草长着。"
+		},
+		{
+			"i": 38,
+			"start": 246.91,
+			"end": 251.6,
+			"en": "Needless to say our house is now surrounded by a jungle.",
+			"zh": "不用说，我们的房子现在被一片丛林包围着。"
+		},
+		{
+			"i": 39,
+			"start": 251.75,
+			"end": 255.75,
+			"en": "Buried somewhere in deep grass there is a rusting lawn mower which I have promised to repair one day.",
+			"zh": "某个地方，在深草丛中埋着一台生锈的割草机，我曾承诺有一天会把它修好。"
+		}
+	]
+}

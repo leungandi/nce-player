@@ -1,0 +1,132 @@
+{
+	"id": "nce4-08",
+	"book": "nce4",
+	"title": "Trading Standards",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-08.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.53,
+			"end": 1.45,
+			"en": "Lesson 8",
+			"zh": "第8课"
+		},
+		{
+			"i": 1,
+			"start": 1.6,
+			"end": 7.07,
+			"en": "Trading standards",
+			"zh": "贸易标准"
+		},
+		{
+			"i": 2,
+			"start": 7.22,
+			"end": 12.94,
+			"en": "What makes trading between rich countries difficult?",
+			"zh": "什么使得富裕国家之间的贸易变得困难？"
+		},
+		{
+			"i": 3,
+			"start": 13.09,
+			"end": 21.85,
+			"en": "Chickens slaughtered in the United States, claim officials in Brussels, are not fit to grace European tables.",
+			"zh": "布鲁塞尔的官员声称，在美国宰杀的鸡不适合摆上欧洲餐桌。"
+		},
+		{
+			"i": 4,
+			"start": 22,
+			"end": 28.79,
+			"en": "No, say the Americans: our fowl are fine, we simply clean them in a different way.",
+			"zh": "不，美国人说：我们的家禽很好，我们只是用不同的方式清洗它们。"
+		},
+		{
+			"i": 5,
+			"start": 28.94,
+			"end": 39.18,
+			"en": "These days, it is differences in national regulations, far more than tariffs, that put sand in the wheels of trade between rich countries.",
+			"zh": "如今，是各国法规的差异，而不是关税，阻碍了富裕国家之间的贸易。"
+		},
+		{
+			"i": 6,
+			"start": 39.33,
+			"end": 42.18,
+			"en": "It is not just farmers who are complaining.",
+			"zh": "抱怨的不仅仅是农民。"
+		},
+		{
+			"i": 7,
+			"start": 42.33,
+			"end": 61.01,
+			"en": "An electric razor that meets the European Union's safety standards must be approved by American testers before it can be sold in the United States, and an American-made dialysis machine needs the EU's okay before it hits the market in Europe.",
+			"zh": "一款符合欧盟安全标准的电动剃须刀，在美国销售前必须通过美国测试员的批准；一台美国制造的透析机，在欧洲上市前需要得到欧盟的许可。"
+		},
+		{
+			"i": 8,
+			"start": 61.16,
+			"end": 67.45,
+			"en": "As it happens, a razor that is safe in Europe is unlikely to electrocute Americans.",
+			"zh": "碰巧的是，在欧洲安全的剃须刀不太可能电死美国人。"
+		},
+		{
+			"i": 9,
+			"start": 67.6,
+			"end": 75.42,
+			"en": "So, ask businesses on both sides of the Atlantic, why have two lots of tests where one would do?",
+			"zh": "因此，大西洋两岸的企业都在问，为什么需要进行两套测试，而一套就足够了？"
+		},
+		{
+			"i": 10,
+			"start": 75.57,
+			"end": 85.06,
+			"en": "Politicians agree, in principle, so America and the EU have been trying to reach a deal which would eliminate the need to double-test many products.",
+			"zh": "政治家们原则上同意这一点，因此美国和欧盟一直在努力达成一项协议，以消除许多产品重复测试的必要性。"
+		},
+		{
+			"i": 11,
+			"start": 85.21,
+			"end": 91.86,
+			"en": "They hope to finish in time for a trade summit between America and the EU on May 28th.",
+			"zh": "他们希望能在5月28日美国和欧盟贸易峰会前及时完成。"
+		},
+		{
+			"i": 12,
+			"start": 92.01,
+			"end": 99.92,
+			"en": "Although negotiators are optimistic, the details are complex enough that they may be hard-pressed to get a deal at all.",
+			"zh": "尽管谈判代表持乐观态度，但细节足够复杂，他们可能很难达成协议。"
+		},
+		{
+			"i": 13,
+			"start": 100.07,
+			"end": 104.54,
+			"en": "Why? One difficulty is to construct the agreements.",
+			"zh": "为什么？一个困难是构建协议。"
+		},
+		{
+			"i": 14,
+			"start": 104.69,
+			"end": 116.24,
+			"en": "The Americans would happily reach one accord on standards for medical devices and then hammer out different pacts covering, say, electronic goods and drug manufacturing.",
+			"zh": "美国人乐意先就医疗器械标准达成一项协议，然后再敲定涵盖电子产品和药品生产等不同协议。"
+		},
+		{
+			"i": 15,
+			"start": 116.39,
+			"end": 122.62,
+			"en": "The EU -- following fine continental traditions -- wants agreement on general principles,",
+			"zh": "欧盟——遵循优良的欧洲大陆传统——希望就普遍原则达成协议，"
+		},
+		{
+			"i": 16,
+			"start": 122.77,
+			"end": 126.77,
+			"en": "which could be applied to many types of products and perhaps extended to other countries.",
+			"zh": "这些原则可以适用于多种类型的产品，并且可能扩展到其他国家。"
+		}
+	]
+}

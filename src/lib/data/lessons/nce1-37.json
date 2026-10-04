@@ -1,0 +1,167 @@
+{
+	"id": "nce1-37",
+	"book": "nce1",
+	"title": "Making a Bookcase",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-37.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.54,
+			"end": 2.9,
+			"en": "Lesson 37",
+			"zh": "第37课"
+		},
+		{
+			"i": 1,
+			"start": 3.05,
+			"end": 5.96,
+			"en": "Making a bookcase",
+			"zh": "制作一个书架"
+		},
+		{
+			"i": 2,
+			"start": 6.11,
+			"end": 12.15,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 12.3,
+			"end": 17.3,
+			"en": "What is Susan's favourite colour?",
+			"zh": "苏珊最喜欢的颜色是什么？"
+		},
+		{
+			"i": 4,
+			"start": 17.45,
+			"end": 20.57,
+			"en": "You're working hard, George.",
+			"zh": "你工作得很努力啊，乔治。"
+		},
+		{
+			"i": 5,
+			"start": 20.72,
+			"end": 23.07,
+			"en": "What are you doing?",
+			"zh": "你在做什么？"
+		},
+		{
+			"i": 6,
+			"start": 23.22,
+			"end": 26.66,
+			"en": "I'm making a bookcase.",
+			"zh": "我正在做一个书架。"
+		},
+		{
+			"i": 7,
+			"start": 26.81,
+			"end": 30.67,
+			"en": "Give me that hammer please, Dan.",
+			"zh": "丹，请把那个锤子给我。"
+		},
+		{
+			"i": 8,
+			"start": 30.82,
+			"end": 32.49,
+			"en": "Which hammer?",
+			"zh": "哪个锤子？"
+		},
+		{
+			"i": 9,
+			"start": 32.64,
+			"end": 33.97,
+			"en": "This one?",
+			"zh": "这个吗？"
+		},
+		{
+			"i": 10,
+			"start": 34.12,
+			"end": 36.38,
+			"en": "No, not that one.",
+			"zh": "不，不是那个。"
+		},
+		{
+			"i": 11,
+			"start": 36.53,
+			"end": 38.79,
+			"en": "The big one.",
+			"zh": "那个大的。"
+		},
+		{
+			"i": 12,
+			"start": 38.94,
+			"end": 40.41,
+			"en": "Here you are.",
+			"zh": "给你。"
+		},
+		{
+			"i": 13,
+			"start": 40.56,
+			"end": 43.36,
+			"en": "Thanks, Dan.",
+			"zh": "谢谢，丹。"
+		},
+		{
+			"i": 14,
+			"start": 43.51,
+			"end": 47.69,
+			"en": "What are you going to do now, George?",
+			"zh": "乔治，你现在要做什么？"
+		},
+		{
+			"i": 15,
+			"start": 47.84,
+			"end": 50.97,
+			"en": "I'm going to paint it.",
+			"zh": "我要把它漆一下。"
+		},
+		{
+			"i": 16,
+			"start": 51.12,
+			"end": 55.33,
+			"en": "What colour are you going to paint it?",
+			"zh": "你打算把它漆成什么颜色？"
+		},
+		{
+			"i": 17,
+			"start": 55.48,
+			"end": 59.35,
+			"en": "I'm going to paint it pink.",
+			"zh": "我要把它漆成粉红色。"
+		},
+		{
+			"i": 18,
+			"start": 59.5,
+			"end": 60.84,
+			"en": "Pink!",
+			"zh": "粉红色！"
+		},
+		{
+			"i": 19,
+			"start": 60.99,
+			"end": 63.81,
+			"en": "This bookcase isn't for me.",
+			"zh": "这个书架不是给我的。"
+		},
+		{
+			"i": 20,
+			"start": 63.96,
+			"end": 66.95,
+			"en": "It's for my daughter, Susan.",
+			"zh": "是给我女儿苏珊的。"
+		},
+		{
+			"i": 21,
+			"start": 67.1,
+			"end": 71.1,
+			"en": "Pink's her favourite colour.",
+			"zh": "粉红色是她最喜欢的颜色。"
+		}
+	]
+}

@@ -1,0 +1,370 @@
+{
+	"id": "nce4-44",
+	"book": "nce4",
+	"title": "Patterns of Culture",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce4-44.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.78,
+			"end": 2.47,
+			"en": "Lesson 44",
+			"zh": "第44课"
+		},
+		{
+			"i": 1,
+			"start": 2.62,
+			"end": 9.73,
+			"en": "Patterns of culture",
+			"zh": "文化的模式"
+		},
+		{
+			"i": 2,
+			"start": 9.88,
+			"end": 15.31,
+			"en": "What influences us from the moment of birth?",
+			"zh": "从我们出生那一刻起，什么在影响着我们？"
+		},
+		{
+			"i": 3,
+			"start": 15.46,
+			"end": 20.66,
+			"en": "Custom has not commonly been regarded as a subject of any great moment.",
+			"zh": "习俗通常不被认为是一个举足轻重的问题。"
+		},
+		{
+			"i": 4,
+			"start": 20.81,
+			"end": 26.67,
+			"en": "The inner workings of our own brains we feel to be uniquely worthy of investigation,",
+			"zh": "我们认为我们自己大脑的内部运作是独一无二地值得研究的，"
+		},
+		{
+			"i": 5,
+			"start": 26.82,
+			"end": 33.2,
+			"en": "but custom, we have a way of thinking, is behaviour at is most commonplace.",
+			"zh": "但我们有一种想法，认为习俗是最常见的行为。"
+		},
+		{
+			"i": 6,
+			"start": 33.35,
+			"end": 36.73,
+			"en": "As a matter of fact, it is the other way around.",
+			"zh": "事实上，情况恰恰相反。"
+		},
+		{
+			"i": 7,
+			"start": 36.88,
+			"end": 39.81,
+			"en": "Traditional custom, taken the world over,",
+			"zh": "传统的习俗，遍布世界各地，"
+		},
+		{
+			"i": 8,
+			"start": 39.96,
+			"end": 48.38,
+			"en": "is a mass of detailed behaviour more astonishing than what any one person can ever evolve in individual actions,",
+			"zh": "是一堆详细的行为，比任何个人在单独行动中所能演变出的行为都更令人惊讶，"
+		},
+		{
+			"i": 9,
+			"start": 48.53,
+			"end": 50.58,
+			"en": "no matter how aberrant.",
+			"zh": "无论多么反常。"
+		},
+		{
+			"i": 10,
+			"start": 50.73,
+			"end": 54.55,
+			"en": "Yet that is a rather trivial aspect of the matter.",
+			"zh": "然而，这只是问题的微不足道的一面。"
+		},
+		{
+			"i": 11,
+			"start": 54.7,
+			"end": 62.37,
+			"en": "The fact of first-rate importance is the predominant role that custom plays in experience and in belief,",
+			"zh": "最重要的事实是习俗在经验和信仰中扮演的主导角色，"
+		},
+		{
+			"i": 12,
+			"start": 62.52,
+			"end": 67.13,
+			"en": "and the very great varieties it may manifest.",
+			"zh": "以及它可能表现出的巨大多样性。"
+		},
+		{
+			"i": 13,
+			"start": 67.28,
+			"end": 71.3,
+			"en": "No man ever looks at the world with pristine eyes.",
+			"zh": "没有人能以纯粹的眼光看待世界。"
+		},
+		{
+			"i": 14,
+			"start": 71.45,
+			"end": 78,
+			"en": "He sees it edited by a definite set of customs and institutions and ways of thinking.",
+			"zh": "他看到的世界是由一套明确的习俗、制度和思维方式所塑造的。"
+		},
+		{
+			"i": 15,
+			"start": 78.15,
+			"end": 83.51,
+			"en": "Even in his philosophical probings he cannot go behind these stereotypes;",
+			"zh": "即使在他的哲学探索中，他也无法超越这些刻板印象；"
+		},
+		{
+			"i": 16,
+			"start": 83.66,
+			"end": 91.35,
+			"en": "his very concepts of the true and the false will still have reference to his particular traditional customs.",
+			"zh": "他对真与假的观念仍然会与他特定的传统习俗相关联。"
+		},
+		{
+			"i": 17,
+			"start": 91.5,
+			"end": 99.21,
+			"en": "John Dewey has said in all seriousness that the part played by custom in shaping the behaviour of the individual,",
+			"zh": "约翰·杜威曾非常严肃地说，习俗在塑造个人行为中所起的作用，"
+		},
+		{
+			"i": 18,
+			"start": 99.36,
+			"end": 103.5,
+			"en": "as against any way in which he can affect traditional custom,",
+			"zh": "与他能够影响传统习俗的任何方式相比，"
+		},
+		{
+			"i": 19,
+			"start": 103.65,
+			"end": 108.49,
+			"en": "is as the proportion of the total vocabulary of his mother tongue",
+			"zh": "就像他母语的全部词汇量，"
+		},
+		{
+			"i": 20,
+			"start": 108.64,
+			"end": 116.02,
+			"en": "against those words of his own baby talk that are taken up into the vernacular of his family.",
+			"zh": "与他自己咿呀学语中被家庭口语采纳的词语之比。"
+		},
+		{
+			"i": 21,
+			"start": 116.17,
+			"end": 123.43,
+			"en": "When one seriously studies the social orders that have had the opportunity to develop autonomously,",
+			"zh": "当人们认真研究那些有机会自主发展的社会秩序时，"
+		},
+		{
+			"i": 22,
+			"start": 123.58,
+			"end": 128.97,
+			"en": "the figure becomes no more than an exact and matter-of-fact observation.",
+			"zh": "这个比喻就成了精确而实际的观察。"
+		},
+		{
+			"i": 23,
+			"start": 129.12,
+			"end": 134.27,
+			"en": "The life history of the individual is first and foremost an accommodation",
+			"zh": "个体的生命历程首先是一种适应，"
+		},
+		{
+			"i": 24,
+			"start": 134.42,
+			"end": 140.06,
+			"en": "to the patterns and standards traditionally handed down in his community.",
+			"zh": "适应其社区中世代相传的模式和标准。"
+		},
+		{
+			"i": 25,
+			"start": 140.21,
+			"end": 142.05,
+			"en": "From the moment of his birth,",
+			"zh": "从他出生那一刻起，"
+		},
+		{
+			"i": 26,
+			"start": 142.2,
+			"end": 147.38,
+			"en": "the customs into which he is born shape his experience and behaviour.",
+			"zh": "他所降生的习俗塑造了他的经验和行为。"
+		},
+		{
+			"i": 27,
+			"start": 147.53,
+			"end": 152.23,
+			"en": "By the time he can talk, he is the little creature of his culture,",
+			"zh": "等到他会说话时，他已是其文化的小小产物，"
+		},
+		{
+			"i": 28,
+			"start": 152.38,
+			"end": 157.15,
+			"en": "and by the time he is grown and able to take part in its activities,",
+			"zh": "等到他长大成人并能参与其活动时，"
+		},
+		{
+			"i": 29,
+			"start": 157.3,
+			"end": 165.77,
+			"en": "its habits are his habits, its beliefs his beliefs, its impossibilities his impossibilities.",
+			"zh": "它的习惯是他的习惯，它的信仰是他的信仰，它的不可能之事是他的不可能之事。"
+		},
+		{
+			"i": 30,
+			"start": 165.92,
+			"end": 170.23,
+			"en": "Every child that is born into his group will share them with him,",
+			"zh": "每一个出生在他群体中的孩子都会与他分享这些，"
+		},
+		{
+			"i": 31,
+			"start": 170.38,
+			"end": 177.49,
+			"en": "and no child born into one on the opposite side of the globe can ever achieve the thousandth part.",
+			"zh": "而出生在地球另一边的孩子连千分之一也无法做到。"
+		},
+		{
+			"i": 32,
+			"start": 177.64,
+			"end": 185.58,
+			"en": "There is no social problem it is more incumbent upon us to understand than this of the role of custom.",
+			"zh": "没有比理解习俗的作用更重要的社会问题了。"
+		},
+		{
+			"i": 33,
+			"start": 185.73,
+			"end": 189.63,
+			"en": "Until we are intelligent as to its laws and varieties,",
+			"zh": "在我们对其规律和多样性有充分了解之前，"
+		},
+		{
+			"i": 34,
+			"start": 189.78,
+			"end": 195.84,
+			"en": "the main complicating facts of human life must remain unintelligible.",
+			"zh": "人类生活的主要复杂事实必然是难以理解的。"
+		},
+		{
+			"i": 35,
+			"start": 195.99,
+			"end": 203.53,
+			"en": "The study of custom can be profitable only after certain preliminary propositions have been accepted,",
+			"zh": "对习俗的研究只有在某些初步命题被接受之后才能有所裨益，"
+		},
+		{
+			"i": 36,
+			"start": 203.68,
+			"end": 208.34,
+			"en": "and some of these propositions have been violently opposed.",
+			"zh": "而其中一些命题曾遭到强烈反对。"
+		},
+		{
+			"i": 37,
+			"start": 208.49,
+			"end": 213.23,
+			"en": "In the first place, any scientific study requires that there be no",
+			"zh": "首先，任何科学研究都要求，"
+		},
+		{
+			"i": 38,
+			"start": 213.38,
+			"end": 220.73,
+			"en": "preferential weighting of one or another of the items in the series it selects for its consideration.",
+			"zh": "在它所选择的系列项目进行考量时，不应对其中任何一项有偏向性地加权。"
+		},
+		{
+			"i": 39,
+			"start": 220.88,
+			"end": 228.06,
+			"en": "In all the less controversial fields, like the study of cacti or termites or the nature of nebulae,",
+			"zh": "在所有争议较少的领域，比如研究仙人掌、白蚁或星云的性质，"
+		},
+		{
+			"i": 40,
+			"start": 228.21,
+			"end": 236.6,
+			"en": "the necessary method of study is to group the relevant material and to take note of all possible variant forms and conditions.",
+			"zh": "必要的研究方法是将相关材料分组，并记录所有可能的变体形式和条件。"
+		},
+		{
+			"i": 41,
+			"start": 236.75,
+			"end": 245.86,
+			"en": "In this way, we have learned all that we know of the laws of astronomy, or of the habits of the social insects, let us say.",
+			"zh": "通过这种方式，我们掌握了天文学的所有规律，或者说，掌握了群居昆虫的习性。"
+		},
+		{
+			"i": 42,
+			"start": 246.01,
+			"end": 251.04,
+			"en": "It is only in the study of man himself that the major social sciences",
+			"zh": "只有在研究人类自身时，主要的社会科学才"
+		},
+		{
+			"i": 43,
+			"start": 251.19,
+			"end": 258.06,
+			"en": "have substituted the study of one local variation, that of Western civilization.",
+			"zh": "将对西方文明这一地方性变体的研究取而代之。"
+		},
+		{
+			"i": 44,
+			"start": 258.21,
+			"end": 261.43,
+			"en": "Anthropology was by definition impossible,",
+			"zh": "人类学按定义来说是不可能的，"
+		},
+		{
+			"i": 45,
+			"start": 261.58,
+			"end": 265.99,
+			"en": "as long as these distinctions between ourselves and the primitive,",
+			"zh": "只要我们与原始人、"
+		},
+		{
+			"i": 46,
+			"start": 266.14,
+			"end": 272.5,
+			"en": "ourselves and the barbarian, ourselves and the pagan, held sway over people's minds.",
+			"zh": "我们与野蛮人、我们与异教徒之间的这些区别仍然主宰着人们的思想。"
+		},
+		{
+			"i": 47,
+			"start": 272.65,
+			"end": 277.27,
+			"en": "It was necessary first to arrive at that degree of sophistication",
+			"zh": "首先，有必要达到那种成熟程度，"
+		},
+		{
+			"i": 48,
+			"start": 277.42,
+			"end": 282.27,
+			"en": "where we no longer set our own belief against our neighbour's superstition.",
+			"zh": "即我们不再将自己的信仰与邻居的迷信对立起来。"
+		},
+		{
+			"i": 49,
+			"start": 282.42,
+			"end": 291.59,
+			"en": "It was necessary to recognize that these institutions which are based on the same premises, let us say the supernatural,",
+			"zh": "有必要认识到，这些基于相同前提的制度，比方说超自然现象，"
+		},
+		{
+			"i": 50,
+			"start": 291.74,
+			"end": 295.74,
+			"en": "must be considered together, our own among the rest.",
+			"zh": "必须被一并考虑，包括我们自己的。"
+		}
+	]
+}

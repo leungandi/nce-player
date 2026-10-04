@@ -1,0 +1,272 @@
+{
+	"id": "nce3-54",
+	"book": "nce3",
+	"title": "Instinct or Cleverness",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce3-54.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.31,
+			"end": 2.11,
+			"en": "Lesson 54",
+			"zh": "第54课"
+		},
+		{
+			"i": 1,
+			"start": 2.26,
+			"end": 10.01,
+			"en": "Instinct or cleverness?",
+			"zh": "本能还是智慧？"
+		},
+		{
+			"i": 2,
+			"start": 10.16,
+			"end": 17.52,
+			"en": "Was the writer successful in protecting his peach tree? Why not?",
+			"zh": "作者成功保护了他的桃树吗？为什么没有？"
+		},
+		{
+			"i": 3,
+			"start": 17.67,
+			"end": 20.5,
+			"en": "We have been brought up to fear insects.",
+			"zh": "我们从小就被教导要害怕昆虫。"
+		},
+		{
+			"i": 4,
+			"start": 20.65,
+			"end": 26.39,
+			"en": "We regard them as unnecessary creatures that do more harm than good.",
+			"zh": "我们认为它们是多余的生物，弊大于利。"
+		},
+		{
+			"i": 5,
+			"start": 26.54,
+			"end": 35.61,
+			"en": "We continually wage war on them, for they contaminate our food, carry diseases, or devour our crops.",
+			"zh": "我们不断地与它们作斗争，因为它们会污染我们的食物，传播疾病，或吞噬我们的庄稼。"
+		},
+		{
+			"i": 6,
+			"start": 35.76,
+			"end": 46,
+			"en": "They sting or bite without provocation; they fly uninvited into our rooms on summer nights, or beat against our lighted windows.",
+			"zh": "它们无故蜇人或咬人；在夏天的夜晚，它们不请自来地飞进我们的房间，或拍打我们点亮的窗户。"
+		},
+		{
+			"i": 7,
+			"start": 46.15,
+			"end": 55.18,
+			"en": "We live in dread not only of unpleasant insects like spiders or wasps, but of quite harmless ones like moths.",
+			"zh": "我们不仅害怕蜘蛛或黄蜂等令人不快的昆虫，也害怕像飞蛾这样完全无害的昆虫。"
+		},
+		{
+			"i": 8,
+			"start": 55.33,
+			"end": 61.52,
+			"en": "Reading about them increases our understanding without dispelling our fears.",
+			"zh": "阅读有关它们的文章增加了我们的理解，却无法消除我们的恐惧。"
+		},
+		{
+			"i": 9,
+			"start": 61.67,
+			"end": 67.42,
+			"en": "Knowing that the industrious ant lives in a highly organized society",
+			"zh": "即使知道勤劳的蚂蚁生活在一个高度组织化的社会中，"
+		},
+		{
+			"i": 10,
+			"start": 67.57,
+			"end": 77.93,
+			"en": "does nothing to prevent us from being filled with revulsion when we find hordes of them crawling over a carefully prepared picnic lunch.",
+			"zh": "也无法阻止我们在一群蚂蚁爬满精心准备的野餐时感到厌恶。"
+		},
+		{
+			"i": 11,
+			"start": 78.08,
+			"end": 80.74,
+			"en": "No matter how much we like honey,",
+			"zh": "无论我们多么喜欢蜂蜜，"
+		},
+		{
+			"i": 12,
+			"start": 80.89,
+			"end": 90.17,
+			"en": "or how much we have read about the uncanny sense of direction which bees possess, we have a horror of being stung.",
+			"zh": "无论我们读过多少关于蜜蜂拥有不可思议的方向感，我们都害怕被蜇。"
+		},
+		{
+			"i": 13,
+			"start": 90.32,
+			"end": 96,
+			"en": "Most of our fears are unreasonable, but they are impossible to erase.",
+			"zh": "我们大部分的恐惧都是不合理的，但它们又难以消除。"
+		},
+		{
+			"i": 14,
+			"start": 96.15,
+			"end": 101.33,
+			"en": "At the same time, however, insects are strangely fascinating.",
+			"zh": "然而，与此同时，昆虫又有着奇特的魅力。"
+		},
+		{
+			"i": 15,
+			"start": 101.48,
+			"end": 110.95,
+			"en": "We enjoy reading about them, especially when we find that, like the praying mantis, they lead perfectly horrible lives.",
+			"zh": "我们喜欢阅读有关它们的文章，特别是当我们发现，像螳螂一样，它们过着极其可怕的生活时。"
+		},
+		{
+			"i": 16,
+			"start": 111.1,
+			"end": 119.76,
+			"en": "We enjoy staring at them, entranced as they go about their business, unaware (we hope) of our presence.",
+			"zh": "我们喜欢凝视它们，着迷地看着它们忙碌，希望它们没有察觉到我们的存在。"
+		},
+		{
+			"i": 17,
+			"start": 119.91,
+			"end": 124.81,
+			"en": "Who has not stood in awe at the sight of a spider pouncing on a fly,",
+			"zh": "谁不曾敬畏地看着蜘蛛扑向苍蝇，"
+		},
+		{
+			"i": 18,
+			"start": 124.96,
+			"end": 131.28,
+			"en": "or a column of ants triumphantly bearing home an enormous dead beetle?",
+			"zh": "或一队蚂蚁凯旋地将一只巨大的死甲虫搬回家呢？"
+		},
+		{
+			"i": 19,
+			"start": 131.43,
+			"end": 140.49,
+			"en": "Last summer I spent days in the garden watching thousands of ants crawling up the trunk of my prize peach tree.",
+			"zh": "去年夏天，我在花园里花了好几天时间，观察成千上万的蚂蚁爬上我那棵珍贵的桃树树干。"
+		},
+		{
+			"i": 20,
+			"start": 140.64,
+			"end": 145.93,
+			"en": "The tree has grown against a warm wall on a sheltered side of the house.",
+			"zh": "这棵树长在房子避风处的一面暖墙边。"
+		},
+		{
+			"i": 21,
+			"start": 146.08,
+			"end": 148.46,
+			"en": "I am especially proud of it,",
+			"zh": "我特别为它感到自豪，"
+		},
+		{
+			"i": 22,
+			"start": 148.61,
+			"end": 158.93,
+			"en": "not only because it has survived several severe winters, but because it occasionally produces luscious peaches.",
+			"zh": "不仅因为它熬过了好几个严酷的冬天，还因为它偶尔会结出甜美的桃子。"
+		},
+		{
+			"i": 23,
+			"start": 159.08,
+			"end": 164.86,
+			"en": "During the summer, I noticed that the leaves of the tree were beginning to wither.",
+			"zh": "夏天的时候，我注意到树叶开始枯萎了。"
+		},
+		{
+			"i": 24,
+			"start": 165.01,
+			"end": 172.33,
+			"en": "Clusters of tiny insects called aphides were to be found on the underside of the leaves.",
+			"zh": "树叶的背面可以发现成群的微小昆虫，叫做蚜虫。"
+		},
+		{
+			"i": 25,
+			"start": 172.48,
+			"end": 178.97,
+			"en": "They were visited by a large colony of ants which obtained a sort of honey from them.",
+			"zh": "一大群蚂蚁来访，从它们那里获取一种蜜露。"
+		},
+		{
+			"i": 26,
+			"start": 179.12,
+			"end": 189.85,
+			"en": "I immediately embarked on an experiment which even though it failed to get rid of the ants kept me fascinated for twenty-four hours.",
+			"zh": "我立即开始了一项实验，尽管它未能除掉蚂蚁，但却让我着迷了二十四个小时。"
+		},
+		{
+			"i": 27,
+			"start": 190,
+			"end": 197.56,
+			"en": "I bound the base of the tree with sticky tape, making it impossible for the ants to reach the aphides.",
+			"zh": "我用胶带缠住了树的底部，使蚂蚁无法接触到蚜虫。"
+		},
+		{
+			"i": 28,
+			"start": 197.71,
+			"end": 202.44,
+			"en": "The tape was so sticky that they did not dare to cross it.",
+			"zh": "胶带非常粘，它们不敢越过。"
+		},
+		{
+			"i": 29,
+			"start": 202.59,
+			"end": 209.44,
+			"en": "For a long time, I watched them scurrying around the base of the tree in bewilderment.",
+			"zh": "我长时间地看着它们困惑地在树底跑来跑去。"
+		},
+		{
+			"i": 30,
+			"start": 209.59,
+			"end": 216.73,
+			"en": "I even went out at midnight with a torch and noted with satisfaction (and surprise)",
+			"zh": "我甚至在午夜带着手电筒出去，满意地（也惊讶地）注意到"
+		},
+		{
+			"i": 31,
+			"start": 216.88,
+			"end": 223.79,
+			"en": "that the ants were still swarming around the sticky tape without being able to do anything about it.",
+			"zh": "蚂蚁仍然在胶带周围聚集，却无计可施。"
+		},
+		{
+			"i": 32,
+			"start": 223.94,
+			"end": 229.69,
+			"en": "I got up early next morning hoping to find that the ants had given up in despair.",
+			"zh": "第二天早上我早早起床，希望能看到蚂蚁已经绝望地放弃了。"
+		},
+		{
+			"i": 33,
+			"start": 229.84,
+			"end": 234.16,
+			"en": "Instead, I saw that they had discovered a new route.",
+			"zh": "结果，我发现它们开辟了一条新路线。"
+		},
+		{
+			"i": 34,
+			"start": 234.31,
+			"end": 239.43,
+			"en": "They were climbing up the wall of the house and then on to the leaves of the tree.",
+			"zh": "它们正在爬上房子的墙壁，然后爬到树叶上。"
+		},
+		{
+			"i": 35,
+			"start": 239.58,
+			"end": 245.64,
+			"en": "I realized sadly that I had been completely defeated by their ingenuity.",
+			"zh": "我伤心地意识到，我完全被它们的足智多谋打败了。"
+		},
+		{
+			"i": 36,
+			"start": 245.79,
+			"end": 249.79,
+			"en": "The ants had been quick to find an answer to my thoroughly unscientific methods!",
+			"zh": "蚂蚁很快就找到了应对我这种完全不科学的方法的办法！"
+		}
+	]
+}

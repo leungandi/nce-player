@@ -1,0 +1,139 @@
+{
+	"id": "nce1-117",
+	"book": "nce1",
+	"title": "Tommy's Breakfast",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-117.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.79,
+			"end": 4.35,
+			"en": "Lesson 117",
+			"zh": "第117课"
+		},
+		{
+			"i": 1,
+			"start": 4.5,
+			"end": 7.2,
+			"en": "Tommy's breakfast",
+			"zh": "汤米的早餐"
+		},
+		{
+			"i": 2,
+			"start": 7.35,
+			"end": 13.29,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 13.44,
+			"end": 21.12,
+			"en": "What does she mean by 'change' in the last sentence?",
+			"zh": "在最后一句话中，她说的“零钱”是什么意思？"
+		},
+		{
+			"i": 4,
+			"start": 21.27,
+			"end": 27.05,
+			"en": "When my husband was going into the dining room this morning,",
+			"zh": "今天早上我丈夫走进饭厅时，"
+		},
+		{
+			"i": 5,
+			"start": 27.2,
+			"end": 31.39,
+			"en": "he dropped some coins on the floor.",
+			"zh": "他把一些硬币掉在地板上了。"
+		},
+		{
+			"i": 6,
+			"start": 31.54,
+			"end": 34.81,
+			"en": "There were coins everywhere.",
+			"zh": "到处都是硬币。"
+		},
+		{
+			"i": 7,
+			"start": 34.96,
+			"end": 40.95,
+			"en": "We looked for them, but we could not find them all.",
+			"zh": "我们找了找，但没有把它们全都找到。"
+		},
+		{
+			"i": 8,
+			"start": 41.1,
+			"end": 44.27,
+			"en": "While we were having breakfast,",
+			"zh": "我们吃早饭的时候，"
+		},
+		{
+			"i": 9,
+			"start": 44.42,
+			"end": 52.41,
+			"en": "our little boy, Tommy, found two small coins on the floor.",
+			"zh": "我们的小儿子汤米在地板上找到了两枚小硬币。"
+		},
+		{
+			"i": 10,
+			"start": 52.56,
+			"end": 57.01,
+			"en": "He put them both into his mouth.",
+			"zh": "他把两枚硬币都放进了嘴里。"
+		},
+		{
+			"i": 11,
+			"start": 57.16,
+			"end": 63.41,
+			"en": "We both tried to get the coins, but it was too late.",
+			"zh": "我们俩都想把硬币拿出来，但是太晚了。"
+		},
+		{
+			"i": 12,
+			"start": 63.56,
+			"end": 69.75,
+			"en": "Tommy had already swallowed them!",
+			"zh": "汤米已经把它们吞下去了！"
+		},
+		{
+			"i": 13,
+			"start": 69.9,
+			"end": 75.28,
+			"en": "Late that morning, when I was doing the housework,",
+			"zh": "早上晚些时候，我正在做家务时，"
+		},
+		{
+			"i": 14,
+			"start": 75.43,
+			"end": 80.21,
+			"en": "My husband phoned me from the office.",
+			"zh": "我丈夫从办公室给我打了个电话。"
+		},
+		{
+			"i": 15,
+			"start": 80.36,
+			"end": 83.85,
+			"en": "'How's Tommy?' he asked.",
+			"zh": "“汤米怎么样了？”他问。"
+		},
+		{
+			"i": 16,
+			"start": 84,
+			"end": 87.41,
+			"en": "'I don't know,' I answered,",
+			"zh": "“我不知道，”我回答说，"
+		},
+		{
+			"i": 17,
+			"start": 87.56,
+			"end": 91.56,
+			"en": "'Tommy's been to the toilet three times this morning, but I haven't had any change yet!'",
+			"zh": "“今天上午汤米已经上过三次厕所了，但我还没见到有任何‘零钱’呢！”"
+		}
+	]
+}

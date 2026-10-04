@@ -1,0 +1,153 @@
+{
+	"id": "nce1-51",
+	"book": "nce1",
+	"title": "A Pleasant Climate",
+	"accent": "us",
+	"audio": {
+		"src": "audio/nce1-51.m4a"
+	},
+	"translation": "machine",
+	"alignment": "estimated",
+	"lines": [
+		{
+			"i": 0,
+			"start": 0.5,
+			"end": 2.98,
+			"en": "Lesson 51",
+			"zh": "第51课"
+		},
+		{
+			"i": 1,
+			"start": 3.13,
+			"end": 6.03,
+			"en": "A pleasant climate",
+			"zh": "宜人的气候"
+		},
+		{
+			"i": 2,
+			"start": 6.18,
+			"end": 11.7,
+			"en": "Listen to the tape then answer this question.",
+			"zh": "听录音，然后回答这个问题。"
+		},
+		{
+			"i": 3,
+			"start": 11.85,
+			"end": 16.86,
+			"en": "Does it ever snow in Greece?",
+			"zh": "希腊下雪吗？"
+		},
+		{
+			"i": 4,
+			"start": 17.01,
+			"end": 19.75,
+			"en": "Where do you come from?",
+			"zh": "你来自哪里？"
+		},
+		{
+			"i": 5,
+			"start": 19.9,
+			"end": 22.79,
+			"en": "I come from Greece.",
+			"zh": "我来自希腊。"
+		},
+		{
+			"i": 6,
+			"start": 22.94,
+			"end": 27.17,
+			"en": "What's the climate like in your country?",
+			"zh": "你们国家的气候怎么样？"
+		},
+		{
+			"i": 7,
+			"start": 27.32,
+			"end": 30.22,
+			"en": "It's very pleasant.",
+			"zh": "非常宜人。"
+		},
+		{
+			"i": 8,
+			"start": 30.37,
+			"end": 34.14,
+			"en": "What's the weather like in spring?",
+			"zh": "春天的天气怎么样？"
+		},
+		{
+			"i": 9,
+			"start": 34.29,
+			"end": 37.64,
+			"en": "It's often windy in March.",
+			"zh": "三月经常刮风。"
+		},
+		{
+			"i": 10,
+			"start": 37.79,
+			"end": 45.38,
+			"en": "It's always warm in April and May, but it rains sometimes.",
+			"zh": "四月和五月总是很暖和，但有时会下雨。"
+		},
+		{
+			"i": 11,
+			"start": 45.53,
+			"end": 48.89,
+			"en": "What's it like in summer?",
+			"zh": "夏天怎么样？"
+		},
+		{
+			"i": 12,
+			"start": 49.04,
+			"end": 54.55,
+			"en": "It's always hot in June, July and August.",
+			"zh": "六月、七月和八月总是很热。"
+		},
+		{
+			"i": 13,
+			"start": 54.7,
+			"end": 58.01,
+			"en": "The sun shines every day.",
+			"zh": "每天阳光普照。"
+		},
+		{
+			"i": 14,
+			"start": 58.16,
+			"end": 62.02,
+			"en": "Is it cold or warm in autumn?",
+			"zh": "秋天是冷还是暖和？"
+		},
+		{
+			"i": 15,
+			"start": 62.17,
+			"end": 66.96,
+			"en": "It's always warm in September and October.",
+			"zh": "九月和十月总是很暖和。"
+		},
+		{
+			"i": 16,
+			"start": 67.11,
+			"end": 73.36,
+			"en": "It's often cold in November and it rains sometimes.",
+			"zh": "十一月经常很冷，有时会下雨。"
+		},
+		{
+			"i": 17,
+			"start": 73.51,
+			"end": 77.08,
+			"en": "Is it very cold in winter?",
+			"zh": "冬天很冷吗？"
+		},
+		{
+			"i": 18,
+			"start": 77.23,
+			"end": 83.19,
+			"en": "It's often cold in December, January and February.",
+			"zh": "十二月、一月和二月经常很冷。"
+		},
+		{
+			"i": 19,
+			"start": 83.34,
+			"end": 87.34,
+			"en": "It snows sometimes.",
+			"zh": "有时会下雪。"
+		}
+	]
+}
