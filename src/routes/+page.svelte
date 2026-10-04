@@ -167,9 +167,6 @@
 		{/each}
 	</div>
 
-	<footer class="foot">
-		<a href="https://github.com/leungandi/nce-player" rel="noopener noreferrer">GitHub</a>
-	</footer>
 </div>
 
 <style>
@@ -375,16 +372,6 @@
 	.book-progress {
 		color: var(--text-muted);
 		font-size: 0.72rem;
-	}
-
-	.foot {
-		margin-top: 32px;
-		color: var(--text-muted);
-		font-size: 0.82rem;
-	}
-
-	.foot a {
-		color: var(--text-muted);
 	}
 
 	@media (max-width: 520px) {

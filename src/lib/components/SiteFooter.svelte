@@ -1,13 +1,9 @@
 <footer class="site-foot" id="site-footer">
 	<div class="inner">
 		<p class="line">
-			<span class="tag">素材来源</span>
-			课文音频与英文时间轴来自
+			<span class="tag">素材来源</span>时间轴来自
 			<a href="https://github.com/tangx/New-Concept-English" target="_blank" rel="noopener noreferrer"
 				>tangx/New-Concept-English</a
-			>，中文字幕参考
-			<a href="https://github.com/iChochy/NCE" target="_blank" rel="noopener noreferrer"
-				>iChochy/NCE</a
 			>，词汇释义来自
 			<a href="https://github.com/skywind3000/ECDICT" target="_blank" rel="noopener noreferrer"
 				>ECDICT</a
@@ -15,8 +11,7 @@
 		</p>
 
 		<p class="line">
-			<span class="tag">版权说明</span>
-			本站是非商业的个人学习项目，<strong>不拥有相关内容的版权</strong>。《新概念英语》的教材、课文与录音版权归原作者及出版方所有，请支持正版，购买官方教材与音频。
+			<span class="tag">版权说明</span>本站为非商业的个人学习项目，<strong>不拥有相关内容版权</strong>；请支持正版，购买官方教材与音频。
 		</p>
 
 		<p class="links">
@@ -39,7 +34,7 @@
 	.site-foot {
 		border-top: 1px solid var(--border);
 		margin-top: 32px;
-		padding: 18px 20px calc(24px + env(safe-area-inset-bottom));
+		padding: 16px 20px calc(22px + env(safe-area-inset-bottom));
 		color: var(--text-muted);
 		font-size: 0.74rem;
 		line-height: 1.7;
@@ -51,7 +46,7 @@
 	}
 
 	.line {
-		margin: 0 0 8px;
+		margin: 0 0 6px;
 	}
 
 	.line strong {
@@ -64,7 +59,6 @@
 		padding: 1px 7px;
 		border-radius: 4px;
 		background: var(--bg-sunken);
-		color: var(--text-muted);
 		font-size: 0.7rem;
 	}
 
@@ -83,8 +77,8 @@
 		display: flex;
 		flex-wrap: wrap;
 		gap: 8px;
-		margin: 12px 0 0;
-		padding-top: 12px;
+		margin: 10px 0 0;
+		padding-top: 10px;
 		border-top: 1px solid var(--border);
 	}
 </style>
