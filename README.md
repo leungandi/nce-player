@@ -33,6 +33,14 @@ npm run build      # 产出静态站点到 build/
 npm run format     # 格式化
 ```
 
+想本地预览生产构建，用自带的静态服务器（比 `npm run preview` 可靠，
+后者在重新构建后会继续服务旧的文件索引，新资源会 404）：
+
+```sh
+npm run build
+node tools/serve-build.mjs        # 默认 http://127.0.0.1:4174
+```
+
 ## 目录结构
 
 ```

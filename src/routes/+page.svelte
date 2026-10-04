@@ -2,13 +2,56 @@
 	import { resolve } from '$app/paths';
 	import { onMount } from 'svelte';
 	import { books } from '#lib/data/index.js';
+	import { stats } from '#lib/store/wordbook.js';
 
 	type Theme = 'light' | 'dark';
+	type Progress = { learned: number; total: number };
 
 	let theme = $state<Theme>('light');
+	let dueCount = $state(0);
+	let wordCount = $state(0);
+	let lastLesson = $state<{ id: string; title: string; book: string } | null>(null);
+	let progress = $state<Record<string, Progress>>({});
 
 	onMount(() => {
 		theme = document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';
+
+		const wordStats = stats();
+		dueCount = wordStats.due;
+		wordCount = wordStats.total;
+
+		// 每册学了多少课：按本地进度判断，听到 3 秒以上才算
+		const found: Record<string, Progress> = {};
+		for (const book of books) {
+			let learned = 0;
+			for (const lesson of book.lessons) {
+				try {
+					const raw = localStorage.getItem(`nce:progress:${lesson.id}`);
+					if (!raw) continue;
+					const saved = JSON.parse(raw) as { time?: number };
+					if (Number.isFinite(saved?.time) && (saved.time as number) > 3) learned += 1;
+				} catch {
+					// 忽略坏数据
+				}
+			}
+			found[book.key] = { learned, total: book.lessons.length };
+		}
+		progress = found;
+
+		try {
+			const last = localStorage.getItem('nce:last');
+			if (last) {
+				for (const book of books) {
+					const lesson = book.lessons.find((item) => item.id === last);
+					if (lesson) {
+						lastLesson = { id: lesson.id, title: lesson.title, book: book.name };
+						break;
+					}
+				}
+			}
+		} catch {
+			// 忽略
+		}
 	});
 
 	function toggleTheme() {
@@ -16,14 +59,6 @@
 		document.documentElement.dataset.theme = theme;
 		localStorage.setItem('nce:theme', theme);
 	}
-
-	const roadmap = [
-		{ stage: '阶段 0', title: '骨架与部署', state: '已完成' },
-		{ stage: '阶段 1', title: '单课跑通：点读、循环、中英对照', state: '进行中' },
-		{ stage: '阶段 2', title: '全册管线与离线播放', state: '待开始' },
-		{ stage: '阶段 3', title: '生词本、SRS 复习、听写与背诵', state: '待开始' },
-		{ stage: '阶段 4', title: '逐句讲解、自动出题、跨设备同步', state: '待开始' }
-	];
 </script>
 
 <svelte:head>
@@ -31,64 +66,106 @@
 </svelte:head>
 
 <div class="page">
-	<header class="head">
+	<header class="hero">
 		<div>
 			<h1>新概念英语</h1>
-			<p class="sub">逐句点读 · 精确循环 · 中英对照 · 离线可用</p>
+			<p class="tagline">点句即播 · 精确循环 · 离线可用</p>
 		</div>
-		<button class="theme" type="button" onclick={toggleTheme} aria-label="切换主题">
-			{theme === 'dark' ? '☾' : '☀'}
+		<button class="icon-btn" type="button" onclick={toggleTheme} aria-label="切换主题">
+			{#if theme === 'dark'}
+				<svg width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+					<path
+						d="M17.5 11.18a7.5 7.5 0 1 1-8.87-7.87 6 6 0 0 0 8.87 7.87Z"
+						stroke="currentColor"
+						stroke-width="1.6"
+						stroke-linejoin="round"
+					/>
+				</svg>
+			{:else}
+				<svg width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+					<circle cx="10" cy="10" r="3.6" stroke="currentColor" stroke-width="1.6" />
+					<path
+						d="M10 2.6v1.8M10 15.6v1.8M17.4 10h-1.8M4.4 10H2.6M15.2 15.2l-1.3-1.3M6.1 6.1 4.8 4.8M15.2 4.8l-1.3 1.3M6.1 13.9l-1.3 1.3"
+						stroke="currentColor"
+						stroke-width="1.6"
+						stroke-linecap="round"
+					/>
+				</svg>
+			{/if}
 		</button>
 	</header>
 
-	<main>
-		<section class="card">
-			<h2>生词复习</h2>
-			<p>在课文里点任意单词即可加入生词本，复习按记忆曲线自动排期。</p>
-			<p class="cta">
-				<a href={resolve('/review')}>开始复习 →</a>
-			</p>
-		</section>
+	<nav class="actions">
+		<a class="action" href={resolve('/review')}>
+			<svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+				<path
+					d="M4 5.5A2.5 2.5 0 0 1 6.5 3H16v11.5a2.5 2.5 0 0 1-2.5 2.5H6.5A2.5 2.5 0 0 1 4 14.5v-9Z"
+					stroke="currentColor"
+					stroke-width="1.6"
+					stroke-linejoin="round"
+				/>
+				<path d="M8 7h5M8 10.5h5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" />
+			</svg>
+			<span class="action-main">生词复习</span>
+			<span class="action-sub">
+				{#if dueCount}
+					<b>{dueCount}</b> 个待复习
+				{:else if wordCount}
+					生词本 {wordCount} 个
+				{:else}
+					还没有生词
+				{/if}
+			</span>
+		</a>
 
-		<section class="card">
-			<h2>练习</h2>
-			<p>从课文随机抽题：中译英自己写、完形填空选词、生词本还能做词义选择。</p>
-			<p class="cta">
-				<a href={resolve('/practice')}>开始练习 →</a>
-			</p>
-		</section>
+		<a class="action" href={resolve('/practice')}>
+			<svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+				<path
+					d="M10 3.5 12 8l4.5.6-3.3 3.1.8 4.5L10 14.1l-4 2.1.8-4.5L3.5 8.6 8 8l2-4.5Z"
+					stroke="currentColor"
+					stroke-width="1.5"
+					stroke-linejoin="round"
+				/>
+			</svg>
+			<span class="action-main">练习</span>
+			<span class="action-sub">中译英 · 完形 · 词义</span>
+		</a>
+	</nav>
 
-		<section class="card">
-			<h2>选择课本</h2>
-			{#if books.length}
-				<ul class="books">
-					{#each books as book (book.key)}
-						<li>
-							<a href={resolve('/book/[key]', { key: book.key })}>
-								<span class="book-name">{book.name}</span>
-								<span class="book-meta">{book.titleEn} · {book.lessons.length} 课</span>
-							</a>
-						</li>
-					{/each}
-				</ul>
-			{:else}
-				<p>课文数据还没有生成，先运行 <code>node tools/build-book.mjs --book 2</code>。</p>
-			{/if}
-		</section>
+	{#if lastLesson}
+		<a class="resume" href={resolve('/lesson/[id]', { id: lastLesson.id })}>
+			<span class="resume-label">继续学习</span>
+			<span class="resume-title">{lastLesson.title}</span>
+			<span class="resume-book">{lastLesson.book}</span>
+			<svg width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+				<path
+					d="M8 5l5 5-5 5"
+					stroke="currentColor"
+					stroke-width="1.8"
+					stroke-linecap="round"
+					stroke-linejoin="round"
+				/>
+			</svg>
+		</a>
+	{/if}
 
-		<section class="card">
-			<h2>路线图</h2>
-			<ol class="roadmap">
-				{#each roadmap as item (item.stage)}
-					<li class:current={item.state === '进行中'}>
-						<span class="stage">{item.stage}</span>
-						<span class="title">{item.title}</span>
-						<span class="state">{item.state}</span>
-					</li>
-				{/each}
-			</ol>
-		</section>
-	</main>
+	<h2 class="section">全部课本</h2>
+	<div class="books">
+		{#each books as book (book.key)}
+			{@const info = progress[book.key]}
+			<a class="book-card" href={resolve('/book/[key]', { key: book.key })}>
+				<span class="book-level">{book.key.replace('nce', '第 ')} 册</span>
+				<span class="book-name">{book.titleEn}</span>
+				<span class="book-count">{book.lessons.length} 课</span>
+				{#if info?.learned}
+					<span class="bar" aria-hidden="true">
+						<span style="width: {Math.round((info.learned / info.total) * 100)}%"></span>
+					</span>
+					<span class="book-progress">已学 {info.learned} 课</span>
+				{/if}
+			</a>
+		{/each}
+	</div>
 
 	<footer class="foot">
 		<a href="https://github.com/leungandi/nce-player" rel="noopener noreferrer">GitHub</a>
@@ -97,151 +174,213 @@
 
 <style>
 	.page {
-		max-width: 780px;
+		max-width: 760px;
 		margin: 0 auto;
-		padding: 32px 20px 48px;
+		padding: 28px 20px 40px;
 	}
 
-	.head {
+	.hero {
 		display: flex;
 		align-items: flex-start;
 		justify-content: space-between;
 		gap: 16px;
-		margin-bottom: 28px;
+		margin-bottom: 24px;
 	}
 
 	h1 {
 		margin: 0;
-		font-size: 1.75rem;
+		font-size: 1.7rem;
 		letter-spacing: 0.01em;
 	}
 
-	.sub {
+	.tagline {
 		margin: 6px 0 0;
 		color: var(--text-muted);
-		font-size: 0.9rem;
+		font-size: 0.86rem;
 	}
 
-	.theme {
+	.icon-btn {
 		flex: none;
-		width: 40px;
-		height: 40px;
+		display: grid;
+		place-items: center;
+		width: 38px;
+		height: 38px;
 		border: 1px solid var(--border);
 		border-radius: 999px;
 		background: var(--bg-elevated);
 		color: var(--text);
-		font-size: 1rem;
 		cursor: pointer;
-		transition: border-color 0.15s ease;
 	}
 
-	.theme:hover {
+	.icon-btn:hover {
 		border-color: var(--accent);
+		color: var(--accent);
 	}
 
-	.card {
+	.actions {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 12px;
+		margin-bottom: 12px;
+	}
+
+	.action {
+		display: grid;
+		grid-template-columns: auto 1fr;
+		grid-template-rows: auto auto;
+		align-items: center;
+		column-gap: 10px;
+		padding: 14px 16px;
 		background: var(--bg-elevated);
 		border: 1px solid var(--border);
 		border-radius: var(--radius);
-		box-shadow: var(--shadow);
-		padding: 20px 22px;
-		margin-bottom: 18px;
-	}
-
-	h2 {
-		margin: 0 0 10px;
-		font-size: 1rem;
-		color: var(--text-muted);
-		font-weight: 600;
-	}
-
-	.card p {
-		margin: 0;
-		line-height: 1.7;
-	}
-
-	.cta {
-		margin-top: 14px !important;
-	}
-
-	.cta a {
-		color: var(--accent);
 		text-decoration: none;
+		color: var(--text);
+		transition:
+			border-color 0.15s ease,
+			transform 0.15s ease;
+	}
+
+	.action:hover {
+		border-color: var(--accent);
+	}
+
+	.action svg {
+		grid-row: span 2;
+		color: var(--accent);
+	}
+
+	.action-main {
+		font-size: 0.95rem;
 		font-weight: 600;
+	}
+
+	.action-sub {
+		color: var(--text-muted);
+		font-size: 0.76rem;
+	}
+
+	.action-sub b {
+		color: var(--accent);
+	}
+
+	.resume {
+		display: grid;
+		grid-template-columns: auto 1fr auto;
+		grid-template-rows: auto auto;
+		align-items: center;
+		column-gap: 10px;
+		padding: 14px 16px;
+		margin-bottom: 28px;
+		background: var(--accent-soft);
+		border: 1px solid transparent;
+		border-radius: var(--radius);
+		text-decoration: none;
+		color: var(--text);
+	}
+
+	.resume:hover {
+		border-color: var(--accent);
+	}
+
+	.resume-label {
+		grid-column: 1;
+		color: var(--accent);
+		font-size: 0.74rem;
+		font-weight: 600;
+	}
+
+	.resume-title {
+		grid-column: 2;
+		grid-row: 1;
+		font-weight: 600;
+	}
+
+	.resume-book {
+		grid-column: 2;
+		grid-row: 2;
+		color: var(--text-muted);
+		font-size: 0.76rem;
+	}
+
+	.resume svg {
+		grid-column: 3;
+		grid-row: span 2;
+		color: var(--accent);
+	}
+
+	.section {
+		margin: 0 0 12px;
+		font-size: 0.86rem;
+		font-weight: 600;
+		color: var(--text-muted);
 	}
 
 	.books {
-		list-style: none;
-		margin: 0;
-		padding: 0;
-	}
-
-	.books li + li {
-		border-top: 1px solid var(--border);
-	}
-
-	.books a {
-		display: flex;
-		flex-direction: column;
-		gap: 3px;
-		padding: 11px 2px;
-		text-decoration: none;
-	}
-
-	.books a:hover .book-name {
-		color: var(--accent);
-	}
-
-	.book-meta {
-		color: var(--text-muted);
-		font-size: 0.78rem;
-	}
-
-	.roadmap {
-		list-style: none;
-		margin: 0;
-		padding: 0;
-	}
-
-	.roadmap li {
 		display: grid;
-		grid-template-columns: 4.5rem 1fr auto;
-		align-items: baseline;
-		gap: 10px;
-		padding: 10px 0;
-		border-top: 1px solid var(--border);
+		grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+		gap: 12px;
 	}
 
-	.roadmap li:first-child {
-		border-top: none;
+	.book-card {
+		display: grid;
+		gap: 4px;
+		padding: 16px;
+		background: var(--bg-elevated);
+		border: 1px solid var(--border);
+		border-radius: var(--radius);
+		text-decoration: none;
+		color: var(--text);
+		transition:
+			border-color 0.15s ease,
+			box-shadow 0.15s ease;
 	}
 
-	.stage {
-		color: var(--text-muted);
-		font-size: 0.8rem;
-		font-variant-numeric: tabular-nums;
+	.book-card:hover {
+		border-color: var(--accent);
+		box-shadow: var(--shadow);
 	}
 
-	.state {
-		font-size: 0.78rem;
-		color: var(--text-muted);
-	}
-
-	.roadmap li.current .title {
+	.book-level {
+		color: var(--accent);
+		font-size: 0.76rem;
 		font-weight: 600;
 	}
 
-	.roadmap li.current .state {
-		color: var(--accent);
-		background: var(--accent-soft);
+	.book-name {
+		font-size: 0.95rem;
+		line-height: 1.4;
+	}
+
+	.book-count {
+		color: var(--text-muted);
+		font-size: 0.76rem;
+	}
+
+	.bar {
+		display: block;
+		height: 4px;
+		margin-top: 6px;
 		border-radius: 999px;
-		padding: 2px 10px;
+		background: var(--bg-sunken);
+		overflow: hidden;
+	}
+
+	.bar span {
+		display: block;
+		height: 100%;
+		background: var(--accent);
+	}
+
+	.book-progress {
+		color: var(--text-muted);
+		font-size: 0.72rem;
 	}
 
 	.foot {
-		margin-top: 28px;
+		margin-top: 32px;
 		color: var(--text-muted);
-		font-size: 0.85rem;
+		font-size: 0.82rem;
 	}
 
 	.foot a {
@@ -249,12 +388,8 @@
 	}
 
 	@media (max-width: 520px) {
-		.roadmap li {
-			grid-template-columns: 4.5rem 1fr;
-		}
-
-		.state {
-			grid-column: 2;
+		.actions {
+			grid-template-columns: 1fr;
 		}
 	}
 </style>

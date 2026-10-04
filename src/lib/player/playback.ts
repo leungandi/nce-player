@@ -23,6 +23,15 @@ export const LOOP_LABELS: Record<LoopMode, string> = {
 	book: '本书循环'
 };
 
+/** 工具栏里用的短标签，中文两三个字就够 */
+export const LOOP_SHORT: Record<LoopMode, string> = {
+	off: '关',
+	click: '点读',
+	one: '单句',
+	list: '本课',
+	book: '本书'
+};
+
 /** 中英对照显示方式。 */
 export const TRANSLATION_MODES = ['both', 'en', 'zh', 'blur'] as const;
 export type TranslationMode = (typeof TRANSLATION_MODES)[number];
@@ -32,6 +41,13 @@ export const TRANSLATION_LABELS: Record<TranslationMode, string> = {
 	en: '仅英文',
 	zh: '仅中文',
 	blur: '模糊中文'
+};
+
+export const TRANSLATION_SHORT: Record<TranslationMode, string> = {
+	both: '双语',
+	en: '英文',
+	zh: '中文',
+	blur: '模糊'
 };
 
 /** 单句循环只在这两种模式下生效。 */

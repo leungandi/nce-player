@@ -15,9 +15,11 @@
 		isSentenceLocked,
 		LOOP_LABELS,
 		LOOP_MODES,
+		LOOP_SHORT,
 		SPEEDS,
 		TRANSLATION_LABELS,
-		TRANSLATION_MODES
+		TRANSLATION_MODES,
+		TRANSLATION_SHORT
 	} from '#lib/player/playback.js';
 	import type { LoopMode, TranslationMode } from '#lib/player/playback.js';
 	import { formatTime } from '#lib/utils/time.js';
@@ -108,9 +110,9 @@
 
 	const SLEEP_OPTIONS: number[] = [0, 5, 10, 15, 20, 30, 45, 60];
 
-	const sleepLabel = $derived(
-		sleepMinutes > 0 ? `剩余 ${formatTime(Math.ceil(sleepLeft / 1000))}` : '关闭'
-	);
+	/** 工具栏空间有限，睡眠只显示倒计时或"睡眠"两个字 */
+	const sleepShort = $derived(sleepMinutes > 0 ? formatTime(Math.ceil(sleepLeft / 1000)) : '睡眠');
+	let showHints = $state(false);
 
 	/** 锁定模式下高亮锁定的那句，否则按播放时间走。 */
 	const activeIndex = $derived(
@@ -424,6 +426,11 @@
 		setupMediaSession();
 		wordSet = addedSet();
 		if (audioEl) audioEl.loop = loopMode === 'list';
+		try {
+			localStorage.setItem('nce:last', lesson.id);
+		} catch {
+			// 隐私模式下写不进去，忽略
+		}
 
 		window.addEventListener('keydown', onKeydown);
 		document.addEventListener('visibilitychange', saveProgress);
@@ -449,17 +456,58 @@
 
 <div class="stage">
 	<header class="bar">
-		<a class="back" href={resolve('/book/[key]', { key: lesson.book })}>← 目录</a>
+		<a class="back" href={resolve('/book/[key]', { key: lesson.book })}>
+			<svg width="16" height="16" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+				<path
+					d="M12 5l-5 5 5 5"
+					stroke="currentColor"
+					stroke-width="1.8"
+					stroke-linecap="round"
+					stroke-linejoin="round"
+				/>
+			</svg>
+			目录
+		</a>
 		<div class="meta">
 			<h1>{lesson.title}</h1>
-			<p>{lesson.book.toUpperCase()} · 第 {lesson.id.split('-')[1]} 课 · {lines.length} 句</p>
+			<p>{lesson.book.replace('nce', '第 ') } 册 · 第 {lesson.id.split('-')[1]} 课 · {lines.length} 句</p>
 		</div>
 		<nav class="nav">
 			{#if data.prev}
-				<a href={resolve('/lesson/[id]', { id: data.prev.id })}>上一课</a>
+				<a
+					class="nav-btn"
+					href={resolve('/lesson/[id]', { id: data.prev.id })}
+					title="上一课：{data.prev.title}"
+					aria-label="上一课"
+				>
+					<svg width="16" height="16" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+						<path
+							d="M12 5l-5 5 5 5"
+							stroke="currentColor"
+							stroke-width="1.8"
+							stroke-linecap="round"
+							stroke-linejoin="round"
+						/>
+					</svg>
+				</a>
 			{/if}
 			{#if data.next}
-				<a href={resolve('/lesson/[id]', { id: data.next.id })}>下一课</a>
+				<a
+					class="nav-btn"
+					href={resolve('/lesson/[id]', { id: data.next.id })}
+					title="下一课：{data.next.title}"
+					aria-label="下一课"
+				>
+					<svg width="16" height="16" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+						<path
+							d="M8 5l5 5-5 5"
+							stroke="currentColor"
+							stroke-width="1.8"
+							stroke-linecap="round"
+							stroke-linejoin="round"
+						/>
+					</svg>
+				</a>
 			{/if}
 		</nav>
 	</header>
@@ -505,34 +553,77 @@
 		</div>
 
 		<div class="row wrap">
-			{#each MODES as item (item.value)}
-				<button
-					class="chip"
-					class:on={mode === item.value}
-					type="button"
-					onclick={() => (mode = item.value)}
-				>
-					{item.label}
-				</button>
-			{/each}
+			<div class="segmented" role="tablist" aria-label="练习模式">
+				{#each MODES as item (item.value)}
+					<button
+						class="seg"
+						class:on={mode === item.value}
+						type="button"
+						role="tab"
+						aria-selected={mode === item.value}
+						onclick={() => (mode = item.value)}
+					>
+						{item.label}
+					</button>
+				{/each}
+			</div>
 		</div>
 
 		{#if mode === 'listen'}
-		<div class="row wrap">
-			<button class="chip" type="button" onclick={() => setLoop(cycle(LOOP_MODES, loopMode))}>
-				循环：{LOOP_LABELS[loopMode]}
+		<div class="toolbar">
+			<button
+				class="tool"
+				type="button"
+				onclick={() => setLoop(cycle(LOOP_MODES, loopMode))}
+				title="循环模式：{LOOP_LABELS[loopMode]}"
+			>
+				<svg viewBox="0 0 20 20" fill="none" aria-hidden="true">
+					<path
+						d="M4.5 8A5.5 5.5 0 0 1 13 4.5M11 2.5l2.5 2.5-2.5 2M15.5 12A5.5 5.5 0 0 1 7 15.5M9 17.5L6.5 15l2.5-2"
+						stroke="currentColor"
+						stroke-width="1.6"
+						stroke-linecap="round"
+						stroke-linejoin="round"
+					/>
+				</svg>
+				<span>{LOOP_SHORT[loopMode]}</span>
 			</button>
 
 			<button
-				class="chip"
+				class="tool"
 				type="button"
 				onclick={() => setTranslation(cycle(TRANSLATION_MODES, translation))}
+				title="显示方式：{TRANSLATION_LABELS[translation]}"
 			>
-				显示：{TRANSLATION_LABELS[translation]}
+				<svg viewBox="0 0 20 20" fill="none" aria-hidden="true">
+					<path
+						d="M3 4.5h8M7 3v1.5M9.5 4.5c0 4-2.5 7-6.5 9M5.5 8.5c1 2 2.6 3.6 4.5 4.5"
+						stroke="currentColor"
+						stroke-width="1.5"
+						stroke-linecap="round"
+						stroke-linejoin="round"
+					/>
+					<path
+						d="M11.5 17l3-8 3 8M12.6 14.5h3.8"
+						stroke="currentColor"
+						stroke-width="1.5"
+						stroke-linecap="round"
+						stroke-linejoin="round"
+					/>
+				</svg>
+				<span>{TRANSLATION_SHORT[translation]}</span>
 			</button>
 
-			<label class="chip select">
-				速度
+			<label class="tool" title="播放速度">
+				<svg viewBox="0 0 20 20" fill="none" aria-hidden="true">
+					<path
+						d="M4 14a7 7 0 1 1 12 0"
+						stroke="currentColor"
+						stroke-width="1.6"
+						stroke-linecap="round"
+					/>
+					<path d="M10 10.5 13 7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" />
+				</svg>
 				<select
 					value={rate}
 					onchange={(event) => setRate(Number(event.currentTarget.value))}
@@ -545,13 +636,21 @@
 			</label>
 
 			<button
-				class="chip"
-				class:armed={sleepMinutes > 0}
+				class="tool"
+				class:on={sleepMinutes > 0}
 				type="button"
 				onclick={cycleSleep}
-				title="到点自动暂停"
+				title="睡眠定时器：到点自动暂停"
 			>
-				睡眠：{sleepLabel}
+				<svg viewBox="0 0 20 20" fill="none" aria-hidden="true">
+					<path
+						d="M17.5 11.18a7.5 7.5 0 1 1-8.87-7.87 6 6 0 0 0 8.87 7.87Z"
+						stroke="currentColor"
+						stroke-width="1.6"
+						stroke-linejoin="round"
+					/>
+				</svg>
+				<span>{sleepShort}</span>
 			</button>
 		</div>
 		{/if}
@@ -640,12 +739,29 @@
 	{/if}
 
 	<footer class="hints">
-		<span><kbd>空格</kbd> 播放</span>
-		<span><kbd>←</kbd><kbd>→</kbd> 上一句 / 下一句</span>
-		<span><kbd>↑</kbd><kbd>↓</kbd> ±5 秒</span>
-		<span><kbd>R</kbd> 重播本句</span>
-		<span><kbd>L</kbd> 循环模式</span>
-		<span><kbd>T</kbd> 显示方式</span>
+		<button
+			class="hints-toggle"
+			type="button"
+			aria-expanded={showHints}
+			onclick={() => (showHints = !showHints)}
+		>
+			<svg width="15" height="15" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+				<rect x="2.5" y="6" width="15" height="9" rx="1.6" stroke="currentColor" stroke-width="1.5" />
+				<path d="M6 9v3M9 9v3M12 9v3M15 9v3" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" />
+			</svg>
+			快捷键
+		</button>
+
+		{#if showHints}
+			<div class="hints-list">
+				<span><kbd>空格</kbd> 播放 / 暂停</span>
+				<span><kbd>←</kbd><kbd>→</kbd> 上一句 / 下一句</span>
+				<span><kbd>↑</kbd><kbd>↓</kbd> ±5 秒</span>
+				<span><kbd>R</kbd> 重播本句</span>
+				<span><kbd>L</kbd> 循环模式</span>
+				<span><kbd>T</kbd> 显示方式</span>
+			</div>
+		{/if}
 	</footer>
 </div>
 
@@ -666,10 +782,18 @@
 	}
 
 	.back {
+		display: inline-flex;
+		align-items: center;
+		gap: 2px;
+		flex: none;
 		color: var(--text-muted);
 		text-decoration: none;
-		font-size: 0.88rem;
+		font-size: 0.84rem;
 		white-space: nowrap;
+	}
+
+	.back:hover {
+		color: var(--accent);
 	}
 
 	.meta {
@@ -680,23 +804,31 @@
 	.nav {
 		display: flex;
 		flex: none;
-		gap: 10px;
+		gap: 6px;
 	}
 
-	.nav a {
+	.nav-btn {
+		display: grid;
+		place-items: center;
+		width: 32px;
+		height: 32px;
+		border: 1px solid var(--border);
+		border-radius: 999px;
 		color: var(--text-muted);
 		text-decoration: none;
-		font-size: 0.8rem;
-		white-space: nowrap;
 	}
 
-	.nav a:hover {
+	.nav-btn:hover {
+		border-color: var(--accent);
 		color: var(--accent);
 	}
 
 	.meta h1 {
 		margin: 0;
 		font-size: 1.05rem;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
 	}
 
 	.meta p {
@@ -752,44 +884,90 @@
 		font-variant-numeric: tabular-nums;
 	}
 
-	.chip {
+	/* 模式切换：一条 segmented control，避免一排按钮 */
+	.segmented {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		width: 100%;
+		padding: 3px;
+		border-radius: 999px;
+		background: var(--bg-sunken);
+	}
+
+	.seg {
+		border: none;
+		background: transparent;
+		color: var(--text-muted);
+		border-radius: 999px;
+		padding: 7px 0;
+		font: inherit;
+		font-size: 0.84rem;
+		cursor: pointer;
+		transition:
+			background 0.15s ease,
+			color 0.15s ease;
+	}
+
+	.seg.on {
+		background: var(--bg-elevated);
+		color: var(--text);
+		font-weight: 600;
+		box-shadow: 0 1px 2px rgb(0 0 0 / 8%);
+	}
+
+	/* 工具条：图标加短标签，四个等宽，手机桌面都不挤 */
+	.toolbar {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		gap: 6px;
+		margin-top: 10px;
+	}
+
+	.tool {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 6px;
 		border: 1px solid var(--border);
 		background: var(--bg-elevated);
 		color: var(--text);
-		border-radius: 999px;
-		padding: 6px 12px;
-		font-size: 0.8rem;
+		border-radius: 10px;
+		padding: 8px 4px;
+		font: inherit;
+		font-size: 0.78rem;
 		cursor: pointer;
+		min-width: 0;
 	}
 
-	.chip:hover {
+	.tool:hover {
 		border-color: var(--accent);
 	}
 
-	.chip.armed {
+	.tool.on {
 		border-color: var(--accent);
 		color: var(--accent);
 		background: var(--accent-soft);
 	}
 
-	.chip.on {
-		border-color: var(--accent);
-		background: var(--accent-soft);
-		color: var(--accent);
-		font-weight: 600;
+	.tool svg {
+		flex: none;
+		width: 16px;
+		height: 16px;
 	}
 
-	.chip.select {
-		display: inline-flex;
-		align-items: center;
-		gap: 6px;
+	.tool span {
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
 	}
 
-	.chip select {
+	.tool select {
 		border: none;
 		background: transparent;
 		color: inherit;
 		font: inherit;
+		font-size: 0.78rem;
+		padding: 0;
 		cursor: pointer;
 	}
 
@@ -993,11 +1171,32 @@
 	}
 
 	.hints {
+		border-top: 1px solid var(--border);
+		padding: 6px 18px calc(8px + env(safe-area-inset-bottom));
+	}
+
+	.hints-toggle {
+		display: inline-flex;
+		align-items: center;
+		gap: 6px;
+		border: none;
+		background: transparent;
+		color: var(--text-muted);
+		font: inherit;
+		font-size: 0.74rem;
+		padding: 4px 0;
+		cursor: pointer;
+	}
+
+	.hints-toggle:hover {
+		color: var(--accent);
+	}
+
+	.hints-list {
 		display: flex;
 		flex-wrap: wrap;
-		gap: 12px;
-		padding: 8px 18px calc(10px + env(safe-area-inset-bottom));
-		border-top: 1px solid var(--border);
+		gap: 10px 14px;
+		padding: 6px 0 4px;
 		color: var(--text-muted);
 		font-size: 0.72rem;
 	}

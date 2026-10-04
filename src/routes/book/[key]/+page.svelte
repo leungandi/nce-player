@@ -7,7 +7,7 @@
 
 	const book = $derived(data.book);
 
-	/** 已听过的课：从本地进度里读出来，给列表加个进度提示。 */
+	/** 已听过的课：从本地进度读出来，给卡片加个标记 */
 	let progress = $state<Record<string, number>>({});
 
 	onMount(() => {
@@ -40,7 +40,18 @@
 
 <div class="page">
 	<header>
-		<a class="back" href={resolve('/')}>← 返回</a>
+		<a class="back" href={resolve('/')}>
+			<svg width="16" height="16" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+				<path
+					d="M12 5l-5 5 5 5"
+					stroke="currentColor"
+					stroke-width="1.8"
+					stroke-linecap="round"
+					stroke-linejoin="round"
+				/>
+			</svg>
+			全部课本
+		</a>
 		<h1>{book.name}</h1>
 		<p class="sub">
 			{book.titleEn} · 共 {book.lessons.length} 课
@@ -48,41 +59,50 @@
 		</p>
 	</header>
 
-	<ol class="list">
+	<div class="grid">
 		{#each book.lessons as lesson (lesson.id)}
-			<li>
-				<a href={resolve('/lesson/[id]', { id: lesson.id })}>
-					<span class="no">{lesson.label ?? String(lesson.no).padStart(2, '0')}</span>
-					<span class="title">{lesson.title}</span>
-					{#if progress[lesson.id]}
-						<span class="at">{formatTime(progress[lesson.id])}</span>
-					{/if}
-				</a>
-			</li>
+			<a
+				class="tile"
+				class:learned={progress[lesson.id]}
+				href={resolve('/lesson/[id]', { id: lesson.id })}
+			>
+				<span class="tile-no">{lesson.label ?? String(lesson.no).padStart(2, '0')}</span>
+				<span class="tile-title">{lesson.title}</span>
+				<span class="tile-at">
+					{#if progress[lesson.id]}已听到 {formatTime(progress[lesson.id])}{/if}
+				</span>
+			</a>
 		{/each}
-	</ol>
+	</div>
 </div>
 
 <style>
 	.page {
-		max-width: 720px;
+		max-width: 760px;
 		margin: 0 auto;
-		padding: 24px 18px 48px;
+		padding: 22px 18px 40px;
 	}
 
 	.back {
+		display: inline-flex;
+		align-items: center;
+		gap: 4px;
 		color: var(--text-muted);
 		text-decoration: none;
-		font-size: 0.85rem;
+		font-size: 0.84rem;
+	}
+
+	.back:hover {
+		color: var(--accent);
 	}
 
 	h1 {
-		margin: 10px 0 0;
+		margin: 12px 0 0;
 		font-size: 1.35rem;
 	}
 
 	.sub {
-		margin: 6px 0 22px;
+		margin: 6px 0 20px;
 		color: var(--text-muted);
 		font-size: 0.84rem;
 	}
@@ -93,53 +113,55 @@
 		color: var(--accent);
 		border-radius: 999px;
 		padding: 2px 9px;
-		font-size: 0.75rem;
+		font-size: 0.74rem;
 	}
 
-	.list {
-		list-style: none;
-		margin: 0;
-		padding: 0;
+	.grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+		gap: 10px;
+	}
+
+	.tile {
+		display: grid;
+		grid-template-rows: auto 1fr auto;
+		gap: 4px;
+		min-height: 84px;
+		padding: 12px 14px;
+		background: var(--bg-elevated);
 		border: 1px solid var(--border);
 		border-radius: var(--radius);
-		overflow: hidden;
-		background: var(--bg-elevated);
-	}
-
-	.list li + li {
-		border-top: 1px solid var(--border);
-	}
-
-	.list a {
-		display: flex;
-		align-items: baseline;
-		gap: 12px;
-		padding: 12px 16px;
 		text-decoration: none;
-		transition: background 0.12s ease;
+		color: var(--text);
+		transition:
+			border-color 0.15s ease,
+			box-shadow 0.15s ease;
 	}
 
-	.list a:hover {
-		background: var(--bg-sunken);
+	.tile:hover {
+		border-color: var(--accent);
+		box-shadow: var(--shadow);
 	}
 
-	.no {
-		flex: none;
-		width: 2em;
-		color: var(--text-muted);
-		font-size: 0.8rem;
+	.tile.learned {
+		border-left: 3px solid var(--accent);
+	}
+
+	.tile-no {
+		color: var(--accent);
+		font-size: 0.74rem;
+		font-weight: 600;
 		font-variant-numeric: tabular-nums;
 	}
 
-	.title {
-		flex: 1;
-		min-width: 0;
+	.tile-title {
+		font-size: 0.88rem;
+		line-height: 1.35;
 	}
 
-	.at {
-		flex: none;
+	.tile-at {
 		color: var(--text-muted);
-		font-size: 0.75rem;
+		font-size: 0.7rem;
 		font-variant-numeric: tabular-nums;
 	}
 </style>
