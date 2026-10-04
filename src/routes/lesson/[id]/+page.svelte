@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { resolve } from '$app/paths';
+	import { asset, resolve } from '$app/paths';
 	import { mediaUrl } from '#lib/data/assetUrl.js';
 	import { lookup } from '#lib/data/dict.js';
 	import type { Lookup } from '#lib/data/dict.js';
@@ -343,7 +343,8 @@
 			title: lesson.title,
 			artist: `${lesson.book.toUpperCase()} · 新概念英语`,
 			album: '精听学习站',
-			artwork: [{ src: mediaUrl('icons/icon-512.png'), sizes: '512x512', type: 'image/png' }]
+			// 封面图在站点自己的 static 里，不能走 mediaUrl（那是给音频仓库用的）
+			artwork: [{ src: asset('icons/icon-512.png'), sizes: '512x512', type: 'image/png' }]
 		});
 		navigator.mediaSession.setActionHandler('play', () => void audioEl?.play());
 		navigator.mediaSession.setActionHandler('pause', () => audioEl?.pause());

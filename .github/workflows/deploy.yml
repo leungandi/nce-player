@@ -42,8 +42,11 @@ jobs:
         env:
           # 自定义域名生效时 base 为空字符串，未生效时为 /nce-player
           BASE_PATH: ${{ steps.pages.outputs.base_path }}
-          # 音频放在独立资源仓库，构建时指向它的 Pages 地址
-          VITE_MEDIA_BASE: https://leungandi.github.io/nce-audio
+          # 音频放在独立资源仓库，用它的自定义域名直连。
+          # 不要用这两个：leungandi.github.io/nce-audio 会被 301 到 http://loveyy.net
+          # （桌面浏览器按混合内容拦掉）；loveyy.net 的 A 记录还指向 GitHub 旧 IP，
+          # HTTPS 证书不匹配。
+          VITE_MEDIA_BASE: https://nce-audio.loveyy.net
 
       - uses: actions/upload-pages-artifact@v3
         with:
