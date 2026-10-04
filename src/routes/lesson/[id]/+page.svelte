@@ -5,6 +5,9 @@
 	import type { Lookup } from '#lib/data/dict.js';
 	import { add as addWord, addedSet, remove as removeWord } from '#lib/store/wordbook.js';
 	import { tokenize } from '#lib/text/tokenize.js';
+	import Dictation from '#lib/lesson/Dictation.svelte';
+	import Recitation from '#lib/lesson/Recitation.svelte';
+	import Shadowing from '#lib/lesson/Shadowing.svelte';
 	import {
 		clampIndex,
 		cycle,
@@ -44,6 +47,19 @@
 	let sleepDeadline = $state(0);
 	let sleepLeft = $state(0);
 	let pendingSeek = 0;
+
+	type Mode = 'listen' | 'dictation' | 'recite' | 'shadow';
+	const MODES: Array<{ value: Mode; label: string }> = [
+		{ value: 'listen', label: '精听' },
+		{ value: 'dictation', label: '听写' },
+		{ value: 'recite', label: '背诵' },
+		{ value: 'shadow', label: '跟读' }
+	];
+	let mode = $state<Mode>('listen');
+
+	function pauseAudio() {
+		audioEl?.pause();
+	}
 
 	const tokenized = $derived(lines.map((line) => tokenize(line.en)));
 
@@ -489,6 +505,20 @@
 		</div>
 
 		<div class="row wrap">
+			{#each MODES as item (item.value)}
+				<button
+					class="chip"
+					class:on={mode === item.value}
+					type="button"
+					onclick={() => (mode = item.value)}
+				>
+					{item.label}
+				</button>
+			{/each}
+		</div>
+
+		{#if mode === 'listen'}
+		<div class="row wrap">
 			<button class="chip" type="button" onclick={() => setLoop(cycle(LOOP_MODES, loopMode))}>
 				循环：{LOOP_LABELS[loopMode]}
 			</button>
@@ -524,8 +554,10 @@
 				睡眠：{sleepLabel}
 			</button>
 		</div>
+		{/if}
 	</section>
 
+	{#if mode === 'listen'}
 	<main class="lines" bind:this={scroller} data-translation={translation}>
 		<ul>
 			{#each lines as line (line.i)}
@@ -572,6 +604,15 @@
 			{/each}
 		</ul>
 	</main>
+	{:else if mode === 'dictation'}
+		<main class="pane"><Dictation {lines} onPlay={activateLine} /></main>
+	{:else if mode === 'recite'}
+		<main class="pane"><Recitation {lines} {activeIndex} onPlay={activateLine} /></main>
+	{:else}
+		<main class="pane">
+			<Shadowing {lines} onPlay={activateLine} onStop={pauseAudio} />
+		</main>
+	{/if}
 
 	{#if activeWord}
 		<div class="word-panel" role="dialog" aria-label="单词释义">
@@ -731,6 +772,13 @@
 		background: var(--accent-soft);
 	}
 
+	.chip.on {
+		border-color: var(--accent);
+		background: var(--accent-soft);
+		color: var(--accent);
+		font-weight: 600;
+	}
+
 	.chip.select {
 		display: inline-flex;
 		align-items: center;
@@ -749,6 +797,11 @@
 		overflow-y: auto;
 		padding: 6px 10px 24px;
 		scroll-behavior: smooth;
+	}
+
+	.pane {
+		overflow-y: auto;
+		min-height: 0;
 	}
 
 	.lines ul {

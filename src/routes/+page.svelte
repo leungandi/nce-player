@@ -51,6 +51,14 @@
 		</section>
 
 		<section class="card">
+			<h2>练习</h2>
+			<p>从课文随机抽题：中译英自己写、完形填空选词、生词本还能做词义选择。</p>
+			<p class="cta">
+				<a href={resolve('/practice')}>开始练习 →</a>
+			</p>
+		</section>
+
+		<section class="card">
 			<h2>选择课本</h2>
 			{#if books.length}
 				<ul class="books">
