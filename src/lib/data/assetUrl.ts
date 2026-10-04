@@ -1,9 +1,13 @@
 import { asset } from '$app/paths';
 
 const configured = import.meta.env.VITE_MEDIA_BASE as string | undefined;
-/** 生产环境默认走独立资源仓库；开发环境留空，交给 vite 中间件。 */
+/**
+ * 音频托管域名。构建时由工作流传入 `VITE_MEDIA_BASE`（见 .github/workflows/deploy.yml），
+ * 那才是唯一的事实来源；这里的默认值只是不带环境变量直接跑生产构建时的兜底。
+ * 开发环境留空，交给 vite 中间件指向本地资源仓库。
+ */
 const MEDIA_BASE = (
-	configured ?? (import.meta.env.DEV ? '' : 'https://leungandi.github.io/nce-audio')
+	configured ?? (import.meta.env.DEV ? '' : 'https://nce-audio.loveyy.net')
 ).replace(/\/+$/, '');
 
 /**

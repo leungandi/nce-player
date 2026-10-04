@@ -2,7 +2,7 @@
 
 一个自用的《新概念英语》在线学习站：逐句点读、精确循环、中英对照、练习与生词复习，可安装成 App 离线使用。
 
-**在线地址**：<https://leungandi.github.io/nce-player/>
+**在线地址**：<https://nce.loveyy.net/>
 
 ## 文档
 
@@ -241,12 +241,19 @@ node tools/align-lessons.mjs --lesson nce2-01
 | `nce-player` | 源码与课文 JSON（约 2 MB） | GitHub Actions |
 | `nce-audio` | 276 个音频（约 283 MB） | Deploy from a branch |
 
-音频地址由 `VITE_MEDIA_BASE` 决定：构建时未设置则用
-`https://leungandi.github.io/nce-audio`，开发环境留空、走本地中间件。
-想换 CDN 只改这一处。
+音频地址由环境变量 `VITE_MEDIA_BASE` 决定（具体值见
+[`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)）：生产构建时指向音频仓库的域名，
+开发环境留空、改由 Vite 中间件指向本地 `nce-audio/audio`。想换 CDN 只改这一处。
 
 站点的子路径由 GitHub 决定：没绑自定义域名时是 `/nce-player/`，绑了就是域名根目录。
 工作流用 `actions/configure-pages` 输出的 `base_path` 传给构建，两种情况都能正确生成资源链接。
+
+两个域名都套了 Cloudflare 代理，SSL/TLS 模式 **Full (strict)**。有三点值得记下来：
+
+1. **音频需要单独加缓存规则** —— Cloudflare 默认只缓存 `.js`/`.css`/图片那批扩展名，`.m4a` 不在名单里，
+   不加规则的话音频每次都回源。
+2. **`/.well-known/acme-challenge/*` 要绕过缓存** —— GitHub 每 90 天用这个路径续证书，被缓存挡住会续期失败。
+3. **HTML 与 `version.json` 保持不缓存是对的** —— 否则发版后访客会看到旧页面、检测不到新版本。
 
 ---
 

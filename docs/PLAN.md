@@ -344,12 +344,12 @@ Spring Boot + PostgreSQL，提供可选的账号与同步接口。前端只留�
 - 你已有 `leungandi.github.io` 仓库，CNAME = `loveyy.net`，是 hexo 博客。
 - 顶级域名已被博客占用，**新项目必须用子域名**，默认 `nce.loveyy.net`。
 
-### 9.2 配置步骤
+### 9.2 配置步骤（已按此执行）
 
 1. Pages 设置里填自定义域名，仓库内 `static/CNAME` 内容与之一致。
 2. DNS 加一条 `CNAME`：`nce` → `leungandi.github.io`。
 3. 等 GitHub 签发 Let's Encrypt 证书后，勾上 **Enforce HTTPS**。
-4. ~~接入 Cloudflare~~ —— **暂缓，见 §13 的 TODO**。
+4. 最后才接 Cloudflare（见 §13.4）：切 NS、打开代理、SSL/TLS 用 Full (strict)。
 
 > 顺序不能反。先开 Cloudflare 代理会让 GitHub 的证书签发被挡住，页面会长时间停在"证书未签发"。
 
@@ -428,7 +428,7 @@ Spring Boot + PostgreSQL，提供可选的账号与同步接口。前端只留�
 
 | 阶段 | 状态 | 说明 |
 |---|---|---|
-| 0 骨架与部署 | 已完成 | 代码已推送；Pages 启用与首次部署待你在仓库设置里开启 |
+| 0 骨架与部署 | 已完成 | 已上线；Pages 由 GitHub Actions 构建发布 |
 | 1 单课跑通 | 已完成 | 数据管线 + 精听页，已上线 |
 | 2 批量化与离线 | 已完成 | **四册 276 课**、课本目录、PWA 离线、锁屏控制、睡眠定时器 |
 | 3 学习闭环 | 已完成 | 词典、生词本 + FSRS、听写、背诵、跟读录音 |
@@ -454,7 +454,8 @@ Spring Boot + PostgreSQL，提供可选的账号与同步接口。前端只留�
 
 阶段 3 已完成的部分：
 
-- `tools/build-dict.mjs`：从 63 MB 的 ECDICT 裁出课文里真正出现的词，产出 262 KB 的 `dict.json`（2651 词条）。
+- `tools/build-dict.mjs`：从 63 MB 的 ECDICT 裁出课文里真正出现的词。
+  （最初只覆盖第二册：262 KB / 2651 词条；补全四册后重建为 792 KB / 7996 词条，见阶段 2 一节。）
   原形映射只作兜底——ECDICT 的 lemma 表按词频归并（`was → wa`、`they → he`），直接查得到就用直接词条。
 - 课文里每个单词可点，弹出音标、释义、考试标签与所在句子，一键加入生词本。
 - 生词本（`src/lib/store/wordbook.ts`）+ FSRS 调度（`ts-fsrs`），复习页 `/review` 四个评分按钮各自显示下次间隔。
@@ -507,10 +508,12 @@ Spring Boot + PostgreSQL，提供可选的账号与同步接口。前端只留�
 ### 13.2 与初版计划的偏差
 
 1. **课文 JSON 放站点仓库，不放资源仓库。** 一课 JSON 只有几 KB，放进站点才能预渲染成静态 HTML（SEO、分享、秒开）；276 课合计约 1 MB，可以接受。资源仓库只装音频。
-2. **阶段 1 临时把一课音频放进 `static/audio/`（1.45 MB）。** 为了先让域名上的演示端到端可用。阶段 2 迁到独立资源域名，代码仓库不再收音频。
-3. **句子边界目前是估算值**（`end = 下一句起点 − 0.15s`，标记 `alignment: "estimated"`）。比上游"结束时间直接取下一句起点"干净，但仍不是真实语音边界；阶段 2 用 WhisperX 替换。
+2. ~~**阶段 1 临时把一课音频放进 `static/audio/`（1.45 MB）。**~~ **已解决**：阶段 2 把音频迁到了独立资源仓库，代码仓库不再收音频。
+3. ~~**句子边界是估算值。**~~ **已解决**：改用 ffmpeg 静音检测校准（`alignment: "aligned"`），
+   比原计划的 WhisperX 轻得多——不用装 PyTorch，276 课几分钟跑完，效果足够。
 4. **翻译标记为 `translation: "machine"`**，来源是上游站点的机翻稿，保留待校对。
-5. **本地没有 ffmpeg**，阶段 1 直接用上游原始 mp3（约 145 kbps）。阶段 2 装 ffmpeg 后再转 AAC 64 kbps。
+5. ~~**本地没有 ffmpeg**，阶段 1 直接用上游原始 mp3。~~ **已解决**：用 `ffmpeg-static` 作为开发依赖，
+   管线里直接把音频转成 AAC 单声道 64 kbps（276 课从 617 MB 压到 282.6 MB）。
 
 ### 13.3 工程细节备忘（SvelteKit 3 与 2.x 的差异）
 
@@ -526,7 +529,10 @@ Spring Boot + PostgreSQL，提供可选的账号与同步接口。前端只留�
       代理期间 GitHub 的证书续期依赖于 `/.well-known/acme-challenge/*` 不被缓存，建议加一条绕过缓存的规则。
 - [x] 句子边界校准（改用 ffmpeg 静音检测，无需 WhisperX）。
 - [x] 装 ffmpeg，音频转 AAC 单声道 64 kbps。
-- [ ] 音频迁出代码仓库。
-- [ ] 数据管线批量化，并自动生成课文清单与课本登记表。
-- [ ] 词典接入（ECDICT），支撑生词本与 SRS。
-- [ ] Service Worker 离线。
+- [x] 音频迁出代码仓库（独立 `nce-audio` 仓库，站点只存相对路径）。
+- [x] 数据管线批量化，并自动生成课文清单（`tools/build-book.mjs`）。
+- [x] 词典接入（ECDICT），支撑生词本与 SRS。
+- [x] Service Worker 离线。
+- [ ] 中文翻译校对（当前是上游机翻初稿，标记 `translation: "machine"`）。
+- [ ] 跟读录音持久化（目前只存在内存，切换模式或刷新即丢）。
+- [ ] 阶段 4 剩余三项：逐句讲解（需 LLM 接口）、发音评分（需语音服务）、跨设备同步（需后端）。

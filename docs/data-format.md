@@ -149,7 +149,7 @@
 | 环境 | 结果 |
 |---|---|
 | 开发 | `/audio/nce2-01.m4a`，由 `vite.config.ts` 里的中间件指向本地 `nce-audio/audio` |
-| 生产 | `https://leungandi.github.io/nce-audio/audio/nce2-01.m4a` |
+| 生产 | 由构建时的 `VITE_MEDIA_BASE` 拼出，见 [`.github/workflows/deploy.yml`](../.github/workflows/deploy.yml) |
 | 换 CDN | 设置环境变量 `VITE_MEDIA_BASE`，代码不用改 |
 
 `src` 如果本身就是 `http(s)://` 开头的绝对地址，会原样使用——留给以后把个别音频放到别处。
