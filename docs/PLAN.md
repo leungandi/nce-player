@@ -521,7 +521,9 @@ Spring Boot + PostgreSQL，提供可选的账号与同步接口。前端只留�
 
 ### 13.4 TODO
 
-- [ ] **接入 Cloudflare**：等 GitHub 证书签发并开启 Enforce HTTPS 之后再开橙色云朵，SSL/TLS 选 Full (strict)。**当前暂缓。**
+- [x] **接入 Cloudflare**：先让 GitHub 签发证书并开启 Enforce HTTPS，再切 NS 到 Cloudflare、打开代理，SSL/TLS 用 Full (strict)。
+      注意两点：Cloudflare 免费版**没有中国大陆节点**（提速有限，主要是缓存与统一 HTTPS）；
+      代理期间 GitHub 的证书续期依赖于 `/.well-known/acme-challenge/*` 不被缓存，建议加一条绕过缓存的规则。
 - [x] 句子边界校准（改用 ffmpeg 静音检测，无需 WhisperX）。
 - [x] 装 ffmpeg，音频转 AAC 单声道 64 kbps。
 - [ ] 音频迁出代码仓库。
