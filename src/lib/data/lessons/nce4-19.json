@@ -7,138 +7,138 @@
 		"src": "audio/nce4-19.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.79,
-			"end": 2.55,
+			"end": 2.024,
 			"en": "Lesson 19",
 			"zh": "第19课"
 		},
 		{
 			"i": 1,
 			"start": 2.7,
-			"end": 10.71,
+			"end": 9.286,
 			"en": "The stuff of dreams",
 			"zh": "梦的本质"
 		},
 		{
 			"i": 2,
 			"start": 10.86,
-			"end": 18.22,
+			"end": 16.322,
 			"en": "What is going on when a person experiences rapid eye-movements during sleep?",
 			"zh": "一个人在睡眠中经历快速眼动时发生了什么？"
 		},
 		{
 			"i": 3,
 			"start": 18.37,
-			"end": 28.56,
+			"end": 27.543,
 			"en": "It is fairly clear that the sleeping period must have some function, and because there is so much of it the function would seem to be important.",
 			"zh": "很清楚，睡眠期一定有某种功能，而且由于睡眠期很长，这种功能似乎很重要。"
 		},
 		{
 			"i": 4,
 			"start": 28.71,
-			"end": 35.01,
+			"end": 34.03,
 			"en": "Speculations about its nature have been going on for literally thousands of years,",
 			"zh": "关于其本质的猜测已经持续了几千年，"
 		},
 		{
 			"i": 5,
 			"start": 35.16,
-			"end": 45.21,
+			"end": 44.615,
 			"en": "and one odd finding that makes the problem puzzling is that it looks very much as if sleeping is not simply a matter of giving the body a rest.",
 			"zh": "一个令人困惑的奇怪发现是，睡眠似乎不仅仅是让身体休息。"
 		},
 		{
 			"i": 6,
 			"start": 45.36,
-			"end": 55.6,
+			"end": 54.778,
 			"en": "'Rest', in terms of muscle relaxation and so on, can be achieved by a brief period lying, or even sitting down.",
 			"zh": "从肌肉放松等方面来看，“休息”可以通过短暂的躺卧，甚至坐下来实现。"
 		},
 		{
 			"i": 7,
 			"start": 55.75,
-			"end": 66.12,
+			"end": 65.423,
 			"en": "The body's tissues are self-repairing and self-restoring to a degree, and function best when more or less continuously active.",
 			"zh": "身体的组织在一定程度上是自我修复和自我恢复的，并且在或多或少持续活动时功能最佳。"
 		},
 		{
 			"i": 8,
 			"start": 66.27,
-			"end": 75.51,
+			"end": 73.854,
 			"en": "In fact a basic amount of movement occurs during sleep which is specifically concerned with preventing muscle inactivity.",
 			"zh": "事实上，在睡眠期间会发生一定程度的运动，这尤其旨在防止肌肉不活动。"
 		},
 		{
 			"i": 9,
 			"start": 75.66,
-			"end": 83.5,
+			"end": 82.541,
 			"en": "If it is not a question of resting the body, then perhaps it is the brain that needs resting?",
 			"zh": "如果不是身体休息的问题，那么也许是大脑需要休息？"
 		},
 		{
 			"i": 10,
 			"start": 83.65,
-			"end": 89.22,
+			"end": 88.42,
 			"en": "This might be a plausible hypothesis were it not for two factors.",
 			"zh": "要不是有两个因素，这可能是一个合理的假设。"
 		},
 		{
 			"i": 11,
 			"start": 89.37,
-			"end": 100.6,
+			"end": 99.509,
 			"en": "First the electroencephalograph (which is simply a device for recording the electrical activity of the brain by attaching electrodes to the scalp)",
 			"zh": "首先，脑电图仪（它只是一种通过将电极连接到头皮来记录大脑电活动的设备）"
 		},
 		{
 			"i": 12,
 			"start": 100.75,
-			"end": 105.65,
+			"end": 105.1,
 			"en": "shows that while there is a change in the pattern of activity during sleep,",
 			"zh": "表明虽然睡眠期间的活动模式有所变化，"
 		},
 		{
 			"i": 13,
 			"start": 105.8,
-			"end": 111.21,
+			"end": 110.233,
 			"en": "there is no evidence that the total amount of activity is any less.",
 			"zh": "但没有证据表明总活动量有所减少。"
 		},
 		{
 			"i": 14,
 			"start": 111.36,
-			"end": 115.85,
+			"end": 114.986,
 			"en": "The second factor is more interesting and more fundamental.",
 			"zh": "第二个因素更有趣也更具根本性。"
 		},
 		{
 			"i": 15,
 			"start": 116,
-			"end": 126.76,
+			"end": 125.933,
 			"en": "Some years ago an American psychiatrist named William Dement published experiments dealing with the recording of eye-movements during sleep.",
 			"zh": "几年前，一位名叫威廉·德门特的美国精神病学家发表了关于记录睡眠期间眼球运动的实验。"
 		},
 		{
 			"i": 16,
 			"start": 126.91,
-			"end": 140.18,
+			"end": 139.457,
 			"en": "He showed that the average individual's sleep cycle is punctuated with peculiar bursts of eye-movements, some drifting and slow, others jerky and rapid.",
 			"zh": "他表明，普通人的睡眠周期会伴随着奇特的眼球运动爆发，有些是漂移而缓慢的，有些是抽搐而快速的。"
 		},
 		{
 			"i": 17,
 			"start": 140.33,
-			"end": 146.76,
+			"end": 145.721,
 			"en": "People woken during these periods of eye-movements generally reported that they had been dreaming.",
 			"zh": "在这些眼球运动期间被唤醒的人通常报告说他们一直在做梦。"
 		},
 		{
 			"i": 18,
 			"start": 146.91,
-			"end": 150.7,
+			"end": 149.965,
 			"en": "When woken at other times they reported no dreams.",
 			"zh": "而在其他时候被唤醒时，他们报告说没有做梦。"
 		},
@@ -152,21 +152,21 @@
 		{
 			"i": 20,
 			"start": 156.3,
-			"end": 165.29,
+			"end": 164.608,
 			"en": "and another group were disturbed for an equal period of time but when they were not exhibiting eye-movements,",
 			"zh": "而另一组人在相同的时间内被打扰，但当时他们没有表现出眼球运动，"
 		},
 		{
 			"i": 21,
 			"start": 165.44,
-			"end": 174.73,
+			"end": 173.54,
 			"en": "the first group began to show some personality disorders while the others seemed more or less unaffected.",
 			"zh": "第一组人开始表现出一些人格障碍，而其他人则或多或少地未受影响。"
 		},
 		{
 			"i": 22,
 			"start": 174.88,
-			"end": 178.88,
+			"end": 180.68,
 			"en": "The implications of all this were that it was not the disturbance of sleep that mattered, but the disturbance of dreaming.",
 			"zh": "所有这些都表明，重要的不是睡眠受到干扰，而是做梦受到干扰。"
 		}

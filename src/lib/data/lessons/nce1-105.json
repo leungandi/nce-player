@@ -7,180 +7,180 @@
 		"src": "audio/nce1-105.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.31,
-			"end": 3.3,
+			"end": 2.641,
 			"en": "Lesson 105",
 			"zh": "第105课"
 		},
 		{
 			"i": 1,
 			"start": 3.45,
-			"end": 6.93,
+			"end": 5.235,
 			"en": "Full of mistakes",
 			"zh": "错误百出"
 		},
 		{
 			"i": 2,
 			"start": 7.08,
-			"end": 13.34,
+			"end": 12.049,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答这个问题。"
 		},
 		{
 			"i": 3,
 			"start": 13.49,
-			"end": 18.18,
+			"end": 15.888,
 			"en": "What was Sandra's present?",
 			"zh": "桑德拉的礼物是什么？"
 		},
 		{
 			"i": 4,
 			"start": 18.33,
-			"end": 20.48,
+			"end": 20.13,
 			"en": "Where's Sandra, Bob?",
 			"zh": "桑德拉在哪里，鲍勃？"
 		},
 		{
 			"i": 5,
 			"start": 20.63,
-			"end": 23.26,
+			"end": 21.756,
 			"en": "I want her.",
 			"zh": "我找她。"
 		},
 		{
 			"i": 6,
 			"start": 23.41,
-			"end": 27.23,
+			"end": 25.77,
 			"en": "Do you want to speak to her?",
 			"zh": "你想和她说话吗？"
 		},
 		{
 			"i": 7,
 			"start": 27.38,
-			"end": 29.47,
+			"end": 28.856,
 			"en": "Yes, I do.",
 			"zh": "是的，我想。"
 		},
 		{
 			"i": 8,
 			"start": 29.62,
-			"end": 33.27,
+			"end": 32.687,
 			"en": "I want her to come to my office.",
 			"zh": "我要她到我办公室来。"
 		},
 		{
 			"i": 9,
 			"start": 33.42,
-			"end": 37.07,
+			"end": 35.989,
 			"en": "Tell her to come at once.",
 			"zh": "告诉她马上过来。"
 		},
 		{
 			"i": 10,
 			"start": 37.22,
-			"end": 40.5,
+			"end": 40.253,
 			"en": "Did you want to see me?",
 			"zh": "你想见我吗？"
 		},
 		{
 			"i": 11,
 			"start": 40.65,
-			"end": 43.56,
+			"end": 42.669,
 			"en": "Ah, yes, Sandra.",
 			"zh": "啊，是的，桑德拉。"
 		},
 		{
 			"i": 12,
 			"start": 43.71,
-			"end": 47.11,
+			"end": 46.563,
 			"en": "How do you spell 'intelligent'?",
 			"zh": "'intelligent'怎么拼写？"
 		},
 		{
 			"i": 13,
 			"start": 47.26,
-			"end": 49.46,
+			"end": 48.788,
 			"en": "Can you tell me?",
 			"zh": "你能告诉我吗？"
 		},
 		{
 			"i": 14,
 			"start": 49.61,
-			"end": 60.68,
+			"end": 59.752,
 			"en": "I-N-T-E-L-L-I-G-E-N-T.",
 			"zh": "I-N-T-E-L-L-I-G-E-N-T。"
 		},
 		{
 			"i": 15,
 			"start": 60.83,
-			"end": 62.64,
+			"end": 61.922,
 			"en": "That's right.",
 			"zh": "对了。"
 		},
 		{
 			"i": 16,
 			"start": 62.79,
-			"end": 66.6,
+			"end": 65.869,
 			"en": "You've typed it with only one 'L'.",
 			"zh": "你只打了一个'L'。"
 		},
 		{
 			"i": 17,
 			"start": 66.75,
-			"end": 70.5,
+			"end": 69.974,
 			"en": "This letter's full of mistakes.",
 			"zh": "这封信错误百出。"
 		},
 		{
 			"i": 18,
 			"start": 70.65,
-			"end": 74.74,
+			"end": 73.607,
 			"en": "I want you to type it again.",
 			"zh": "我要你再打一遍。"
 		},
 		{
 			"i": 19,
 			"start": 74.89,
-			"end": 77.46,
+			"end": 77.069,
 			"en": "Yes, I'll do that.",
 			"zh": "好的，我会的。"
 		},
 		{
 			"i": 20,
 			"start": 77.61,
-			"end": 80.28,
+			"end": 79.833,
 			"en": "I'm sorry about that.",
 			"zh": "对此我很抱歉。"
 		},
 		{
 			"i": 21,
 			"start": 80.43,
-			"end": 83.63,
+			"end": 83.214,
 			"en": "And here's a little present for you.",
 			"zh": "这是给你的一份小礼物。"
 		},
 		{
 			"i": 22,
 			"start": 83.78,
-			"end": 85.33,
+			"end": 84.947,
 			"en": "What is it?",
 			"zh": "这是什么？"
 		},
 		{
 			"i": 23,
 			"start": 85.48,
-			"end": 87.46,
+			"end": 86.882,
 			"en": "It's a dictionary.",
 			"zh": "是本词典。"
 		},
 		{
 			"i": 24,
 			"start": 87.61,
-			"end": 91.61,
+			"end": 89.726,
 			"en": "I hope it'll help you.",
 			"zh": "我希望它能帮到你。"
 		}

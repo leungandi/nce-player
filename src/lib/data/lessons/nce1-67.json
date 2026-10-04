@@ -7,145 +7,145 @@
 		"src": "audio/nce1-67.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.73,
-			"end": 3.17,
+			"end": 2.51,
 			"en": "Lesson 67",
 			"zh": "第67课"
 		},
 		{
 			"i": 1,
 			"start": 3.32,
-			"end": 5.29,
+			"end": 4.313,
 			"en": "The weekend",
 			"zh": "周末"
 		},
 		{
 			"i": 2,
 			"start": 5.44,
-			"end": 10.72,
+			"end": 9.69,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答这个问题。"
 		},
 		{
 			"i": 3,
 			"start": 10.87,
-			"end": 17.64,
+			"end": 15.085,
 			"en": "What are the Johnsons going to do at the weekend?",
 			"zh": "约翰逊一家周末打算做什么？"
 		},
 		{
 			"i": 4,
 			"start": 17.79,
-			"end": 21.75,
+			"end": 21.198,
 			"en": "Hello. Were you at the butcher's?",
 			"zh": "你好。你刚才在肉店吗？"
 		},
 		{
 			"i": 5,
 			"start": 21.9,
-			"end": 23.74,
+			"end": 23.375,
 			"en": "Yes, I was.",
 			"zh": "是的，我在那里。"
 		},
 		{
 			"i": 6,
 			"start": 23.89,
-			"end": 27.26,
+			"end": 26.591,
 			"en": "Were you at the butcher's, too?",
 			"zh": "你也在肉店吗？"
 		},
 		{
 			"i": 7,
 			"start": 27.41,
-			"end": 30.38,
+			"end": 29.675,
 			"en": "No, I wasn't.",
 			"zh": "不，我不在。"
 		},
 		{
 			"i": 8,
 			"start": 30.53,
-			"end": 34.14,
+			"end": 33.467,
 			"en": "I was at the greengrocer's.",
 			"zh": "我在蔬菜店。"
 		},
 		{
 			"i": 9,
 			"start": 34.29,
-			"end": 37.03,
+			"end": 36.047,
 			"en": "How's Jimmy today?",
 			"zh": "吉米今天怎么样？"
 		},
 		{
 			"i": 10,
 			"start": 37.18,
-			"end": 41.02,
+			"end": 39.937,
 			"en": "He's very well, thank you.",
 			"zh": "他很好，谢谢你。"
 		},
 		{
 			"i": 11,
 			"start": 41.17,
-			"end": 45.62,
+			"end": 44.807,
 			"en": "Was he absent from school last week?",
 			"zh": "他上周没去上学吗？"
 		},
 		{
 			"i": 12,
 			"start": 45.77,
-			"end": 48.13,
+			"end": 47.492,
 			"en": "Yes, he was.",
 			"zh": "是的，他没去。"
 		},
 		{
 			"i": 13,
 			"start": 48.28,
-			"end": 55.78,
+			"end": 54.845,
 			"en": "He was absent on Monday, Tuesday, Wednesday and Thursday.",
 			"zh": "他周一、周二、周三和周四都没去。"
 		},
 		{
 			"i": 14,
 			"start": 55.93,
-			"end": 59.43,
+			"end": 58.168,
 			"en": "How are you all keeping?",
 			"zh": "你们都好吗？"
 		},
 		{
 			"i": 15,
 			"start": 59.58,
-			"end": 62.25,
+			"end": 61.591,
 			"en": "Very well, thank you.",
 			"zh": "我们都很好，谢谢。"
 		},
 		{
 			"i": 16,
 			"start": 62.4,
-			"end": 67.34,
+			"end": 66.613,
 			"en": "We're going to spend three days in the country!",
 			"zh": "我们要去乡下待三天！"
 		},
 		{
 			"i": 17,
 			"start": 67.49,
-			"end": 73.28,
+			"end": 72.024,
 			"en": "We're going to stay at my mother's for the weekend.",
 			"zh": "这个周末我们要待在我妈妈家。"
 		},
 		{
 			"i": 18,
 			"start": 73.43,
-			"end": 78.84,
+			"end": 78.317,
 			"en": "Friday, Saturday and Sunday in the country!",
 			"zh": "周五、周六和周日在乡下！"
 		},
 		{
 			"i": 19,
 			"start": 78.99,
-			"end": 82.99,
+			"end": 81.443,
 			"en": "Aren't you lucky!",
 			"zh": "你们真幸运！"
 		}

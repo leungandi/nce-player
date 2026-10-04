@@ -7,110 +7,110 @@
 		"src": "audio/nce2-77.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.98,
-			"end": 16.4,
+			"end": 14.402,
 			"en": "Did the doctors find out how the woman died?",
 			"zh": "医生们查出这名妇女是怎么死的了吗？"
 		},
 		{
 			"i": 1,
 			"start": 16.55,
-			"end": 24.99,
+			"end": 24.079,
 			"en": "The mummy of an Egyptian woman who died in 800 B.C. has just had an operation.",
 			"zh": "一具死于公元前800年的埃及妇女木乃伊刚刚接受了一次手术。"
 		},
 		{
 			"i": 2,
 			"start": 25.14,
-			"end": 32.29,
+			"end": 31.119,
 			"en": "The mummy is that of Shepenmut who was once a singer in the Temple of Thebes.",
 			"zh": "这具木乃伊是谢芬姆特的，她曾是底比斯神庙里的一名歌手。"
 		},
 		{
 			"i": 3,
 			"start": 32.44,
-			"end": 38.05,
+			"end": 37.409,
 			"en": "As there were strange marks on the X-ray plates taken of the mummy,",
 			"zh": "由于对这具木乃伊X光片上有一些奇怪的印记，"
 		},
 		{
 			"i": 4,
 			"start": 38.2,
-			"end": 44.77,
+			"end": 43.636,
 			"en": "doctors have been trying to find out whether the woman died of a rare disease.",
 			"zh": "医生们一直在设法弄清这名妇女是否死于一种罕见的疾病。"
 		},
 		{
 			"i": 5,
 			"start": 44.92,
-			"end": 49.45,
+			"end": 48.568,
 			"en": "The only way to do this was to operate.",
 			"zh": "唯一的方法就是进行手术。"
 		},
 		{
 			"i": 6,
 			"start": 49.6,
-			"end": 54.25,
+			"end": 53.77,
 			"en": "The operation, which lasted for over four hours,",
 			"zh": "手术持续了四个多小时，"
 		},
 		{
 			"i": 7,
 			"start": 54.4,
-			"end": 60.74,
+			"end": 60.122,
 			"en": "proved to be very difficult because of the hard resin which covered the skin.",
 			"zh": "由于木乃伊的皮肤上覆盖着坚硬的树脂，手术做起来非常困难。"
 		},
 		{
 			"i": 8,
 			"start": 60.89,
-			"end": 66.6,
+			"end": 65.672,
 			"en": "The doctors removed a section of the mummy and sent it to a laboratory.",
 			"zh": "医生们取走了木乃伊的一小块，并把它送到了实验室。"
 		},
 		{
 			"i": 9,
 			"start": 66.75,
-			"end": 76.95,
+			"end": 75.777,
 			"en": "They also found something which the X-ray plates did not show: a small wax figure of the god Duamutef.",
 			"zh": "他们还发现了一些X光片上没有显示出来的东西：一个小的、蜡制的杜穆特夫神像。"
 		},
 		{
 			"i": 10,
 			"start": 77.1,
-			"end": 83.63,
+			"end": 82.609,
 			"en": "This god which has the head of a cow was normally placed inside a mummy.",
 			"zh": "这个长着牛头的神像通常被放置在木乃伊里面。"
 		},
 		{
 			"i": 11,
 			"start": 83.78,
-			"end": 88.75,
+			"end": 87.727,
 			"en": "The doctors have not yet decided how the woman died.",
 			"zh": "医生们尚未确定这名妇女是如何死亡的。"
 		},
 		{
 			"i": 12,
 			"start": 88.9,
-			"end": 93.76,
+			"end": 93.32,
 			"en": "They feared that the mummy would fall to pieces when they cut it open,",
 			"zh": "他们担心当他们切开木乃伊时，它会碎裂，"
 		},
 		{
 			"i": 13,
 			"start": 93.91,
-			"end": 97.62,
+			"end": 96.812,
 			"en": "but fortunately this has not happened.",
 			"zh": "但幸运的是，这种情况并没有发生。"
 		},
 		{
 			"i": 14,
 			"start": 97.77,
-			"end": 101.77,
+			"end": 101.362,
 			"en": "The mummy successfully survived the operation.",
 			"zh": "这具木乃伊成功地经受住了这次手术。"
 		}

@@ -7,124 +7,124 @@
 		"src": "audio/nce1-93.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.51,
-			"end": 2.86,
+			"end": 2.208,
 			"en": "Lesson 93",
 			"zh": "第93课"
 		},
 		{
 			"i": 1,
 			"start": 3.01,
-			"end": 5.88,
+			"end": 4.463,
 			"en": "Our new neighbour",
 			"zh": "我们的新邻居"
 		},
 		{
 			"i": 2,
 			"start": 6.03,
-			"end": 11.83,
+			"end": 10.687,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答这个问题。"
 		},
 		{
 			"i": 3,
 			"start": 11.98,
-			"end": 17.04,
+			"end": 14.969,
 			"en": "Why is Nigel a lucky man?",
 			"zh": "为什么奈杰尔是个幸运的人？"
 		},
 		{
 			"i": 4,
 			"start": 17.19,
-			"end": 21.49,
+			"end": 20.769,
 			"en": "Nigel is our new next-door neighbour.",
 			"zh": "奈杰尔是我们的新邻居。"
 		},
 		{
 			"i": 5,
 			"start": 21.64,
-			"end": 24.01,
+			"end": 23.153,
 			"en": "He's a pilot.",
 			"zh": "他是一名飞行员。"
 		},
 		{
 			"i": 6,
 			"start": 24.16,
-			"end": 28.14,
+			"end": 26.588,
 			"en": "He was in the R.A.F.",
 			"zh": "他曾服役于皇家空军。"
 		},
 		{
 			"i": 7,
 			"start": 28.29,
-			"end": 33.04,
+			"end": 31.429,
 			"en": "He will fly to New York next month.",
 			"zh": "下个月他将飞往纽约。"
 		},
 		{
 			"i": 8,
 			"start": 33.19,
-			"end": 38.47,
+			"end": 37.082,
 			"en": "The month after next he'll fly to Tokyo.",
 			"zh": "下下个月他将飞往东京。"
 		},
 		{
 			"i": 9,
 			"start": 38.62,
-			"end": 42.16,
+			"end": 41.513,
 			"en": "At the moment, he's in Madrid.",
 			"zh": "此刻，他在马德里。"
 		},
 		{
 			"i": 10,
 			"start": 42.31,
-			"end": 46.43,
+			"end": 45.089,
 			"en": "He flew to Spain a week ago.",
 			"zh": "一周前他飞往西班牙。"
 		},
 		{
 			"i": 11,
 			"start": 46.58,
-			"end": 52,
+			"end": 50.721,
 			"en": "He'll return to London the week after next.",
 			"zh": "下下周他将返回伦敦。"
 		},
 		{
 			"i": 12,
 			"start": 52.15,
-			"end": 55.74,
+			"end": 55.257,
 			"en": "He's only forty-one years old,",
 			"zh": "他只有四十一岁，"
 		},
 		{
 			"i": 13,
 			"start": 55.89,
-			"end": 63.27,
+			"end": 61.942,
 			"en": "and he has already been to nearly every country in the world.",
 			"zh": "而且他已经去过世界上几乎每一个国家。"
 		},
 		{
 			"i": 14,
 			"start": 63.42,
-			"end": 67.05,
+			"end": 66.226,
 			"en": "Nigel is a very lucky man.",
 			"zh": "奈杰尔是一个非常幸运的人。"
 		},
 		{
 			"i": 15,
 			"start": 67.2,
-			"end": 70.37,
+			"end": 69.854,
 			"en": "But his wife isn't very lucky.",
 			"zh": "但是他的妻子却不那么幸运。"
 		},
 		{
 			"i": 16,
 			"start": 70.52,
-			"end": 74.52,
+			"end": 73.329,
 			"en": "She usually stays at home!",
 			"zh": "她通常待在家里！"
 		}

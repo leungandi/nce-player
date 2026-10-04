@@ -7,117 +7,117 @@
 		"src": "audio/nce1-39.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.78,
-			"end": 2.96,
+			"end": 2.375,
 			"en": "Lesson 39",
 			"zh": "第39课"
 		},
 		{
 			"i": 1,
 			"start": 3.11,
-			"end": 6.13,
+			"end": 4.677,
 			"en": "Don't drop it!",
 			"zh": "不要摔掉它！"
 		},
 		{
 			"i": 2,
 			"start": 6.28,
-			"end": 12.29,
+			"end": 10.626,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答问题。"
 		},
 		{
 			"i": 3,
 			"start": 12.44,
-			"end": 18.4,
+			"end": 16.276,
 			"en": "Where does Sam put the vase in the end?",
 			"zh": "萨姆最后把花瓶放在了哪里？"
 		},
 		{
 			"i": 4,
 			"start": 18.55,
-			"end": 23.87,
+			"end": 22.901,
 			"en": "What are you going to do with that vase, Penny?",
 			"zh": "你打算怎样处置那个花瓶，彭妮？"
 		},
 		{
 			"i": 5,
 			"start": 24.02,
-			"end": 29,
+			"end": 27.882,
 			"en": "I'm going to put it on this table, Sam.",
 			"zh": "萨姆，我准备把它放在这张桌子上。"
 		},
 		{
 			"i": 6,
 			"start": 29.15,
-			"end": 31.16,
+			"end": 30.456,
 			"en": "Don't do that.",
 			"zh": "不要那样做。"
 		},
 		{
 			"i": 7,
 			"start": 31.31,
-			"end": 33.48,
+			"end": 32.788,
 			"en": "Give it to me.",
 			"zh": "把它给我。"
 		},
 		{
 			"i": 8,
 			"start": 33.63,
-			"end": 37.24,
+			"end": 36.337,
 			"en": "What are you going to do with it?",
 			"zh": "你打算怎么处置它？"
 		},
 		{
 			"i": 9,
 			"start": 37.39,
-			"end": 42.88,
+			"end": 42.251,
 			"en": "I'm going to put it here, in front of the window.",
 			"zh": "我准备把它放在这儿，窗户前面。"
 		},
 		{
 			"i": 10,
 			"start": 43.03,
-			"end": 47.17,
+			"end": 46.216,
 			"en": "Be careful! Don't drop it!",
 			"zh": "小心！别把它摔了！"
 		},
 		{
 			"i": 11,
 			"start": 47.32,
-			"end": 50.16,
+			"end": 49.791,
 			"en": "Don't put it there, Sam.",
 			"zh": "萨姆，别把它放在那儿。"
 		},
 		{
 			"i": 12,
 			"start": 50.31,
-			"end": 54.55,
+			"end": 53.291,
 			"en": "Put it here, on this shelf.",
 			"zh": "把它放在这儿，这个架子上。"
 		},
 		{
 			"i": 13,
 			"start": 54.7,
-			"end": 56.59,
+			"end": 56.042,
 			"en": "There we are!",
 			"zh": "好了！"
 		},
 		{
 			"i": 14,
 			"start": 56.74,
-			"end": 59.32,
+			"end": 58.458,
 			"en": "It's a lovely vase.",
 			"zh": "这是一个漂亮的花瓶。"
 		},
 		{
 			"i": 15,
 			"start": 59.47,
-			"end": 63.47,
+			"end": 62.839,
 			"en": "Those flowers are lovely, too.",
 			"zh": "那些花也很漂亮。"
 		}

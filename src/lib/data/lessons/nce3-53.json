@@ -7,47 +7,47 @@
 		"src": "audio/nce3-53.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.4,
-			"end": 2.5,
+			"end": 1.968,
 			"en": "Lesson 53",
 			"zh": "第53课"
 		},
 		{
 			"i": 1,
 			"start": 2.65,
-			"end": 9.5,
+			"end": 8.547,
 			"en": "In the public interest",
 			"zh": "为了公众利益"
 		},
 		{
 			"i": 2,
 			"start": 9.65,
-			"end": 15.65,
+			"end": 13.188,
 			"en": "What could not be reported in the official files?",
 			"zh": "官方档案里什么内容不会被记录？"
 		},
 		{
 			"i": 3,
 			"start": 15.8,
-			"end": 23.23,
+			"end": 22.537,
 			"en": "The Scandinavian countries are much admired all over the world for their enlightened social policies.",
 			"zh": "斯堪的纳维亚国家以其开明的社会政策而受到全世界的普遍赞扬。"
 		},
 		{
 			"i": 4,
 			"start": 23.38,
-			"end": 33.07,
+			"end": 32.149,
 			"en": "Sweden has evolved an excellent system for protecting the individual citizen from high-handed or incompetent public officers.",
 			"zh": "瑞典已逐步建立起一套完善的制度来保护公民不受专横或渎职的政府官员的侵害。"
 		},
 		{
 			"i": 5,
 			"start": 33.22,
-			"end": 40.06,
+			"end": 38.739,
 			"en": "The system has worked so well, that it has been adopted in other countries too.",
 			"zh": "这套制度非常行之有效，以至于其他国家也采用了它。"
 		},
@@ -68,84 +68,84 @@
 		{
 			"i": 8,
 			"start": 56.76,
-			"end": 66.6,
+			"end": 65.91,
 			"en": "As long ago as 1809, the Swedish Parliament introduced a scheme to safeguard the interest of the individual.",
 			"zh": "早在1809年，瑞典议会就制定了一项保护个人利益的计划。"
 		},
 		{
 			"i": 9,
 			"start": 66.75,
-			"end": 78.48,
+			"end": 77.951,
 			"en": "A parliamentary committee representing all political parties appoints a person who is suitably qualified to investigate private grievances against the State.",
 			"zh": "一个由所有政党组成的议会委员会任命一位有资格调查个人对国家不满的投诉的人。"
 		},
 		{
 			"i": 10,
 			"start": 78.63,
-			"end": 89.36,
+			"end": 88.682,
 			"en": "The official title of the person is 'Justiteombudsman', but the Swedes commonly refer to him as the 'J.O.' or 'Ombudsman'.",
 			"zh": "这个人的官方头衔是“司法特派员”，但瑞典人通常称他为“J.O.”或“特派员”。"
 		},
 		{
 			"i": 11,
 			"start": 89.51,
-			"end": 93.57,
+			"end": 93.063,
 			"en": "The Ombudsman is not subject to political pressure.",
 			"zh": "监察官不受政治压力。"
 		},
 		{
 			"i": 12,
 			"start": 93.72,
-			"end": 100.16,
+			"end": 99.757,
 			"en": "He investigates complaints large and small that come to him from all levels of society.",
 			"zh": "他调查来自社会各阶层的大小投诉。"
 		},
 		{
 			"i": 13,
 			"start": 100.31,
-			"end": 108.63,
+			"end": 107.94,
 			"en": "As complaints must be made in writing, the Ombudsman receives an average of 1, 200 letters a year.",
 			"zh": "由于投诉必须以书面形式提出，监察官平均每年收到1200封信。"
 		},
 		{
 			"i": 14,
 			"start": 108.78,
-			"end": 116.11,
+			"end": 115.432,
 			"en": "He has eight lawyer assistants to help him and he examines every single letter in detail.",
 			"zh": "他有八名律师助理帮助他，他会详细审查每一封信。"
 		},
 		{
 			"i": 15,
 			"start": 116.26,
-			"end": 124.35,
+			"end": 123.727,
 			"en": "There is nothing secretive about the Ombudsman's work, for his correspondence is open to public inspection.",
 			"zh": "监察官的工作毫无秘密可言，因为他的信件都公开供公众查阅。"
 		},
 		{
 			"i": 16,
 			"start": 124.5,
-			"end": 131.11,
+			"end": 130.388,
 			"en": "If a citizen's complaint is justified the Ombudsman will act on his behalf.",
 			"zh": "如果公民的投诉是有根据的，监察官将代表他采取行动。"
 		},
 		{
 			"i": 17,
 			"start": 131.26,
-			"end": 135.85,
+			"end": 135.425,
 			"en": "The action he takes varies according to the nature of the complaint.",
 			"zh": "他采取的行动因投诉的性质而异。"
 		},
 		{
 			"i": 18,
 			"start": 136,
-			"end": 143.08,
+			"end": 142.411,
 			"en": "He may gently reprimand an official or even suggest to parliament that a law be altered.",
 			"zh": "他可以温和地训斥一名官员，甚至向议会建议修改法律。"
 		},
 		{
 			"i": 19,
 			"start": 143.23,
-			"end": 149.13,
+			"end": 148.263,
 			"en": "The following case is a typical example of the Ombudsman's work.",
 			"zh": "下面这个案例是监察官工作的典型例子。"
 		},
@@ -159,91 +159,91 @@
 		{
 			"i": 21,
 			"start": 157.37,
-			"end": 160.27,
+			"end": 159.654,
 			"en": "simply because he was a foreigner.",
 			"zh": "只因为他是个外国人。"
 		},
 		{
 			"i": 22,
 			"start": 160.42,
-			"end": 169.23,
+			"end": 168.706,
 			"en": "The Ombudsman immediately wrote to the Chief of Police in the district asking him to send a record of the case.",
 			"zh": "监察官立即写信给该地区的警察局长，要求他寄送案件记录。"
 		},
 		{
 			"i": 23,
 			"start": 169.38,
-			"end": 175.17,
+			"end": 174.931,
 			"en": "There was nothing in the record to show that the foreigner's complaint was justified",
 			"zh": "记录中没有任何内容表明该外国人的投诉是有根据的，"
 		},
 		{
 			"i": 24,
 			"start": 175.32,
-			"end": 180.41,
+			"end": 179.711,
 			"en": "and the Chief of Police strongly denied the accusation.",
 			"zh": "警察局长也强烈否认了这一指控。"
 		},
 		{
 			"i": 25,
 			"start": 180.56,
-			"end": 184.37,
+			"end": 183.998,
 			"en": "It was impossible for the Ombudsman to take action,",
 			"zh": "监察官无法采取行动，"
 		},
 		{
 			"i": 26,
 			"start": 184.52,
-			"end": 190.05,
+			"end": 189.643,
 			"en": "but when he received a similar complaint from another foreigner in the same village,",
 			"zh": "但当他收到同一村庄另一名外国人的类似投诉时，"
 		},
 		{
 			"i": 27,
 			"start": 190.2,
-			"end": 194.88,
+			"end": 194.31,
 			"en": "he immediately sent one of his lawyers to investigate the matter.",
 			"zh": "他立即派他的一名律师去调查此事。"
 		},
 		{
 			"i": 28,
 			"start": 195.03,
-			"end": 203.03,
+			"end": 202.551,
 			"en": "The lawyer ascertained that a policeman had indeed dealt roughly with foreigners on several occasions.",
 			"zh": "律师证实，一名警察确实曾多次粗暴对待外国人。"
 		},
 		{
 			"i": 29,
 			"start": 203.18,
-			"end": 210.4,
+			"end": 209.977,
 			"en": "The fact that the policeman was prejudiced against foreigners could not be recorded in the official files.",
 			"zh": "这名警察对外国人有偏见的事实，无法记录在官方档案中。"
 		},
 		{
 			"i": 30,
 			"start": 210.55,
-			"end": 220.09,
+			"end": 219.063,
 			"en": "It was only possible for the Ombudsman to find this out by sending one of his representatives to check the facts.",
 			"zh": "监察官只有通过派他的一名代表去核实事实才能发现这一点。"
 		},
 		{
 			"i": 31,
 			"start": 220.24,
-			"end": 224.05,
+			"end": 223.754,
 			"en": "The policeman in question was severely reprimanded",
 			"zh": "这名警察受到了严厉的训斥，"
 		},
 		{
 			"i": 32,
 			"start": 224.2,
-			"end": 231.63,
+			"end": 230.762,
 			"en": "and was informed that if any further complaints were lodged against him, he would be prosecuted.",
 			"zh": "并被告知，如果再有针对他的投诉，他将被起诉。"
 		},
 		{
 			"i": 33,
 			"start": 231.78,
-			"end": 235.78,
+			"end": 234.158,
 			"en": "The Ombudsman's prompt action at once put an end to an unpleasant practice which might have gone unnoticed.",
 			"zh": "监察官的迅速行动立即制止了一种可能被忽视的不愉快的做法。"
 		}

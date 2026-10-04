@@ -7,110 +7,110 @@
 		"src": "audio/nce2-20.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 11.03,
-			"end": 15.75,
+			"end": 14.841,
 			"en": "Why is fishing the writer's favourite sport?",
 			"zh": "为什么钓鱼是作者最喜欢的运动？"
 		},
 		{
 			"i": 1,
 			"start": 15.9,
-			"end": 18.73,
+			"end": 18.19,
 			"en": "Fishing is my favourite sport.",
 			"zh": "钓鱼是我最喜欢的运动。"
 		},
 		{
 			"i": 2,
 			"start": 18.88,
-			"end": 23.96,
+			"end": 22.972,
 			"en": "I often fish for hours without catching anything.",
 			"zh": "我经常钓好几个小时，却什么也钓不到。"
 		},
 		{
 			"i": 3,
 			"start": 24.11,
-			"end": 27.5,
+			"end": 26.519,
 			"en": "But this does not worry me.",
 			"zh": "但这并不困扰我。"
 		},
 		{
 			"i": 4,
 			"start": 27.65,
-			"end": 30.54,
+			"end": 29.864,
 			"en": "Some fishermen are unlucky.",
 			"zh": "有些渔夫运气不好。"
 		},
 		{
 			"i": 5,
 			"start": 30.69,
-			"end": 33.12,
+			"end": 32.713,
 			"en": "Instead of catching fish,",
 			"zh": "他们不是钓到鱼，"
 		},
 		{
 			"i": 6,
 			"start": 33.27,
-			"end": 37.18,
+			"end": 36.333,
 			"en": "they catch old boots and rubbish.",
 			"zh": "而是钓到旧靴子和垃圾。"
 		},
 		{
 			"i": 7,
 			"start": 37.33,
-			"end": 40.09,
+			"end": 39.495,
 			"en": "I am even less lucky.",
 			"zh": "我甚至更不走运。"
 		},
 		{
 			"i": 8,
 			"start": 40.24,
-			"end": 46.33,
+			"end": 45.2,
 			"en": "I never catch anything  --  not even old boots.",
 			"zh": "我什么也钓不到——甚至连旧靴子都钓不到。"
 		},
 		{
 			"i": 9,
 			"start": 46.48,
-			"end": 50.37,
+			"end": 50.001,
 			"en": "After having spent whole mornings on the river,",
 			"zh": "在河上度过整个上午之后，"
 		},
 		{
 			"i": 10,
 			"start": 50.52,
-			"end": 54.71,
+			"end": 53.863,
 			"en": "I always go home with an empty bag.",
 			"zh": "我总是空手回家。"
 		},
 		{
 			"i": 11,
 			"start": 54.86,
-			"end": 62.35,
+			"end": 61.332,
 			"en": "'You must give up fishing!' my friends say. 'It's a waste of time.'",
 			"zh": "“你必须放弃钓鱼！”我的朋友们说，“这简直是浪费时间。”"
 		},
 		{
 			"i": 12,
 			"start": 62.5,
-			"end": 66.9,
+			"end": 66.063,
 			"en": "But they don't realize one important thing.",
 			"zh": "但他们没有意识到一件重要的事情。"
 		},
 		{
 			"i": 13,
 			"start": 67.05,
-			"end": 70.63,
+			"end": 70.066,
 			"en": "I'm not really interested in fishing.",
 			"zh": "我对钓鱼并不真正感兴趣。"
 		},
 		{
 			"i": 14,
 			"start": 70.78,
-			"end": 74.78,
+			"end": 76.385,
 			"en": "I am only interested in sitting in a boat and doing nothing at all!",
 			"zh": "我只对坐在船上什么也不做感兴趣！"
 		}

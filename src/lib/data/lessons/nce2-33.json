@@ -7,12 +7,12 @@
 		"src": "audio/nce2-33.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.68,
-			"end": 14.47,
+			"end": 13.042,
 			"en": "Why was the girl in hospital?",
 			"zh": "女孩为什么住院了？"
 		},
@@ -33,7 +33,7 @@
 		{
 			"i": 3,
 			"start": 19.54,
-			"end": 23,
+			"end": 21.2,
 			"en": "what had happened to her.",
 			"zh": "发生在她身上的事情。"
 		},
@@ -54,14 +54,14 @@
 		{
 			"i": 6,
 			"start": 28.22,
-			"end": 31.34,
+			"end": 30.195,
 			"en": "and was caught in a storm.",
 			"zh": "结果遭遇了暴风雨。"
 		},
 		{
 			"i": 7,
 			"start": 31.49,
-			"end": 32.94,
+			"end": 32.568,
 			"en": "Towards evening,",
 			"zh": "傍晚时分，"
 		},
@@ -75,7 +75,7 @@
 		{
 			"i": 9,
 			"start": 35.13,
-			"end": 38.15,
+			"end": 37.178,
 			"en": "the girl jumped into the sea.",
 			"zh": "女孩跳入了海中。"
 		},
@@ -89,7 +89,7 @@
 		{
 			"i": 11,
 			"start": 40.63,
-			"end": 44.56,
+			"end": 43.488,
 			"en": "after spending the whole night in the water.",
 			"zh": "在水里待了一整夜。"
 		},
@@ -103,77 +103,77 @@
 		{
 			"i": 13,
 			"start": 47.5,
-			"end": 50.66,
+			"end": 49.571,
 			"en": "a distance of eight miles.",
 			"zh": "八英里的距离。"
 		},
 		{
 			"i": 14,
 			"start": 50.81,
-			"end": 52.75,
+			"end": 52.256,
 			"en": "Early next morning,",
 			"zh": "第二天一早，"
 		},
 		{
 			"i": 15,
 			"start": 52.9,
-			"end": 55.65,
+			"end": 54.864,
 			"en": "she saw a light ahead.",
 			"zh": "她看到前方有灯光。"
 		},
 		{
 			"i": 16,
 			"start": 55.8,
-			"end": 58.75,
+			"end": 58.462,
 			"en": "She knew she was near the shore",
 			"zh": "她知道她靠近岸边了"
 		},
 		{
 			"i": 17,
 			"start": 58.9,
-			"end": 63.36,
+			"end": 62.398,
 			"en": "because the light was high up on the cliffs.",
 			"zh": "因为灯光在高高的悬崖上。"
 		},
 		{
 			"i": 18,
 			"start": 63.51,
-			"end": 66.01,
+			"end": 65.586,
 			"en": "On arriving at the shore,",
 			"zh": "到达岸边后，"
 		},
 		{
 			"i": 19,
 			"start": 66.16,
-			"end": 69.41,
+			"end": 68.807,
 			"en": "the girl struggled up the cliff towards",
 			"zh": "女孩艰难地爬上悬崖"
 		},
 		{
 			"i": 20,
 			"start": 69.56,
-			"end": 71.94,
+			"end": 71.18,
 			"en": "the light she had seen.",
 			"zh": "朝着她看到的灯光。"
 		},
 		{
 			"i": 21,
 			"start": 72.09,
-			"end": 75.02,
+			"end": 74.171,
 			"en": "That was all she remembered.",
 			"zh": "这就是她所记得的一切。"
 		},
 		{
 			"i": 22,
 			"start": 75.17,
-			"end": 77.82,
+			"end": 77.41,
 			"en": "When she woke up a day later,",
 			"zh": "一天后她醒来时，"
 		},
 		{
 			"i": 23,
 			"start": 77.97,
-			"end": 81.97,
+			"end": 80.494,
 			"en": "she found herself in hospital.",
 			"zh": "她发现自己躺在医院里。"
 		}

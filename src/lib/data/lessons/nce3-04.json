@@ -7,124 +7,124 @@
 		"src": "audio/nce3-04.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.78,
-			"end": 2.29,
+			"end": 1.885,
 			"en": "Lesson 4",
 			"zh": "第4课"
 		},
 		{
 			"i": 1,
 			"start": 2.44,
-			"end": 11.19,
+			"end": 10.059,
 			"en": "The double life of Alfred Bloggs",
 			"zh": "阿尔弗雷德·布洛格斯的双重生活"
 		},
 		{
 			"i": 2,
 			"start": 11.34,
-			"end": 16.68,
+			"end": 14.45,
 			"en": "Why did Alf want a white-collar job?",
 			"zh": "阿尔弗为什么想找份白领工作？"
 		},
 		{
 			"i": 3,
 			"start": 16.83,
-			"end": 24.61,
+			"end": 24.033,
 			"en": "These days, people who do manual work often receive far more money than people who work in offices.",
 			"zh": "如今，从事体力劳动的人挣的钱，常常比办公室工作人员挣的钱多得多。"
 		},
 		{
 			"i": 4,
 			"start": 24.76,
-			"end": 36.59,
+			"end": 35.951,
 			"en": "People who work in offices are frequently referred to as 'white-collar workers' for the simple reason that they usually wear a collar and tie to go to work.",
 			"zh": "办公室工作人员通常被称为“白领工人”，原因很简单，他们上班时通常穿带领带的衬衫。"
 		},
 		{
 			"i": 5,
 			"start": 36.74,
-			"end": 48.04,
+			"end": 47.43,
 			"en": "Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers.",
 			"zh": "人性如此，许多人常常愿意牺牲较高的工资，以换取成为白领工人的殊荣。"
 		},
 		{
 			"i": 6,
 			"start": 48.19,
-			"end": 60.63,
+			"end": 59.439,
 			"en": "This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.",
 			"zh": "这可能导致一些奇怪的情况，就像阿尔弗雷德·布洛格斯的情况一样，他曾是埃尔斯米尔公司的一名清洁工。"
 		},
 		{
 			"i": 7,
 			"start": 60.78,
-			"end": 67.48,
+			"end": 66.928,
 			"en": "When he got married, Alf was too embarrassed to say anything to his wife about his job.",
 			"zh": "结婚时，阿尔弗太不好意思告诉妻子他的工作了。"
 		},
 		{
 			"i": 8,
 			"start": 67.63,
-			"end": 71.42,
+			"end": 70.886,
 			"en": "He simply told her that he worked for the Corporation.",
 			"zh": "他只告诉她他在公司上班。"
 		},
 		{
 			"i": 9,
 			"start": 71.57,
-			"end": 76.3,
+			"end": 75.935,
 			"en": "Every morning, he left home dressed in a smart black suit.",
 			"zh": "每天早上，他都穿着一套漂亮的黑色西装出门。"
 		},
 		{
 			"i": 10,
 			"start": 76.45,
-			"end": 82.75,
+			"end": 82.204,
 			"en": "He then changed into overalls and spent the next eight hours as a dustman.",
 			"zh": "然后他换上工作服，接下来的八个小时都当清洁工。"
 		},
 		{
 			"i": 11,
 			"start": 82.9,
-			"end": 88.87,
+			"end": 88.278,
 			"en": "Before returning home at night, he took a shower and changed back into his suit.",
 			"zh": "晚上回家前，他洗了个澡，又换回了他的西装。"
 		},
 		{
 			"i": 12,
 			"start": 89.02,
-			"end": 95.51,
+			"end": 95.039,
 			"en": "Alf did this for over two years and his fellow dustmen kept his secret.",
 			"zh": "阿尔弗这样做了两年多，他的清洁工同事们都替他保密。"
 		},
 		{
 			"i": 13,
 			"start": 95.66,
-			"end": 104.32,
+			"end": 103.958,
 			"en": "Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found another job.",
 			"zh": "阿尔弗的妻子从未发现她嫁给了一个清洁工，而且她永远也不会发现了，因为阿尔弗刚刚找到了另一份工作。"
 		},
 		{
 			"i": 14,
 			"start": 104.47,
-			"end": 107.46,
+			"end": 107.263,
 			"en": "He will soon be working in an office.",
 			"zh": "他很快就要在办公室工作了。"
 		},
 		{
 			"i": 15,
 			"start": 107.61,
-			"end": 116.9,
+			"end": 116.289,
 			"en": "He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money.",
 			"zh": "他挣的钱将只有以前的一半，但他觉得地位的提升，很值得损失这点钱。"
 		},
 		{
 			"i": 16,
 			"start": 117.05,
-			"end": 121.05,
+			"end": 118.299,
 			"en": "From now on, he will wear a suit all day and others will call him 'Mr.Bloggs', not 'Alf'.",
 			"zh": "从现在起，他将一整天都穿西装，别人会称呼他“布洛格斯先生”，而不是“阿尔弗”。"
 		}

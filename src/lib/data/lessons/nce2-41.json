@@ -7,103 +7,103 @@
 		"src": "audio/nce2-41.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 11.52,
-			"end": 17.68,
+			"end": 15.643,
 			"en": "What kind of shopping does the writer enjoy, do you think?",
 			"zh": "你认为作者喜欢哪种购物方式？"
 		},
 		{
 			"i": 1,
 			"start": 17.83,
-			"end": 22.84,
+			"end": 21.944,
 			"en": "'Do you call that a hat?' I said to my wife.",
 			"zh": "“你管那玩意儿叫帽子？”我对妻子说。"
 		},
 		{
 			"i": 2,
 			"start": 22.99,
-			"end": 26.13,
+			"end": 25.74,
 			"en": "'You needn't be so rude about it,'",
 			"zh": "“你没必要这么粗鲁，”"
 		},
 		{
 			"i": 3,
 			"start": 26.28,
-			"end": 31.53,
+			"end": 30.194,
 			"en": "my wife answered as she looked at herself in the mirror.",
 			"zh": "妻子对着镜子看着自己，回答道。"
 		},
 		{
 			"i": 4,
 			"start": 31.68,
-			"end": 37.79,
+			"end": 36.978,
 			"en": "I sat down on one of those modern chairs with holes in it and waited.",
 			"zh": "我坐在一把带洞的现代椅子上，等着。"
 		},
 		{
 			"i": 5,
 			"start": 37.94,
-			"end": 45.35,
+			"end": 44.393,
 			"en": "We had been in the hat shop for half an hour and my wife was still in front of the mirror.",
 			"zh": "我们已经在帽子店里待了半个小时了，妻子还在镜子前面。"
 		},
 		{
 			"i": 6,
 			"start": 45.5,
-			"end": 51.24,
+			"end": 50.458,
 			"en": "'We mustn't buy things we don't need,' I remarked suddenly.",
 			"zh": "“我们不该买不需要的东西，”我突然说道。"
 		},
 		{
 			"i": 7,
 			"start": 51.39,
-			"end": 55.32,
+			"end": 54.33,
 			"en": "I regretted saying it almost at once.",
 			"zh": "我几乎立刻就后悔说了这句话。"
 		},
 		{
 			"i": 8,
 			"start": 55.47,
-			"end": 59.83,
+			"end": 58.766,
 			"en": "'You needn't have said that,' my wife answered.",
 			"zh": "“你本没必要说那些话的，”妻子回答道。"
 		},
 		{
 			"i": 9,
 			"start": 59.98,
-			"end": 65.7,
+			"end": 64.516,
 			"en": "'I needn't remind you of that terrible tie you bought yesterday.'",
 			"zh": "“我也没必要提醒你昨天买的那条糟糕的领带。”"
 		},
 		{
 			"i": 10,
 			"start": 65.85,
-			"end": 73.25,
+			"end": 72.242,
 			"en": "'I find it beautiful,' I said. 'A man can never have too many ties.'",
 			"zh": "“我觉得它很漂亮，”我说，“男人永远不嫌领带多。”"
 		},
 		{
 			"i": 11,
 			"start": 73.4,
-			"end": 78.92,
+			"end": 77.789,
 			"en": "'And a woman can't have too many hats,' she answered.",
 			"zh": "“女人也永远不嫌帽子多，”她回答道。"
 		},
 		{
 			"i": 12,
 			"start": 79.07,
-			"end": 83.69,
+			"end": 82.968,
 			"en": "Ten minutes later we walked out of the shop together.",
 			"zh": "十分种后，我们一起走出了商店。"
 		},
 		{
 			"i": 13,
 			"start": 83.84,
-			"end": 87.84,
+			"end": 88.24,
 			"en": "My wife was wearing a hat that looked like a lighthouse!",
 			"zh": "妻子戴着一顶看起来像灯塔一样的帽子！"
 		}

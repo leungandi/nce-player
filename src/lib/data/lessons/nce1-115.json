@@ -7,179 +7,179 @@
 		"src": "audio/nce1-115.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.6,
-			"end": 4.08,
+			"end": 2.967,
 			"en": "Lesson 115",
 			"zh": "第115课"
 		},
 		{
 			"i": 1,
 			"start": 4.23,
-			"end": 6.81,
+			"end": 5.563,
 			"en": "Knock, knock!",
 			"zh": "敲敲门！"
 		},
 		{
 			"i": 2,
 			"start": 6.96,
-			"end": 12.59,
+			"end": 11.343,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答这个问题。"
 		},
 		{
 			"i": 3,
 			"start": 12.74,
-			"end": 17.92,
+			"end": 15.543,
 			"en": "What does Jim have to drink?",
 			"zh": "吉姆喝什么？"
 		},
 		{
 			"i": 4,
 			"start": 18.07,
-			"end": 21.41,
+			"end": 20.464,
 			"en": "Isn't there anyone at home?",
 			"zh": "家里没人吗？"
 		},
 		{
 			"i": 5,
 			"start": 21.56,
-			"end": 24.46,
+			"end": 23.628,
 			"en": "I'll knock again, Helen.",
 			"zh": "海伦，我再敲一次。"
 		},
 		{
 			"i": 6,
 			"start": 24.61,
-			"end": 27.45,
+			"end": 26.736,
 			"en": "Everything's very quiet.",
 			"zh": "一切都很安静。"
 		},
 		{
 			"i": 7,
 			"start": 27.6,
-			"end": 30.75,
+			"end": 30.406,
 			"en": "I'm sure there's no one at home.",
 			"zh": "我确信家里没人。"
 		},
 		{
 			"i": 8,
 			"start": 30.9,
-			"end": 33.46,
+			"end": 32.88,
 			"en": "But that's impossible.",
 			"zh": "但那不可能。"
 		},
 		{
 			"i": 9,
 			"start": 33.61,
-			"end": 37.65,
+			"end": 37.187,
 			"en": "Carol and Tom invited us to lunch.",
 			"zh": "卡罗尔和汤姆邀请我们吃午饭。"
 		},
 		{
 			"i": 10,
 			"start": 37.8,
-			"end": 40.55,
+			"end": 40.306,
 			"en": "Look through the window.",
 			"zh": "看看窗户。"
 		},
 		{
 			"i": 11,
 			"start": 40.7,
-			"end": 43.56,
+			"end": 42.457,
 			"en": "Can you see anything?",
 			"zh": "你能看到什么吗？"
 		},
 		{
 			"i": 12,
 			"start": 43.71,
-			"end": 45.63,
+			"end": 45.267,
 			"en": "Nothing at all.",
 			"zh": "什么都没有。"
 		},
 		{
 			"i": 13,
 			"start": 45.78,
-			"end": 49.07,
+			"end": 48.18,
 			"en": "Let's try the back door.",
 			"zh": "我们试试后门吧。"
 		},
 		{
 			"i": 14,
 			"start": 49.22,
-			"end": 53.07,
+			"end": 52.644,
 			"en": "Look! Everyone's in the garden.",
 			"zh": "看！大家都在花园里。"
 		},
 		{
 			"i": 15,
 			"start": 53.22,
-			"end": 57.16,
+			"end": 56.512,
 			"en": "Hello, Helen. Hello, Jim."
 		},
 		{
 			"i": 16,
 			"start": 57.31,
-			"end": 61.21,
+			"end": 60.777,
 			"en": "Everybody wants to have lunch in the garden.",
 			"zh": "大家都想在花园里吃午饭。"
 		},
 		{
 			"i": 17,
 			"start": 61.36,
-			"end": 64.76,
+			"end": 63.836,
 			"en": "It's nice and warm out here.",
 			"zh": "这里又好又暖和。"
 		},
 		{
 			"i": 18,
 			"start": 64.91,
-			"end": 68.58,
+			"end": 67.529,
 			"en": "Come and have something to drink.",
 			"zh": "来喝点什么吧。"
 		},
 		{
 			"i": 19,
 			"start": 68.73,
-			"end": 70.62,
+			"end": 69.944,
 			"en": "Thanks, Carol.",
 			"zh": "谢谢，卡罗尔。"
 		},
 		{
 			"i": 20,
 			"start": 70.77,
-			"end": 74.43,
+			"end": 73.927,
 			"en": "May I have a glass of beer please?",
 			"zh": "请给我一杯啤酒好吗？"
 		},
 		{
 			"i": 21,
 			"start": 74.58,
-			"end": 75.57,
+			"end": 75.177,
 			"en": "Beer?",
 			"zh": "啤酒？"
 		},
 		{
 			"i": 22,
 			"start": 75.72,
-			"end": 77.72,
+			"end": 77.389,
 			"en": "There's none left.",
 			"zh": "没剩下了。"
 		},
 		{
 			"i": 23,
 			"start": 77.87,
-			"end": 80.89,
+			"end": 80.531,
 			"en": "You can have some lemonade.",
 			"zh": "你可以喝些柠檬水。"
 		},
 		{
 			"i": 24,
 			"start": 81.04,
-			"end": 82.52,
+			"end": 82.18,
 			"en": "Lemonade!",
 			"zh": "柠檬水！"
 		},
@@ -193,14 +193,14 @@
 		{
 			"i": 26,
 			"start": 84.71,
-			"end": 86.44,
+			"end": 86.177,
 			"en": "She's only joking.",
 			"zh": "她只是开玩笑。"
 		},
 		{
 			"i": 27,
 			"start": 86.59,
-			"end": 90.59,
+			"end": 87.956,
 			"en": "Have some beer!",
 			"zh": "喝点啤酒！"
 		}

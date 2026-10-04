@@ -7,159 +7,159 @@
 		"src": "audio/nce3-20.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.25,
-			"end": 1.95,
+			"end": 1.457,
 			"en": "Lesson 20",
 			"zh": "第20课"
 		},
 		{
 			"i": 1,
 			"start": 2.1,
-			"end": 9,
+			"end": 8.163,
 			"en": "Pioneer pilots",
 			"zh": "拓荒飞行员"
 		},
 		{
 			"i": 2,
 			"start": 9.15,
-			"end": 15.66,
+			"end": 13.891,
 			"en": "What was the name of the first plane to fly across the English Channel?",
 			"zh": "第一架飞越英吉利海峡的飞机叫什么名字？"
 		},
 		{
 			"i": 3,
 			"start": 15.81,
-			"end": 26.63,
+			"end": 26.143,
 			"en": "In 1908 Lord Northcliffe offered a prize of ￡1, 000 to the first man who would fly across the English Channel.",
 			"zh": "1908年，诺思克利夫勋爵悬赏1000英镑，奖给第一位飞越英吉利海峡的人。"
 		},
 		{
 			"i": 4,
 			"start": 26.78,
-			"end": 31.13,
+			"end": 30.38,
 			"en": "Over a year passed before the first attempt was made.",
 			"zh": "一年多过去了，才有人首次尝试。"
 		},
 		{
 			"i": 5,
 			"start": 31.28,
-			"end": 36.21,
+			"end": 35.928,
 			"en": "On July 19th, 1909, in the early morning,",
 			"zh": "1909年7月19日清晨，"
 		},
 		{
 			"i": 6,
 			"start": 36.36,
-			"end": 42.99,
+			"end": 42.478,
 			"en": "Hubert Latham took off from the French coast in his plane the 'Antoinette IV.'",
 			"zh": "休伯特·拉瑟姆驾驶他的“安托瓦内特四号”飞机从法国海岸起飞。"
 		},
 		{
 			"i": 7,
 			"start": 43.14,
-			"end": 52.11,
+			"end": 51.557,
 			"en": "He had travelled only seven miles across the Channel when his engine failed and he was forced to land on the sea.",
 			"zh": "他飞越海峡仅七英里，发动机就失灵了，被迫降落在海面上。"
 		},
 		{
 			"i": 8,
 			"start": 52.26,
-			"end": 59.07,
+			"end": 57.392,
 			"en": "The 'Antoinette' floated on the water until Latham was picked up by a ship.",
 			"zh": "“安托瓦内特”号浮在水面，直到拉瑟姆被一艘船救起。"
 		},
 		{
 			"i": 9,
 			"start": 59.22,
-			"end": 67.01,
+			"end": 66.124,
 			"en": "Two days later, Louis Bleriot arrived near Calais with a plane called 'No.XI'.",
 			"zh": "两天后，路易·布莱里奥带着一架名叫“十一号”的飞机抵达加来附近。"
 		},
 		{
 			"i": 10,
 			"start": 67.16,
-			"end": 74.18,
+			"end": 73.328,
 			"en": "Bleriot had been making planes since 1905 and this was his latest model.",
 			"zh": "布莱里奥自1905年起就在制造飞机，这是他的最新型号。"
 		},
 		{
 			"i": 11,
 			"start": 74.33,
-			"end": 82.39,
+			"end": 81.748,
 			"en": "A week before, he had completed a successful overland flight during which he covered twenty-six miles.",
 			"zh": "一周前，他成功完成了一次陆上飞行，飞行距离达二十六英里。"
 		},
 		{
 			"i": 12,
 			"start": 82.54,
-			"end": 85.61,
+			"end": 85.135,
 			"en": "Latham, however, did not give up easily.",
 			"zh": "然而，拉瑟姆并没有轻易放弃。"
 		},
 		{
 			"i": 13,
 			"start": 85.76,
-			"end": 92.05,
+			"end": 91.49,
 			"en": "He, too, arrived near Calais on the same day with a new 'Antoinette'.",
 			"zh": "他也在同一天带着一架新的“安托瓦内特”号抵达加来附近。"
 		},
 		{
 			"i": 14,
 			"start": 92.2,
-			"end": 97.04,
+			"end": 96.243,
 			"en": "It looked as if there would be an exciting race across the Channel.",
 			"zh": "看来将有一场激动人心的跨海峡比赛。"
 		},
 		{
 			"i": 15,
 			"start": 97.19,
-			"end": 104.9,
+			"end": 104.172,
 			"en": "Both planes were going to take off on July 25th, but Latham failed to get up early enough.",
 			"zh": "两架飞机都准备在7月25日起飞，但拉瑟姆未能足够早地起床。"
 		},
 		{
 			"i": 16,
 			"start": 105.05,
-			"end": 112.95,
+			"end": 112.546,
 			"en": "After making a short test flight at 4.15 a.m., Bleriot set off half an hour later.",
 			"zh": "在凌晨4点15分进行了一次短程试飞后，布莱里奥在半小时后出发了。"
 		},
 		{
 			"i": 17,
 			"start": 113.1,
-			"end": 116.75,
+			"end": 116.347,
 			"en": "His great flight lasted thirty-seven minutes.",
 			"zh": "他这次伟大的飞行持续了三十七分钟。"
 		},
 		{
 			"i": 18,
 			"start": 116.9,
-			"end": 123.52,
+			"end": 122.694,
 			"en": "When he landed near Dover, the first person to greet him was a local policeman.",
 			"zh": "当他在多佛附近着陆时，第一个迎接他的是一位当地警察。"
 		},
 		{
 			"i": 19,
 			"start": 123.67,
-			"end": 129.19,
+			"end": 128.971,
 			"en": "Latham made another attempt a week later and got within half a mile of Dover,",
 			"zh": "一周后，拉瑟姆又进行了一次尝试，到达了离多佛半英里以内的地方，"
 		},
 		{
 			"i": 20,
 			"start": 129.34,
-			"end": 131.7,
+			"end": 131.378,
 			"en": "but he was unlucky again.",
 			"zh": "但他再次不幸。"
 		},
 		{
 			"i": 21,
 			"start": 131.85,
-			"end": 135.85,
+			"end": 133.461,
 			"en": "His engine failed and he landed on the sea for the second time.",
 			"zh": "他的发动机失灵了，他第二次降落在海面上。"
 		}

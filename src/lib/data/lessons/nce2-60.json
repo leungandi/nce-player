@@ -7,96 +7,96 @@
 		"src": "audio/nce2-60.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 9.35,
-			"end": 14.51,
+			"end": 12.566,
 			"en": "Does what Madam Bellinsky said come true?",
 			"zh": "贝林斯基夫人说的会成真吗？"
 		},
 		{
 			"i": 1,
 			"start": 14.66,
-			"end": 22.19,
+			"end": 20.993,
 			"en": "At a village fair, I decided to visit a fortune-teller called Madam Bellinsky.",
 			"zh": "在一个乡村集市上，我决定去拜访一位名叫贝林斯基夫人的算命师。"
 		},
 		{
 			"i": 2,
 			"start": 22.34,
-			"end": 27.08,
+			"end": 26.13,
 			"en": "I went into her tent and she told me to sit down.",
 			"zh": "我走进她的帐篷，她叫我坐下。"
 		},
 		{
 			"i": 3,
 			"start": 27.23,
-			"end": 33.96,
+			"end": 33.071,
 			"en": "After I had given her some money, she looked into a crystal ball and said:",
 			"zh": "我给了她一些钱后，她看着水晶球说："
 		},
 		{
 			"i": 4,
 			"start": 34.11,
-			"end": 38.14,
+			"end": 37.213,
 			"en": "'A relation of yours is coming to see you.",
 			"zh": "“你的一位亲戚要来看你。"
 		},
 		{
 			"i": 5,
 			"start": 38.29,
-			"end": 44.25,
+			"end": 43.385,
 			"en": "She will be arriving this evening and intends to stay for a few days.",
 			"zh": "她今晚会到，打算住几天。"
 		},
 		{
 			"i": 6,
 			"start": 44.4,
-			"end": 49.68,
+			"end": 49.08,
 			"en": "The moment you leave this tent, you will get a big surprise.",
 			"zh": "你一离开这个帐篷，就会有一个大惊喜。"
 		},
 		{
 			"i": 7,
 			"start": 49.83,
-			"end": 54.03,
+			"end": 53.387,
 			"en": "A woman you know well will rush towards you.",
 			"zh": "一位你很熟悉的女人会向你跑来。"
 		},
 		{
 			"i": 8,
 			"start": 54.18,
-			"end": 62.25,
+			"end": 60.762,
 			"en": "She will speak to you and then she will lead you away from this place. That is all.'",
 			"zh": "她会和你说话，然后带你离开这个地方。就这些了。”"
 		},
 		{
 			"i": 9,
 			"start": 62.4,
-			"end": 71.33,
+			"end": 70.521,
 			"en": "As soon as I went outside, I forgot all about Madam Bellinsky because my wife hurried towards me.",
 			"zh": "我一出去，就完全把贝林斯基夫人忘在脑后了，因为我妻子匆匆向我走来。"
 		},
 		{
 			"i": 10,
 			"start": 71.48,
-			"end": 76.68,
+			"end": 75.945,
 			"en": "'Where have you been hiding?' she asked impatiently.",
 			"zh": "“你躲到哪里去了？”她不耐烦地问。"
 		},
 		{
 			"i": 11,
 			"start": 76.83,
-			"end": 86.43,
+			"end": 85.318,
 			"en": "'Your sister will be here in less than an hour and we must be at the station to meet her. We are late already.'",
 			"zh": "“你妹妹不到一小时就要到了，我们必须去车站接她。我们已经迟到了。”"
 		},
 		{
 			"i": 12,
 			"start": 86.58,
-			"end": 90.58,
+			"end": 88.188,
 			"en": "As she walked away, I followed her out of the fair.",
 			"zh": "她走开时，我跟着她离开了集市。"
 		}

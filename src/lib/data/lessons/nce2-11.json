@@ -7,89 +7,89 @@
 		"src": "audio/nce2-11.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.82,
-			"end": 14.21,
+			"end": 12.772,
 			"en": "Who paid for Tony's dinner?",
 			"zh": "谁付了托尼的晚餐钱？"
 		},
 		{
 			"i": 1,
 			"start": 14.36,
-			"end": 19.75,
+			"end": 18.909,
 			"en": "I was having dinner at a restaurant when Tony Steele came in.",
 			"zh": "我正在一家餐馆吃饭，这时托尼·斯蒂尔走了进来。"
 		},
 		{
 			"i": 2,
 			"start": 19.9,
-			"end": 23.27,
+			"end": 22.838,
 			"en": "Tony worked in a lawyer's office years ago,",
 			"zh": "托尼多年前在一家律师事务所工作，"
 		},
 		{
 			"i": 3,
 			"start": 23.42,
-			"end": 26.89,
+			"end": 25.976,
 			"en": "but he is now working at a bank.",
 			"zh": "但他现在在一家银行工作。"
 		},
 		{
 			"i": 4,
 			"start": 27.04,
-			"end": 29.28,
+			"end": 28.888,
 			"en": "He gets a good salary,",
 			"zh": "他薪水很高，"
 		},
 		{
 			"i": 5,
 			"start": 29.43,
-			"end": 35.46,
+			"end": 34.285,
 			"en": "but he always borrows money from his friends and never pays it back.",
 			"zh": "但他总是向朋友借钱，从不还。"
 		},
 		{
 			"i": 6,
 			"start": 35.61,
-			"end": 39.79,
+			"end": 39.078,
 			"en": "Tony saw me and came and sat at the same table.",
 			"zh": "托尼看到了我，走过来坐在同一张桌子旁。"
 		},
 		{
 			"i": 7,
 			"start": 39.94,
-			"end": 43.04,
+			"end": 42.174,
 			"en": "He has never borrowed money from me.",
 			"zh": "他从没向我借过钱。"
 		},
 		{
 			"i": 8,
 			"start": 43.19,
-			"end": 48.18,
+			"end": 47.598,
 			"en": "While he was eating, I asked him to lend me twenty pounds.",
 			"zh": "他吃饭的时候，我请他借给我二十英镑。"
 		},
 		{
 			"i": 9,
 			"start": 48.33,
-			"end": 53.63,
+			"end": 52.48,
 			"en": "To my surprise, he gave me the money immediately.",
 			"zh": "令我惊讶的是，他立刻把钱给了我。"
 		},
 		{
 			"i": 10,
 			"start": 53.78,
-			"end": 56.62,
+			"end": 56.127,
 			"en": "'I have never borrowed any money from you,'",
 			"zh": "“我从没向你借过钱，”"
 		},
 		{
 			"i": 11,
 			"start": 56.77,
-			"end": 60.77,
+			"end": 57.766,
 			"en": "Tony said, 'so now you can pay for my dinner!'",
 			"zh": "托尼说，“所以现在你可以为我的晚餐付钱了！”"
 		}

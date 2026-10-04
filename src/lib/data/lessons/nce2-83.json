@@ -7,110 +7,110 @@
 		"src": "audio/nce2-83.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.65,
-			"end": 16.75,
+			"end": 14.898,
 			"en": "Why did Patrick keep on asking the same question?",
 			"zh": "帕特里克为什么一直问同一个问题？"
 		},
 		{
 			"i": 1,
 			"start": 16.9,
-			"end": 24.49,
+			"end": 23.767,
 			"en": "The former Prime Minister, Mr. Wentworth Lane, was defeated in the recent elections.",
 			"zh": "前首相温特沃斯·莱恩先生在最近的选举中失利。"
 		},
 		{
 			"i": 2,
 			"start": 24.64,
-			"end": 30.35,
+			"end": 29.246,
 			"en": "He is now retiring from political life and has gone abroad.",
 			"zh": "他现在正退出政坛，并且已经出国了。"
 		},
 		{
 			"i": 3,
 			"start": 30.5,
-			"end": 39.72,
+			"end": 38.634,
 			"en": "My friend, Patrick, has always been a fanatical opponent of Mr. Lane's Radical Progressive Party.",
 			"zh": "我的朋友帕特里克一直是莱恩先生激进进步党的狂热反对者。"
 		},
 		{
 			"i": 4,
 			"start": 39.87,
-			"end": 46.21,
+			"end": 45.298,
 			"en": "After the elections, Patrick went to the former Prime Minister's house.",
 			"zh": "选举结束后，帕特里克去了前首相的家。"
 		},
 		{
 			"i": 5,
 			"start": 46.36,
-			"end": 58.38,
+			"end": 57.566,
 			"en": "When he asked if Mr. Lane lived there, the policeman on duty told him that since his defeat, the ex-Prime Minister had gone abroad.",
 			"zh": "当他问莱恩先生是否住在那儿时，值班警察告诉他，自从失利后，这位前首相就出国了。"
 		},
 		{
 			"i": 6,
 			"start": 58.53,
-			"end": 63.62,
+			"end": 62.761,
 			"en": "On the following day Patrick went to the house again.",
 			"zh": "第二天，帕特里克又去了那所房子。"
 		},
 		{
 			"i": 7,
 			"start": 63.77,
-			"end": 72.68,
+			"end": 71.457,
 			"en": "The same policeman was just walking slowly past the entrance, when Patrick asked the same question.",
 			"zh": "还是那个警察，他正慢慢地走过入口，这时帕特里克又问了同样的问题。"
 		},
 		{
 			"i": 8,
 			"start": 72.83,
-			"end": 79.95,
+			"end": 78.857,
 			"en": "Though a little suspicious this time the policeman gave him the same answer.",
 			"zh": "尽管这次有些怀疑，警察还是给了他同样的答案。"
 		},
 		{
 			"i": 9,
 			"start": 80.1,
-			"end": 89.49,
+			"end": 88.519,
 			"en": "The day after, Patrick went to the house once more and asked exactly the same question.",
 			"zh": "第二天，帕特里克又一次去了那所房子，问了完全相同的问题。"
 		},
 		{
 			"i": 10,
 			"start": 89.64,
-			"end": 94.19,
+			"end": 93.268,
 			"en": "This time, the policeman lost his temper.",
 			"zh": "这次，警察发火了。"
 		},
 		{
 			"i": 11,
 			"start": 94.34,
-			"end": 101.5,
+			"end": 100.793,
 			"en": "'I told you yesterday and the day before yesterday,' he shouted,",
 			"zh": "“我昨天和前天都告诉你了，”他喊道，"
 		},
 		{
 			"i": 12,
 			"start": 101.65,
-			"end": 105.51,
+			"end": 105.086,
 			"en": "'Mr.Lane was defeated in the elections.",
 			"zh": "“莱恩先生在选举中失利了。"
 		},
 		{
 			"i": 13,
 			"start": 105.66,
-			"end": 111.85,
+			"end": 110.696,
 			"en": "He has retired from political life and gone to live abroad!'",
 			"zh": "他已经退出政坛并出国定居了！”"
 		},
 		{
 			"i": 14,
 			"start": 112,
-			"end": 116,
+			"end": 112.879,
 			"en": "'I know,' answered Patrick,' but I love to hear you say it!'",
 			"zh": "“我知道，”帕特里克回答说，“但我喜欢听你说！”"
 		}

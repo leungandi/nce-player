@@ -7,40 +7,40 @@
 		"src": "audio/nce4-23.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 1,
-			"end": 2.83,
+			"end": 2.391,
 			"en": "Lesson 23",
 			"zh": "第23课"
 		},
 		{
 			"i": 1,
 			"start": 2.98,
-			"end": 10.37,
+			"end": 8.744,
 			"en": "Bird flight",
 			"zh": "鸟的飞行"
 		},
 		{
 			"i": 2,
 			"start": 10.52,
-			"end": 17.84,
+			"end": 15.164,
 			"en": "What are the two main types of bird flight described by the author?",
 			"zh": "作者描述的鸟类飞行的两种主要类型是什么？"
 		},
 		{
 			"i": 3,
 			"start": 17.99,
-			"end": 23.32,
+			"end": 22.298,
 			"en": "No two sorts of birds practise quite the same sort of flight;",
 			"zh": "没有两种鸟的飞行方式是完全相同的；"
 		},
 		{
 			"i": 4,
 			"start": 23.47,
-			"end": 29.3,
+			"end": 28.466,
 			"en": "the varieties are infinite; but two classes may be roughly seen.",
 			"zh": "种类是无限的；但大致可分为两类。"
 		},
@@ -54,35 +54,35 @@
 		{
 			"i": 6,
 			"start": 31.59,
-			"end": 36.7,
+			"end": 35.881,
 			"en": "is accompanied for many days by the smaller albatross,",
 			"zh": "会有较小的信天翁伴随数日，"
 		},
 		{
 			"i": 7,
 			"start": 36.85,
-			"end": 39.95,
+			"end": 39.76,
 			"en": "which may keep company with the vessel for an hour",
 			"zh": "它们可以陪伴船只一个小时"
 		},
 		{
 			"i": 8,
 			"start": 40.1,
-			"end": 45.56,
+			"end": 43.941,
 			"en": "without visible or more than occasional movement of wing.",
 			"zh": "翅膀几乎不动或只是偶尔动一下。"
 		},
 		{
 			"i": 9,
 			"start": 45.71,
-			"end": 49.96,
+			"end": 49.636,
 			"en": "The currents of air that the walls of the ship direct upwards,",
 			"zh": "船体向上引导的气流，"
 		},
 		{
 			"i": 10,
 			"start": 50.11,
-			"end": 53.63,
+			"end": 53.262,
 			"en": "as well as in the line of its course,",
 			"zh": "以及沿其航线的气流，"
 		},
@@ -96,126 +96,126 @@
 		{
 			"i": 12,
 			"start": 57.45,
-			"end": 60.69,
+			"end": 59.841,
 			"en": "sufficient sustenance and progress.",
 			"zh": "提供足够的升力和前进动力。"
 		},
 		{
 			"i": 13,
 			"start": 60.84,
-			"end": 64.15,
+			"end": 63.688,
 			"en": "The albatross is the king of the gliders,",
 			"zh": "信天翁是滑翔之王，"
 		},
 		{
 			"i": 14,
 			"start": 64.3,
-			"end": 68.07,
+			"end": 67.809,
 			"en": "the class of fliers which harness the air to their purpose,",
 			"zh": "这类飞行者利用空气达到目的，"
 		},
 		{
 			"i": 15,
 			"start": 68.22,
-			"end": 71.46,
+			"end": 70.381,
 			"en": "but must yield to its opposition.",
 			"zh": "但也必须屈服于空气的阻力。"
 		},
 		{
 			"i": 16,
 			"start": 71.61,
-			"end": 76.07,
+			"end": 74.861,
 			"en": "In the contrary school, the duck is supreme.",
 			"zh": "在相反的学派中，鸭子是至高无上的。"
 		},
 		{
 			"i": 17,
 			"start": 76.22,
-			"end": 82.64,
+			"end": 81.73,
 			"en": "It comes nearer to the engines with which man has 'conquered' the air, as he boasts.",
 			"zh": "它更接近于人类声称“征服”天空的发动机。"
 		},
 		{
 			"i": 18,
 			"start": 82.79,
-			"end": 90.09,
+			"end": 89.165,
 			"en": "Duck, and like them the pigeons, are endowed with steel-like muscles,",
 			"zh": "鸭子，以及像它们一样的鸽子，都拥有钢铁般的肌肉，"
 		},
 		{
 			"i": 19,
 			"start": 90.24,
-			"end": 93.17,
+			"end": 92.858,
 			"en": "that are a good part of the weight of the bird,",
 			"zh": "这些肌肉占据了鸟类体重很大一部分，"
 		},
 		{
 			"i": 20,
 			"start": 93.32,
-			"end": 98.33,
+			"end": 98.086,
 			"en": "and these will ply the short wings with such irresistible power",
 			"zh": "它们以不可抗拒的力量挥动短小的翅膀，"
 		},
 		{
 			"i": 21,
 			"start": 98.48,
-			"end": 102.89,
+			"end": 102.804,
 			"en": "that they can bore for long distances through an opposing gale",
 			"zh": "可以在逆风中飞行很长的距离"
 		},
 		{
 			"i": 22,
 			"start": 103.04,
-			"end": 105.59,
+			"end": 104.811,
 			"en": "before exhaustion follows.",
 			"zh": "而不致精疲力尽。"
 		},
 		{
 			"i": 23,
 			"start": 105.74,
-			"end": 109.49,
+			"end": 109.208,
 			"en": "Their humbler followers, such as partridges,",
 			"zh": "它们较小的追随者，例如鹧鸪，"
 		},
 		{
 			"i": 24,
 			"start": 109.64,
-			"end": 114.15,
+			"end": 113.606,
 			"en": "have a like power of strong propulsion, but soon tire.",
 			"zh": "也有类似的强大推进力，但很快就会疲劳。"
 		},
 		{
 			"i": 25,
 			"start": 114.3,
-			"end": 117.37,
+			"end": 116.943,
 			"en": "You may pick them up in utter exhaustion,",
 			"zh": "你可能会发现它们筋疲力尽，"
 		},
 		{
 			"i": 26,
 			"start": 117.52,
-			"end": 121.63,
+			"end": 120.742,
 			"en": "if wind over the sea has driven them to a long journey.",
 			"zh": "如果海上的风迫使它们长途跋涉。"
 		},
 		{
 			"i": 27,
 			"start": 121.78,
-			"end": 126.38,
+			"end": 125.887,
 			"en": "The swallow shares the virtues of both schools in highest measure.",
 			"zh": "燕子则兼具这两种飞行的优点，而且达到了最高境界。"
 		},
 		{
 			"i": 28,
 			"start": 126.53,
-			"end": 132.86,
+			"end": 132.215,
 			"en": "It tires not, nor does it boast of its power; but belongs to the air",
 			"zh": "它不疲倦，也不炫耀自己的力量；它属于天空，"
 		},
 		{
 			"i": 29,
 			"start": 133.01,
-			"end": 138.8,
+			"end": 138.33,
 			"en": "travelling it may be six thousand miles to and from its northern nesting home,",
 			"zh": "也许飞行六千英里往返于它的北方巢穴，"
 		},
@@ -229,28 +229,28 @@
 		{
 			"i": 31,
 			"start": 143.37,
-			"end": 148.63,
+			"end": 147.846,
 			"en": "that seems to help its passage even when the wind is adverse.",
 			"zh": "即使逆风，这介质似乎也在帮助它通过。"
 		},
 		{
 			"i": 32,
 			"start": 148.78,
-			"end": 150.76,
+			"end": 150.439,
 			"en": "Such birds do us good,",
 			"zh": "这样的鸟对我们有益，"
 		},
 		{
 			"i": 33,
 			"start": 150.91,
-			"end": 156.14,
+			"end": 155.676,
 			"en": "though we no longer take omens from their flight on this side and that;",
 			"zh": "尽管我们不再从它们飞行的方向来卜吉凶；"
 		},
 		{
 			"i": 34,
 			"start": 156.29,
-			"end": 160.29,
+			"end": 159.404,
 			"en": "and even the most superstitious villagers no longer take off their hats to the magpie and wish it good-morning.",
 			"zh": "甚至最迷信的村民也不再向喜鹊脱帽致意并祝它早上好。"
 		}

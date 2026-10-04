@@ -7,159 +7,159 @@
 		"src": "audio/nce1-107.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.7,
-			"end": 3.91,
+			"end": 2.56,
 			"en": "Lesson 107",
 			"zh": "第107课"
 		},
 		{
 			"i": 1,
 			"start": 4.06,
-			"end": 7.18,
+			"end": 5.7,
 			"en": "It's too small.",
 			"zh": "太小了。"
 		},
 		{
 			"i": 2,
 			"start": 7.33,
-			"end": 13.2,
+			"end": 11.933,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答问题。"
 		},
 		{
 			"i": 3,
 			"start": 13.35,
-			"end": 19.12,
+			"end": 16.834,
 			"en": "What kind of dress does the Lady want?",
 			"zh": "这位女士想要什么样的连衣裙？"
 		},
 		{
 			"i": 4,
 			"start": 19.27,
-			"end": 23.28,
+			"end": 22.073,
 			"en": "Do you like this dress, madam?",
 			"zh": "您喜欢这件连衣裙吗，夫人？"
 		},
 		{
 			"i": 5,
 			"start": 23.43,
-			"end": 26.92,
+			"end": 26.448,
 			"en": "I like the colour very much.",
 			"zh": "我非常喜欢这个颜色。"
 		},
 		{
 			"i": 6,
 			"start": 27.07,
-			"end": 33.18,
+			"end": 31.956,
 			"en": "It's a lovely dress, but it's too small for me.",
 			"zh": "这是一件很漂亮的连衣裙，但它对我来说太小了。"
 		},
 		{
 			"i": 7,
 			"start": 33.33,
-			"end": 35.63,
+			"end": 35.208,
 			"en": "What about this one?",
 			"zh": "这件怎么样？"
 		},
 		{
 			"i": 8,
 			"start": 35.78,
-			"end": 38.25,
+			"end": 37.797,
 			"en": "It's a lovely dress.",
 			"zh": "这是一件漂亮的连衣裙。"
 		},
 		{
 			"i": 9,
 			"start": 38.4,
-			"end": 40.83,
+			"end": 40.243,
 			"en": "It's very smart.",
 			"zh": "它很时髦。"
 		},
 		{
 			"i": 10,
 			"start": 40.98,
-			"end": 44.53,
+			"end": 43.999,
 			"en": "Short skirts are in fashion now.",
 			"zh": "短裙现在很流行。"
 		},
 		{
 			"i": 11,
 			"start": 44.68,
-			"end": 47.52,
+			"end": 46.75,
 			"en": "Would you like to try it?",
 			"zh": "您想试试吗？"
 		},
 		{
 			"i": 12,
 			"start": 47.67,
-			"end": 49.67,
+			"end": 48.586,
 			"en": "All right.",
 			"zh": "好的。"
 		},
 		{
 			"i": 13,
 			"start": 49.82,
-			"end": 57.76,
+			"end": 56.529,
 			"en": "I'm afraid this green dress is too small for me as well.",
 			"zh": "恐怕这件绿色的连衣裙也对我来说太小了。"
 		},
 		{
 			"i": 14,
 			"start": 57.91,
-			"end": 62.44,
+			"end": 61.256,
 			"en": "It's smaller than the blue one.",
 			"zh": "它比那件蓝色的还要小。"
 		},
 		{
 			"i": 15,
 			"start": 62.59,
-			"end": 66.07,
+			"end": 65.453,
 			"en": "I don't like the colour either.",
 			"zh": "我也不喜欢这个颜色。"
 		},
 		{
 			"i": 16,
 			"start": 66.22,
-			"end": 69.88,
+			"end": 69.249,
 			"en": "It doesn't suit me at all.",
 			"zh": "它一点都不适合我。"
 		},
 		{
 			"i": 17,
 			"start": 70.03,
-			"end": 74.62,
+			"end": 73.721,
 			"en": "I think the blue dress is prettier.",
 			"zh": "我觉得那件蓝色的连衣裙更漂亮。"
 		},
 		{
 			"i": 18,
 			"start": 74.77,
-			"end": 79.22,
+			"end": 78.492,
 			"en": "Could you show me another blue dress?",
 			"zh": "您能给我看看另一件蓝色的连衣裙吗？"
 		},
 		{
 			"i": 19,
 			"start": 79.37,
-			"end": 87.19,
+			"end": 85.713,
 			"en": "I want a dress like that one, but it must be my size.",
 			"zh": "我想要一件像那件一样的连衣裙，但它必须是我的尺码。"
 		},
 		{
 			"i": 20,
 			"start": 87.34,
-			"end": 92.42,
+			"end": 91.853,
 			"en": "I'm afraid I haven't got a larger dress.",
 			"zh": "恐怕我没有更大尺码的连衣裙了。"
 		},
 		{
 			"i": 21,
 			"start": 92.57,
-			"end": 96.57,
+			"end": 96.733,
 			"en": "This is the largest dress in the shop.",
 			"zh": "这是店里最大尺码的连衣裙了。"
 		}

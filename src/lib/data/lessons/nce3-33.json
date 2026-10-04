@@ -7,215 +7,215 @@
 		"src": "audio/nce3-33.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.19,
-			"end": 2.3,
+			"end": 1.726,
 			"en": "Lesson 33",
 			"zh": "第33课"
 		},
 		{
 			"i": 1,
 			"start": 2.45,
-			"end": 8.83,
+			"end": 8.144,
 			"en": "A day to remember",
 			"zh": "值得纪念的一天"
 		},
 		{
 			"i": 2,
 			"start": 8.98,
-			"end": 15.32,
+			"end": 13.066,
 			"en": "What incident began the series of traffic accidents?",
 			"zh": "是什么事件引发了这一系列交通事故？"
 		},
 		{
 			"i": 3,
 			"start": 15.47,
-			"end": 19.68,
+			"end": 19.266,
 			"en": "We have all experienced days when everything goes wrong.",
 			"zh": "我们都经历过事事不顺的日子。"
 		},
 		{
 			"i": 4,
 			"start": 19.83,
-			"end": 25.83,
+			"end": 25.313,
 			"en": "A day may begin well enough, but suddenly everything seems to get out of control.",
 			"zh": "一天也许开始得很好，但突然间一切似乎都失去了控制。"
 		},
 		{
 			"i": 5,
 			"start": 25.98,
-			"end": 33.82,
+			"end": 33.426,
 			"en": "What invariably happens is that a great number of things choose to go wrong at precisely the same moment.",
 			"zh": "事情总是这样，很多事情偏偏选择在同一时刻出错。"
 		},
 		{
 			"i": 6,
 			"start": 33.97,
-			"end": 39.78,
+			"end": 39.138,
 			"en": "It is as if a single unimportant event set up a chain of reactions.",
 			"zh": "仿佛一个微不足道的事件引发了一连串的连锁反应。"
 		},
 		{
 			"i": 7,
 			"start": 39.93,
-			"end": 47.08,
+			"end": 46.463,
 			"en": "Let us suppose that you are preparing a meal and keeping an eye on the baby at the same time.",
 			"zh": "假设你正在准备饭菜，同时还要照看婴儿。"
 		},
 		{
 			"i": 8,
 			"start": 47.23,
-			"end": 55.29,
+			"end": 54.259,
 			"en": "The telephone rings and this marks the prelude to an unforeseen series of catastrophes.",
 			"zh": "电话铃响了，这预示着一系列意想不到的灾难即将发生。"
 		},
 		{
 			"i": 9,
 			"start": 55.44,
-			"end": 60.97,
+			"end": 60.553,
 			"en": "While you are on the phone, the baby pulls the tablecloth off the table,",
 			"zh": "当你打电话的时候，婴儿把桌布从桌子上扯了下来，"
 		},
 		{
 			"i": 10,
 			"start": 61.12,
-			"end": 66.34,
+			"end": 65.734,
 			"en": "smashing half your best crockery and cutting himself in the process.",
 			"zh": "打碎了你一半最好的餐具，还把自己划伤了。"
 		},
 		{
 			"i": 11,
 			"start": 66.49,
-			"end": 71.75,
+			"end": 71.294,
 			"en": "You hang up hurriedly and attend to baby, crockery, etc.",
 			"zh": "你急忙挂断电话，去照看婴儿、餐具等。"
 		},
 		{
 			"i": 12,
 			"start": 71.9,
-			"end": 74.47,
+			"end": 74.05,
 			"en": "Meanwhile, the meal gets burnt.",
 			"zh": "与此同时，饭菜烧糊了。"
 		},
 		{
 			"i": 13,
 			"start": 74.62,
-			"end": 84.36,
+			"end": 83.272,
 			"en": "As if this were not enough to reduce you to tears, your husband arrives, unexpectedly bringing three guests to dinner.",
 			"zh": "好像这些还不足以让你落泪，你的丈夫又回来了，出乎意料地带了三位客人来吃晚饭。"
 		},
 		{
 			"i": 14,
 			"start": 84.51,
-			"end": 93.37,
+			"end": 92.683,
 			"en": "Things can go wrong on a big scale as a number of people recently discovered in Parramatta, a suburb of Sydney.",
 			"zh": "事情也会大规模地出错，正如最近在悉尼郊区帕拉马塔的一些人所发现的那样。"
 		},
 		{
 			"i": 15,
 			"start": 93.52,
-			"end": 100.94,
+			"end": 100.111,
 			"en": "During the rush hour one evening two cars collided and both drivers began to argue.",
 			"zh": "一天晚上，在交通高峰期，两辆汽车相撞，两位司机开始争吵起来。"
 		},
 		{
 			"i": 16,
 			"start": 101.09,
-			"end": 106.15,
+			"end": 105.716,
 			"en": "The woman immediately behind the two cars happened to be a learner.",
 			"zh": "紧跟在两辆车后面的一位女士碰巧是位新手司机。"
 		},
 		{
 			"i": 17,
 			"start": 106.3,
-			"end": 110.82,
+			"end": 110.223,
 			"en": "She suddenly got into a panic and stopped her car.",
 			"zh": "她突然惊慌失措，把车停了下来。"
 		},
 		{
 			"i": 18,
 			"start": 110.97,
-			"end": 114.65,
+			"end": 114.113,
 			"en": "This made the driver following her brake hard.",
 			"zh": "这使得跟在她后面的司机猛踩刹车。"
 		},
 		{
 			"i": 19,
 			"start": 114.8,
-			"end": 118.93,
+			"end": 118.516,
 			"en": "His wife was sitting beside him holding a large cake.",
 			"zh": "他的妻子坐在他旁边，手里拿着一个大蛋糕。"
 		},
 		{
 			"i": 20,
 			"start": 119.08,
-			"end": 121.05,
+			"end": 120.889,
 			"en": "As she was thrown forward,",
 			"zh": "当她向前扑去时，"
 		},
 		{
 			"i": 21,
 			"start": 121.2,
-			"end": 126.38,
+			"end": 125.678,
 			"en": "the cake went right through the windscreen and landed on the road.",
 			"zh": "蛋糕直接穿过挡风玻璃，落在了路上。"
 		},
 		{
 			"i": 22,
 			"start": 126.53,
-			"end": 129.27,
+			"end": 129.08,
 			"en": "Seeing a cake flying through the air,",
 			"zh": "看到一个蛋糕飞过空中，"
 		},
 		{
 			"i": 23,
 			"start": 129.42,
-			"end": 136.02,
+			"end": 135.396,
 			"en": "a lorry driver who was drawing up alongside the car, pulled up all of a sudden.",
 			"zh": "一位正把车开到汽车旁边的货车司机，突然把车停了下来。"
 		},
 		{
 			"i": 24,
 			"start": 136.17,
-			"end": 145.32,
+			"end": 144.812,
 			"en": "The lorry was loaded with empty beer bottles and hundreds of them slid off the back of the vehicle and on to the road.",
 			"zh": "货车上装满了空啤酒瓶，几百个瓶子从车后部滑落到路上。"
 		},
 		{
 			"i": 25,
 			"start": 145.47,
-			"end": 153.31,
+			"end": 152.82,
 			"en": "This led to yet another angry argument. Meanwhile, the traffic piled up behind.",
 			"zh": "这又引发了另一场激烈的争吵。"
 		},
 		{
 			"i": 26,
 			"start": 153.46,
-			"end": 158.81,
+			"end": 158.248,
 			"en": "It took the police nearly an hour to get the traffic on the move again.",
 			"zh": "警察花了将近一个小时才让交通再次恢复通行。"
 		},
 		{
 			"i": 27,
 			"start": 158.96,
-			"end": 165.42,
+			"end": 164.924,
 			"en": "In the meantime, the lorry driver had to sweep up hundreds of broken bottles.",
 			"zh": "与此同时，货车司机不得不清扫数百个碎瓶子。"
 		},
 		{
 			"i": 28,
 			"start": 165.57,
-			"end": 174.07,
+			"end": 173.639,
 			"en": "Only two stray dogs benefited from all this confusion, for they greedily devoured what was left of the cake.",
 			"zh": "只有两只流浪狗从这场混乱中受益，因为它们贪婪地吞食了剩下的蛋糕。"
 		},
 		{
 			"i": 29,
 			"start": 174.22,
-			"end": 178.22,
+			"end": 176.932,
 			"en": "It was just one of those days!",
 			"zh": "真是倒霉的一天！"
 		}

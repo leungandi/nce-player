@@ -7,159 +7,159 @@
 		"src": "audio/nce1-45.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.31,
-			"end": 2.87,
+			"end": 2,
 			"en": "Lesson 45",
 			"zh": "第45课"
 		},
 		{
 			"i": 1,
 			"start": 3.02,
-			"end": 6.02,
+			"end": 4.576,
 			"en": "The boss's letter",
 			"zh": "老板的信"
 		},
 		{
 			"i": 2,
 			"start": 6.17,
-			"end": 11.76,
+			"end": 10.72,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答问题。"
 		},
 		{
 			"i": 3,
 			"start": 11.91,
-			"end": 17.51,
+			"end": 15.216,
 			"en": "Why can't Pamela type the letter?",
 			"zh": "为什么帕梅拉不能打这封信？"
 		},
 		{
 			"i": 4,
 			"start": 17.66,
-			"end": 21.62,
+			"end": 21.051,
 			"en": "Can you come here a minute please, Bob?",
 			"zh": "鲍勃，请你过来一下好吗？"
 		},
 		{
 			"i": 5,
 			"start": 21.77,
-			"end": 23.88,
+			"end": 22.649,
 			"en": "Yes, sir?",
 			"zh": "好的，先生。"
 		},
 		{
 			"i": 6,
 			"start": 24.03,
-			"end": 26.05,
+			"end": 25.326,
 			"en": "Where's Pamela?",
 			"zh": "帕梅拉在哪儿？"
 		},
 		{
 			"i": 7,
 			"start": 26.2,
-			"end": 28.09,
+			"end": 27.739,
 			"en": "She's next door.",
 			"zh": "她在隔壁。"
 		},
 		{
 			"i": 8,
 			"start": 28.24,
-			"end": 31.33,
+			"end": 30.217,
 			"en": "She's in her office, sir.",
 			"zh": "她在她的办公室，先生。"
 		},
 		{
 			"i": 9,
 			"start": 31.48,
-			"end": 35.04,
+			"end": 34.373,
 			"en": "Can she type this letter for me?",
 			"zh": "她能替我打这封信吗？"
 		},
 		{
 			"i": 10,
 			"start": 35.19,
-			"end": 36.77,
+			"end": 36.502,
 			"en": "Ask her please.",
 			"zh": "请你去问问她。"
 		},
 		{
 			"i": 11,
 			"start": 36.92,
-			"end": 39.16,
+			"end": 37.798,
 			"en": "Yes, sir.",
 			"zh": "好的，先生。"
 		},
 		{
 			"i": 12,
 			"start": 39.31,
-			"end": 44,
+			"end": 43.559,
 			"en": "Can you type this letter for the boss please, Pamela?",
 			"zh": "帕梅拉，请你替老板打这封信好吗？"
 		},
 		{
 			"i": 13,
 			"start": 44.15,
-			"end": 47.6,
+			"end": 46.785,
 			"en": "Yes, of course I can.",
 			"zh": "好的，我当然能。"
 		},
 		{
 			"i": 14,
 			"start": 47.75,
-			"end": 49.21,
+			"end": 48.702,
 			"en": "Here you are.",
 			"zh": "给你。"
 		},
 		{
 			"i": 15,
 			"start": 49.36,
-			"end": 51.73,
+			"end": 50.768,
 			"en": "Thank you, Bob.",
 			"zh": "谢谢你，鲍勃。"
 		},
 		{
 			"i": 16,
 			"start": 51.88,
-			"end": 52.58,
+			"end": 52.631,
 			"en": "Bob!",
 			"zh": "鲍勃！"
 		},
 		{
 			"i": 17,
 			"start": 52.73,
-			"end": 53.79,
+			"end": 53.863,
 			"en": "Yes?",
 			"zh": "什么事？"
 		},
 		{
 			"i": 18,
 			"start": 53.94,
-			"end": 55.96,
+			"end": 55.351,
 			"en": "What's the matter?",
 			"zh": "怎么回事？"
 		},
 		{
 			"i": 19,
 			"start": 56.11,
-			"end": 59.15,
+			"end": 58.492,
 			"en": "I can't type this letter.",
 			"zh": "我打不了这封信。"
 		},
 		{
 			"i": 20,
 			"start": 59.3,
-			"end": 61.44,
+			"end": 60.972,
 			"en": "I can't read it!",
 			"zh": "我看不懂！"
 		},
 		{
 			"i": 21,
 			"start": 61.59,
-			"end": 65.59,
+			"end": 65.478,
 			"en": "The boss's handwriting is terrible!",
 			"zh": "老板的笔迹太糟糕了！"
 		}

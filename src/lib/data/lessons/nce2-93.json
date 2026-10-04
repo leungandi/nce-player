@@ -7,103 +7,103 @@
 		"src": "audio/nce2-93.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.7,
-			"end": 15.52,
+			"end": 13.475,
 			"en": "Where was the Statue of Liberty made?",
 			"zh": "自由女神像是在哪里制造的？"
 		},
 		{
 			"i": 1,
 			"start": 15.67,
-			"end": 21.43,
+			"end": 20.857,
 			"en": "One of the most famous monuments in the world, the Statue of Liberty,",
 			"zh": "世界上最著名的纪念碑之一，自由女神像，"
 		},
 		{
 			"i": 2,
 			"start": 21.58,
-			"end": 29.15,
+			"end": 28.188,
 			"en": "was presented to the USA in the nineteenth century by the people of France.",
 			"zh": "在十九世纪由法国人民赠送给美国。"
 		},
 		{
 			"i": 3,
 			"start": 29.3,
-			"end": 38.99,
+			"end": 37.953,
 			"en": "The great statue, which was designed by the sculptor Auguste Bartholdi, took ten years to complete.",
 			"zh": "这座由雕塑家奥古斯特·巴托尔迪设计的宏伟雕像，花了十年才完成。"
 		},
 		{
 			"i": 4,
 			"start": 39.14,
-			"end": 48.94,
+			"end": 47.815,
 			"en": "The actual figure was made of copper supported by a metal framework which had been especially constructed by Eiffel.",
 			"zh": "实际雕像由铜制成，由埃菲尔专门建造的金属框架支撑。"
 		},
 		{
 			"i": 5,
 			"start": 49.09,
-			"end": 53.06,
+			"end": 52.61,
 			"en": "Before it could be transported to the United States,",
 			"zh": "在它被运往美国之前，"
 		},
 		{
 			"i": 6,
 			"start": 53.21,
-			"end": 58.64,
+			"end": 57.536,
 			"en": "a site had to be found for it and a pedestal had to be built.",
 			"zh": "必须为它找到一个地点并建造一个基座。"
 		},
 		{
 			"i": 7,
 			"start": 58.79,
-			"end": 64.22,
+			"end": 63.416,
 			"en": "The site chosen was an island at the entrance of New York Harbour.",
 			"zh": "所选地点是纽约港入口处的一个岛屿。"
 		},
 		{
 			"i": 8,
 			"start": 64.37,
-			"end": 73.28,
+			"end": 72.493,
 			"en": "By 1884, a statue which was 151 feet tall had been erected in Paris.",
 			"zh": "到1884年，一座151英尺高的雕像已在巴黎建成。"
 		},
 		{
 			"i": 9,
 			"start": 73.43,
-			"end": 79.28,
+			"end": 78.259,
 			"en": "The following year, it was taken to pieces and sent to America.",
 			"zh": "次年，它被拆解并运往美国。"
 		},
 		{
 			"i": 10,
 			"start": 79.43,
-			"end": 83.65,
+			"end": 83.005,
 			"en": "By the end of October 1886,",
 			"zh": "到1886年10月底，"
 		},
 		{
 			"i": 11,
 			"start": 83.8,
-			"end": 93.7,
+			"end": 92.479,
 			"en": "the statue had been put together again and it was officially presented to the American people by Bartholdi.",
 			"zh": "雕像已被重新组装，并由巴托尔迪正式赠送给美国人民。"
 		},
 		{
 			"i": 12,
 			"start": 93.85,
-			"end": 99.17,
+			"end": 98.885,
 			"en": "Ever since then, the great monument has been a symbol of liberty",
 			"zh": "从那时起，这座伟大的纪念碑一直是自由的象征，"
 		},
 		{
 			"i": 13,
 			"start": 99.32,
-			"end": 103.32,
+			"end": 104.011,
 			"en": "for the millions of people who have passed through New York Harbour to make their homes in America.",
 			"zh": "对数百万穿过纽约港来美国安家的人们来说。"
 		}

@@ -7,117 +7,117 @@
 		"src": "audio/nce2-88.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.1,
-			"end": 15.03,
+			"end": 12.988,
 			"en": "Why is the rescue taking so long?",
 			"zh": "为什么救援用了这么长时间？"
 		},
 		{
 			"i": 1,
 			"start": 15.18,
-			"end": 20.97,
+			"end": 19.94,
 			"en": "Six men have been trapped in a mine for seventeen hours.",
 			"zh": "六名男子被困在矿井里已经十七个小时了。"
 		},
 		{
 			"i": 2,
 			"start": 21.12,
-			"end": 26.64,
+			"end": 25.616,
 			"en": "If they are not brought to the surface soon they may lose their lives.",
 			"zh": "如果他们不尽快被带到地面，他们可能会失去生命。"
 		},
 		{
 			"i": 3,
 			"start": 26.79,
-			"end": 31.5,
+			"end": 30.984,
 			"en": "However, rescue operations are proving difficult.",
 			"zh": "然而，救援行动进展困难。"
 		},
 		{
 			"i": 4,
 			"start": 31.65,
-			"end": 38.58,
+			"end": 37.791,
 			"en": "If explosives are used, vibrations will cause the roof of the mine to collapse.",
 			"zh": "如果使用炸药，震动将导致矿井顶部坍塌。"
 		},
 		{
 			"i": 5,
 			"start": 38.73,
-			"end": 44.99,
+			"end": 44.046,
 			"en": "Rescue workers are therefore drilling a hole on the north side of the mine.",
 			"zh": "因此，救援人员正在矿井北侧钻一个洞。"
 		},
 		{
 			"i": 6,
 			"start": 45.14,
-			"end": 49.94,
+			"end": 48.841,
 			"en": "They intend to bring the men up in a special capsule.",
 			"zh": "他们打算用一个特殊的胶囊将这些人带上来。"
 		},
 		{
 			"i": 7,
 			"start": 50.09,
-			"end": 55,
+			"end": 54.507,
 			"en": "If there had not been a hard layer of rock beneath the soil,",
 			"zh": "如果土壤下面没有一层坚硬的岩石，"
 		},
 		{
 			"i": 8,
 			"start": 55.15,
-			"end": 59.49,
+			"end": 58.529,
 			"en": "they would have completed the job in a few hours.",
 			"zh": "他们几个小时就能完成这项工作。"
 		},
 		{
 			"i": 9,
 			"start": 59.64,
-			"end": 68.47,
+			"end": 67.359,
 			"en": "As it is, they have been drilling for 16 hours and they still have a long way to go.",
 			"zh": "事实上，他们已经钻了16个小时，还有很长的路要走。"
 		},
 		{
 			"i": 10,
 			"start": 68.62,
-			"end": 75.03,
+			"end": 74.438,
 			"en": "Meanwhile, a microphone, which was lowered into the mine two hours ago,",
 			"zh": "同时，两个小时前被放入矿井的麦克风，"
 		},
 		{
 			"i": 11,
 			"start": 75.18,
-			"end": 80.59,
+			"end": 79.515,
 			"en": "has enabled the men to keep in touch with their closest relatives.",
 			"zh": "使这些男子能够与他们最亲近的亲属保持联系。"
 		},
 		{
 			"i": 12,
 			"start": 80.74,
-			"end": 84.03,
+			"end": 83.781,
 			"en": "Though they are running out of food and drink,",
 			"zh": "尽管他们的食物和饮用水即将耗尽，"
 		},
 		{
 			"i": 13,
 			"start": 84.18,
-			"end": 89.75,
+			"end": 88.723,
 			"en": "the men are cheerful and confident that they will get out soon.",
 			"zh": "这些男子仍然很乐观，并相信他们很快就能出来。"
 		},
 		{
 			"i": 14,
 			"start": 89.9,
-			"end": 95.26,
+			"end": 94.306,
 			"en": "They have been told that rescue operations are progressing smoothly.",
 			"zh": "他们被告知救援行动进展顺利。"
 		},
 		{
 			"i": 15,
 			"start": 95.41,
-			"end": 99.41,
+			"end": 100.161,
 			"en": "If they knew how difficult it was to drill through the hard rock, they would lose heart.",
 			"zh": "如果他们知道钻穿坚硬的岩石有多困难，他们就会灰心丧气。"
 		}

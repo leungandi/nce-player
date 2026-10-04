@@ -7,166 +7,166 @@
 		"src": "audio/nce1-71.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.67,
-			"end": 2.8,
+			"end": 2.428,
 			"en": "Lesson 71",
 			"zh": "第71课"
 		},
 		{
 			"i": 1,
 			"start": 2.95,
-			"end": 5.69,
+			"end": 4.272,
 			"en": "He's awful!",
 			"zh": "他太讨厌了！"
 		},
 		{
 			"i": 2,
 			"start": 5.84,
-			"end": 11.67,
+			"end": 10.425,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答问题。"
 		},
 		{
 			"i": 3,
 			"start": 11.82,
-			"end": 19.49,
+			"end": 17.01,
 			"en": "How did Pauline answer the telephone at nine o'clock?",
 			"zh": "9点钟时，波琳是怎样接电话的？"
 		},
 		{
 			"i": 4,
 			"start": 19.64,
-			"end": 23.92,
+			"end": 22.982,
 			"en": "What's Ron Marston like, Pauline?",
 			"zh": "罗恩·马斯顿是什么样的人，波琳？"
 		},
 		{
 			"i": 5,
 			"start": 24.07,
-			"end": 26.47,
+			"end": 25.977,
 			"en": "He's awful!",
 			"zh": "他太讨厌了！"
 		},
 		{
 			"i": 6,
 			"start": 26.62,
-			"end": 37.07,
+			"end": 35.624,
 			"en": "He telephoned me four times yesterday and three times the day before yesterday.",
 			"zh": "他昨天给我打了4次电话，前天打了3次。"
 		},
 		{
 			"i": 7,
 			"start": 37.22,
-			"end": 45.4,
+			"end": 44.777,
 			"en": "He telephoned the office yesterday morning and yesterday afternoon.",
 			"zh": "他昨天上午和昨天下午都把电话打到办公室去了。"
 		},
 		{
 			"i": 8,
 			"start": 45.55,
-			"end": 49.99,
+			"end": 48.591,
 			"en": "My boss answered the telephone.",
 			"zh": "我的老板接的电话。"
 		},
 		{
 			"i": 9,
 			"start": 50.14,
-			"end": 53.65,
+			"end": 52.564,
 			"en": "What did your boss say to him?",
 			"zh": "你老板对他说什么了？"
 		},
 		{
 			"i": 10,
 			"start": 53.8,
-			"end": 58.35,
+			"end": 58.055,
 			"en": "He said, 'Pauline is typing letters.",
 			"zh": "他说：“波琳正在打字。"
 		},
 		{
 			"i": 11,
 			"start": 58.5,
-			"end": 62.21,
+			"end": 61.011,
 			"en": "She can't speak to you now!'",
 			"zh": "她现在不能跟你讲话！”"
 		},
 		{
 			"i": 12,
 			"start": 62.36,
-			"end": 68.67,
+			"end": 68.061,
 			"en": "Then I arrived home at six o'clock yesterday evening.",
 			"zh": "昨天晚上6点我回到家。"
 		},
 		{
 			"i": 13,
 			"start": 68.82,
-			"end": 71.46,
+			"end": 70.982,
 			"en": "He telephoned again.",
 			"zh": "他又打电话来了。"
 		},
 		{
 			"i": 14,
 			"start": 71.61,
-			"end": 75.52,
+			"end": 74.311,
 			"en": "But I didn't answer the phone!",
 			"zh": "可我没接电话！"
 		},
 		{
 			"i": 15,
 			"start": 75.67,
-			"end": 79.68,
+			"end": 78.797,
 			"en": "Did he telephone again last night?",
 			"zh": "昨晚他又打电话了吗？"
 		},
 		{
 			"i": 16,
 			"start": 79.83,
-			"end": 82.06,
+			"end": 81.582,
 			"en": "Yes, he did.",
 			"zh": "是的，打了。"
 		},
 		{
 			"i": 17,
 			"start": 82.21,
-			"end": 86.26,
+			"end": 85.203,
 			"en": "He telephoned at nine o'clock.",
 			"zh": "他在9点钟打电话来了。"
 		},
 		{
 			"i": 18,
 			"start": 86.41,
-			"end": 89.52,
+			"end": 88.437,
 			"en": "What did you say to him?",
 			"zh": "你对他说了什么？"
 		},
 		{
 			"i": 19,
 			"start": 89.67,
-			"end": 93.67,
+			"end": 93.504,
 			"en": "I said, 'This is Pauline's mother.",
 			"zh": "我说：“我是波琳的妈妈。"
 		},
 		{
 			"i": 20,
 			"start": 93.82,
-			"end": 99.29,
+			"end": 98.091,
 			"en": "Please don't telephone my daughter again!'",
 			"zh": "请不要再给我女儿打电话了！”"
 		},
 		{
 			"i": 21,
 			"start": 99.44,
-			"end": 101.95,
+			"end": 101.489,
 			"en": "Did he telephone again?",
 			"zh": "他又打电话了吗？"
 		},
 		{
 			"i": 22,
 			"start": 102.1,
-			"end": 106.1,
+			"end": 103.033,
 			"en": "No, he didn't!",
 			"zh": "没有！"
 		}

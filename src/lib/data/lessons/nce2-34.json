@@ -7,19 +7,19 @@
 		"src": "audio/nce2-34.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.3,
-			"end": 16.43,
+			"end": 14.459,
 			"en": "How long had the police taken to find his bicycle?",
 			"zh": "警察花了多长时间才找到他的自行车？"
 		},
 		{
 			"i": 1,
 			"start": 16.58,
-			"end": 20.82,
+			"end": 19.918,
 			"en": "Dan Robinson has been worried all week.",
 			"zh": "丹·罗宾逊整个星期都忧心忡忡。"
 		},
@@ -33,14 +33,14 @@
 		{
 			"i": 3,
 			"start": 23.82,
-			"end": 26.04,
+			"end": 25.337,
 			"en": "from the local police.",
 			"zh": "来自当地警察局。"
 		},
 		{
 			"i": 4,
 			"start": 26.19,
-			"end": 30.79,
+			"end": 30.001,
 			"en": "In the letter he was asked to call at the station.",
 			"zh": "信中要求他到警察局一趟。"
 		},
@@ -54,28 +54,28 @@
 		{
 			"i": 6,
 			"start": 32.54,
-			"end": 35.56,
+			"end": 34.616,
 			"en": "he was wanted by the police,",
 			"zh": "警察要找他，"
 		},
 		{
 			"i": 7,
 			"start": 35.71,
-			"end": 38.38,
+			"end": 38.149,
 			"en": "but he went to the station yesterday",
 			"zh": "但他昨天去了警察局，"
 		},
 		{
 			"i": 8,
 			"start": 38.53,
-			"end": 42.03,
+			"end": 41.302,
 			"en": "and now he is not worried anymore.",
 			"zh": "现在他不再担心了。"
 		},
 		{
 			"i": 9,
 			"start": 42.18,
-			"end": 43.57,
+			"end": 43.262,
 			"en": "At the station,",
 			"zh": "在警察局，"
 		},
@@ -89,14 +89,14 @@
 		{
 			"i": 11,
 			"start": 46.81,
-			"end": 50.54,
+			"end": 49.466,
 			"en": "that his bicycle had been found.",
 			"zh": "他的自行车已经找到了。"
 		},
 		{
 			"i": 12,
 			"start": 50.69,
-			"end": 54.54,
+			"end": 54.133,
 			"en": "Five days ago, the policeman told him,",
 			"zh": "警察告诉他，五天前，"
 		},
@@ -110,14 +110,14 @@
 		{
 			"i": 14,
 			"start": 58.35,
-			"end": 61.12,
+			"end": 60.324,
 			"en": "four hundred miles away.",
 			"zh": "距离这里四百英里。"
 		},
 		{
 			"i": 15,
 			"start": 61.27,
-			"end": 65.46,
+			"end": 64.749,
 			"en": "It is now being sent to his home by train.",
 			"zh": "现在正通过火车运往他家。"
 		},
@@ -131,14 +131,14 @@
 		{
 			"i": 17,
 			"start": 68.03,
-			"end": 70.26,
+			"end": 69.603,
 			"en": "when he heard the news.",
 			"zh": "非常惊讶。"
 		},
 		{
 			"i": 18,
 			"start": 70.41,
-			"end": 73.01,
+			"end": 72.428,
 			"en": "He was amused too,",
 			"zh": "他也觉得很有趣，"
 		},
@@ -152,7 +152,7 @@
 		{
 			"i": 20,
 			"start": 75.44,
-			"end": 78.21,
+			"end": 77.276,
 			"en": "the bicycle to be found.",
 			"zh": "自行车会被找到。"
 		},
@@ -166,7 +166,7 @@
 		{
 			"i": 22,
 			"start": 81.44,
-			"end": 85.44,
+			"end": 84.365,
 			"en": "when Dan was a boy of fifteen!",
 			"zh": "当时丹还是个15岁的男孩！"
 		}

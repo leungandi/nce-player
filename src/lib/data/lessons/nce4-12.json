@@ -7,96 +7,96 @@
 		"src": "audio/nce4-12.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.43,
-			"end": 2.11,
+			"end": 1.606,
 			"en": "Lesson 12",
 			"zh": "第12课"
 		},
 		{
 			"i": 1,
 			"start": 2.26,
-			"end": 7.77,
+			"end": 7.085,
 			"en": "Banks and their customers",
 			"zh": "银行及其储户"
 		},
 		{
 			"i": 2,
 			"start": 7.92,
-			"end": 15.35,
+			"end": 13.077,
 			"en": "Why is there no risk to the customer when a bank prints the customer's name on his cheques?",
 			"zh": "当银行在顾客支票上印上顾客姓名时，顾客为什么没有任何风险？"
 		},
 		{
 			"i": 3,
 			"start": 15.5,
-			"end": 20.54,
+			"end": 20.296,
 			"en": "When anyone opens a current account at a bank, he is lending the bank money,",
 			"zh": "任何人在银行开立活期账户，他就是在借钱给银行，"
 		},
 		{
 			"i": 4,
 			"start": 20.69,
-			"end": 29.13,
+			"end": 28.599,
 			"en": "repayment of which he may demand at any time either in cash or by drawing a cheque in favour of another person.",
 			"zh": "而他可以随时要求银行偿还这笔钱，方式可以是现金，也可以是开出支票给另一个人。"
 		},
 		{
 			"i": 5,
 			"start": 29.28,
-			"end": 35.11,
+			"end": 34.543,
 			"en": "Primarily, the banker-customer relationship is that of debtor and creditor--",
 			"zh": "银行和储户的关系主要是债务人和债权人的关系——"
 		},
 		{
 			"i": 6,
 			"start": 35.26,
-			"end": 40.38,
+			"end": 40.072,
 			"en": "who is which depending on whether the customer's account is in credit or is overdrawn.",
 			"zh": "谁是债务人，谁是债权人，取决于储户的账户是盈余还是透支。"
 		},
 		{
 			"i": 7,
 			"start": 40.53,
-			"end": 43.61,
+			"end": 43.46,
 			"en": "But, in addition to that basically simple concept,",
 			"zh": "但是，除了这个基本简单的概念之外，"
 		},
 		{
 			"i": 8,
 			"start": 43.76,
-			"end": 49.57,
+			"end": 48.081,
 			"en": "the bank and its customer owe a large number of obligations to one another.",
 			"zh": "银行和其储户彼此还负有大量的义务。"
 		},
 		{
 			"i": 9,
 			"start": 49.72,
-			"end": 58.72,
+			"end": 58.537,
 			"en": "Many of these obligations can give rise to problems and complications but a bank customer, unlike, say, a buyer of goods,",
 			"zh": "这些义务中的许多都可能引起问题和复杂情况，但是银行储户，不像（比如说）商品购买者，"
 		},
 		{
 			"i": 10,
 			"start": 58.87,
-			"end": 62.44,
+			"end": 61.835,
 			"en": "cannot complain that the law is loaded against him.",
 			"zh": "不能抱怨法律对他不利。"
 		},
 		{
 			"i": 11,
 			"start": 62.59,
-			"end": 67.64,
+			"end": 67.261,
 			"en": "The bank must obey its customer's instructions, and not those of anyone else.",
 			"zh": "银行必须服从其储户的指令，而不是其他任何人的指令。"
 		},
 		{
 			"i": 12,
 			"start": 67.79,
-			"end": 77.73,
+			"end": 77.03,
 			"en": "When, for example, a customer first opens an account, he instructs the bank to debit his account only in respect of cheques drawn by himself.",
 			"zh": "例如，当储户首次开立账户时，他会指示银行只对由他本人开出的支票进行借记。"
 		},
@@ -117,35 +117,35 @@
 		{
 			"i": 15,
 			"start": 87.94,
-			"end": 91.75,
+			"end": 91.262,
 			"en": "on which its customer's signature has been forged.",
 			"zh": "如果这张支票上的储户签名被伪造。"
 		},
 		{
 			"i": 16,
 			"start": 91.9,
-			"end": 96.33,
+			"end": 96.067,
 			"en": "It makes no difference that the forgery may have been a very skillful one:",
 			"zh": "即使伪造得非常高明，也没有任何区别："
 		},
 		{
 			"i": 17,
 			"start": 96.48,
-			"end": 100.09,
+			"end": 99.454,
 			"en": "the bank must recognize its customer's signature.",
 			"zh": "银行必须识别其储户的签名。"
 		},
 		{
 			"i": 18,
 			"start": 100.24,
-			"end": 108.85,
+			"end": 108.499,
 			"en": "For this reason there is no risk to the customer in the practice, adopted by banks, of printing the customer's name on his cheques.",
 			"zh": "由于这个原因，银行采用的在储户支票上印上储户姓名的做法对储户来说没有风险。"
 		},
 		{
 			"i": 19,
 			"start": 109,
-			"end": 113,
+			"end": 111.262,
 			"en": "If this facilitates forgery, it is the bank which will lose, not the customer.",
 			"zh": "如果这有助于伪造，那么损失的是银行，而不是储户。"
 		}

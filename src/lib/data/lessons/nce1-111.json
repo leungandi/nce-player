@@ -7,145 +7,145 @@
 		"src": "audio/nce1-111.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.86,
-			"end": 4.1,
+			"end": 2.904,
 			"en": "Lesson 111",
 			"zh": "第111课"
 		},
 		{
 			"i": 1,
 			"start": 4.25,
-			"end": 7.87,
+			"end": 6.519,
 			"en": "The most expensive model",
 			"zh": "最昂贵的型号"
 		},
 		{
 			"i": 2,
 			"start": 8.02,
-			"end": 13.75,
+			"end": 12.234,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "请听录音，然后回答以下问题。"
 		},
 		{
 			"i": 3,
 			"start": 13.9,
-			"end": 23.48,
+			"end": 21.37,
 			"en": "Can Mr. Frith buy the television on instalments? How does it work?",
 			"zh": "弗里斯先生能分期付款买电视吗？具体怎么操作？"
 		},
 		{
 			"i": 4,
 			"start": 23.63,
-			"end": 27.08,
+			"end": 26.602,
 			"en": "I like this television very much.",
 			"zh": "我非常喜欢这台电视机。"
 		},
 		{
 			"i": 5,
 			"start": 27.23,
-			"end": 30.38,
+			"end": 29.266,
 			"en": "How much does it cost?",
 			"zh": "它多少钱？"
 		},
 		{
 			"i": 6,
 			"start": 30.53,
-			"end": 34.46,
+			"end": 34.209,
 			"en": "It's the most expensive model in the shop.",
 			"zh": "这是店里最贵的型号。"
 		},
 		{
 			"i": 7,
 			"start": 34.61,
-			"end": 38.64,
+			"end": 37.497,
 			"en": "It costs five hundred pounds.",
 			"zh": "它要五百英镑。"
 		},
 		{
 			"i": 8,
 			"start": 38.79,
-			"end": 42.18,
+			"end": 41.825,
 			"en": "That's too expensive for us.",
 			"zh": "那对我们来说太贵了。"
 		},
 		{
 			"i": 9,
 			"start": 42.33,
-			"end": 45.84,
+			"end": 45.224,
 			"en": "We can't afford all that money.",
 			"zh": "我们付不起那么多钱。"
 		},
 		{
 			"i": 10,
 			"start": 45.99,
-			"end": 49.93,
+			"end": 49.399,
 			"en": "This model's less expensive than that one.",
 			"zh": "这款型号比那款便宜。"
 		},
 		{
 			"i": 11,
 			"start": 50.08,
-			"end": 52.91,
+			"end": 52.603,
 			"en": "It's only three hundred pounds.",
 			"zh": "它只要三百英镑。"
 		},
 		{
 			"i": 12,
 			"start": 53.06,
-			"end": 59.8,
+			"end": 58.368,
 			"en": "But, of course, it's not as good as the expensive one.",
 			"zh": "但是，当然，它不如那款贵的。"
 		},
 		{
 			"i": 13,
 			"start": 59.95,
-			"end": 62.63,
+			"end": 62.144,
 			"en": "I don't like this model.",
 			"zh": "我不喜欢这款型号。"
 		},
 		{
 			"i": 14,
 			"start": 62.78,
-			"end": 69.21,
+			"end": 68.053,
 			"en": "The other model's more expensive, but it's worth the money.",
 			"zh": "另一款型号更贵，但物有所值。"
 		},
 		{
 			"i": 15,
 			"start": 69.36,
-			"end": 72.97,
+			"end": 72.539,
 			"en": "Can we buy it on instalments?",
 			"zh": "我们可以分期付款买吗？"
 		},
 		{
 			"i": 16,
 			"start": 73.12,
-			"end": 74.44,
+			"end": 74.118,
 			"en": "Of course.",
 			"zh": "当然可以。"
 		},
 		{
 			"i": 17,
 			"start": 74.59,
-			"end": 78.48,
+			"end": 78.243,
 			"en": "You can pay a deposit of thirty pounds,",
 			"zh": "你可以先付三十英镑定金，"
 		},
 		{
 			"i": 18,
 			"start": 78.63,
-			"end": 84.39,
+			"end": 83.275,
 			"en": "and then fourteen pounds a month for three years.",
 			"zh": "然后每月十四英镑，分三年付清。"
 		},
 		{
 			"i": 19,
 			"start": 84.54,
-			"end": 87.54,
+			"end": 86.199,
 			"en": "Do you like it, dear?",
 			"zh": "亲爱的，你喜欢吗？"
 		},
@@ -159,21 +159,21 @@
 		{
 			"i": 21,
 			"start": 93.01,
-			"end": 98.83,
+			"end": 98.18,
 			"en": "You always want the best, but we can't afford it.",
 			"zh": "你总是想要最好的，但我们负担不起。"
 		},
 		{
 			"i": 22,
 			"start": 98.98,
-			"end": 105.13,
+			"end": 103.449,
 			"en": "Sometimes you think you're a millionaire!",
 			"zh": "有时候你以为自己是百万富翁！"
 		},
 		{
 			"i": 23,
 			"start": 105.28,
-			"end": 109.28,
+			"end": 109.372,
 			"en": "Millionaires don't buy things on instalments!",
 			"zh": "百万富翁可不会分期付款买东西！"
 		}

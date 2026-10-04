@@ -7,61 +7,61 @@
 		"src": "audio/nce4-11.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.4,
-			"end": 2.29,
+			"end": 1.546,
 			"en": "Lesson 11",
 			"zh": "第11课"
 		},
 		{
 			"i": 1,
 			"start": 2.44,
-			"end": 10.45,
+			"end": 9.136,
 			"en": "How to grow old",
 			"zh": "如何安度晚年"
 		},
 		{
 			"i": 2,
 			"start": 10.6,
-			"end": 20.07,
+			"end": 18.366,
 			"en": "What, according to the author, is the best way to overcome the fear of death as you get older?",
 			"zh": "照作者看来，随着年事增高，克服对死亡的恐惧的最佳方法是什么？"
 		},
 		{
 			"i": 3,
 			"start": 20.22,
-			"end": 24.99,
+			"end": 24.093,
 			"en": "Some old people are oppressed by the fear of death.",
 			"zh": "有些老年人害怕死亡。"
 		},
 		{
 			"i": 4,
 			"start": 25.14,
-			"end": 28.68,
+			"end": 28.386,
 			"en": "In the young there is a justification for this feeling.",
 			"zh": "这种情绪如果发生在年轻人身上，是情有可原的。"
 		},
 		{
 			"i": 5,
 			"start": 28.83,
-			"end": 33.09,
+			"end": 32.839,
 			"en": "Young men who have reason to fear that they will be killed in battle",
 			"zh": "青年人有理由担心他们会战死沙场，"
 		},
 		{
 			"i": 6,
 			"start": 33.24,
-			"end": 36.64,
+			"end": 36.338,
 			"en": "may justifiably feel bitter in the thought",
 			"zh": "想到他们没有享受到人生最美好的东西，"
 		},
 		{
 			"i": 7,
 			"start": 36.79,
-			"end": 42.3,
+			"end": 41.411,
 			"en": "that they have been cheated of the best things that life has to offer.",
 			"zh": "因而感到痛苦，这也是情有可原的。"
 		},
@@ -75,35 +75,35 @@
 		{
 			"i": 9,
 			"start": 48.12,
-			"end": 51.86,
+			"end": 51.085,
 			"en": "and has achieved whatever work it was in him to do,",
 			"zh": "并且已经做完了他力所能及的一切工作，"
 		},
 		{
 			"i": 10,
 			"start": 52.01,
-			"end": 56.78,
+			"end": 56.025,
 			"en": "the fear of death is somewhat abject and ignoble.",
 			"zh": "如果他仍然害怕死亡，那就有几分可怜又可鄙了。"
 		},
 		{
 			"i": 11,
 			"start": 56.93,
-			"end": 62.52,
+			"end": 61.503,
 			"en": "The best way to overcome it--so at least it seems to me--",
 			"zh": "克服这种恐惧的最好办法——至少在我看来是如此——"
 		},
 		{
 			"i": 12,
 			"start": 62.67,
-			"end": 67.9,
+			"end": 67.418,
 			"en": "is to make your interests gradually wider and more impersonal,",
 			"zh": "是使你的兴趣逐渐扩大，变得更加超然物外，"
 		},
 		{
 			"i": 13,
 			"start": 68.05,
-			"end": 73.07,
+			"end": 72.493,
 			"en": "until bit by bit the walls of the ego recede,",
 			"zh": "直到自我的界限一点点地消退，"
 		},
@@ -117,98 +117,98 @@
 		{
 			"i": 15,
 			"start": 77.73,
-			"end": 83.36,
+			"end": 82.739,
 			"en": "An individual human existence should be like a river--",
 			"zh": "人的个体生命应该像一条河流——"
 		},
 		{
 			"i": 16,
 			"start": 83.51,
-			"end": 88.27,
+			"end": 88.085,
 			"en": "small at first, narrowly contained within its banks,",
 			"zh": "最初很小，被狭窄的河岸限制着，"
 		},
 		{
 			"i": 17,
 			"start": 88.42,
-			"end": 93.55,
+			"end": 92.685,
 			"en": "and rushing passionately past boulders and over waterfalls.",
 			"zh": "汹涌地冲过巨石，飞跃瀑布。"
 		},
 		{
 			"i": 18,
 			"start": 93.7,
-			"end": 101.03,
+			"end": 100.455,
 			"en": "Gradually the river grows wider, the banks recede, the waters flow more quietly,",
 			"zh": "渐渐地，河流变得宽阔，河岸后退，水流也变得更加平静，"
 		},
 		{
 			"i": 19,
 			"start": 101.18,
-			"end": 107.29,
+			"end": 106.821,
 			"en": "and in the end, without any visiblebreak, they become merged in the sea,",
 			"zh": "最终，在没有任何明显的断裂的情况下，它们汇入了大海，"
 		},
 		{
 			"i": 20,
 			"start": 107.44,
-			"end": 111.04,
+			"end": 110.547,
 			"en": "and painlessly lose their individual being.",
 			"zh": "并且毫无痛苦地失去了它们的个体存在。"
 		},
 		{
 			"i": 21,
 			"start": 111.19,
-			"end": 116.62,
+			"end": 116.162,
 			"en": "The man who, in old age can see his life in this way,",
 			"zh": "那些年老时能以这种方式看待自己生命的人，"
 		},
 		{
 			"i": 22,
 			"start": 116.77,
-			"end": 119.39,
+			"end": 118.945,
 			"en": "will not suffer from the fear of death,",
 			"zh": "将不会受到对死亡的恐惧的折磨，"
 		},
 		{
 			"i": 23,
 			"start": 119.54,
-			"end": 123.23,
+			"end": 122.506,
 			"en": "since the things he cares for will continue.",
 			"zh": "因为他所珍视的一切将会继续存在。"
 		},
 		{
 			"i": 24,
 			"start": 123.38,
-			"end": 130.37,
+			"end": 129.53,
 			"en": "And if, with the decay of vitality, weariness increases,",
 			"zh": "而且，如果随着活力的衰退，疲劳感增加，"
 		},
 		{
 			"i": 25,
 			"start": 130.52,
-			"end": 134.14,
+			"end": 133.511,
 			"en": "the thought of rest will be not unwelcome.",
 			"zh": "休息的念头将不会令人不快。"
 		},
 		{
 			"i": 26,
 			"start": 134.29,
-			"end": 137.67,
+			"end": 137.208,
 			"en": "I should wish to die while still at work,",
 			"zh": "我希望在工作时死去，"
 		},
 		{
 			"i": 27,
 			"start": 137.82,
-			"end": 142.21,
+			"end": 141.718,
 			"en": "knowing that others will carry on what I can no longer do,",
 			"zh": "知道别人会继续我无法再做的事情，"
 		},
 		{
 			"i": 28,
 			"start": 142.36,
-			"end": 146.36,
+			"end": 146.538,
 			"en": "and content in the thought that what was possible has been done.",
 			"zh": "并满意地想到，所有可能做的事情都已经完成了。"
 		}

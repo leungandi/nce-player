@@ -7,124 +7,124 @@
 		"src": "audio/nce2-76.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 11.32,
-			"end": 14.93,
+			"end": 12.862,
 			"en": "What was the joke?",
 			"zh": "笑话是什么？"
 		},
 		{
 			"i": 1,
 			"start": 15.08,
-			"end": 18.64,
+			"end": 17.942,
 			"en": "'To end our special news bulletin,'",
 			"zh": "“为结束我们的特别新闻快报，”"
 		},
 		{
 			"i": 2,
 			"start": 18.79,
-			"end": 28.19,
+			"end": 27.025,
 			"en": "said the voice of the television announcer, 'we're going over to the macaroni fields of Calabria.",
 			"zh": "电视播音员的声音说道，“我们现在转向卡拉布里亚的通心粉田。”"
 		},
 		{
 			"i": 3,
 			"start": 28.34,
-			"end": 34.42,
+			"end": 33.476,
 			"en": "Macaroni has been grown in this area for over six hundred years.",
 			"zh": "通心粉在这片区域种植已有六百多年了。"
 		},
 		{
 			"i": 4,
 			"start": 34.57,
-			"end": 41.16,
+			"end": 40.622,
 			"en": "Two of the leading growers Giuseppe Moldova and Riccardo Brabante,",
 			"zh": "两位主要的种植者朱塞佩·摩尔多瓦和里卡尔多·布拉班特，"
 		},
 		{
 			"i": 5,
 			"start": 41.31,
-			"end": 50.64,
+			"end": 49.602,
 			"en": "tell me that they have been expecting a splendid crop this year and harvesting has begun earlier than usual.",
 			"zh": "告诉我他们今年预计会有一个丰收，而且收割比往常开始得早。"
 		},
 		{
 			"i": 6,
 			"start": 50.79,
-			"end": 55.22,
+			"end": 55.046,
 			"en": "Here you can see two workers who, between them,",
 			"zh": "在这里你可以看到两位工人，他们俩，"
 		},
 		{
 			"i": 7,
 			"start": 55.37,
-			"end": 62.69,
+			"end": 61.901,
 			"en": "have just finished cutting three cartloads of golden brown macaroni stalks.",
 			"zh": "刚砍完了三车金黄色的通心粉茎。"
 		},
 		{
 			"i": 8,
 			"start": 62.84,
-			"end": 73.19,
+			"end": 72.54,
 			"en": "The whole village has been working day and night gathering and threshing this year's crop before the September rains.",
 			"zh": "整个村庄昼夜不停地收割和脱粒今年的庄稼，以赶在九月雨季之前。"
 		},
 		{
 			"i": 9,
 			"start": 73.34,
-			"end": 78.32,
+			"end": 77.668,
 			"en": "On the right, you can see Mrs. Brabante herself.",
 			"zh": "在右边，你可以看到布拉班特夫人本人。"
 		},
 		{
 			"i": 10,
 			"start": 78.47,
-			"end": 82.94,
+			"end": 82.201,
 			"en": "She has been helping her husband for thirty years now.",
 			"zh": "她已经帮助她的丈夫三十年了。"
 		},
 		{
 			"i": 11,
 			"start": 83.09,
-			"end": 90.24,
+			"end": 89.624,
 			"en": "Mrs. Brabante is talking to the manager of the local factory where the crop is processed.",
 			"zh": "布拉班特夫人正在和当地加工庄稼的工厂经理交谈。"
 		},
 		{
 			"i": 12,
 			"start": 90.39,
-			"end": 96.08,
+			"end": 95.334,
 			"en": "This last scene shows you what will happen at the end of the harvest:",
 			"zh": "这最后一幕向你展示了收割结束后将发生的事情："
 		},
 		{
 			"i": 13,
 			"start": 96.23,
-			"end": 101.27,
+			"end": 100.346,
 			"en": "the famous Calabrian macaroni-eating competition!",
 			"zh": "著名的卡拉布里亚通心粉大赛！"
 		},
 		{
 			"i": 14,
 			"start": 101.42,
-			"end": 109.54,
+			"end": 108.727,
 			"en": "Signor Fratelli, the present champion, has won it every year since 1991.",
 			"zh": "现任冠军弗拉特利先生自1991年以来每年都赢得了比赛。"
 		},
 		{
 			"i": 15,
 			"start": 109.69,
-			"end": 116.1,
+			"end": 115.508,
 			"en": "And that ends our special bulletin for today, Thursday, April 1st.",
 			"zh": "今天的特别快报到此结束，今天是4月1日星期四。"
 		},
 		{
 			"i": 16,
 			"start": 116.25,
-			"end": 120.25,
+			"end": 119.055,
 			"en": "We're now going back to the studio.'",
 			"zh": "我们现在回到演播室。”"
 		}

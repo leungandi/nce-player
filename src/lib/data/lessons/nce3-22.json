@@ -7,75 +7,75 @@
 		"src": "audio/nce3-22.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.51,
-			"end": 2.4,
+			"end": 1.989,
 			"en": "Lesson 22",
 			"zh": "第22课"
 		},
 		{
 			"i": 1,
 			"start": 2.55,
-			"end": 9.29,
+			"end": 8.442,
 			"en": "By heart",
 			"zh": "熟记于心"
 		},
 		{
 			"i": 2,
 			"start": 9.44,
-			"end": 17.17,
+			"end": 15.256,
 			"en": "Which actor read the letter in the end, the aristocrat or the gaoler?",
 			"zh": "最终是哪位演员读了信，是贵族还是狱卒？"
 		},
 		{
 			"i": 3,
 			"start": 17.32,
-			"end": 22.26,
+			"end": 21.775,
 			"en": "Some plays are so successful that they run for years on end.",
 			"zh": "有些戏剧非常成功，一连上演好几年。"
 		},
 		{
 			"i": 4,
 			"start": 22.41,
-			"end": 32.82,
+			"end": 32.148,
 			"en": "In many ways, this is unfortunate for the poor actors who are required to go on repeating the same lines night after night.",
 			"zh": "在许多方面，这对可怜的演员来说是不幸的，他们被要求夜复一夜地重复相同的台词。"
 		},
 		{
 			"i": 5,
 			"start": 32.97,
-			"end": 38.97,
+			"end": 38.389,
 			"en": "One would expect them to know their parts by heart and never have cause to falter.",
 			"zh": "人们会期望他们熟记自己的角色台词，永不结巴。"
 		},
 		{
 			"i": 6,
 			"start": 39.12,
-			"end": 42.66,
+			"end": 41.516,
 			"en": "Yet this is not always the case.",
 			"zh": "然而，事实并非总是如此。"
 		},
 		{
 			"i": 7,
 			"start": 42.81,
-			"end": 54.1,
+			"end": 53.581,
 			"en": "A famous actor in a highly successful play was once cast in the role of an aristocrat who had been imprisoned in the Bastille for twenty years.",
 			"zh": "一部非常成功的戏剧中，一位著名演员曾被塑造成一位在巴士底狱被囚禁了二十年的贵族。"
 		},
 		{
 			"i": 8,
 			"start": 54.25,
-			"end": 63.23,
+			"end": 62.382,
 			"en": "In the last act, a gaoler would always come on to the stage with a letter which he would hand to the prisoner.",
 			"zh": "在最后一幕中，一个狱卒总是会带着一封信上台，然后递给囚犯。"
 		},
 		{
 			"i": 9,
 			"start": 63.38,
-			"end": 72.66,
+			"end": 71.683,
 			"en": "Even though the noble was expected to read the letter at each performance, he always insisted that it should be written out in full.",
 			"zh": "尽管这位贵族在每次表演中都应该读这封信，但他总是坚持信应该写得清清楚楚。"
 		},
@@ -89,105 +89,105 @@
 		{
 			"i": 11,
 			"start": 78.41,
-			"end": 85.3,
+			"end": 84.487,
 			"en": "after so many performances, he had managed to learn the contents of the letter by heart.",
 			"zh": "在这么多场演出之后，他是否已经把信的内容熟记于心。"
 		},
 		{
 			"i": 12,
 			"start": 85.45,
-			"end": 95.01,
+			"end": 94.233,
 			"en": "The curtain went up on the final act of the play and revealed the aristocrat sitting alone behind bars in his dark cell.",
 			"zh": "戏剧的最后一幕拉开了帷幕，露出了贵族独自一人坐在漆黑牢房的铁窗后面。"
 		},
 		{
 			"i": 13,
 			"start": 95.16,
-			"end": 100.4,
+			"end": 99.729,
 			"en": "Just then, the gaoler appeared with the precious letter in his hands.",
 			"zh": "就在那时，狱卒手里拿着那封珍贵的信出现了。"
 		},
 		{
 			"i": 14,
 			"start": 100.55,
-			"end": 105.21,
+			"end": 104.586,
 			"en": "He entered the cell and presented the letter to the aristocrat.",
 			"zh": "他走进牢房，把信递给了贵族。"
 		},
 		{
 			"i": 15,
 			"start": 105.36,
-			"end": 110.35,
+			"end": 109.802,
 			"en": "But the copy he gave him had not been written out in full as usual.",
 			"zh": "但他给他的那份信件并未像往常一样完整写出。"
 		},
 		{
 			"i": 16,
 			"start": 110.5,
-			"end": 113.99,
+			"end": 113.236,
 			"en": "It was simply a blank sheet of paper.",
 			"zh": "那只是一张白纸。"
 		},
 		{
 			"i": 17,
 			"start": 114.14,
-			"end": 122.08,
+			"end": 121.443,
 			"en": "The gaoler looked on eagerly, anxious to see if his fellow actor had at last learnt his lines.",
 			"zh": "狱卒焦急地看着，渴望知道他的同事演员是否终于记住了台词。"
 		},
 		{
 			"i": 18,
 			"start": 122.23,
-			"end": 127.3,
+			"end": 126.732,
 			"en": "The noble stared at the blank sheet of paper for a few seconds.",
 			"zh": "贵族盯着那张白纸看了几秒钟。"
 		},
 		{
 			"i": 19,
 			"start": 127.45,
-			"end": 135.89,
+			"end": 135.497,
 			"en": "Then, squinting his eyes, he said: 'The light is dim. Read the letter to me.'",
 			"zh": "然后，他眯着眼睛说：“光线太暗了。你把信念给我听吧。”"
 		},
 		{
 			"i": 20,
 			"start": 136.04,
-			"end": 140.34,
+			"end": 139.503,
 			"en": "And he promptly handed the sheet of paper to the gaoler.",
 			"zh": "他立刻把那张纸递给了狱卒。"
 		},
 		{
 			"i": 21,
 			"start": 140.49,
-			"end": 144.68,
+			"end": 144.432,
 			"en": "Finding that he could not remember a word of the letter either,",
 			"zh": "狱卒发现自己也记不住信里一个字，"
 		},
 		{
 			"i": 22,
 			"start": 144.83,
-			"end": 152.41,
+			"end": 152.028,
 			"en": "the gaoler replied: 'The light is indeed dim, sire.  I must get my glasses.  '",
 			"zh": "他回答说：“陛下，光线确实很暗。我必须去拿我的眼镜。”"
 		},
 		{
 			"i": 23,
 			"start": 152.56,
-			"end": 156.23,
+			"end": 155.506,
 			"en": "With this, he hurried off the stage.",
 			"zh": "说完，他匆匆忙忙地下了台。"
 		},
 		{
 			"i": 24,
 			"start": 156.38,
-			"end": 158.68,
+			"end": 158.579,
 			"en": "Much to the aristocrat's amusement,",
 			"zh": "令贵族非常有趣的是，"
 		},
 		{
 			"i": 25,
 			"start": 158.83,
-			"end": 162.83,
+			"end": 161.489,
 			"en": "the gaoler returned a few moments later with a pair of glasses and the usual copy of the letter which he proceeded to read to the prisoner.",
 			"zh": "狱卒几分钟后带着一副眼镜和往常那封信的副本回来了，然后他开始念给囚犯听。"
 		}

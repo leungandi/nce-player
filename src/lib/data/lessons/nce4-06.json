@@ -7,7 +7,7 @@
 		"src": "audio/nce4-06.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
@@ -19,84 +19,84 @@
 		{
 			"i": 1,
 			"start": 1.51,
-			"end": 7.49,
+			"end": 6.933,
 			"en": "The sporting spirit",
 			"zh": "体育精神"
 		},
 		{
 			"i": 2,
 			"start": 7.64,
-			"end": 13.94,
+			"end": 11.487,
 			"en": "How does the writer describe sport at the international level?",
 			"zh": "作者如何描述国际层面的体育运动？"
 		},
 		{
 			"i": 3,
 			"start": 14.09,
-			"end": 30.17,
+			"end": 29.74,
 			"en": "I am always amazed when I hear people saying that sport creates goodwill between the nations, and that if only the common peoples of the world could meet one another at football or cricket, they would have no inclination to meet on the battlefield.",
 			"zh": "我听到人们说体育能在国家之间创造友谊，并且只要世界各国人民能在足球场或板球场上相遇，他们就无意在战场上相见时，我总是感到惊奇。"
 		},
 		{
 			"i": 4,
 			"start": 30.32,
-			"end": 45.38,
+			"end": 44.65,
 			"en": "Even if one didn't know from concrete examples (the 1936 Olympic Games, for instance) that international sporting contests lead to orgies of hatred, one could deduce it from general principles.",
 			"zh": "即使我们不知道具体的例子（例如1936年奥运会）表明国际体育比赛会导致仇恨的狂潮，我们也能从普遍原则中推断出来。"
 		},
 		{
 			"i": 5,
 			"start": 45.53,
-			"end": 49.25,
+			"end": 48.983,
 			"en": "Nearly all the sports practised nowadays are competitive.",
 			"zh": "如今几乎所有的体育运动都是竞技性的。"
 		},
 		{
 			"i": 6,
 			"start": 49.4,
-			"end": 55.51,
+			"end": 55.036,
 			"en": "You play to win, and the game has little meaning unless you do your utmost to win.",
 			"zh": "你比赛是为了赢，除非你尽力去赢，否则比赛就没有多大意义。"
 		},
 		{
 			"i": 7,
 			"start": 55.66,
-			"end": 79.19,
+			"end": 78.553,
 			"en": "On the village green, where you pick up sides and no feeling of local patriotism is involved, it is possible to play simply for the fun and exercise: but as soon as a the question of prestige arises, as soon as you feel that you and some larger unit will be disgraced if you lose, the most savage combative instincts are aroused.",
 			"zh": "在村庄草坪上，你随便组队，不涉及地方爱国主义情感，纯粹为了乐趣和锻炼而比赛是可能的：但一旦涉及声望问题，一旦你觉得你和某个更大的集体如果输了就会蒙羞，最原始的战斗本能就会被激发。"
 		},
 		{
 			"i": 8,
 			"start": 79.34,
-			"end": 83.47,
+			"end": 82.899,
 			"en": "Anyone who has played even in a school football match knows this.",
 			"zh": "即使是参加过学校足球比赛的人也知道这一点。"
 		},
 		{
 			"i": 9,
 			"start": 83.62,
-			"end": 88.47,
+			"end": 87.971,
 			"en": "At the international level, sport is frankly mimic warfare.",
 			"zh": "在国际层面，体育坦率地说是模仿战争。"
 		},
 		{
 			"i": 10,
 			"start": 88.62,
-			"end": 94.74,
+			"end": 94.332,
 			"en": "But the significant thing is not the behaviour of the players but the attitude of the spectators:",
 			"zh": "但重要的不是运动员的行为，而是观众的态度："
 		},
 		{
 			"i": 11,
 			"start": 94.89,
-			"end": 101.78,
+			"end": 101.598,
 			"en": "and, behind the spectators, of the nations who work themselves into furies over these absurd contests,",
 			"zh": "在观众背后，是那些因这些荒谬的比赛而变得狂怒的国家，"
 		},
 		{
 			"i": 12,
 			"start": 101.93,
-			"end": 105.93,
+			"end": 103.65,
 			"en": "and seriously believe -- at any rate for short periods -- that running, jumping and kicking a ball are tests of national virtue.",
 			"zh": "并且——至少在短时间内——认真地相信跑步、跳跃和踢球是衡量民族美德的标准。"
 		}

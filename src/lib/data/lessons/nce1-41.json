@@ -7,145 +7,145 @@
 		"src": "audio/nce1-41.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.5,
-			"end": 2.75,
+			"end": 2.1,
 			"en": "Lesson 41",
 			"zh": "第41课"
 		},
 		{
 			"i": 1,
 			"start": 2.9,
-			"end": 5.54,
+			"end": 4.232,
 			"en": "Penny's bag",
 			"zh": "彭妮的包"
 		},
 		{
 			"i": 2,
 			"start": 5.69,
-			"end": 11.73,
+			"end": 10.221,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答问题。"
 		},
 		{
 			"i": 3,
 			"start": 11.88,
-			"end": 17.74,
+			"end": 15.075,
 			"en": "Who is the tin of tobacco for?",
 			"zh": "这听烟丝是给谁的？"
 		},
 		{
 			"i": 4,
 			"start": 17.89,
-			"end": 20.68,
+			"end": 20.415,
 			"en": "Is that bag heavy, Penny?",
 			"zh": "彭妮，那个包重吗？"
 		},
 		{
 			"i": 5,
 			"start": 20.83,
-			"end": 22.85,
+			"end": 22.175,
 			"en": "Not very.",
 			"zh": "不太重。"
 		},
 		{
 			"i": 6,
 			"start": 23,
-			"end": 24.15,
+			"end": 23.441,
 			"en": "Here!",
 			"zh": "好了！"
 		},
 		{
 			"i": 7,
 			"start": 24.3,
-			"end": 26.97,
+			"end": 26.245,
 			"en": "Put it on this chair.",
 			"zh": "把它放在这把椅子上吧。"
 		},
 		{
 			"i": 8,
 			"start": 27.12,
-			"end": 29.12,
+			"end": 28.438,
 			"en": "What's in it?",
 			"zh": "里面是什么？"
 		},
 		{
 			"i": 9,
 			"start": 29.27,
-			"end": 31.99,
+			"end": 31.1,
 			"en": "A piece of cheese.",
 			"zh": "一块奶酪，"
 		},
 		{
 			"i": 10,
 			"start": 32.14,
-			"end": 34.62,
+			"end": 33.739,
 			"en": "A loaf of bread.",
 			"zh": "一条面包，"
 		},
 		{
 			"i": 11,
 			"start": 34.77,
-			"end": 37.37,
+			"end": 36.472,
 			"en": "A bar of soap.",
 			"zh": "一块肥皂，"
 		},
 		{
 			"i": 12,
 			"start": 37.52,
-			"end": 40.04,
+			"end": 39.33,
 			"en": "A bar of chocolate.",
 			"zh": "一块巧克力，"
 		},
 		{
 			"i": 13,
 			"start": 40.19,
-			"end": 42.62,
+			"end": 41.73,
 			"en": "A bottle of milk.",
 			"zh": "一瓶牛奶，"
 		},
 		{
 			"i": 14,
 			"start": 42.77,
-			"end": 45.59,
+			"end": 44.505,
 			"en": "A pound of sugar.",
 			"zh": "一磅糖，"
 		},
 		{
 			"i": 15,
 			"start": 45.74,
-			"end": 49.02,
+			"end": 47.942,
 			"en": "Half a pound of coffee.",
 			"zh": "半磅咖啡，"
 		},
 		{
 			"i": 16,
 			"start": 49.17,
-			"end": 52.97,
+			"end": 51.863,
 			"en": "A quarter of a pound of tea.",
 			"zh": "四分之一磅茶叶，"
 		},
 		{
 			"i": 17,
 			"start": 53.12,
-			"end": 57.42,
+			"end": 55.781,
 			"en": "And a tin of tobacco.",
 			"zh": "和一听烟丝。"
 		},
 		{
 			"i": 18,
 			"start": 57.57,
-			"end": 61.92,
+			"end": 60.816,
 			"en": "Is that tin of tobacco for me?",
 			"zh": "那听烟丝是给我的吗？"
 		},
 		{
 			"i": 19,
 			"start": 62.07,
-			"end": 66.07,
+			"end": 62.935,
 			"en": "Well, it's certainly not for me!",
 			"zh": "嗯，那当然不是给我的！"
 		}

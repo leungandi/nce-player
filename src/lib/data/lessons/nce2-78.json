@@ -7,103 +7,103 @@
 		"src": "audio/nce2-78.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.39,
-			"end": 15.63,
+			"end": 13.649,
 			"en": "For how long did the writer give up smoking?",
 			"zh": "作者戒烟戒了多久？"
 		},
 		{
 			"i": 1,
 			"start": 15.78,
-			"end": 26.1,
+			"end": 25.269,
 			"en": "After reading an article entitled 'Cigarette Smoking and Your Health' I lit a cigarette to calm my nerves.",
 			"zh": "读了一篇题为《吸烟与健康》的文章后，我点燃了一支香烟来镇定情绪。"
 		},
 		{
 			"i": 2,
 			"start": 26.25,
-			"end": 34.96,
+			"end": 33.88,
 			"en": "I smoked with concentration and pleasure as I was sure that this would be my last cigarette.",
 			"zh": "我聚精会神、津津有味地抽着，因为我确信这是我的最后一支香烟了。"
 		},
 		{
 			"i": 3,
 			"start": 35.11,
-			"end": 43.69,
+			"end": 42.753,
 			"en": "For a whole week I did not smoke at all and during this time my wife suffered terribly.",
 			"zh": "整整一个星期我根本没吸烟，在此期间我妻子可遭了大罪了。"
 		},
 		{
 			"i": 4,
 			"start": 43.84,
-			"end": 53.68,
+			"end": 52.759,
 			"en": "I had all the usual symptoms of someone giving up smoking: a bad temper and an enormous appetite.",
 			"zh": "我具备了戒烟者的所有常见症状：脾气暴躁，胃口大开。"
 		},
 		{
 			"i": 5,
 			"start": 53.83,
-			"end": 59,
+			"end": 58.22,
 			"en": "My friends kept on offering me cigarettes and cigars.",
 			"zh": "我的朋友们不断地给我递香烟和雪茄。"
 		},
 		{
 			"i": 6,
 			"start": 59.15,
-			"end": 68.14,
+			"end": 66.864,
 			"en": "They made no effort to hide their amusement whenever I produced a packet of sweets from my pocket.",
 			"zh": "每当我从口袋里掏出一包糖果时，他们都毫不掩饰地取笑我。"
 		},
 		{
 			"i": 7,
 			"start": 68.29,
-			"end": 72.89,
+			"end": 71.812,
 			"en": "After seven days of this I went to a party.",
 			"zh": "这样过了7天，我参加了一个聚会。"
 		},
 		{
 			"i": 8,
 			"start": 73.04,
-			"end": 79.63,
+			"end": 78.508,
 			"en": "Everybody around me was smoking and I felt extremely uncomfortable.",
 			"zh": "我周围的人都在吸烟，我感到非常不舒服。"
 		},
 		{
 			"i": 9,
 			"start": 79.78,
-			"end": 89.08,
+			"end": 87.576,
 			"en": "When my old friend Brian urged me to accept a cigarette, it was more than I could bear.",
 			"zh": "当我的老朋友布赖恩极力劝我抽一支烟时，我再也忍不住了。"
 		},
 		{
 			"i": 10,
 			"start": 89.23,
-			"end": 95.56,
+			"end": 94.527,
 			"en": "I took one guiltily, lit it and smoked with satisfaction.",
 			"zh": "我内疚地拿了一支，点上，心满意足地抽了起来。"
 		},
 		{
 			"i": 11,
 			"start": 95.71,
-			"end": 101.48,
+			"end": 100.541,
 			"en": "My wife was delighted that things had returned to normal once more.",
 			"zh": "我妻子很高兴一切又恢复了正常。"
 		},
 		{
 			"i": 12,
 			"start": 101.63,
-			"end": 109.86,
+			"end": 109.118,
 			"en": "Anyway, as Brian pointed out, it is the easiest thing in the world to give up smoking.",
 			"zh": "不过，正如布赖恩指出的，戒烟是世界上最容易的事情。"
 		},
 		{
 			"i": 13,
 			"start": 110.01,
-			"end": 114.01,
+			"end": 113.343,
 			"en": "He himself has done it lots of times!",
 			"zh": "他自己就戒过好多次了！"
 		}

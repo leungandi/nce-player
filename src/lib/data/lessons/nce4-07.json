@@ -7,117 +7,117 @@
 		"src": "audio/nce4-07.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.61,
-			"end": 2.19,
+			"end": 1.557,
 			"en": "Lesson 7",
 			"zh": "第7课"
 		},
 		{
 			"i": 1,
 			"start": 2.34,
-			"end": 9.55,
+			"end": 7.689,
 			"en": "Bats",
 			"zh": "蝙蝠"
 		},
 		{
 			"i": 2,
 			"start": 9.7,
-			"end": 17.95,
+			"end": 15.398,
 			"en": "In what way does echo-location in bats play an utilitarian role?",
 			"zh": "蝙蝠的回声定位是如何发挥实用作用的？"
 		},
 		{
 			"i": 3,
 			"start": 18.1,
-			"end": 35.82,
+			"end": 34.309,
 			"en": "Not all sounds made by animals serve as language, and we have only to turn to that extraordinary discovery of echo-location in bats to see a case in which the voice plays a strictly utilitarian role.",
 			"zh": "并非所有动物发出的声音都作为语言，我们只需看看蝙蝠回声定位这项非凡的发现，就能明白声音在其中扮演着严格实用性角色的例子。"
 		},
 		{
 			"i": 4,
 			"start": 35.97,
-			"end": 44.18,
+			"end": 43.319,
 			"en": "To get a full appreciation of what this means we must turn first to some recent human inventions.",
 			"zh": "要充分理解这意味着什么，我们必须首先了解一些近期的人类发明。"
 		},
 		{
 			"i": 5,
 			"start": 44.33,
-			"end": 52.56,
+			"end": 51.453,
 			"en": "Everyone knows that if he shouts in the vicinity of a wall or a mountainside, an echo will come back.",
 			"zh": "每个人都知道，如果在墙壁或山边附近大喊，会听到回声。"
 		},
 		{
 			"i": 6,
 			"start": 52.71,
-			"end": 61.12,
+			"end": 59.209,
 			"en": "The further off this solid obstruction, the longer time will elapse for the return of the echo.",
 			"zh": "这种坚固障碍物越远，回声返回所需的时间就越长。"
 		},
 		{
 			"i": 7,
 			"start": 61.27,
-			"end": 79.21,
+			"end": 78.172,
 			"en": "A sound made by tapping on the hull of a ship will be reflected from the sea bottom, and by measuring the time interval between the taps and the receipt of the echoes the depth of the sea at that point can be calculated.",
 			"zh": "敲击船体发出的声音会从海底反射回来，通过测量敲击声和收到回声之间的时间间隔，可以计算出该点的海水深度。"
 		},
 		{
 			"i": 8,
 			"start": 79.36,
-			"end": 86.33,
+			"end": 85.262,
 			"en": "So was born the echo-sounding apparatus, now in general use in ships.",
 			"zh": "于是，回声测深仪应运而生，现在已普遍用于船只上。"
 		},
 		{
 			"i": 9,
 			"start": 86.48,
-			"end": 94.79,
+			"end": 94.048,
 			"en": "Every solid object will reflect a sound, varying according to the size and nature of the object.",
 			"zh": "每个固体物体都会反射声音，其反射效果因物体的大小和性质而异。"
 		},
 		{
 			"i": 10,
 			"start": 94.94,
-			"end": 97.43,
+			"end": 96.791,
 			"en": "A shoal of fish will do this.",
 			"zh": "一群鱼也会这样做。"
 		},
 		{
 			"i": 11,
 			"start": 97.58,
-			"end": 105.74,
+			"end": 104.865,
 			"en": "So it is a comparatively simple step from locating the sea bottom to locating a shoal of fish.",
 			"zh": "因此，从定位海底到定位一群鱼，这是一个相对简单的步骤。"
 		},
 		{
 			"i": 12,
 			"start": 105.89,
-			"end": 121.4,
+			"end": 120.534,
 			"en": "With experience, and with improved apparatus, it is now possible not only to locate a shoal but to tell if it is herring, cod, or other well-known fish, by the pattern of its echo.",
 			"zh": "凭借经验和改进后的设备，现在不仅可以定位鱼群，还可以通过其回声模式判断它们是鲱鱼、鳕鱼还是其他著名的鱼类。"
 		},
 		{
 			"i": 13,
 			"start": 121.55,
-			"end": 127.51,
+			"end": 127.101,
 			"en": "It has been found that certain bats emit squeaks and by receiving the echoes,",
 			"zh": "人们发现某些蝙蝠会发出吱吱声，并通过接收回声，"
 		},
 		{
 			"i": 14,
 			"start": 127.66,
-			"end": 135.66,
+			"end": 134.694,
 			"en": "they can locate and steer clear of obstacles -- or locate flying insects on which they feed.",
 			"zh": "它们可以定位并避开障碍物——或者定位它们赖以为食的飞行昆虫。"
 		},
 		{
 			"i": 15,
 			"start": 135.81,
-			"end": 139.81,
+			"end": 140.616,
 			"en": "This echo-location in bats is often compared with radar, the principle of which is similar.",
 			"zh": "蝙蝠的这种回声定位常与雷达相提并论，两者的原理相似。"
 		}

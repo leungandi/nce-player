@@ -7,131 +7,131 @@
 		"src": "audio/nce2-74.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 11.18,
-			"end": 16.51,
+			"end": 14.666,
 			"en": "Why was their disguise 'too perfect' ?",
 			"zh": "为什么他们的伪装“太完美”了？"
 		},
 		{
 			"i": 1,
 			"start": 16.66,
-			"end": 25.48,
+			"end": 24.487,
 			"en": "An ancient bus stopped by a dry river bed and a party of famous actors and actresses got off.",
 			"zh": "一辆老旧的公共汽车停在一条干涸的河床上，一群著名演员下了车。"
 		},
 		{
 			"i": 2,
 			"start": 25.63,
-			"end": 29.13,
+			"end": 28.771,
 			"en": "Dressed in dark glasses and old clothes,",
 			"zh": "他们戴着墨镜，穿着旧衣服，"
 		},
 		{
 			"i": 3,
 			"start": 29.28,
-			"end": 35.69,
+			"end": 34.485,
 			"en": "they had taken special precautions so that no one should recognize them.",
 			"zh": "他们采取了特殊的预防措施，以防被人认出来。"
 		},
 		{
 			"i": 4,
 			"start": 35.84,
-			"end": 43.68,
+			"end": 42.119,
 			"en": "But as they soon discovered, disguises can sometimes be too perfect.",
 			"zh": "但他们很快发现，伪装有时会过于完美。"
 		},
 		{
 			"i": 5,
 			"start": 43.83,
-			"end": 49.47,
+			"end": 48.811,
 			"en": "'This is a wonderful place for a picnic,' said Gloria Gleam.",
 			"zh": "“这里真是个野餐的好地方，”格洛丽亚·格莱姆说。"
 		},
 		{
 			"i": 6,
 			"start": 49.62,
-			"end": 54.89,
+			"end": 54.367,
 			"en": "'It couldn't be better, Gloria,' Brinksley Meers agreed.",
 			"zh": "“再好不过了，格洛丽亚，”布林克斯利·米尔斯同意道。"
 		},
 		{
 			"i": 7,
 			"start": 55.04,
-			"end": 62.03,
+			"end": 61.478,
 			"en": "'No newspaper men, no film fans! Why don't we come more often?'",
 			"zh": "“没有记者，没有影迷！我们为什么不常来呢？”"
 		},
 		{
 			"i": 8,
 			"start": 62.18,
-			"end": 69.34,
+			"end": 68.834,
 			"en": "Meanwhile, two other actors Rockwall Slinger and Merlin Greeves,",
 			"zh": "与此同时，另外两名演员洛克沃尔·斯林格和梅林·格里夫斯，"
 		},
 		{
 			"i": 9,
 			"start": 69.49,
-			"end": 76.55,
+			"end": 75.259,
 			"en": "had carried two large food baskets to a shady spot under some trees.",
 			"zh": "已经把两大篮食物搬到了一片树荫下。"
 		},
 		{
 			"i": 10,
 			"start": 76.7,
-			"end": 82.41,
+			"end": 81.84,
 			"en": "When they had all made themselves comfortable, a stranger appeared.",
 			"zh": "当他们都安顿好时，一个陌生人出现了。"
 		},
 		{
 			"i": 11,
 			"start": 82.56,
-			"end": 85.81,
+			"end": 84.641,
 			"en": "He looked very angry.",
 			"zh": "他看起来非常生气。"
 		},
 		{
 			"i": 12,
 			"start": 85.96,
-			"end": 91.14,
+			"end": 90.695,
 			"en": "'Now you get out of here, all of you!' he shouted.",
 			"zh": "“你们现在都给我滚出去，你们所有人！”他喊道。"
 		},
 		{
 			"i": 13,
 			"start": 91.29,
-			"end": 102.97,
+			"end": 102.116,
 			"en": "'I'm sheriff here. Do you see that notice? It says \"No Camping\"  -- in case you can't read!'",
 			"zh": "“我是这里的治安官。你看到那张告示了吗？上面写着‘禁止露营’——以防你不识字！”"
 		},
 		{
 			"i": 14,
 			"start": 103.12,
-			"end": 106.39,
+			"end": 105.897,
 			"en": "'Look, sheriff,' said Rockwall,",
 			"zh": "“看，治安官，”洛克沃尔说，"
 		},
 		{
 			"i": 15,
 			"start": 106.54,
-			"end": 115.54,
+			"end": 114.54,
 			"en": "'don't be too hard on us. I'm Rockwall Slinger and this is Merlin Greeves.'",
 			"zh": "“别对我们太严厉。我是洛克沃尔·斯林格，这是梅林·格里夫斯。”"
 		},
 		{
 			"i": 16,
 			"start": 115.69,
-			"end": 119.96,
+			"end": 119.278,
 			"en": "'Oh, is it?' said the sheriff with a sneer.",
 			"zh": "“哦，是吗？”治安官嘲讽地说。"
 		},
 		{
 			"i": 17,
 			"start": 120.11,
-			"end": 124.11,
+			"end": 120.771,
 			"en": "'Well, I'm Brinksley Meers, and my other name is Gloria Gleam. Now you get out of here fast!'",
 			"zh": "“嗯，我是布林克斯利·米尔斯，我的另一个名字是格洛丽亚·格莱姆。你们现在赶紧滚出去！”"
 		}

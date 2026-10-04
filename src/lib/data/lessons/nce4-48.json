@@ -7,82 +7,82 @@
 		"src": "audio/nce4-48.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.7,
-			"end": 2.35,
+			"end": 2.056,
 			"en": "Lesson 48",
 			"zh": "第48课"
 		},
 		{
 			"i": 1,
 			"start": 2.5,
-			"end": 10.2,
+			"end": 9.124,
 			"en": "Planning a share portfolio",
 			"zh": "规划股票投资组合"
 		},
 		{
 			"i": 2,
 			"start": 10.35,
-			"end": 19.02,
+			"end": 16.239,
 			"en": "How does the older investor differ in his approach to investment from the younger investor?",
 			"zh": "较年长的投资者在投资方式上与年轻投资者有何不同？"
 		},
 		{
 			"i": 3,
 			"start": 19.17,
-			"end": 24.73,
+			"end": 23.994,
 			"en": "There is no shortage of tipsters around offering 'get-rich-quick' opportunities.",
 			"zh": "身边不乏提供“快速致富”机会的内幕消息者。"
 		},
 		{
 			"i": 4,
 			"start": 24.88,
-			"end": 32.26,
+			"end": 31.903,
 			"en": "But if you are a serious private investor, leave the Las Vegas mentality to those with money to fritter.",
 			"zh": "但如果你是一个认真的私人投资者，就把那种拉斯维加斯的心态留给那些有钱可挥霍的人吧。"
 		},
 		{
 			"i": 5,
 			"start": 32.41,
-			"end": 41.73,
+			"end": 41.363,
 			"en": "The serious investor needs a proper 'portfolio' --a well-planned selection of investments, with a definite structure and a clear aim.",
 			"zh": "认真的投资者需要一个合适的“投资组合”——一个精心策划的投资选择，具有明确的结构和清晰的目标。"
 		},
 		{
 			"i": 6,
 			"start": 41.88,
-			"end": 48,
+			"end": 47.152,
 			"en": "But exactly how does a newcomer to the stock market go about achieving that?",
 			"zh": "但股市新手究竟如何才能做到这一点呢？"
 		},
 		{
 			"i": 7,
 			"start": 48.15,
-			"end": 54.29,
+			"end": 53.981,
 			"en": "Well, if you go to five reputable stock brokers and ask them what you should do with your money,",
 			"zh": "嗯，如果你去找五位声誉良好的股票经纪人，问他们你该如何处理你的钱，"
 		},
 		{
 			"i": 8,
 			"start": 54.44,
-			"end": 57.17,
+			"end": 56.854,
 			"en": "you're likely to get five different answers,",
 			"zh": "你很可能会得到五种不同的答案，"
 		},
 		{
 			"i": 9,
 			"start": 57.32,
-			"end": 65.33,
+			"end": 64.862,
 			"en": "--  even if you give all the relevant information about your age, family, finances and what you want from your investments.",
 			"zh": "——即使你提供了所有关于你的年龄、家庭、财务状况以及你希望从投资中获得什么的相关信息。"
 		},
 		{
 			"i": 10,
 			"start": 65.48,
-			"end": 70.29,
+			"end": 69.762,
 			"en": "Moral? There is no one 'right' way to structure a portfolio.",
 			"zh": "结论？没有一个“正确”的方法来构建投资组合。"
 		},
@@ -96,112 +96,112 @@
 		{
 			"i": 12,
 			"start": 77.23,
-			"end": 83.21,
+			"end": 82.563,
 			"en": "would have suggested sinking all (or perhaps any) of your money into Periwigs.",
 			"zh": "建议你把所有（或者说任何）钱投入到Periwigs公司。"
 		},
 		{
 			"i": 13,
 			"start": 83.36,
-			"end": 85.06,
+			"end": 84.666,
 			"en": "So what should you do?",
 			"zh": "那么你该怎么做呢？"
 		},
 		{
 			"i": 14,
 			"start": 85.21,
-			"end": 93.85,
+			"end": 93.378,
 			"en": "We'll assume that you have sorted out the basics--like mortgages, pensions, insurance and access to sufficient cash reserves.",
 			"zh": "我们假设你已经解决了基本问题——比如抵押贷款、养老金、保险和拥有足够的现金储备。"
 		},
 		{
 			"i": 15,
 			"start": 94,
-			"end": 97.41,
+			"end": 97.005,
 			"en": "You should then establish your own individual aims.",
 			"zh": "然后你应该确立自己的个人目标。"
 		},
 		{
 			"i": 16,
 			"start": 97.56,
-			"end": 103.52,
+			"end": 102.991,
 			"en": "These are partly a matter of personal circumstances, partly a matter of psychology.",
 			"zh": "这些部分取决于个人情况，部分取决于心理因素。"
 		},
 		{
 			"i": 17,
 			"start": 103.67,
-			"end": 112.94,
+			"end": 112.473,
 			"en": "For instance, if you are older you have less time to recover from any major losses, and you may well wish to boost your pension income.",
 			"zh": "例如，如果你年龄较大，从任何重大损失中恢复的时间较短，而且你很可能希望增加你的养老金收入。"
 		},
 		{
 			"i": 18,
 			"start": 113.09,
-			"end": 119.21,
+			"end": 118.762,
 			"en": "So preserving your capital and generating extra income are your main priorities.",
 			"zh": "因此，保住你的本金并获得额外收入是你的主要优先事项。"
 		},
 		{
 			"i": 19,
 			"start": 119.36,
-			"end": 128.85,
+			"end": 128.522,
 			"en": "In this case, you'd probably construct a portfolio with some shares (but not high risk ones), along with gilts, cash deposits,",
 			"zh": "在这种情况下，你可能会构建一个包含一些股票（但不是高风险的）、政府债券、现金存款、"
 		},
 		{
 			"i": 20,
 			"start": 129,
-			"end": 134.96,
+			"end": 134.166,
 			"en": "and perhaps convertibles or the income shares of split capital investment trusts.",
 			"zh": "也许还有可转换债券或分级资本投资信托的收益股的投资组合。"
 		},
 		{
 			"i": 21,
 			"start": 135.11,
-			"end": 139.34,
+			"end": 138.99,
 			"en": "If you are younger, and in a solid financial position,",
 			"zh": "如果你比较年轻，且财务状况稳健，"
 		},
 		{
 			"i": 22,
 			"start": 139.49,
-			"end": 149.53,
+			"end": 149.132,
 			"en": "you may decide to take an aggressive approach--but only if you're blessed with a sanguine disposition and won't suffer sleepless nights over share prices.",
 			"zh": "你可能会决定采取激进的策略——但前提是你拥有乐观的性格，并且不会因为股价而彻夜难眠。"
 		},
 		{
 			"i": 23,
 			"start": 149.68,
-			"end": 152.57,
+			"end": 152.107,
 			"en": "If you recognize yourself in this description,",
 			"zh": "如果你认为自己符合这个描述，"
 		},
 		{
 			"i": 24,
 			"start": 152.72,
-			"end": 160.81,
+			"end": 160.292,
 			"en": "you might include a couple of heady growth stocks in your portfolio, alongside your more pedestrian investments.",
 			"zh": "你可以在你的投资组合中加入几只涨势强劲的成长股，以及一些更稳健的投资。"
 		},
 		{
 			"i": 25,
 			"start": 160.96,
-			"end": 167.5,
+			"end": 166.835,
 			"en": "Once you have decided on your investment aims you can then decide where to put your money.",
 			"zh": "一旦你确定了你的投资目标，你就可以决定把钱投到哪里。"
 		},
 		{
 			"i": 26,
 			"start": 167.65,
-			"end": 175.29,
+			"end": 174.918,
 			"en": "The golden rule here is spread your risk--if you put all of your money into Periwigs International,",
 			"zh": "这里的黄金法则是分散风险——如果你把所有钱都投入到Periwigs国际公司，"
 		},
 		{
 			"i": 27,
 			"start": 175.44,
-			"end": 179.44,
+			"end": 178.915,
 			"en": "you're setting yourself up as a hostage to fortune.",
 			"zh": "你就是在把自己置于命运的摆布之下。"
 		}

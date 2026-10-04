@@ -7,19 +7,19 @@
 		"src": "audio/nce3-16.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.27,
-			"end": 2.4,
+			"end": 1.823,
 			"en": "Lesson 16",
 			"zh": "第16课"
 		},
 		{
 			"i": 1,
 			"start": 2.55,
-			"end": 10.04,
+			"end": 8.986,
 			"en": "Mary had a little lamb",
 			"zh": "玛丽有只小羊羔"
 		},
@@ -33,35 +33,35 @@
 		{
 			"i": 3,
 			"start": 15.03,
-			"end": 24.92,
+			"end": 24.193,
 			"en": "Mary and her husband Dimitri lived in the tiny village of Perachora in southern Greece.",
 			"zh": "玛丽和她的丈夫迪米特里住在希腊南部佩拉霍拉的一个小村庄里。"
 		},
 		{
 			"i": 4,
 			"start": 25.07,
-			"end": 31.67,
+			"end": 31.234,
 			"en": "One of Mary's prize possessions was a little white lamb which her husband had given her.",
 			"zh": "玛丽最珍贵的财产之一是她丈夫送给她的一只白色小羊羔。"
 		},
 		{
 			"i": 5,
 			"start": 31.82,
-			"end": 39.25,
+			"end": 38.538,
 			"en": "She kept it tied to a tree in a field during the day and went to fetch it every evening.",
 			"zh": "白天她把它拴在田野里的一棵树上，每天傍晚都去把它牵回来。"
 		},
 		{
 			"i": 6,
 			"start": 39.4,
-			"end": 43.12,
+			"end": 42.715,
 			"en": "One evening, however the lamb was missing.",
 			"zh": "然而，一个晚上，那只羊不见了。"
 		},
 		{
 			"i": 7,
 			"start": 43.27,
-			"end": 49.37,
+			"end": 48.348,
 			"en": "The rope had been cut, so it was obvious that the lamb had been stolen.",
 			"zh": "绳子被割断了，很明显羊被偷了。"
 		},
@@ -75,84 +75,84 @@
 		{
 			"i": 9,
 			"start": 54.17,
-			"end": 58.76,
+			"end": 58.327,
 			"en": "Dimitri at once set out to find the thief.",
 			"zh": "迪米特里立刻出去寻找小偷。"
 		},
 		{
 			"i": 10,
 			"start": 58.91,
-			"end": 64.06,
+			"end": 62.696,
 			"en": "He knew it would not prove difficult in such a small village.",
 			"zh": "他知道在这样一个小村庄里，找到小偷不会很难。"
 		},
 		{
 			"i": 11,
 			"start": 64.21,
-			"end": 67.63,
+			"end": 67.376,
 			"en": "After telling several of his friends about the theft,",
 			"zh": "在把失窃的事告诉他的几个朋友之后，"
 		},
 		{
 			"i": 12,
 			"start": 67.78,
-			"end": 75.04,
+			"end": 74.452,
 			"en": "Dimitri found out that his neighbour, Aleko, had suddenly acquired a new lamb.",
 			"zh": "迪米特里发现他的邻居阿列科突然多了一只新羊。"
 		},
 		{
 			"i": 13,
 			"start": 75.19,
-			"end": 82.53,
+			"end": 81.932,
 			"en": "Dimitri immediately went to Aleko's house and angrily accused him of stealing the lamb.",
 			"zh": "迪米特里立刻去了阿列科家，愤怒地指责他偷了羊。"
 		},
 		{
 			"i": 14,
 			"start": 82.68,
-			"end": 87.46,
+			"end": 86.784,
 			"en": "He told him he had better return it or he would call the police.",
 			"zh": "他告诉阿列科最好把羊还回来，否则他就报警。"
 		},
 		{
 			"i": 15,
 			"start": 87.61,
-			"end": 92.88,
+			"end": 92.291,
 			"en": "Aleko denied taking it and led Dimitri into his backyard.",
 			"zh": "阿列科否认偷了羊，并把迪米特里领进了他的后院。"
 		},
 		{
 			"i": 16,
 			"start": 93.03,
-			"end": 100.2,
+			"end": 99.201,
 			"en": "It was true that he had just bought a lamb he explained, but his lamb was black.",
 			"zh": "他解释说，他确实刚买了一只羊，但他的羊是黑色的。"
 		},
 		{
 			"i": 17,
 			"start": 100.35,
-			"end": 108.11,
+			"end": 107.402,
 			"en": "Ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him.",
 			"zh": "迪米特里为自己如此鲁莽的行为感到羞愧，他向阿列科为自己的指责道了歉。"
 		},
 		{
 			"i": 18,
 			"start": 108.26,
-			"end": 115.96,
+			"end": 115.582,
 			"en": "While they were talking it began to rain and Dimitri stayed in Aleko's house until the rain stopped.",
 			"zh": "他们谈话的时候开始下雨了，迪米特里就在阿列科家里待到雨停。"
 		},
 		{
 			"i": 19,
 			"start": 116.11,
-			"end": 125.33,
+			"end": 124.815,
 			"en": "When he went outside half an hour later, he was astonished to find that the little black lamb was almost white.",
 			"zh": "半小时后，当他出去时，他惊奇地发现那只黑色的小羊几乎是白色的。"
 		},
 		{
 			"i": 20,
 			"start": 125.48,
-			"end": 129.48,
+			"end": 128.478,
 			"en": "Its wool, which had been dyed black, had been washed clean by the rain!",
 			"zh": "它的羊毛，原来被染成了黑色，被雨水冲洗干净了！"
 		}

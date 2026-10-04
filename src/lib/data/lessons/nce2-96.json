@@ -7,89 +7,89 @@
 		"src": "audio/nce2-96.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 11.01,
-			"end": 17.23,
+			"end": 15.134,
 			"en": "What happens to the lanterns at the end of the festival?",
 			"zh": "节日结束后，那些灯笼会怎么样？"
 		},
 		{
 			"i": 1,
 			"start": 17.38,
-			"end": 22.57,
+			"end": 21.481,
 			"en": "A Festival for the Dead is held once a year in Japan.",
 			"zh": "日本每年举行一次亡灵节。"
 		},
 		{
 			"i": 2,
 			"start": 22.72,
-			"end": 25.9,
+			"end": 25.422,
 			"en": "This festival is a cheerful occasion,",
 			"zh": "这个节日是个欢乐的时刻，"
 		},
 		{
 			"i": 3,
 			"start": 26.05,
-			"end": 34.21,
+			"end": 32.947,
 			"en": "for on this day, the dead are said to return to their homes and they are welcomed by the living.",
 			"zh": "因为据说在这一天，逝者会回到他们的家园，受到生者的欢迎。"
 		},
 		{
 			"i": 4,
 			"start": 34.36,
-			"end": 41.66,
+			"end": 40.846,
 			"en": "As they are expected to be hungry after their long journey, food is laid out for them.",
 			"zh": "由于他们长途跋涉后会感到饥饿，人们会为他们摆放食物。"
 		},
 		{
 			"i": 5,
 			"start": 41.81,
-			"end": 49.7,
+			"end": 48.123,
 			"en": "Specially-made lanterns are hung outside each house to help the dead to find their way.",
 			"zh": "每家每户外面都挂着特制的灯笼，帮助逝者找到回家的路。"
 		},
 		{
 			"i": 6,
 			"start": 49.85,
-			"end": 53.92,
+			"end": 53.213,
 			"en": "All night long, people dance and sing.",
 			"zh": "人们通宵达旦地载歌载舞。"
 		},
 		{
 			"i": 7,
 			"start": 54.07,
-			"end": 59.34,
+			"end": 58.971,
 			"en": "In the early morning the food that had been laid out for the dead",
 			"zh": "清晨，为逝者摆放的食物"
 		},
 		{
 			"i": 8,
 			"start": 59.49,
-			"end": 69.1,
+			"end": 67.91,
 			"en": "is thrown into a river or into the sea as it is considered unlucky for anyone living to eat it.",
 			"zh": "被扔进河里或海里，因为活人吃了被认为是不吉利的。"
 		},
 		{
 			"i": 9,
 			"start": 69.25,
-			"end": 77.69,
+			"end": 76.937,
 			"en": "In towns that are near the sea, the tiny lanterns which had been hung in the streets the night before,",
 			"zh": "在沿海城镇，头天晚上挂在街上的小灯笼，"
 		},
 		{
 			"i": 10,
 			"start": 77.84,
-			"end": 82,
+			"end": 80.969,
 			"en": "are placed into the water when the festival is over.",
 			"zh": "节日结束后会被放入水中。"
 		},
 		{
 			"i": 11,
 			"start": 82.15,
-			"end": 91.43,
+			"end": 90.475,
 			"en": "Thousands of lanterns slowly drift out to sea guiding the dead on their return journey to the other world.",
 			"zh": "数千盏灯笼缓缓地漂向大海，指引逝者返回另一个世界。"
 		},
@@ -103,7 +103,7 @@
 		{
 			"i": 13,
 			"start": 96.07,
-			"end": 100.07,
+			"end": 102.385,
 			"en": "stand on the shore watching the lanterns drifting away until they can be seen no more.",
 			"zh": "站在岸边，看着灯笼渐渐远去，直到它们完全消失不见。"
 		}

@@ -7,54 +7,54 @@
 		"src": "audio/nce1-133.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.78,
-			"end": 3.43,
+			"end": 2.955,
 			"en": "Lesson 133",
 			"zh": "第133课"
 		},
 		{
 			"i": 1,
 			"start": 3.58,
-			"end": 6.72,
+			"end": 5.565,
 			"en": "Sensational news!",
 			"zh": "轰动新闻！"
 		},
 		{
 			"i": 2,
 			"start": 6.87,
-			"end": 12.46,
+			"end": 11.34,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答这个问题。"
 		},
 		{
 			"i": 3,
 			"start": 12.61,
-			"end": 20.72,
+			"end": 18.202,
 			"en": "What reasons did Karen Marsh give for wanting to retire?",
 			"zh": "凯伦·马什给出哪些理由想要退休？"
 		},
 		{
 			"i": 4,
 			"start": 20.87,
-			"end": 25.19,
+			"end": 24.494,
 			"en": "Have you just made a new film, Miss Marsh?",
 			"zh": "马什小姐，您刚拍了一部新电影吗？"
 		},
 		{
 			"i": 5,
 			"start": 25.34,
-			"end": 27.95,
+			"end": 27.327,
 			"en": "Yes, I have.",
 			"zh": "是的，我拍了。"
 		},
 		{
 			"i": 6,
 			"start": 28.1,
-			"end": 30.7,
+			"end": 30.34,
 			"en": "Are you going to make another?",
 			"zh": "您还要再拍一部吗？"
 		},
@@ -68,98 +68,98 @@
 		{
 			"i": 8,
 			"start": 33.16,
-			"end": 36.02,
+			"end": 35.501,
 			"en": "I'm going to retire.",
 			"zh": "我要退休了。"
 		},
 		{
 			"i": 9,
 			"start": 36.17,
-			"end": 39.01,
+			"end": 38.572,
 			"en": "I feel very tired.",
 			"zh": "我觉得很累。"
 		},
 		{
 			"i": 10,
 			"start": 39.16,
-			"end": 46.31,
+			"end": 44.796,
 			"en": "I don't want to make another film for a long time.",
 			"zh": "我很长时间都不想再拍电影了。"
 		},
 		{
 			"i": 11,
 			"start": 46.46,
-			"end": 50.13,
+			"end": 49.324,
 			"en": "Let's buy a newspaper, Liz.",
 			"zh": "丽兹，我们买份报纸吧。"
 		},
 		{
 			"i": 12,
 			"start": 50.28,
-			"end": 52.65,
+			"end": 51.965,
 			"en": "Listen to this!",
 			"zh": "听听这个！"
 		},
 		{
 			"i": 13,
 			"start": 52.8,
-			"end": 57.3,
+			"end": 56.893,
 			"en": "'Karen Marsh: Sensational News!",
 			"zh": "“凯伦·马什：轰动新闻！"
 		},
 		{
 			"i": 14,
 			"start": 57.45,
-			"end": 62.11,
+			"end": 60.926,
 			"en": "By our reporter, Alan Jones.",
 			"zh": "记者：艾伦·琼斯。"
 		},
 		{
 			"i": 15,
 			"start": 62.26,
-			"end": 67.7,
+			"end": 66.998,
 			"en": "Karen Marsh arrived at London Airport today.",
 			"zh": "凯伦·马什今天抵达伦敦机场。"
 		},
 		{
 			"i": 16,
 			"start": 67.85,
-			"end": 73.71,
+			"end": 73.091,
 			"en": "She was wearing a blue dress and a mink coat.",
 			"zh": "她穿着一件蓝色连衣裙和一件貂皮大衣。"
 		},
 		{
 			"i": 17,
 			"start": 73.86,
-			"end": 79.55,
+			"end": 78.652,
 			"en": "She told me she had just made a new film.",
 			"zh": "她告诉我她刚拍了一部新电影。"
 		},
 		{
 			"i": 18,
 			"start": 79.7,
-			"end": 85.75,
+			"end": 84.328,
 			"en": "she said she was not going to make another.",
 			"zh": "她说她不会再拍了。"
 		},
 		{
 			"i": 19,
 			"start": 85.9,
-			"end": 90.35,
+			"end": 89.543,
 			"en": "She said she was going to retire.",
 			"zh": "她说她要退休了。"
 		},
 		{
 			"i": 20,
 			"start": 90.5,
-			"end": 101.9,
+			"end": 100.836,
 			"en": "She told reporters she felt very tired and didn't want to make another film for a long time.'",
 			"zh": "她告诉记者她感到非常疲倦，并且很长时间都不想再拍电影了。”"
 		},
 		{
 			"i": 21,
 			"start": 102.05,
-			"end": 106.05,
+			"end": 104.047,
 			"en": "I wonder why!",
 			"zh": "我想知道为什么！"
 		}

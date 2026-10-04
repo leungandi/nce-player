@@ -7,82 +7,82 @@
 		"src": "audio/nce1-01.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.61,
-			"end": 2.56,
+			"end": 1.868,
 			"en": "Lesson 1",
 			"zh": "第1课"
 		},
 		{
 			"i": 1,
 			"start": 2.71,
-			"end": 5.46,
+			"end": 4.121,
 			"en": "Excuse me!",
 			"zh": "打扰一下！"
 		},
 		{
 			"i": 2,
 			"start": 5.61,
-			"end": 10.65,
+			"end": 9.824,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答这个问题。"
 		},
 		{
 			"i": 3,
 			"start": 10.8,
-			"end": 14.96,
+			"end": 12.765,
 			"en": "Whose handbag is it?",
 			"zh": "这是谁的手提包？"
 		},
 		{
 			"i": 4,
 			"start": 15.11,
-			"end": 16.51,
+			"end": 16.096,
 			"en": "Excuse me!",
 			"zh": "请问！"
 		},
 		{
 			"i": 5,
 			"start": 16.66,
-			"end": 18.11,
+			"end": 17.525,
 			"en": "Yes?",
 			"zh": "怎么了？"
 		},
 		{
 			"i": 6,
 			"start": 18.26,
-			"end": 21.29,
+			"end": 20.518,
 			"en": "Is this your handbag?",
 			"zh": "这是你的手提包吗？"
 		},
 		{
 			"i": 7,
 			"start": 21.44,
-			"end": 23.02,
+			"end": 22.249,
 			"en": "Pardon?",
 			"zh": "抱歉？"
 		},
 		{
 			"i": 8,
 			"start": 23.17,
-			"end": 26.58,
+			"end": 25.906,
 			"en": "Is this your handbag?",
 			"zh": "这是你的手提包吗？"
 		},
 		{
 			"i": 9,
 			"start": 26.73,
-			"end": 29.34,
+			"end": 28.533,
 			"en": "Yes it is.",
 			"zh": "是的，是我的。"
 		},
 		{
 			"i": 10,
 			"start": 29.49,
-			"end": 33.49,
+			"end": 31.583,
 			"en": "Thank you very much.",
 			"zh": "非常感谢。"
 		}

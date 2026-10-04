@@ -7,124 +7,124 @@
 		"src": "audio/nce3-05.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.67,
-			"end": 1.97,
+			"end": 1.682,
 			"en": "Lesson 5",
 			"zh": "第5课"
 		},
 		{
 			"i": 1,
 			"start": 2.12,
-			"end": 8.53,
+			"end": 7.423,
 			"en": "The facts",
 			"zh": "事实真相"
 		},
 		{
 			"i": 2,
 			"start": 8.68,
-			"end": 16.5,
+			"end": 14.424,
 			"en": "What was the consequence of the editor's insistence on facts and statistics?",
 			"zh": "编辑坚持事实和统计数据的后果是什么？"
 		},
 		{
 			"i": 3,
 			"start": 16.65,
-			"end": 24.86,
+			"end": 24.279,
 			"en": "Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics.",
 			"zh": "报纸杂志的编辑们常常不厌其烦地向读者提供一些无关紧要的事实和统计数字。"
 		},
 		{
 			"i": 4,
 			"start": 25.01,
-			"end": 34.94,
+			"end": 34.015,
 			"en": "Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic.",
 			"zh": "去年，一家有名的杂志派一名记者去撰写一篇有关一个非洲新共和国总统府的稿件。"
 		},
 		{
 			"i": 5,
 			"start": 35.09,
-			"end": 42.28,
+			"end": 41.28,
 			"en": "When the article arrived, the editor read the first sentence and then refused to publish it.",
 			"zh": "稿件寄来后，编辑看了第一句话就拒绝发表。"
 		},
 		{
 			"i": 6,
 			"start": 42.43,
-			"end": 50.09,
+			"end": 49.214,
 			"en": "The article began:'Hundreds of steps lead to the high wall which surrounds the president's palace.'",
 			"zh": "文章的开头是这样的：“几百级台阶通向总统府四周的高墙。”"
 		},
 		{
 			"i": 7,
 			"start": 50.24,
-			"end": 61.13,
+			"end": 59.322,
 			"en": "The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall.",
 			"zh": "编辑立即给记者发了一份传真，指示他查明台阶的确切数字和围墙的高度。"
 		},
 		{
 			"i": 8,
 			"start": 61.28,
-			"end": 68.51,
+			"end": 67.829,
 			"en": "The journalist immediately set out to obtain these important facts, but he took a long time to send them.",
 			"zh": "记者立即动身去搜集这些重要的事实，但过了很久才把材料寄来。"
 		},
 		{
 			"i": 9,
 			"start": 68.66,
-			"end": 74.09,
+			"end": 73.383,
 			"en": "Meanwhile, the editor was getting impatient, for the magazine would soon go to press.",
 			"zh": "与此同时，编辑等得不耐烦了，因为杂志很快就要付印。"
 		},
 		{
 			"i": 10,
 			"start": 74.24,
-			"end": 79.29,
+			"end": 78.644,
 			"en": "He sent the journalist two more faxes, but received no reply.",
 			"zh": "他又给记者发了两份传真，但没有任何回音。"
 		},
 		{
 			"i": 11,
 			"start": 79.44,
-			"end": 86.66,
+			"end": 85.877,
 			"en": "He sent yet another fax informing the journalist that if he did not reply soon he would be fired.",
 			"zh": "他又发了一份传真，通知记者说如果再不迅速回复，他就将被解雇。"
 		},
 		{
 			"i": 12,
 			"start": 86.81,
-			"end": 95.46,
+			"end": 94.532,
 			"en": "When the journalist again failed to reply,  the editor reluctantly published the article as it had originally been written.",
 			"zh": "记者还是没有回复，编辑只好不情愿地按原样发表了那篇文章。"
 		},
 		{
 			"i": 13,
 			"start": 95.61,
-			"end": 100.83,
+			"end": 100.207,
 			"en": "A week later, the editor at last received a fax from the journalist.",
 			"zh": "一周后，编辑终于接到了记者的一份传真。"
 		},
 		{
 			"i": 14,
 			"start": 100.98,
-			"end": 107.04,
+			"end": 106.408,
 			"en": "Not only had the poor man been arrested, but he had been sent to prison as well.",
 			"zh": "那可怜的记者不仅被捕了，而且还被送进了监狱。"
 		},
 		{
 			"i": 15,
 			"start": 107.19,
-			"end": 115.84,
+			"end": 115.689,
 			"en": "However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested",
 			"zh": "然而，他最终获准发了一份传真，在传真中他告诉编辑，他被捕了，"
 		},
 		{
 			"i": 16,
 			"start": 115.99,
-			"end": 119.99,
+			"end": 119.475,
 			"en": "while counting the 1, 084 steps leading to the 15th foot wall which surrounded the president's palace.",
 			"zh": "因为他正在数通向总统府的1084级台阶和围绕总统府15英尺高的围墙。"
 		}

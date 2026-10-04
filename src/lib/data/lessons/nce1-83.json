@@ -7,201 +7,201 @@
 		"src": "audio/nce1-83.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.82,
-			"end": 3.03,
+			"end": 2.529,
 			"en": "Lesson 83",
 			"zh": "第83课"
 		},
 		{
 			"i": 1,
 			"start": 3.18,
-			"end": 6.37,
+			"end": 5.1,
 			"en": "Going on holiday",
 			"zh": "去度假"
 		},
 		{
 			"i": 2,
 			"start": 6.52,
-			"end": 12,
+			"end": 10.84,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答这个问题。"
 		},
 		{
 			"i": 3,
 			"start": 12.15,
-			"end": 18.85,
+			"end": 16.312,
 			"en": "Where did Sam go for his holiday this year?",
 			"zh": "萨姆今年去哪里度假了？"
 		},
 		{
 			"i": 4,
 			"start": 19,
-			"end": 20.44,
+			"end": 20.289,
 			"en": "Hello, Sam.",
 			"zh": "你好，萨姆。"
 		},
 		{
 			"i": 5,
 			"start": 20.59,
-			"end": 22.91,
+			"end": 21.427,
 			"en": "Come in.",
 			"zh": "进来。"
 		},
 		{
 			"i": 6,
 			"start": 23.06,
-			"end": 24.56,
+			"end": 24.364,
 			"en": "Hi, Sam.",
 			"zh": "嗨，萨姆。"
 		},
 		{
 			"i": 7,
 			"start": 24.71,
-			"end": 26.73,
+			"end": 26.185,
 			"en": "We're having lunch.",
 			"zh": "我们正在吃午饭。"
 		},
 		{
 			"i": 8,
 			"start": 26.88,
-			"end": 30.83,
+			"end": 29.885,
 			"en": "Do you want to have lunch with us?",
 			"zh": "你想和我们一起吃午饭吗？"
 		},
 		{
 			"i": 9,
 			"start": 30.98,
-			"end": 33.03,
+			"end": 32.814,
 			"en": "No, thank you, Tom.",
 			"zh": "不用了，谢谢你，汤姆。"
 		},
 		{
 			"i": 10,
 			"start": 33.18,
-			"end": 35.82,
+			"end": 35.318,
 			"en": "I've already had lunch.",
 			"zh": "我已经吃过午饭了。"
 		},
 		{
 			"i": 11,
 			"start": 35.97,
-			"end": 39.83,
+			"end": 39.073,
 			"en": "I had lunch at half past twelve.",
 			"zh": "我十二点半吃午饭的。"
 		},
 		{
 			"i": 12,
 			"start": 39.98,
-			"end": 42.78,
+			"end": 42.296,
 			"en": "Have a cup of coffee then.",
 			"zh": "那喝杯咖啡吧。"
 		},
 		{
 			"i": 13,
 			"start": 42.93,
-			"end": 46.1,
+			"end": 45.728,
 			"en": "I've just had a cup, thank you.",
 			"zh": "我刚喝了一杯，谢谢。"
 		},
 		{
 			"i": 14,
 			"start": 46.25,
-			"end": 49.81,
+			"end": 48.649,
 			"en": "I had one after my lunch.",
 			"zh": "我午饭后喝的。"
 		},
 		{
 			"i": 15,
 			"start": 49.96,
-			"end": 53.6,
+			"end": 52.991,
 			"en": "Let's go into the living room, Carol.",
 			"zh": "凯罗尔，我们去客厅吧。"
 		},
 		{
 			"i": 16,
 			"start": 53.75,
-			"end": 56.97,
+			"end": 56.245,
 			"en": "We can have our coffee there.",
 			"zh": "我们可以在那儿喝咖啡。"
 		},
 		{
 			"i": 17,
 			"start": 57.12,
-			"end": 60.18,
+			"end": 59.535,
 			"en": "Excuse the mess, Sam.",
 			"zh": "萨姆，请原谅这儿有点乱。"
 		},
 		{
 			"i": 18,
 			"start": 60.33,
-			"end": 63.36,
+			"end": 62.8,
 			"en": "This room's very untidy.",
 			"zh": "这房间太不整洁了。"
 		},
 		{
 			"i": 19,
 			"start": 63.51,
-			"end": 66.27,
+			"end": 65.864,
 			"en": "We're packing our suitcases.",
 			"zh": "我们正在打包行李箱。"
 		},
 		{
 			"i": 20,
 			"start": 66.42,
-			"end": 69.7,
+			"end": 69.128,
 			"en": "We're going to leave tomorrow.",
 			"zh": "我们明天要走了。"
 		},
 		{
 			"i": 21,
 			"start": 69.85,
-			"end": 74.18,
+			"end": 73.558,
 			"en": "Tom and I are going to have a holiday.",
 			"zh": "汤姆和我要去度假了。"
 		},
 		{
 			"i": 22,
 			"start": 74.33,
-			"end": 77.34,
+			"end": 75.928,
 			"en": "Aren't you lucky!",
 			"zh": "你们真幸运！"
 		},
 		{
 			"i": 23,
 			"start": 77.49,
-			"end": 81.43,
+			"end": 80.977,
 			"en": "When are you going to have a holiday, Sam?",
 			"zh": "萨姆，你什么时候去度假？"
 		},
 		{
 			"i": 24,
 			"start": 81.58,
-			"end": 83.31,
+			"end": 82.958,
 			"en": "I don't know.",
 			"zh": "我不知道。"
 		},
 		{
 			"i": 25,
 			"start": 83.46,
-			"end": 87.95,
+			"end": 86.9,
 			"en": "I've already had my holiday this year.",
 			"zh": "我今年已经度过假了。"
 		},
 		{
 			"i": 26,
 			"start": 88.1,
-			"end": 90.07,
+			"end": 89.688,
 			"en": "Where did you go?",
 			"zh": "你去哪儿了？"
 		},
 		{
 			"i": 27,
 			"start": 90.22,
-			"end": 94.22,
+			"end": 92.079,
 			"en": "I stayed at home!",
 			"zh": "我待在家里！"
 		}

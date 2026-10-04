@@ -7,285 +7,285 @@
 		"src": "audio/nce3-49.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.31,
-			"end": 2.19,
+			"end": 1.618,
 			"en": "Lesson 49",
 			"zh": "第49课"
 		},
 		{
 			"i": 1,
 			"start": 2.34,
-			"end": 9.75,
+			"end": 8.722,
 			"en": "The ideal servant",
 			"zh": "理想的仆人"
 		},
 		{
 			"i": 2,
 			"start": 9.9,
-			"end": 14.81,
+			"end": 12.984,
 			"en": "What was Bessie's 'little weakness' ?",
 			"zh": "贝茜的“小缺点”是什么？"
 		},
 		{
 			"i": 3,
 			"start": 14.96,
-			"end": 18.82,
+			"end": 18.475,
 			"en": "It is a good thing my aunt Harriet died years ago.",
 			"zh": "幸好我姑妈哈里特在多年前就去世了。"
 		},
 		{
 			"i": 4,
 			"start": 18.97,
-			"end": 29.1,
+			"end": 28.45,
 			"en": "If she were alive today she would not be able to air her views on her favourite topic of conversation: domestic servants.",
 			"zh": "如果她今天还活着，她就不能再对她最喜欢的话题——佣人——发表意见了。"
 		},
 		{
 			"i": 5,
 			"start": 29.25,
-			"end": 35.27,
+			"end": 34.659,
 			"en": "Aunt Harriet lived in that leisurely age when servants were employed to do housework.",
 			"zh": "哈里特姑妈生活在那个悠闲的时代，那时人们雇佣仆人来做家务。"
 		},
 		{
 			"i": 6,
 			"start": 35.42,
-			"end": 40.21,
+			"end": 39.71,
 			"en": "She had a huge, rambling country house called 'The Gables'.",
 			"zh": "她有一幢名叫“山墙”的巨大而凌乱的乡村别墅。"
 		},
 		{
 			"i": 7,
 			"start": 40.36,
-			"end": 43.67,
+			"end": 43.255,
 			"en": "She was sentimentally attached to this house,",
 			"zh": "她对这所房子感情深厚，"
 		},
 		{
 			"i": 8,
 			"start": 43.82,
-			"end": 52.67,
+			"end": 51.526,
 			"en": "for even though it was far too big for her needs, she persisted in living there long after her husband's death.",
 			"zh": "因为尽管它对她来说太大了，但在她丈夫去世后很久，她仍然坚持住在那里。"
 		},
 		{
 			"i": 9,
 			"start": 52.82,
-			"end": 57.69,
+			"end": 57.33,
 			"en": "Before she grew old, aunt Harriet used to entertain lavishly.",
 			"zh": "在她变老之前，哈里特姑妈经常大摆宴席。"
 		},
 		{
 			"i": 10,
 			"start": 57.84,
-			"end": 61.3,
+			"end": 60.535,
 			"en": "I often visited The Gables when I was a boy.",
 			"zh": "我小时候经常去“山墙”探望。"
 		},
 		{
 			"i": 11,
 			"start": 61.45,
-			"end": 67.47,
+			"end": 66.981,
 			"en": "No matter how many guests were present, the great house was always immaculate.",
 			"zh": "无论有多少客人，这幢大房子总是 immaculate（一尘不染的）。"
 		},
 		{
 			"i": 12,
 			"start": 67.62,
-			"end": 70.79,
+			"end": 70.34,
 			"en": "The parquet floors shone like mirrors;",
 			"zh": "镶木地板擦得像镜子一样亮；"
 		},
 		{
 			"i": 13,
 			"start": 70.94,
-			"end": 76.16,
+			"end": 75.373,
 			"en": "highly polished silver was displayed in gleaming glass cabinets;",
 			"zh": "擦得锃亮的银器摆放在闪闪发光的玻璃橱柜里；"
 		},
 		{
 			"i": 14,
 			"start": 76.31,
-			"end": 83.23,
+			"end": 82.337,
 			"en": "even my uncle's huge collection of books was kept miraculously free from dust.",
 			"zh": "甚至我叔叔那一大批藏书也奇迹般地没有沾上一点灰尘。"
 		},
 		{
 			"i": 15,
 			"start": 83.38,
-			"end": 92.68,
+			"end": 91.978,
 			"en": "Aunt Harriet presided over an invisible army of servants that continuously scrubbed, cleaned, and polished.",
 			"zh": "哈里特姑妈统管着一支无形的仆人队伍，他们不停地擦洗、清洁、打磨。"
 		},
 		{
 			"i": 16,
 			"start": 92.83,
-			"end": 97.73,
+			"end": 97.36,
 			"en": "She always referred to them as 'the shifting population',",
 			"zh": "她总是称他们为“流动人口”，"
 		},
 		{
 			"i": 17,
 			"start": 97.88,
-			"end": 105.41,
+			"end": 104.168,
 			"en": "for they came and went with such frequency that I never even got a chance to learn their names.",
 			"zh": "因为他们来去匆匆，我甚至都没机会记住他们的名字。"
 		},
 		{
 			"i": 18,
 			"start": 105.56,
-			"end": 111.11,
+			"end": 110.715,
 			"en": "Though my aunt pursued what was, in those days an enlightened policy,",
 			"zh": "尽管我姑妈在那时实行着一项开明的政策，"
 		},
 		{
 			"i": 19,
 			"start": 111.26,
-			"end": 120.13,
+			"end": 119.331,
 			"en": "in that she never allowed her domestic staff to work more than eight hours a day, she was extremely difficult to please.",
 			"zh": "即她从不允许她的家政人员每天工作超过八小时，但她还是非常难以取悦。"
 		},
 		{
 			"i": 20,
 			"start": 120.28,
-			"end": 124.8,
+			"end": 124.431,
 			"en": "While she always criticized the fickleness of human nature,",
 			"zh": "虽然她总是批评人性的反复无常，"
 		},
 		{
 			"i": 21,
 			"start": 124.95,
-			"end": 131.95,
+			"end": 131.22,
 			"en": "she carried on an unrelenting search for the ideal servant to the end of her days,",
 			"zh": "但她毕生都在不懈地寻找理想的仆人，"
 		},
 		{
 			"i": 22,
 			"start": 132.1,
-			"end": 137.14,
+			"end": 135.778,
 			"en": "even after she had been sadly disillusioned by Bessie.",
 			"zh": "即使在她被贝茜伤透了心之后也是如此。"
 		},
 		{
 			"i": 23,
 			"start": 137.29,
-			"end": 140.89,
+			"end": 140.282,
 			"en": "Bessie worked for aunt Harriet for three years.",
 			"zh": "贝茜为哈里特姑妈工作了三年。"
 		},
 		{
 			"i": 24,
 			"start": 141.04,
-			"end": 148.88,
+			"end": 147.756,
 			"en": "During that time she so gained my aunt's confidence, that she was put in charge of the domestic staff.",
 			"zh": "在此期间，她深得姑妈的信任，被任命为家政人员的负责人。"
 		},
 		{
 			"i": 25,
 			"start": 149.03,
-			"end": 155.9,
+			"end": 155.101,
 			"en": "Aunt Harriet could not find words to praise Bessie's industriousness and efficiency.",
 			"zh": "哈里特姑妈对贝茜的勤劳和效率赞不绝口。"
 		},
 		{
 			"i": 26,
 			"start": 156.05,
-			"end": 161.95,
+			"end": 161.263,
 			"en": "In addition to all her other qualifications, Bessie was an expert cook.",
 			"zh": "除了她所有的其他优点，贝茜还是一位烹饪专家。"
 		},
 		{
 			"i": 27,
 			"start": 162.1,
-			"end": 170.52,
+			"end": 169.551,
 			"en": "She acted the role of the perfect servant for three years before Aunt Harriet discovered her 'little weakness'.",
 			"zh": "她扮演了三年完美仆人的角色，直到哈里特姑妈发现了她的“小缺点”。"
 		},
 		{
 			"i": 28,
 			"start": 170.67,
-			"end": 173.69,
+			"end": 173.588,
 			"en": "After being absent from The Gables for a week,",
 			"zh": "在离开“山墙”一周后，"
 		},
 		{
 			"i": 29,
 			"start": 173.84,
-			"end": 182.06,
+			"end": 181.224,
 			"en": "my aunt unexpectedly returned one afternoon with a party of guests and instructed Bessie to prepare dinner.",
 			"zh": "姑妈在一个下午 unexpectedly（出乎意料地）带着一群客人回来了，并吩咐贝茜准备晚餐。"
 		},
 		{
 			"i": 30,
 			"start": 182.21,
-			"end": 189.82,
+			"end": 189.418,
 			"en": "Not only was the meal well below the usual standard, but Bessie seemed unable to walk steadily.",
 			"zh": "晚餐不仅远低于平时的水准，而且贝茜似乎无法稳稳地走路。"
 		},
 		{
 			"i": 31,
 			"start": 189.97,
-			"end": 194.68,
+			"end": 193.894,
 			"en": "She bumped into the furniture and kept mumbling about the guests.",
 			"zh": "她撞到了家具，嘴里不停地咕哝着关于客人的话。"
 		},
 		{
 			"i": 32,
 			"start": 194.83,
-			"end": 200.93,
+			"end": 200.858,
 			"en": "When she came in with the last course--a huge pudding--she tripped on the carpet",
 			"zh": "当她端着最后一道菜——一个巨大的布丁——进来时，她在地毯上绊了一跤，"
 		},
 		{
 			"i": 33,
 			"start": 201.08,
-			"end": 211.16,
+			"end": 210.167,
 			"en": "and the pudding went flying through the air, narrowly missed my aunt, and crashed on the dining table with considerable force.",
 			"zh": "布丁飞了起来，险些砸到我姑妈，然后重重地摔在了餐桌上。"
 		},
 		{
 			"i": 34,
 			"start": 211.31,
-			"end": 218.22,
+			"end": 217.355,
 			"en": "Though this caused great mirth among the guests, Aunt Harriet was horrified.",
 			"zh": "尽管这让客人们大笑，但哈里特姑妈却吓坏了。"
 		},
 		{
 			"i": 35,
 			"start": 218.37,
-			"end": 223.22,
+			"end": 222.417,
 			"en": "She reluctantly came to the conclusion that Bessie was drunk.",
 			"zh": "她 reluctantly（不情愿地）得出结论：贝茜喝醉了。"
 		},
 		{
 			"i": 36,
 			"start": 223.37,
-			"end": 233.2,
+			"end": 232.498,
 			"en": "The guests had, of course, realized this from the moment Bessie opened the door for them and, long before the final catastrophe,",
 			"zh": "客人们当然从贝茜为他们开门的那一刻起就意识到了这一点，而且早在最后一场灾难发生之前，"
 		},
 		{
 			"i": 37,
 			"start": 233.35,
-			"end": 237.89,
+			"end": 237.133,
 			"en": "had had a difficult time trying to conceal their amusement.",
 			"zh": "他们就一直在努力掩饰自己的 amused（好笑）。"
 		},
 		{
 			"i": 38,
 			"start": 238.04,
-			"end": 241.54,
+			"end": 241.067,
 			"en": "The poor girl was dismissed instantly.",
 			"zh": "这个可怜的女孩被立刻解雇了。"
 		},
 		{
 			"i": 39,
 			"start": 241.69,
-			"end": 254.82,
+			"end": 254.021,
 			"en": "After her departure, Aunt Harriet discovered that there were piles of empty wine bottles of all shapes and sizes neatly stacked in what had once been Bessie's wardrobe.",
 			"zh": "在她离开后，哈里特姑妈发现，曾是贝茜衣柜的地方，整齐地堆放着各种形状和大小的空酒瓶。"
 		},

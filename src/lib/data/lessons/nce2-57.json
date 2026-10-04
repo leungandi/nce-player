@@ -7,117 +7,117 @@
 		"src": "audio/nce2-57.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.74,
-			"end": 14.93,
+			"end": 12.96,
 			"en": "Did the woman get what she wanted?",
 			"zh": "女人得到了她想要的吗？"
 		},
 		{
 			"i": 1,
 			"start": 15.08,
-			"end": 20.45,
+			"end": 19.576,
 			"en": "A woman in jeans stood at the window of an expensive shop.",
 			"zh": "一个穿着牛仔裤的女人站在一家高档商店的橱窗前。"
 		},
 		{
 			"i": 2,
 			"start": 20.6,
-			"end": 23.62,
+			"end": 23.198,
 			"en": "Though she hesitated for a moment,",
 			"zh": "尽管她犹豫了片刻，"
 		},
 		{
 			"i": 3,
 			"start": 23.77,
-			"end": 30.18,
+			"end": 28.924,
 			"en": "she finally went in and asked to see a dress that was in the window.",
 			"zh": "但她最终还是走了进去，要求看一件陈列在橱窗里的连衣裙。"
 		},
 		{
 			"i": 4,
 			"start": 30.33,
-			"end": 35.73,
+			"end": 34.885,
 			"en": "The assistant who served her did not like the way she was dressed.",
 			"zh": "接待她的店员不喜欢她的穿着打扮。"
 		},
 		{
 			"i": 5,
 			"start": 35.88,
-			"end": 41.74,
+			"end": 40.88,
 			"en": "Glancing at her scornfully, he told her that the dress was sold.",
 			"zh": "他轻蔑地瞥了她一眼，告诉她那件连衣裙已经卖掉了。"
 		},
 		{
 			"i": 6,
 			"start": 41.89,
-			"end": 48.7,
+			"end": 47.94,
 			"en": "The woman walked out of the shop angrily and decided to punish the assistant next day.",
 			"zh": "女人气愤地走出商店，决定第二天惩罚那个店员。"
 		},
 		{
 			"i": 7,
 			"start": 48.85,
-			"end": 53.98,
+			"end": 53.612,
 			"en": "She returned to the shop the following morning dressed in a fur coat,",
 			"zh": "第二天上午，她回到店里，穿了一件裘皮大衣，"
 		},
 		{
 			"i": 8,
 			"start": 54.13,
-			"end": 59.9,
+			"end": 58.569,
 			"en": "with a handbag in one hand and a long umbrella in the other.",
 			"zh": "一只手拿着坤包，另一只手拿着一把长柄伞。"
 		},
 		{
 			"i": 9,
 			"start": 60.05,
-			"end": 62.76,
+			"end": 62.507,
 			"en": "After seeking out the rude assistant,",
 			"zh": "找到那个无礼的店员后，"
 		},
 		{
 			"i": 10,
 			"start": 62.91,
-			"end": 66.05,
+			"end": 65.25,
 			"en": "she asked for the same dress.",
 			"zh": "她又问起那件连衣裙。"
 		},
 		{
 			"i": 11,
 			"start": 66.2,
-			"end": 73.66,
+			"end": 72.637,
 			"en": "Not realizing who she was, the assistant was eager to serve her this time.",
 			"zh": "店员没有认出她，这次却殷勤地为她服务。"
 		},
 		{
 			"i": 12,
 			"start": 73.81,
-			"end": 80.3,
+			"end": 79.006,
 			"en": "With great difficulty, he climbed into the shop window to get the dress.",
 			"zh": "他费了很大的劲儿才爬进橱窗去取那件连衣裙。"
 		},
 		{
 			"i": 13,
 			"start": 80.45,
-			"end": 86.03,
+			"end": 85.152,
 			"en": "As soon as she saw it, the woman said she did not like it.",
 			"zh": "她一看就说不喜欢。"
 		},
 		{
 			"i": 14,
 			"start": 86.18,
-			"end": 91.89,
+			"end": 91.679,
 			"en": "She enjoyed herself making the assistant bring almost everything in the window",
 			"zh": "她让店员把橱窗里几乎所有的东西都拿出来，"
 		},
 		{
 			"i": 15,
 			"start": 92.04,
-			"end": 96.04,
+			"end": 96.495,
 			"en": "before finally buying the dress she had first asked for.",
 			"zh": "最后才买了她第一次看中的那件连衣裙，以此来取乐。"
 		}

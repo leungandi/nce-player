@@ -7,96 +7,96 @@
 		"src": "audio/nce2-62.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.3,
-			"end": 16.28,
+			"end": 14.284,
 			"en": "What was the danger to the villages after the fire?",
 			"zh": "火灾过后，村庄面临的危险是什么？"
 		},
 		{
 			"i": 1,
 			"start": 16.43,
-			"end": 24.56,
+			"end": 23.512,
 			"en": "Firemen had been fighting the forest fire for nearly three weeks before they could get it under control.",
 			"zh": "消防队员们同那场森林大火搏斗了将近3个星期才把火势控制住。"
 		},
 		{
 			"i": 2,
 			"start": 24.71,
-			"end": 32.67,
+			"end": 31.162,
 			"en": "A short time before, great trees had covered the countryside for miles around.",
 			"zh": "不久前，大树还覆盖着周围几英里长的乡村。"
 		},
 		{
 			"i": 3,
 			"start": 32.82,
-			"end": 40.58,
+			"end": 39.166,
 			"en": "Now, smoke still rose up from the warm ground over the desolate hills.",
 			"zh": "如今，烟雾依然从荒凉山丘的温暖地面上冉冉升起。"
 		},
 		{
 			"i": 4,
 			"start": 40.73,
-			"end": 48.53,
+			"end": 46.83,
 			"en": "Winter was coming on and the hills threatened the surrounding villages with destruction,",
 			"zh": "冬天快到了，这些山丘威胁着周围的村庄，要将它们毁灭，"
 		},
 		{
 			"i": 5,
 			"start": 48.68,
-			"end": 56.81,
+			"end": 55.66,
 			"en": "for heavy rain would not only wash away the soil but would cause serious floods as well.",
 			"zh": "因为大雨不仅会冲走泥土，还会引起严重的水灾。"
 		},
 		{
 			"i": 6,
 			"start": 56.96,
-			"end": 60.38,
+			"end": 60.026,
 			"en": "When the fire had at last been put out,",
 			"zh": "大火最终被扑灭后，"
 		},
 		{
 			"i": 7,
 			"start": 60.53,
-			"end": 68.65,
+			"end": 67.594,
 			"en": "the forest authorities ordered several tons of a special type of grass-seed which would grow quickly.",
 			"zh": "森林管理机构订购了几吨很快就能生长的特殊草籽。"
 		},
 		{
 			"i": 8,
 			"start": 68.8,
-			"end": 75.69,
+			"end": 74.409,
 			"en": "The seed was sprayed over the ground in huge quantities by aeroplanes.",
 			"zh": "草籽由飞机大量地撒向地面。"
 		},
 		{
 			"i": 9,
 			"start": 75.84,
-			"end": 81.69,
+			"end": 80.897,
 			"en": "The planes had been planting seed for nearly a month when it began to rain.",
 			"zh": "飞机撒播草籽将近一个月后，天下起了雨。"
 		},
 		{
 			"i": 10,
 			"start": 81.84,
-			"end": 88.23,
+			"end": 87.434,
 			"en": "By then, however, in many places the grass had already taken root.",
 			"zh": "然而，到那时许多地方的草已经生根了。"
 		},
 		{
 			"i": 11,
 			"start": 88.38,
-			"end": 93.51,
+			"end": 92.939,
 			"en": "In place of the great trees which had been growing there for centuries,",
 			"zh": "原本在那里生长了几个世纪的大树，"
 		},
 		{
 			"i": 12,
 			"start": 93.66,
-			"end": 97.66,
+			"end": 98.11,
 			"en": "patches of green had begun to appear in the blackened soil.",
 			"zh": "如今在焦黑的泥土上开始出现一片片绿色。"
 		}

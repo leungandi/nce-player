@@ -7,166 +7,166 @@
 		"src": "audio/nce1-59.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.71,
-			"end": 3.05,
+			"end": 2.225,
 			"en": "Lesson 59",
 			"zh": "第59课"
 		},
 		{
 			"i": 1,
 			"start": 3.2,
-			"end": 6.03,
+			"end": 4.495,
 			"en": "Is that all?",
 			"zh": "就这些吗？"
 		},
 		{
 			"i": 2,
 			"start": 6.18,
-			"end": 11.62,
+			"end": 10.398,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答问题。"
 		},
 		{
 			"i": 3,
 			"start": 11.77,
-			"end": 16.18,
+			"end": 14.292,
 			"en": "Does the lady buy any chalk?",
 			"zh": "这位女士买粉笔了吗？"
 		},
 		{
 			"i": 4,
 			"start": 16.33,
-			"end": 20.1,
+			"end": 19.404,
 			"en": "I want some envelopes, please.",
 			"zh": "我要一些信封。"
 		},
 		{
 			"i": 5,
 			"start": 20.25,
-			"end": 25.06,
+			"end": 23.964,
 			"en": "Do you want the large size or the small size?",
 			"zh": "您要大的还是小的？"
 		},
 		{
 			"i": 6,
 			"start": 25.21,
-			"end": 28.4,
+			"end": 27.54,
 			"en": "The large size, please.",
 			"zh": "请给我大的。"
 		},
 		{
 			"i": 7,
 			"start": 28.55,
-			"end": 31.69,
+			"end": 31.317,
 			"en": "Do you have any writing paper?",
 			"zh": "您有信纸吗？"
 		},
 		{
 			"i": 8,
 			"start": 31.84,
-			"end": 34.26,
+			"end": 33.104,
 			"en": "Yes, we do.",
 			"zh": "有，我们有。"
 		},
 		{
 			"i": 9,
 			"start": 34.41,
-			"end": 38.19,
+			"end": 37.539,
 			"en": "I don't have any small pads.",
 			"zh": "我没有小本的。"
 		},
 		{
 			"i": 10,
 			"start": 38.34,
-			"end": 41.51,
+			"end": 40.751,
 			"en": "I only have large ones.",
 			"zh": "我只有大本的。"
 		},
 		{
 			"i": 11,
 			"start": 41.66,
-			"end": 44.02,
+			"end": 43.512,
 			"en": "Do you want a pad?",
 			"zh": "您要一本吗？"
 		},
 		{
 			"i": 12,
 			"start": 44.17,
-			"end": 46.29,
+			"end": 45.738,
 			"en": "Yes, please.",
 			"zh": "是的，谢谢。"
 		},
 		{
 			"i": 13,
 			"start": 46.44,
-			"end": 49.72,
+			"end": 49.129,
 			"en": "And I want some glue.",
 			"zh": "我还要一些胶水。"
 		},
 		{
 			"i": 14,
 			"start": 49.87,
-			"end": 52.91,
+			"end": 51.56,
 			"en": "A bottle of glue.",
 			"zh": "一瓶胶水。"
 		},
 		{
 			"i": 15,
 			"start": 53.06,
-			"end": 58.06,
+			"end": 57.492,
 			"en": "And I want a large box of chalk, too.",
 			"zh": "我还要一大盒粉笔。"
 		},
 		{
 			"i": 16,
 			"start": 58.21,
-			"end": 61.31,
+			"end": 60.906,
 			"en": "I only have small boxes.",
 			"zh": "我只有小盒的。"
 		},
 		{
 			"i": 17,
 			"start": 61.46,
-			"end": 62.93,
+			"end": 62.61,
 			"en": "Do you want one?",
 			"zh": "您要一盒吗？"
 		},
 		{
 			"i": 18,
 			"start": 63.08,
-			"end": 64.79,
+			"end": 64.264,
 			"en": "No, thank you.",
 			"zh": "不，谢谢。"
 		},
 		{
 			"i": 19,
 			"start": 64.94,
-			"end": 66.42,
+			"end": 66.077,
 			"en": "Is that all?",
 			"zh": "就这些吗？"
 		},
 		{
 			"i": 20,
 			"start": 66.57,
-			"end": 69.14,
+			"end": 68.697,
 			"en": "That's all, thank you.",
 			"zh": "就这些，谢谢。"
 		},
 		{
 			"i": 21,
 			"start": 69.29,
-			"end": 71.4,
+			"end": 70.893,
 			"en": "What else do you want?",
 			"zh": "您还想要什么？"
 		},
 		{
 			"i": 22,
 			"start": 71.55,
-			"end": 75.55,
+			"end": 74.236,
 			"en": "I want my change.",
 			"zh": "我要我的零钱。"
 		}

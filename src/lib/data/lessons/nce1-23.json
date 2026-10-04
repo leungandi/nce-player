@@ -7,96 +7,96 @@
 		"src": "audio/nce1-23.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.42,
-			"end": 2.77,
+			"end": 1.956,
 			"en": "Lesson 23",
 			"zh": "第23课"
 		},
 		{
 			"i": 1,
 			"start": 2.92,
-			"end": 5.49,
+			"end": 4.456,
 			"en": "Which glasses?",
 			"zh": "哪几副眼镜？"
 		},
 		{
 			"i": 2,
 			"start": 5.64,
-			"end": 11.68,
+			"end": 10.259,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答这个问题。"
 		},
 		{
 			"i": 3,
 			"start": 11.83,
-			"end": 16.99,
+			"end": 15.13,
 			"en": "Which glasses does the man want?",
 			"zh": "那个男人想要哪几副眼镜？"
 		},
 		{
 			"i": 4,
 			"start": 17.14,
-			"end": 21.03,
+			"end": 20.432,
 			"en": "Give me some glasses please, Jane.",
 			"zh": "简，请给我几副眼镜。"
 		},
 		{
 			"i": 5,
 			"start": 21.18,
-			"end": 23.13,
+			"end": 22.56,
 			"en": "Which glasses?",
 			"zh": "哪几副眼镜？"
 		},
 		{
 			"i": 6,
 			"start": 23.28,
-			"end": 25.68,
+			"end": 24.859,
 			"en": "These glasses?",
 			"zh": "是这几副眼镜吗？"
 		},
 		{
 			"i": 7,
 			"start": 25.83,
-			"end": 28.43,
+			"end": 27.883,
 			"en": "No, not those.",
 			"zh": "不，不是那些。"
 		},
 		{
 			"i": 8,
 			"start": 28.58,
-			"end": 31.25,
+			"end": 30.507,
 			"en": "The ones on the shelf.",
 			"zh": "货架上的那些。"
 		},
 		{
 			"i": 9,
 			"start": 31.4,
-			"end": 32.69,
+			"end": 32.337,
 			"en": "These?",
 			"zh": "是这些吗？"
 		},
 		{
 			"i": 10,
 			"start": 32.84,
-			"end": 34.83,
+			"end": 34.292,
 			"en": "Yes, please.",
 			"zh": "是的，请。"
 		},
 		{
 			"i": 11,
 			"start": 34.98,
-			"end": 36.98,
+			"end": 36.172,
 			"en": "Here you are.",
 			"zh": "给你。"
 		},
 		{
 			"i": 12,
 			"start": 37.13,
-			"end": 41.13,
+			"end": 37.947,
 			"en": "Thanks.",
 			"zh": "谢谢。"
 		}

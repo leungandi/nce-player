@@ -7,75 +7,75 @@
 		"src": "audio/nce1-135.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.9,
-			"end": 3.58,
+			"end": 2.932,
 			"en": "Lesson 135",
 			"zh": "第135课"
 		},
 		{
 			"i": 1,
 			"start": 3.73,
-			"end": 6.67,
+			"end": 5.467,
 			"en": "The latest report",
 			"zh": "最新报道"
 		},
 		{
 			"i": 2,
 			"start": 6.82,
-			"end": 12.08,
+			"end": 11.032,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答问题。"
 		},
 		{
 			"i": 3,
 			"start": 12.23,
-			"end": 18.68,
+			"end": 16.64,
 			"en": "Is Karen Marsh going to retire, do you think?",
 			"zh": "你认为卡伦·马什会退休吗？"
 		},
 		{
 			"i": 4,
 			"start": 18.83,
-			"end": 22.95,
+			"end": 22.373,
 			"en": "Are you really going to retire, Miss Marsh?",
 			"zh": "马什小姐，您真的要退休了吗？"
 		},
 		{
 			"i": 5,
 			"start": 23.1,
-			"end": 24.51,
+			"end": 24.25,
 			"en": "I may.",
 			"zh": "我可能会。"
 		},
 		{
 			"i": 6,
 			"start": 24.66,
-			"end": 27.83,
+			"end": 27.246,
 			"en": "I can't make up my mind.",
 			"zh": "我还没下定决心。"
 		},
 		{
 			"i": 7,
 			"start": 27.98,
-			"end": 32.27,
+			"end": 31.773,
 			"en": "I will have to ask my future husband.",
 			"zh": "我得问问我未来的丈夫。"
 		},
 		{
 			"i": 8,
 			"start": 32.42,
-			"end": 36.49,
+			"end": 35.669,
 			"en": "He won't let me make another film.",
 			"zh": "他不会让我再拍电影了。"
 		},
 		{
 			"i": 9,
 			"start": 36.64,
-			"end": 39.84,
+			"end": 39.494,
 			"en": "Your future husband, Miss Marsh?",
 			"zh": "您未来的丈夫？马什小姐？"
 		},
@@ -89,98 +89,98 @@
 		{
 			"i": 11,
 			"start": 41.16,
-			"end": 44.07,
+			"end": 43.656,
 			"en": "Let me introduce him to you.",
 			"zh": "让我把他介绍给你们。"
 		},
 		{
 			"i": 12,
 			"start": 44.22,
-			"end": 47.51,
+			"end": 47.013,
 			"en": "His name is Carlos.",
 			"zh": "他叫卡洛斯。"
 		},
 		{
 			"i": 13,
 			"start": 47.66,
-			"end": 52.85,
+			"end": 51.6,
 			"en": "We're going to get married next week.",
 			"zh": "我们下周结婚。"
 		},
 		{
 			"i": 14,
 			"start": 53,
-			"end": 54.51,
+			"end": 54.161,
 			"en": "Look, Liz!",
 			"zh": "看，莉兹！"
 		},
 		{
 			"i": 15,
 			"start": 54.66,
-			"end": 59.07,
+			"end": 58.706,
 			"en": "Here's another report about Karen Marsh.",
 			"zh": "这是关于卡伦·马什的另一篇报道。"
 		},
 		{
 			"i": 16,
 			"start": 59.22,
-			"end": 64.51,
+			"end": 63.883,
 			"en": "Listen: 'Karen Marsh: The latest.",
 			"zh": "听着：“卡伦·马什：最新报道。"
 		},
 		{
 			"i": 17,
 			"start": 64.66,
-			"end": 73.6,
+			"end": 72.864,
 			"en": "At her London Hotel today Miss Marsh told reporters she might retire.",
 			"zh": "今天，马什小姐在伦敦的饭店告诉记者，她可能会退休。"
 		},
 		{
 			"i": 18,
 			"start": 73.75,
-			"end": 77.96,
+			"end": 77.533,
 			"en": "She said she couldn't make up her mind.",
 			"zh": "她说她还没下定决心。"
 		},
 		{
 			"i": 19,
 			"start": 78.11,
-			"end": 84.18,
+			"end": 83.335,
 			"en": "She said she would have to ask her future husband.",
 			"zh": "她说她得问问她未来的丈夫。"
 		},
 		{
 			"i": 20,
 			"start": 84.33,
-			"end": 91.88,
+			"end": 91.088,
 			"en": "She said her future husband would not let her make another film.",
 			"zh": "她说她未来的丈夫不会让她再拍电影了。"
 		},
 		{
 			"i": 21,
 			"start": 92.03,
-			"end": 101.72,
+			"end": 100.97,
 			"en": "Then she introduced us to Carlos and told us they would get married next week.'",
 			"zh": "然后她把卡洛斯介绍给我们，并告诉我们他们下周结婚。”"
 		},
 		{
 			"i": 22,
 			"start": 101.87,
-			"end": 107.33,
+			"end": 106.455,
 			"en": "That's sensational news, isn't it, Kate?",
 			"zh": "这真是个爆炸性新闻，不是吗，凯特？"
 		},
 		{
 			"i": 23,
 			"start": 107.48,
-			"end": 109.65,
+			"end": 109.309,
 			"en": "It certainly is.",
 			"zh": "当然是。"
 		},
 		{
 			"i": 24,
 			"start": 109.8,
-			"end": 113.8,
+			"end": 112.31,
 			"en": "He'll be her sixth husband!",
 			"zh": "他将是她的第六任丈夫！"
 		}

@@ -7,12 +7,12 @@
 		"src": "audio/nce2-36.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 9.9,
-			"end": 14.51,
+			"end": 12.591,
 			"en": "What is Debbie going to try to do?",
 			"zh": "黛比将要尝试做什么？"
 		},
@@ -26,7 +26,7 @@
 		{
 			"i": 2,
 			"start": 16.98,
-			"end": 20.26,
+			"end": 19.262,
 			"en": "across the English Channel tomorrow.",
 			"zh": "明天横渡英吉利海峡。"
 		},
@@ -40,7 +40,7 @@
 		{
 			"i": 4,
 			"start": 23.6,
-			"end": 26.45,
+			"end": 25.261,
 			"en": "at five o'clock in the morning.",
 			"zh": "从法国海岸出发。"
 		},
@@ -54,7 +54,7 @@
 		{
 			"i": 6,
 			"start": 29.7,
-			"end": 33.27,
+			"end": 32.432,
 			"en": "and she hopes to set up a new world record.",
 			"zh": "她希望能创造一个新的世界纪录。"
 		},
@@ -68,7 +68,7 @@
 		{
 			"i": 8,
 			"start": 36.81,
-			"end": 39.92,
+			"end": 38.983,
 			"en": "that she is sure to succeed.",
 			"zh": "她一定会成功。"
 		},
@@ -82,14 +82,14 @@
 		{
 			"i": 10,
 			"start": 42.85,
-			"end": 44.76,
+			"end": 43.951,
 			"en": "in a small boat.",
 			"zh": "乘一艘小船出发。"
 		},
 		{
 			"i": 11,
 			"start": 44.91,
-			"end": 49.01,
+			"end": 48.249,
 			"en": "Mr. Hart has trained his daughter for years.",
 			"zh": "哈特先生训练他的女儿已经多年了。"
 		},
@@ -103,14 +103,14 @@
 		{
 			"i": 13,
 			"start": 52.66,
-			"end": 56.74,
+			"end": 55.701,
 			"en": "as she swims the long distance to England.",
 			"zh": "游过那漫长的距离去英国。"
 		},
 		{
 			"i": 14,
 			"start": 56.89,
-			"end": 61.53,
+			"end": 60.894,
 			"en": "Debbie intends to take short rests every two hours.",
 			"zh": "黛比打算每两小时短暂停歇一次。"
 		},
@@ -124,7 +124,7 @@
 		{
 			"i": 16,
 			"start": 63.59,
-			"end": 67.48,
+			"end": 66.41,
 			"en": "but she will not eat any solid food.",
 			"zh": "但不吃任何固体食物。"
 		},
@@ -138,14 +138,14 @@
 		{
 			"i": 18,
 			"start": 70.18,
-			"end": 73.15,
+			"end": 72.583,
 			"en": "waiting for her on the English coast.",
 			"zh": "在英国海岸等候她。"
 		},
 		{
 			"i": 19,
 			"start": 73.3,
-			"end": 76.18,
+			"end": 75.331,
 			"en": "Among them will be Debbie's mother,",
 			"zh": "其中包括黛比的母亲，"
 		},
@@ -159,7 +159,7 @@
 		{
 			"i": 21,
 			"start": 78.4,
-			"end": 82.4,
+			"end": 79.778,
 			"en": "when she was a girl.",
 			"zh": "也曾游过英吉利海峡。"
 		}

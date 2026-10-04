@@ -7,12 +7,12 @@
 		"src": "audio/nce2-31.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.09,
-			"end": 14.33,
+			"end": 12.529,
 			"en": "What was Frank's first job?",
 			"zh": "弗兰克的第一个工作是什么？"
 		},
@@ -26,14 +26,14 @@
 		{
 			"i": 2,
 			"start": 19.08,
-			"end": 22.92,
+			"end": 21.767,
 			"en": "his experiences as a young man.",
 			"zh": "他年轻时的经历。"
 		},
 		{
 			"i": 3,
 			"start": 23.07,
-			"end": 25.24,
+			"end": 24.688,
 			"en": "Before he retired,",
 			"zh": "在他退休之前，"
 		},
@@ -47,21 +47,21 @@
 		{
 			"i": 5,
 			"start": 26.96,
-			"end": 34.29,
+			"end": 33.727,
 			"en": "a very large business company, but as a boy he used to work in a small shop.",
 			"zh": "非常大的商业公司的负责人，但小时候他曾在一家小商店工作。"
 		},
 		{
 			"i": 6,
 			"start": 34.44,
-			"end": 37.35,
+			"end": 37.241,
 			"en": "It was his job to repair bicycles",
 			"zh": "他的工作是修理自行车，"
 		},
 		{
 			"i": 7,
 			"start": 37.5,
-			"end": 42.83,
+			"end": 41.859,
 			"en": "and at that time he used to work fourteen hours a day.",
 			"zh": "那时候他每天工作十四个小时。"
 		},
@@ -75,56 +75,56 @@
 		{
 			"i": 9,
 			"start": 45.37,
-			"end": 50.62,
+			"end": 49.835,
 			"en": "in 1958 he bought a small workshop of his own.",
 			"zh": "1958年他买下了一间自己的小作坊。"
 		},
 		{
 			"i": 10,
 			"start": 50.77,
-			"end": 56.48,
+			"end": 55.641,
 			"en": "In his twenties Frank used to make spare parts for aeroplanes.",
 			"zh": "二十多岁时，弗兰克曾为飞机制造备件。"
 		},
 		{
 			"i": 11,
 			"start": 56.63,
-			"end": 60.03,
+			"end": 59.239,
 			"en": "At that time he had two helpers.",
 			"zh": "那时候他有两个助手。"
 		},
 		{
 			"i": 12,
 			"start": 60.18,
-			"end": 65.41,
+			"end": 65.316,
 			"en": "In a few years the small workshop had become a large factory",
 			"zh": "几年之内，这个小作坊就变成了一家大工厂，"
 		},
 		{
 			"i": 13,
 			"start": 65.56,
-			"end": 70.48,
+			"end": 69.427,
 			"en": "which employed seven hundred and twenty-eight people.",
 			"zh": "雇佣了七百二十八名工人。"
 		},
 		{
 			"i": 14,
 			"start": 70.63,
-			"end": 78.09,
+			"end": 77.198,
 			"en": "Frank smiled when he remembered his hard early years and the long road to success.",
 			"zh": "弗兰克回忆起他艰难的早年和漫长的成功之路时笑了。"
 		},
 		{
 			"i": 15,
 			"start": 78.24,
-			"end": 83.44,
+			"end": 82.604,
 			"en": "He was still smiling when the door opened and his wife came in.",
 			"zh": "门开了，他妻子走进来的时候，他还在笑。"
 		},
 		{
 			"i": 16,
 			"start": 83.59,
-			"end": 87.59,
+			"end": 87.508,
 			"en": "She wanted him to repair their grandson's bicycle!",
 			"zh": "她想让他修理他们孙子的自行车！"
 		}

@@ -7,12 +7,12 @@
 		"src": "audio/nce2-38.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.98,
-			"end": 16.36,
+			"end": 14.478,
 			"en": "Why did Harrison sell his house so quickly?",
 			"zh": "为什么哈里森把房子卖得这么快？"
 		},
@@ -33,21 +33,21 @@
 		{
 			"i": 3,
 			"start": 22.65,
-			"end": 25.82,
+			"end": 24.997,
 			"en": "before he returned to England.",
 			"zh": "然后才回到英国。"
 		},
 		{
 			"i": 4,
 			"start": 25.97,
-			"end": 29.74,
+			"end": 29.426,
 			"en": "He had often dreamed of retiring in England",
 			"zh": "他曾常常梦想在英国退休，"
 		},
 		{
 			"i": 5,
 			"start": 29.89,
-			"end": 33.46,
+			"end": 32.422,
 			"en": "and had planned to settle down in the country.",
 			"zh": "并计划在乡村安顿下来。"
 		},
@@ -61,7 +61,7 @@
 		{
 			"i": 7,
 			"start": 37.38,
-			"end": 39.9,
+			"end": 38.951,
 			"en": "a house and went to live there.",
 			"zh": "了所房子住了进去。"
 		},
@@ -75,77 +75,77 @@
 		{
 			"i": 9,
 			"start": 43.62,
-			"end": 45.47,
+			"end": 44.658,
 			"en": "about the weather,",
 			"zh": "天气了，"
 		},
 		{
 			"i": 10,
 			"start": 45.62,
-			"end": 49.05,
+			"end": 48.168,
 			"en": "for even though it was still summer,",
 			"zh": "因为尽管当时仍是夏天，"
 		},
 		{
 			"i": 11,
 			"start": 49.2,
-			"end": 54.69,
+			"end": 53.536,
 			"en": "it rained continually and it was often bitterly cold.",
 			"zh": "但却一直下雨，而且常常冷得厉害。"
 		},
 		{
 			"i": 12,
 			"start": 54.84,
-			"end": 57.69,
+			"end": 57.542,
 			"en": "After so many years of sunshine,",
 			"zh": "在阳光充足的地方生活了那么多年之后，"
 		},
 		{
 			"i": 13,
 			"start": 57.84,
-			"end": 60.32,
+			"end": 59.575,
 			"en": "Harrison got a shock.",
 			"zh": "哈里森感到很震惊。"
 		},
 		{
 			"i": 14,
 			"start": 60.47,
-			"end": 65.45,
+			"end": 64.525,
 			"en": "He acted as if he had never lived in England before.",
 			"zh": "他的举动就好像他以前从未在英国生活过一样。"
 		},
 		{
 			"i": 15,
 			"start": 65.6,
-			"end": 69.64,
+			"end": 68.784,
 			"en": "In the end, it was more than he could bear.",
 			"zh": "最终，他再也忍受不了了。"
 		},
 		{
 			"i": 16,
 			"start": 69.79,
-			"end": 72.89,
+			"end": 72.589,
 			"en": "He had hardly had time to settle down",
 			"zh": "他还没来得及安顿下来，"
 		},
 		{
 			"i": 17,
 			"start": 73.04,
-			"end": 77.06,
+			"end": 76.088,
 			"en": "when he sold the house and left the country.",
 			"zh": "就把房子卖掉离开了英国。"
 		},
 		{
 			"i": 18,
 			"start": 77.21,
-			"end": 82.64,
+			"end": 81.648,
 			"en": "The dream he had had for so many years ended there.",
 			"zh": "他多年的梦想就这样破灭了。"
 		},
 		{
 			"i": 19,
 			"start": 82.79,
-			"end": 86.79,
+			"end": 86.38,
 			"en": "Harrison had thought of everything except the weather.",
 			"zh": "哈里森把什么都考虑到了，就是没想到天气。"
 		}

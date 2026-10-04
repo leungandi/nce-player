@@ -7,110 +7,110 @@
 		"src": "audio/nce3-07.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.24,
-			"end": 1.74,
+			"end": 1.312,
 			"en": "Lesson 7",
 			"zh": "第7课"
 		},
 		{
 			"i": 1,
 			"start": 1.89,
-			"end": 8.54,
+			"end": 7.512,
 			"en": "Mutilated Ladies",
 			"zh": "残损的钞票"
 		},
 		{
 			"i": 2,
 			"start": 8.69,
-			"end": 12.63,
+			"end": 11.533,
 			"en": "Why did Jane cook John's wallet?",
 			"zh": "简为什么要烹调约翰的钱包？"
 		},
 		{
 			"i": 3,
 			"start": 12.78,
-			"end": 15.02,
+			"end": 14.441,
 			"en": "Has it ever happened to you?",
 			"zh": "你有过这种经历吗？"
 		},
 		{
 			"i": 4,
 			"start": 15.17,
-			"end": 23.14,
+			"end": 22.226,
 			"en": "Have you ever put your trousers in the washing machine and then remembered there was a large bank note in your back pocket?",
 			"zh": "你是否曾经把裤子放进洗衣机里，然后才想起你的后裤袋里有一张大额钞票？"
 		},
 		{
 			"i": 5,
 			"start": 23.29,
-			"end": 28.95,
+			"end": 28.018,
 			"en": "When you rescued your trousers, did you find the note was whiter than white?",
 			"zh": "当你把裤子拿出来时，是否发现那张钞票比雪还白？"
 		},
 		{
 			"i": 6,
 			"start": 29.1,
-			"end": 36.47,
+			"end": 35.628,
 			"en": "People who live in Britain needn't despair when they make mistakes like this (and a lot of people do)!",
 			"zh": "在英国居住的人们犯了这种错误不必绝望（而且很多人都会犯这种错误）！"
 		},
 		{
 			"i": 7,
 			"start": 36.62,
-			"end": 42.17,
+			"end": 41.981,
 			"en": "Fortunately for them, the Bank of England has a team called Mutilated Ladies",
 			"zh": "对他们来说幸运的是，英格兰银行有一个名为“残钞处理小组”的团队，"
 		},
 		{
 			"i": 8,
 			"start": 42.32,
-			"end": 48.47,
+			"end": 47.607,
 			"en": "which deals with claims from people who fed their money to a machine or to their dog.",
 			"zh": "处理那些把钱喂给机器或喂给狗的人提出的索赔。"
 		},
 		{
 			"i": 9,
 			"start": 48.62,
-			"end": 52.79,
+			"end": 51.624,
 			"en": "Dogs, it seems, love to chew up money!",
 			"zh": "看来狗很喜欢嚼钱！"
 		},
 		{
 			"i": 10,
 			"start": 52.94,
-			"end": 60.91,
+			"end": 60.121,
 			"en": "A recent case concerns Jane Butlin whose fiance, John, runs a successful furniture business.",
 			"zh": "最近有一件事是关于简·巴特林，她的未婚夫约翰经营着一家成功的家具公司。"
 		},
 		{
 			"i": 11,
 			"start": 61.06,
-			"end": 69.84,
+			"end": 68.836,
 			"en": "John had a very good day and put his wallet containing ￡3, 000 into the microwave oven for safekeeping.",
 			"zh": "约翰那天生意很好，就把装有3000英镑的钱包放进了微波炉里，以求安全。"
 		},
 		{
 			"i": 12,
 			"start": 69.99,
-			"end": 72.48,
+			"end": 72.269,
 			"en": "Then he and Jane went horse-riding.",
 			"zh": "然后他和简去骑马了。"
 		},
 		{
 			"i": 13,
 			"start": 72.63,
-			"end": 82.84,
+			"end": 81.932,
 			"en": "When they got home, Jane cooked their dinner in the microwave oven and without realizing it, cooked her fiance's wallet as well.",
 			"zh": "他们到家后，简在微波炉里做了晚餐，并且在不知不觉中，也把她未婚夫的钱包给煮了。"
 		},
 		{
 			"i": 14,
 			"start": 82.99,
-			"end": 90.94,
+			"end": 89.746,
 			"en": "Imagine their dismay when they found a beautifully-cooked wallet and notes turned to ash!",
 			"zh": "想象一下当他们发现一个“烹调精美”的钱包和变成灰烬的钞票时，他们的沮丧！"
 		},
@@ -124,28 +124,28 @@
 		{
 			"i": 16,
 			"start": 96.68,
-			"end": 102.67,
+			"end": 101.877,
 			"en": "to the special department of the Bank of England in Newcastle: the Mutilated Ladies!",
 			"zh": "送到了英格兰银行在纽卡斯尔的特别部门：残钞处理小组！"
 		},
 		{
 			"i": 17,
 			"start": 102.82,
-			"end": 108.18,
+			"end": 107.144,
 			"en": "They examined the remains and John got all his money back.",
 			"zh": "他们检查了残余物，约翰拿回了他所有的钱。"
 		},
 		{
 			"i": 18,
 			"start": 108.33,
-			"end": 116.41,
+			"end": 115.919,
 			"en": "'So long as there's something to identify, we will give people their money back,' said a spokeswoman for the Bank.",
 			"zh": "“只要有可识别的部分，我们就会把钱还给人们，”银行的一位女发言人说。"
 		},
 		{
 			"i": 19,
 			"start": 116.56,
-			"end": 120.56,
+			"end": 117.543,
 			"en": "'Last year, we paid ￡1.5 million on 21,000 claims.'",
 			"zh": "“去年，我们为21000份索赔支付了150万英镑。”"
 		}

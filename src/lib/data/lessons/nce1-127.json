@@ -7,173 +7,173 @@
 		"src": "audio/nce1-127.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.67,
-			"end": 3.38,
+			"end": 2.73,
 			"en": "Lesson 127",
 			"zh": "第127课"
 		},
 		{
 			"i": 1,
 			"start": 3.53,
-			"end": 6.39,
+			"end": 5.264,
 			"en": "A famous actress",
 			"zh": "著名的女演员"
 		},
 		{
 			"i": 2,
 			"start": 6.54,
-			"end": 11.99,
+			"end": 11.019,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答问题。"
 		},
 		{
 			"i": 3,
 			"start": 12.14,
-			"end": 20.45,
+			"end": 18.049,
 			"en": "Who is only twenty-nine, and why is it so unclear?",
 			"zh": "谁才29岁？为什么这点不清楚？"
 		},
 		{
 			"i": 4,
 			"start": 20.6,
-			"end": 24.98,
+			"end": 24.235,
 			"en": "Can you recognize that woman, Liz?",
 			"zh": "莉兹，你认得出那个女人吗？"
 		},
 		{
 			"i": 5,
 			"start": 25.13,
-			"end": 28.12,
+			"end": 27.466,
 			"en": "I think I can, Kate.",
 			"zh": "我想我认得，凯特。"
 		},
 		{
 			"i": 6,
 			"start": 28.27,
-			"end": 33.14,
+			"end": 32.538,
 			"en": "It must be Karen Marsh, the actress.",
 			"zh": "她肯定是女演员卡伦·马什。"
 		},
 		{
 			"i": 7,
 			"start": 33.29,
-			"end": 35.21,
+			"end": 34.633,
 			"en": "I thought so.",
 			"zh": "我也这么想。"
 		},
 		{
 			"i": 8,
 			"start": 35.36,
-			"end": 38.15,
+			"end": 37.256,
 			"en": "Who's that beside her?",
 			"zh": "她旁边的那个人是谁？"
 		},
 		{
 			"i": 9,
 			"start": 38.3,
-			"end": 42.64,
+			"end": 41.702,
 			"en": "That must be Conrad Reeves.",
 			"zh": "那肯定是康拉德·里夫斯。"
 		},
 		{
 			"i": 10,
 			"start": 42.79,
-			"end": 45.76,
+			"end": 45.304,
 			"en": "Conrad Reeves, the actor?",
 			"zh": "演员康拉德·里夫斯？"
 		},
 		{
 			"i": 11,
 			"start": 45.91,
-			"end": 47.69,
+			"end": 47.152,
 			"en": "It can't be.",
 			"zh": "不可能。"
 		},
 		{
 			"i": 12,
 			"start": 47.84,
-			"end": 51.34,
+			"end": 50.073,
 			"en": "Let me have another look.",
 			"zh": "我再看看。"
 		},
 		{
 			"i": 13,
 			"start": 51.49,
-			"end": 53.47,
+			"end": 53,
 			"en": "I think you're right!",
 			"zh": "我想你是对的！"
 		},
 		{
 			"i": 14,
 			"start": 53.62,
-			"end": 57.31,
+			"end": 56.586,
 			"en": "Isn't he her third husband?",
 			"zh": "他不是她的第三任丈夫吗？"
 		},
 		{
 			"i": 15,
 			"start": 57.46,
-			"end": 58.76,
+			"end": 58.456,
 			"en": "No.",
 			"zh": "不。"
 		},
 		{
 			"i": 16,
 			"start": 58.91,
-			"end": 63.74,
+			"end": 62.193,
 			"en": "He must be her fourth or fifth.",
 			"zh": "他肯定是她的第四任或第五任丈夫。"
 		},
 		{
 			"i": 17,
 			"start": 63.89,
-			"end": 67.36,
+			"end": 66.585,
 			"en": "Doesn't Karen Marsh look old!",
 			"zh": "卡伦·马什看起来真老啊！"
 		},
 		{
 			"i": 18,
 			"start": 67.51,
-			"end": 70.88,
+			"end": 70.059,
 			"en": "She does, doesn't she!",
 			"zh": "是啊，她看起来确实老！"
 		},
 		{
 			"i": 19,
 			"start": 71.03,
-			"end": 79.01,
+			"end": 77.964,
 			"en": "I read she's twenty-nine, but she must be at least forty.",
 			"zh": "我读到她29岁，但她至少有40岁了。"
 		},
 		{
 			"i": 20,
 			"start": 79.16,
-			"end": 82.37,
+			"end": 81.214,
 			"en": "I'm sure she is.",
 			"zh": "我敢肯定她是。"
 		},
 		{
 			"i": 21,
 			"start": 82.52,
-			"end": 88.74,
+			"end": 87.532,
 			"en": "She was a famous actress when I was still at school.",
 			"zh": "我还在上学的时候，她就是一位著名的女演员了。"
 		},
 		{
 			"i": 22,
 			"start": 88.89,
-			"end": 93.26,
+			"end": 92.5,
 			"en": "That was a long time ago, wasn't it?",
 			"zh": "那是很久以前的事了，不是吗？"
 		},
 		{
 			"i": 23,
 			"start": 93.41,
-			"end": 96.19,
+			"end": 95.669,
 			"en": "Not that long ago!",
 			"zh": "没那么久！"
 		},

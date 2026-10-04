@@ -7,7 +7,7 @@
 		"src": "audio/nce2-08.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
@@ -19,7 +19,7 @@
 		{
 			"i": 1,
 			"start": 12.05,
-			"end": 16.77,
+			"end": 14.546,
 			"en": "the most beautiful one in the town?",
 			"zh": "是镇上最漂亮的一个？"
 		},
@@ -33,35 +33,35 @@
 		{
 			"i": 3,
 			"start": 20.67,
-			"end": 22.12,
+			"end": 21.566,
 			"en": "in our town.",
 			"zh": "在我们镇上。"
 		},
 		{
 			"i": 4,
 			"start": 22.27,
-			"end": 25.02,
+			"end": 24.756,
 			"en": "Nearly everybody enters for",
 			"zh": "几乎每个人都报名参加"
 		},
 		{
 			"i": 5,
 			"start": 25.17,
-			"end": 28.97,
+			"end": 28.436,
 			"en": "'The Nicest Garden Competition' each year,",
 			"zh": "每年的“最美花园竞赛”，"
 		},
 		{
 			"i": 6,
 			"start": 29.12,
-			"end": 32.45,
+			"end": 31.633,
 			"en": "but Joe wins every time.",
 			"zh": "但乔每次都赢。"
 		},
 		{
 			"i": 7,
 			"start": 32.6,
-			"end": 36.37,
+			"end": 35.88,
 			"en": "Bill Frith's garden is larger than Joe's.",
 			"zh": "比尔·弗里斯的花园比乔的花园大。"
 		},
@@ -75,14 +75,14 @@
 		{
 			"i": 9,
 			"start": 38.88,
-			"end": 41.97,
+			"end": 41.557,
 			"en": "and grows more flowers and vegetables,",
 			"zh": "并且种植更多的花卉和蔬菜，"
 		},
 		{
 			"i": 10,
 			"start": 42.12,
-			"end": 45.6,
+			"end": 44.978,
 			"en": "but Joe's garden is more interesting.",
 			"zh": "但乔的花园更有趣。"
 		},
@@ -96,21 +96,21 @@
 		{
 			"i": 12,
 			"start": 47.96,
-			"end": 52.1,
+			"end": 50.997,
 			"en": "and has built a wooden bridge over a pool.",
 			"zh": "并在池塘上架起了一座木桥。"
 		},
 		{
 			"i": 13,
 			"start": 52.25,
-			"end": 54.23,
+			"end": 53.829,
 			"en": "I like gardens too,",
 			"zh": "我也喜欢花园，"
 		},
 		{
 			"i": 14,
 			"start": 54.38,
-			"end": 57.65,
+			"end": 56.827,
 			"en": "but I do not like hard work.",
 			"zh": "但我不喜欢辛苦劳作。"
 		},
@@ -124,7 +124,7 @@
 		{
 			"i": 16,
 			"start": 59.05,
-			"end": 62.61,
+			"end": 62.027,
 			"en": "I enter for the garden competition too,",
 			"zh": "我也参加花园竞赛，"
 		},
@@ -138,7 +138,7 @@
 		{
 			"i": 18,
 			"start": 65.97,
-			"end": 69.97,
+			"end": 68.47,
 			"en": "for the worst garden in the town!",
 			"zh": "因为我是镇上最差的花园！"
 		}

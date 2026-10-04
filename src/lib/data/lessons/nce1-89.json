@@ -7,180 +7,180 @@
 		"src": "audio/nce1-89.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.6,
-			"end": 2.84,
+			"end": 2.426,
 			"en": "Lesson 89",
 			"zh": "第89课"
 		},
 		{
 			"i": 1,
 			"start": 2.99,
-			"end": 5.31,
+			"end": 4.197,
 			"en": "For sale",
 			"zh": "待售"
 		},
 		{
 			"i": 2,
 			"start": 5.46,
-			"end": 11.05,
+			"end": 10.005,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答这个问题。"
 		},
 		{
 			"i": 3,
 			"start": 11.2,
-			"end": 16.1,
+			"end": 14.109,
 			"en": "Why couldn't Nigel decide?",
 			"zh": "为什么奈杰尔不能决定？"
 		},
 		{
 			"i": 4,
 			"start": 16.25,
-			"end": 18.21,
+			"end": 17.568,
 			"en": "Good afternoon.",
 			"zh": "下午好。"
 		},
 		{
 			"i": 5,
 			"start": 18.36,
-			"end": 22.59,
+			"end": 22.147,
 			"en": "I believe that this house is for sale.",
 			"zh": "我想这栋房子是待售的。"
 		},
 		{
 			"i": 6,
 			"start": 22.74,
-			"end": 24.38,
+			"end": 23.82,
 			"en": "That's right.",
 			"zh": "没错。"
 		},
 		{
 			"i": 7,
 			"start": 24.53,
-			"end": 27.84,
+			"end": 27.464,
 			"en": "May I have a look at it, please?",
 			"zh": "我能进去看看吗？"
 		},
 		{
 			"i": 8,
 			"start": 27.99,
-			"end": 29.59,
+			"end": 29.462,
 			"en": "Yes, of course.",
 			"zh": "当然可以。"
 		},
 		{
 			"i": 9,
 			"start": 29.74,
-			"end": 31.5,
+			"end": 30.385,
 			"en": "Come in.",
 			"zh": "请进。"
 		},
 		{
 			"i": 10,
 			"start": 31.65,
-			"end": 34.72,
+			"end": 34.091,
 			"en": "How long have you lived here?",
 			"zh": "你在这里住了多久了？"
 		},
 		{
 			"i": 11,
 			"start": 34.87,
-			"end": 38.13,
+			"end": 37.636,
 			"en": "I've lived here for twenty years.",
 			"zh": "我在这里住了二十年了。"
 		},
 		{
 			"i": 12,
 			"start": 38.28,
-			"end": 40.32,
+			"end": 39.888,
 			"en": "Twenty years!",
 			"zh": "二十年了！"
 		},
 		{
 			"i": 13,
 			"start": 40.47,
-			"end": 42.56,
+			"end": 42.276,
 			"en": "That's a long time.",
 			"zh": "那可真久啊。"
 		},
 		{
 			"i": 14,
 			"start": 42.71,
-			"end": 47.98,
+			"end": 47.006,
 			"en": "Yes, I've been here since 1976.",
 			"zh": "是的，我从1976年就住在这里了。"
 		},
 		{
 			"i": 15,
 			"start": 48.13,
-			"end": 51.67,
+			"end": 51.224,
 			"en": "Then why do you want to sell it?",
 			"zh": "那你为什么要卖掉它呢？"
 		},
 		{
 			"i": 16,
 			"start": 51.82,
-			"end": 54.53,
+			"end": 54.421,
 			"en": "Because I've just retired.",
 			"zh": "因为我刚退休。"
 		},
 		{
 			"i": 17,
 			"start": 54.68,
-			"end": 60.07,
+			"end": 58.602,
 			"en": "I want to buy a small house in the country.",
 			"zh": "我想在乡下买一栋小房子。"
 		},
 		{
 			"i": 18,
 			"start": 60.22,
-			"end": 63.7,
+			"end": 63.094,
 			"en": "How much does this house cost?",
 			"zh": "这栋房子多少钱？"
 		},
 		{
 			"i": 19,
 			"start": 63.85,
-			"end": 68.2,
+			"end": 67.566,
 			"en": "￡68, 500.",
 			"zh": "68,500英镑。"
 		},
 		{
 			"i": 20,
 			"start": 68.35,
-			"end": 70.74,
+			"end": 70.376,
 			"en": "That's a lot of money!",
 			"zh": "那可真是一大笔钱！"
 		},
 		{
 			"i": 21,
 			"start": 70.89,
-			"end": 73.75,
+			"end": 73.38,
 			"en": "It's worth every penny of it.",
 			"zh": "它值这个价。"
 		},
 		{
 			"i": 22,
 			"start": 73.9,
-			"end": 80.28,
+			"end": 79.523,
 			"en": "Well, I like the house, but I can't decide yet.",
 			"zh": "嗯，我喜欢这栋房子，但我还不能决定。"
 		},
 		{
 			"i": 23,
 			"start": 80.43,
-			"end": 83.61,
+			"end": 83.091,
 			"en": "My wife must see it first.",
 			"zh": "我妻子必须先看看。"
 		},
 		{
 			"i": 24,
 			"start": 83.76,
-			"end": 87.76,
+			"end": 86.969,
 			"en": "Women always have the last word.",
 			"zh": "女人总是说了算。"
 		}

@@ -7,7 +7,7 @@
 		"src": "audio/nce4-26.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
@@ -19,56 +19,56 @@
 		{
 			"i": 1,
 			"start": 3.68,
-			"end": 9.07,
+			"end": 8.259,
 			"en": "The past life of the earth",
 			"zh": "地球上的过去生命"
 		},
 		{
 			"i": 2,
 			"start": 9.22,
-			"end": 17.44,
+			"end": 14.949,
 			"en": "What is the main condition for the preservation of the remains of any living creature?",
 			"zh": "任何生物遗骸得以保存的主要条件是什么？"
 		},
 		{
 			"i": 3,
 			"start": 17.59,
-			"end": 24.34,
+			"end": 23.971,
 			"en": "It is animals and plants which lived in or near water whose remains are most likely to be preserved,",
 			"zh": "生活在水里或水边的动植物遗骸最有可能被保存下来，"
 		},
 		{
 			"i": 4,
 			"start": 24.49,
-			"end": 30.25,
+			"end": 29.759,
 			"en": "for one of the necessary conditions of preservation is quick burial,",
 			"zh": "因为保存的必要条件之一是快速掩埋，"
 		},
 		{
 			"i": 5,
 			"start": 30.4,
-			"end": 34.69,
+			"end": 34.338,
 			"en": "and it is only in the seas and rivers, and sometimes lakes,",
 			"zh": "而只有在海洋、河流以及有时湖泊中，"
 		},
 		{
 			"i": 6,
 			"start": 34.84,
-			"end": 38.57,
+			"end": 38.272,
 			"en": "where mud and silt have been continuously deposited,",
 			"zh": "泥沙不断沉积的地方，"
 		},
 		{
 			"i": 7,
 			"start": 38.72,
-			"end": 44.1,
+			"end": 43.17,
 			"en": "that bodies and the like can be rapidly covered over and preserved.",
 			"zh": "尸体和类似的东西才能迅速被覆盖并保存下来。"
 		},
 		{
 			"i": 8,
 			"start": 44.25,
-			"end": 47.48,
+			"end": 47.264,
 			"en": "But even in the most favourable circumstances",
 			"zh": "但即使在最有利的条件下，"
 		},
@@ -82,154 +82,154 @@
 		{
 			"i": 10,
 			"start": 52.96,
-			"end": 58.94,
+			"end": 58.338,
 			"en": "before decay sets in or, even more likely, before scavengers eat them.",
 			"zh": "在腐烂发生之前，或者更有可能，在食腐动物吃掉它们之前。"
 		},
 		{
 			"i": 11,
 			"start": 59.09,
-			"end": 63.56,
+			"end": 63.408,
 			"en": "After all, all living creatures live by feeding on something else,",
 			"zh": "毕竟，所有生物都靠捕食其他生物而生，"
 		},
 		{
 			"i": 12,
 			"start": 63.71,
-			"end": 67.36,
+			"end": 66.957,
 			"en": "whether it be plant or animal, dead or alive,",
 			"zh": "无论是植物还是动物，死的还是活的，"
 		},
 		{
 			"i": 13,
 			"start": 67.51,
-			"end": 71.5,
+			"end": 70.834,
 			"en": "and it is only by chance that such a fate is avoided.",
 			"zh": "只有偶然才能避免这种命运。"
 		},
 		{
 			"i": 14,
 			"start": 71.65,
-			"end": 77.11,
+			"end": 77.007,
 			"en": "The remains of plants and animals that lived on land are much more rarely preserved,",
 			"zh": "生活在陆地上的动植物遗骸保存下来的情况要少得多，"
 		},
 		{
 			"i": 15,
 			"start": 77.26,
-			"end": 80.56,
+			"end": 79.818,
 			"en": "for there is seldom anything to cover them over.",
 			"zh": "因为很少有什么东西能覆盖它们。"
 		},
 		{
 			"i": 16,
 			"start": 80.71,
-			"end": 85.41,
+			"end": 85.176,
 			"en": "When you think of the innumerable birds that one sees flying about,",
 			"zh": "当你想到无数飞来飞去的鸟儿，"
 		},
 		{
 			"i": 17,
 			"start": 85.56,
-			"end": 92.61,
+			"end": 91.951,
 			"en": "not to mention the equally numerous small animals like field mice and voles which you do not see,",
 			"zh": "更不用说你看不见的同样多的像田鼠和田鼠这样的小动物，"
 		},
 		{
 			"i": 18,
 			"start": 92.76,
-			"end": 98.99,
+			"end": 98.552,
 			"en": "it is very rarely that one comes across a dead body, except, of course, on the roads.",
 			"zh": "你很少会碰到一具尸体，当然除了在路上。"
 		},
 		{
 			"i": 19,
 			"start": 99.14,
-			"end": 106.07,
+			"end": 105.237,
 			"en": "They decompose and are quickly destroyed by the weather or eaten by some other creature.",
 			"zh": "它们会分解，很快被天气破坏或被其他生物吃掉。"
 		},
 		{
 			"i": 20,
 			"start": 106.22,
-			"end": 113.68,
+			"end": 113.255,
 			"en": "It is almost always due to some very special circumstances that traces of land animals survive,",
 			"zh": "陆地动物的痕迹几乎总是由于某些非常特殊的情况而得以幸存，"
 		},
 		{
 			"i": 21,
 			"start": 113.83,
-			"end": 119.11,
+			"end": 118.987,
 			"en": "as by falling into inaccessible caves, or into an ice crevasse,",
 			"zh": "比如掉进难以进入的洞穴，或者掉进冰裂缝，"
 		},
 		{
 			"i": 22,
 			"start": 119.26,
-			"end": 121.25,
+			"end": 121.09,
 			"en": "like the Siberian mammoths,",
 			"zh": "就像西伯利亚猛犸象一样，"
 		},
 		{
 			"i": 23,
 			"start": 121.4,
-			"end": 126.43,
+			"end": 125.815,
 			"en": "when the whole animal is sometimes preserved, as in a refrigerator.",
 			"zh": "有时整个动物都被保存下来，就像放在冰箱里一样。"
 		},
 		{
 			"i": 24,
 			"start": 126.58,
-			"end": 133.61,
+			"end": 132.803,
 			"en": "This is what happened to the famous Beresovka mammoth which was found preserved and in good condition.",
 			"zh": "著名的别列佐夫卡猛犸象就是这样，它被发现时保存完好。"
 		},
 		{
 			"i": 25,
 			"start": 133.76,
-			"end": 143.04,
+			"end": 142.612,
 			"en": "In his mouth were the remains of fir trees--the last meal that he had before he fell into the crevasse and broke his back.",
 			"zh": "它的嘴里有杉树的残骸——这是它掉进裂缝摔断背之前的最后一餐。"
 		},
 		{
 			"i": 26,
 			"start": 143.19,
-			"end": 149.45,
+			"end": 149.153,
 			"en": "The mammoth has now been restored in the Palaeontological Museum in St.Petersburg.",
 			"zh": "这头猛犸象现已在圣彼得堡的古生物博物馆修复。"
 		},
 		{
 			"i": 27,
 			"start": 149.6,
-			"end": 155.31,
+			"end": 155.098,
 			"en": "Other animals were trapped in tar pits, like the elephants, sabre-toothed cats,",
 			"zh": "其他动物被困在沥青坑里，比如大象、剑齿虎，"
 		},
 		{
 			"i": 28,
 			"start": 155.46,
-			"end": 163.07,
+			"end": 162.367,
 			"en": "and numerous other creatures that are found at Rancho la Brea, which is now just a suburb of Los Angeles.",
 			"zh": "以及在拉布雷亚牧场发现的无数其他生物，那里现在只是洛杉矶的一个郊区。"
 		},
 		{
 			"i": 29,
 			"start": 163.22,
-			"end": 168.14,
+			"end": 167.895,
 			"en": "Apparently what happened was that water collected on these tar pits",
 			"zh": "显然，这些沥青坑上积水了，"
 		},
 		{
 			"i": 30,
 			"start": 168.29,
-			"end": 175.54,
+			"end": 175.192,
 			"en": "and the bigger animals like the elephants ventured out on to the apparently firm surface to drink,",
 			"zh": "像大象这样的大型动物冒险走到看似坚实的表面去饮水，"
 		},
 		{
 			"i": 31,
 			"start": 175.69,
-			"end": 178.34,
+			"end": 177.965,
 			"en": "and were promptly bogged in the tar.",
 			"zh": "随即被困在沥青中。"
 		},
@@ -243,21 +243,21 @@
 		{
 			"i": 33,
 			"start": 181.94,
-			"end": 185.33,
+			"end": 185.095,
 			"en": "like the sabretoothed cats and the giant wolves,",
 			"zh": "比如剑齿虎和巨型狼，"
 		},
 		{
 			"i": 34,
 			"start": 185.48,
-			"end": 190.53,
+			"end": 189.598,
 			"en": "came out to feed and suffered exactly the same fate.",
 			"zh": "出来捕食，也遭受了同样的命运。"
 		},
 		{
 			"i": 35,
 			"start": 190.68,
-			"end": 194.68,
+			"end": 194.309,
 			"en": "There are also endless numbers of birds in the tar as well.",
 			"zh": "沥青中也有无数的鸟类。"
 		}

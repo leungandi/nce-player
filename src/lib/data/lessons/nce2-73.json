@@ -7,103 +7,103 @@
 		"src": "audio/nce2-73.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.76,
-			"end": 15.26,
+			"end": 13.282,
 			"en": "Did the boy go where he wanted to?",
 			"zh": "那个男孩去他想去的地方了吗？"
 		},
 		{
 			"i": 1,
 			"start": 15.41,
-			"end": 20.68,
+			"end": 19.711,
 			"en": "Children who play truant from school are unimaginative.",
 			"zh": "逃学的孩子都缺乏想象力。"
 		},
 		{
 			"i": 2,
 			"start": 20.83,
-			"end": 22.73,
+			"end": 22.607,
 			"en": "A quiet days' fishing,",
 			"zh": "安静地钓上一天鱼，"
 		},
 		{
 			"i": 3,
 			"start": 22.88,
-			"end": 32.53,
+			"end": 31.741,
 			"en": "or eight hours in a cinema seeing the same film over and over again, is usually as far as they get.",
 			"zh": "或者在电影院里看8小时的同一部电影，这通常是他们能做到的最大限度了。"
 		},
 		{
 			"i": 4,
 			"start": 32.68,
-			"end": 42.75,
+			"end": 41.494,
 			"en": "They have all been put to shame by a boy who, while playing truant travelled 1, 600 miles.",
 			"zh": "然而，一个逃学竟走了1600英里的孩子使他们都相形见绌了。"
 		},
 		{
 			"i": 5,
 			"start": 42.9,
-			"end": 51.17,
+			"end": 50.312,
 			"en": "He hitchhiked to Dover and towards evening went into a boat to find somewhere to sleep.",
 			"zh": "他搭便车到了多佛，傍晚时分进了一条船想找个地方睡觉。"
 		},
 		{
 			"i": 6,
 			"start": 51.32,
-			"end": 60.75,
+			"end": 59.628,
 			"en": "When he woke up next morning, he discovered that the boat had, in the meantime, travelled to Calais.",
 			"zh": "第二天早晨醒来时，他发现那条船已行驶到加来。"
 		},
 		{
 			"i": 7,
 			"start": 60.9,
-			"end": 64.74,
+			"end": 63.907,
 			"en": "No one noticed the boy as he crept off.",
 			"zh": "他悄悄溜下船时没人注意到他。"
 		},
 		{
 			"i": 8,
 			"start": 64.89,
-			"end": 69.31,
+			"end": 68.888,
 			"en": "From there, he hitchhiked to Paris in a lorry.",
 			"zh": "从那里，他又搭上一辆卡车去了巴黎。"
 		},
 		{
 			"i": 9,
 			"start": 69.46,
-			"end": 77.94,
+			"end": 76.539,
 			"en": "The driver gave him a few biscuits and a cup of coffee and left him just outside the city.",
 			"zh": "司机给了他几块饼干和一杯咖啡，在城外把他放下了。"
 		},
 		{
 			"i": 10,
 			"start": 78.09,
-			"end": 86.25,
+			"end": 85.819,
 			"en": "The next car the boy stopped did not take him into the centre of Paris as he hoped it would,",
 			"zh": "男孩拦的下一辆车并没有像他希望的那样把他带到巴黎市中心，"
 		},
 		{
 			"i": 11,
 			"start": 86.4,
-			"end": 91.39,
+			"end": 90.297,
 			"en": "but to Perpignan on the French-Spanish border.",
 			"zh": "而是带到了法国和西班牙边境上的佩皮尼昂。"
 		},
 		{
 			"i": 12,
 			"start": 91.54,
-			"end": 98.95,
+			"end": 98.12,
 			"en": "There he was picked up by a policeman and sent back to England by the local authorities.",
 			"zh": "在那里他被一个警察发现，然后当地政府把他遣送回了英国。"
 		},
 		{
 			"i": 13,
 			"start": 99.1,
-			"end": 103.1,
+			"end": 105.479,
 			"en": "He has surely set up a record for the thousands of children who dream of evading school.",
 			"zh": "他无疑为成千上万梦想逃学的孩子们创造了一项纪录。"
 		}

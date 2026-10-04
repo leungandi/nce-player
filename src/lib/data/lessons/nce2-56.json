@@ -7,96 +7,96 @@
 		"src": "audio/nce2-56.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.5,
-			"end": 15.31,
+			"end": 13.464,
 			"en": "How fast did the winning car go?",
 			"zh": "获胜的赛车开得有多快？"
 		},
 		{
 			"i": 1,
 			"start": 15.46,
-			"end": 20.78,
+			"end": 19.725,
 			"en": "Once a year, a race is held for old cars.",
 			"zh": "每年一度，都会举行一次老爷车比赛。"
 		},
 		{
 			"i": 2,
 			"start": 20.93,
-			"end": 30.52,
+			"end": 29.343,
 			"en": "A lot of cars entered for this race last year and there was a great deal of excitement just before it began.",
 			"zh": "去年，许多汽车报名参加了这场比赛，比赛开始前气氛异常热烈。"
 		},
 		{
 			"i": 3,
 			"start": 30.67,
-			"end": 36.5,
+			"end": 35.811,
 			"en": "One of the most handsome cars was a Rolls-Royce Silver Ghost.",
 			"zh": "其中一辆最漂亮的车是劳斯莱斯“银灵”。"
 		},
 		{
 			"i": 4,
 			"start": 36.65,
-			"end": 43.27,
+			"end": 42.388,
 			"en": "The most unusual car was a Benz which had only three wheels.",
 			"zh": "最不寻常的车是一辆只有三个轮子的奔驰车。"
 		},
 		{
 			"i": 5,
 			"start": 43.42,
-			"end": 50.02,
+			"end": 48.841,
 			"en": "Built in 1885, it was the oldest car taking part.",
 			"zh": "它建于1885年，是参赛车辆中最老的一辆。"
 		},
 		{
 			"i": 6,
 			"start": 50.17,
-			"end": 55.96,
+			"end": 54.827,
 			"en": "After a great many loud explosions, the race began.",
 			"zh": "在一阵阵巨大的轰鸣声之后，比赛开始了。"
 		},
 		{
 			"i": 7,
 			"start": 56.11,
-			"end": 65.71,
+			"end": 64.362,
 			"en": "Many of the cars broke down on the course and some drivers spent more time under their cars than in them!",
 			"zh": "许多汽车在赛道上抛锚了，有些司机待在车底的时间比待在车里的时间还长！"
 		},
 		{
 			"i": 8,
 			"start": 65.86,
-			"end": 69.55,
+			"end": 68.918,
 			"en": "A few cars, however, completed the race.",
 			"zh": "然而，有几辆车完成了比赛。"
 		},
 		{
 			"i": 9,
 			"start": 69.7,
-			"end": 78.32,
+			"end": 77.459,
 			"en": "The winning car reached a speed of forty miles an hour -- much faster than any of its rivals.",
 			"zh": "获胜的赛车达到了每小时40英里的速度——比任何竞争对手都要快得多。"
 		},
 		{
 			"i": 10,
 			"start": 78.47,
-			"end": 85.89,
+			"end": 84.947,
 			"en": "It sped downhill at the end of the race and its driver had a lot of trouble trying to stop it.",
 			"zh": "在比赛结束时，它向下冲刺，司机费了很大的劲才把它停下来。"
 		},
 		{
 			"i": 11,
 			"start": 86.04,
-			"end": 90.04,
+			"end": 89.519,
 			"en": "The race gave everyone a great deal of pleasure.",
 			"zh": "这场比赛给每个人带来了极大的乐趣。"
 		},
 		{
 			"i": 12,
 			"start": 90.19,
-			"end": 94.19,
+			"end": 95.863,
 			"en": "It was very different from modern car races but no less exciting.",
 			"zh": "它与现代汽车比赛大相径庭，但同样激动人心。"
 		}

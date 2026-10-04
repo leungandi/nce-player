@@ -7,180 +7,180 @@
 		"src": "audio/nce1-123.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.73,
-			"end": 3.85,
+			"end": 3.05,
 			"en": "Lesson 123",
 			"zh": "第123课"
 		},
 		{
 			"i": 1,
 			"start": 4,
-			"end": 7.2,
+			"end": 6.069,
 			"en": "A trip to Australia",
 			"zh": "澳大利亚之旅"
 		},
 		{
 			"i": 2,
 			"start": 7.35,
-			"end": 12.79,
+			"end": 11.761,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答问题。"
 		},
 		{
 			"i": 3,
 			"start": 12.94,
-			"end": 17.68,
+			"end": 15.61,
 			"en": "Who is the man with the beard?",
 			"zh": "留胡子的男人是谁？"
 		},
 		{
 			"i": 4,
 			"start": 17.83,
-			"end": 19.84,
+			"end": 18.918,
 			"en": "Look, Scott.",
 			"zh": "瞧，斯科特。"
 		},
 		{
 			"i": 5,
 			"start": 19.99,
-			"end": 26.49,
+			"end": 25.595,
 			"en": "This is a photograph I took during my trip to Australia.",
 			"zh": "这是我澳大利亚之行时拍的照片。"
 		},
 		{
 			"i": 6,
 			"start": 26.64,
-			"end": 29.09,
+			"end": 28.409,
 			"en": "Let me see it, Mike.",
 			"zh": "让我看看，迈克。"
 		},
 		{
 			"i": 7,
 			"start": 29.24,
-			"end": 31.8,
+			"end": 31.433,
 			"en": "This is a good photograph.",
 			"zh": "这张照片拍得不错。"
 		},
 		{
 			"i": 8,
 			"start": 31.95,
-			"end": 34.89,
+			"end": 33.662,
 			"en": "Who are these people?",
 			"zh": "这些人是谁？"
 		},
 		{
 			"i": 9,
 			"start": 35.04,
-			"end": 39.34,
+			"end": 38.172,
 			"en": "They're people I met during the trip.",
 			"zh": "他们是我旅行中遇到的人。"
 		},
 		{
 			"i": 10,
 			"start": 39.49,
-			"end": 42.24,
+			"end": 41.688,
 			"en": "That's the ship we travelled on.",
 			"zh": "那是我们乘坐的船。"
 		},
 		{
 			"i": 11,
 			"start": 42.39,
-			"end": 44.86,
+			"end": 44.312,
 			"en": "What a beautiful ship!",
 			"zh": "多么漂亮的船啊！"
 		},
 		{
 			"i": 12,
 			"start": 45.01,
-			"end": 46.97,
+			"end": 46.212,
 			"en": "Who's this?",
 			"zh": "这是谁？"
 		},
 		{
 			"i": 13,
 			"start": 47.12,
-			"end": 50.04,
+			"end": 49.848,
 			"en": "That's the man I told you about.",
 			"zh": "这就是我告诉过你的那个人。"
 		},
 		{
 			"i": 14,
 			"start": 50.19,
-			"end": 51.43,
+			"end": 50.95,
 			"en": "Remember?",
 			"zh": "记得吗？"
 		},
 		{
 			"i": 15,
 			"start": 51.58,
-			"end": 52.95,
+			"end": 52.763,
 			"en": "Ah yes.",
 			"zh": "哦，是的。"
 		},
 		{
 			"i": 16,
 			"start": 53.1,
-			"end": 57.29,
+			"end": 56.714,
 			"en": "The one who offered you a job in Australia.",
 			"zh": "就是那个在澳大利亚给你提供工作的人。"
 		},
 		{
 			"i": 17,
 			"start": 57.44,
-			"end": 58.75,
+			"end": 58.315,
 			"en": "That's right.",
 			"zh": "对了。"
 		},
 		{
 			"i": 18,
 			"start": 58.9,
-			"end": 60.49,
+			"end": 59.996,
 			"en": "Who's this?",
 			"zh": "这是谁？"
 		},
 		{
 			"i": 19,
 			"start": 60.64,
-			"end": 61.59,
+			"end": 61.302,
 			"en": "Guess!",
 			"zh": "猜猜看！"
 		},
 		{
 			"i": 20,
 			"start": 61.74,
-			"end": 64.02,
+			"end": 63.816,
 			"en": "It's not you, is it?",
 			"zh": "不是你吧？"
 		},
 		{
 			"i": 21,
 			"start": 64.17,
-			"end": 66.58,
+			"end": 65.366,
 			"en": "That's right.",
 			"zh": "对了。"
 		},
 		{
 			"i": 22,
 			"start": 66.73,
-			"end": 73.35,
+			"end": 73.075,
 			"en": "I grew a beard during the trip, but I shaved it off when I came home.",
 			"zh": "旅行期间我留了胡子，但回家后就刮掉了。"
 		},
 		{
 			"i": 23,
 			"start": 73.5,
-			"end": 76.01,
+			"end": 75.567,
 			"en": "Why did you shave it off?",
 			"zh": "你为什么要刮掉它？"
 		},
 		{
 			"i": 24,
 			"start": 76.16,
-			"end": 80.16,
+			"end": 78.529,
 			"en": "My wife didn't like it!",
 			"zh": "我妻子不喜欢！"
 		}

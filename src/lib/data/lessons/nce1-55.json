@@ -7,138 +7,138 @@
 		"src": "audio/nce1-55.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.58,
-			"end": 3.11,
+			"end": 2.235,
 			"en": "Lesson 55",
 			"zh": "第55课"
 		},
 		{
 			"i": 1,
 			"start": 3.26,
-			"end": 6.08,
+			"end": 4.799,
 			"en": "The Sawyer family",
 			"zh": "索耶一家"
 		},
 		{
 			"i": 2,
 			"start": 6.23,
-			"end": 11.68,
+			"end": 10.63,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答问题。"
 		},
 		{
 			"i": 3,
 			"start": 11.83,
-			"end": 16.66,
+			"end": 15.077,
 			"en": "When do the children do their homework?",
 			"zh": "孩子们什么时候做家庭作业？"
 		},
 		{
 			"i": 4,
 			"start": 16.81,
-			"end": 21.79,
+			"end": 20.846,
 			"en": "The Sawyers live at 87 King Street.",
 			"zh": "索耶一家住在国王街87号。"
 		},
 		{
 			"i": 5,
 			"start": 21.94,
-			"end": 29.82,
+			"end": 28.891,
 			"en": "In the morning, Mr. Sawyer goes to work and the children go to school.",
 			"zh": "早上，索耶先生去上班，孩子们去上学。"
 		},
 		{
 			"i": 6,
 			"start": 29.97,
-			"end": 34.96,
+			"end": 33.717,
 			"en": "Their father takes them to school every day.",
 			"zh": "他们的父亲每天送他们上学。"
 		},
 		{
 			"i": 7,
 			"start": 35.11,
-			"end": 39.06,
+			"end": 38.471,
 			"en": "Mrs. Sawyer stays at home every day.",
 			"zh": "索耶夫人每天待在家里。"
 		},
 		{
 			"i": 8,
 			"start": 39.21,
-			"end": 41.92,
+			"end": 41.057,
 			"en": "She does the housework.",
 			"zh": "她做家务。"
 		},
 		{
 			"i": 9,
 			"start": 42.07,
-			"end": 46.67,
+			"end": 45.318,
 			"en": "She always eats her lunch at noon.",
 			"zh": "她总是在中午吃午饭。"
 		},
 		{
 			"i": 10,
 			"start": 46.82,
-			"end": 51.96,
+			"end": 51.079,
 			"en": "In the afternoon, she usually sees her friends.",
 			"zh": "下午，她通常会见朋友。"
 		},
 		{
 			"i": 11,
 			"start": 52.11,
-			"end": 55.71,
+			"end": 54.605,
 			"en": "They often drink tea together.",
 			"zh": "他们经常一起喝茶。"
 		},
 		{
 			"i": 12,
 			"start": 55.86,
-			"end": 60.64,
+			"end": 59.885,
 			"en": "In the evening, the children come home from school.",
 			"zh": "晚上，孩子们从学校回家。"
 		},
 		{
 			"i": 13,
 			"start": 60.79,
-			"end": 64.05,
+			"end": 62.873,
 			"en": "They arrive home early.",
 			"zh": "他们早早到家。"
 		},
 		{
 			"i": 14,
 			"start": 64.2,
-			"end": 67.8,
+			"end": 67.139,
 			"en": "Mr. Sawyer comes home from work.",
 			"zh": "索耶先生下班回家。"
 		},
 		{
 			"i": 15,
 			"start": 67.95,
-			"end": 71.34,
+			"end": 70.068,
 			"en": "He arrives home late.",
 			"zh": "他很晚才到家。"
 		},
 		{
 			"i": 16,
 			"start": 71.49,
-			"end": 76.08,
+			"end": 75.36,
 			"en": "At night, the children always do their homework.",
 			"zh": "晚上，孩子们总是做家庭作业。"
 		},
 		{
 			"i": 17,
 			"start": 76.23,
-			"end": 79.02,
+			"end": 78.026,
 			"en": "Then they go to bed.",
 			"zh": "然后他们去睡觉。"
 		},
 		{
 			"i": 18,
 			"start": 79.17,
-			"end": 83.17,
+			"end": 82.711,
 			"en": "Mr. Sawyer usually reads his newspaper, but sometimes he and his wife watch television.",
 			"zh": "索耶先生通常看报纸，但有时他和妻子会看电视。"
 		}

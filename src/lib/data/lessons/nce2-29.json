@@ -7,82 +7,82 @@
 		"src": "audio/nce2-29.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 9.28,
-			"end": 15.54,
+			"end": 13.604,
 			"en": "Does Captain Fawcett think any trip is too dangerous?",
 			"zh": "福西特上尉认为有哪次飞行会太危险吗？"
 		},
 		{
 			"i": 1,
 			"start": 15.69,
-			"end": 23.19,
+			"end": 22.407,
 			"en": "Captain Ben Fawcett has bought an unusual taxi and has begun a new service.",
 			"zh": "本·福西特上尉购买了一架不同寻常的“出租车”，并开始了一项新业务。"
 		},
 		{
 			"i": 2,
 			"start": 23.34,
-			"end": 29.54,
+			"end": 28.667,
 			"en": "The 'taxi' is a small Swiss aeroplane called a 'Pilatus Porter'.",
 			"zh": "这架“出租车”是一架名为“皮拉图斯搬运工”的瑞士小型飞机。"
 		},
 		{
 			"i": 3,
 			"start": 29.69,
-			"end": 34.25,
+			"end": 33.591,
 			"en": "This wonderful plane can carry seven passengers.",
 			"zh": "这架奇妙的飞机能载七名乘客。"
 		},
 		{
 			"i": 4,
 			"start": 34.4,
-			"end": 46.96,
+			"end": 45.888,
 			"en": "The most surprising thing about it, however, is that it can land anywhere: on snow, water, or even on a ploughed field.",
 			"zh": "然而，它最令人惊讶的地方是它能降落在任何地方：雪地、水面，甚至是一块耕过的田地。"
 		},
 		{
 			"i": 5,
 			"start": 47.11,
-			"end": 56.74,
+			"end": 55.929,
 			"en": "Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains.",
 			"zh": "福西特上尉的第一位乘客是一位医生，他从伯明翰飞到威尔士山区的一个偏僻村庄。"
 		},
 		{
 			"i": 6,
 			"start": 56.89,
-			"end": 64.33,
+			"end": 63.393,
 			"en": "Since then, Captain Fawcett has flown passengers to many unusual places.",
 			"zh": "从那以后，福西特上尉已载送乘客去过许多不寻常的地方。"
 		},
 		{
 			"i": 7,
 			"start": 64.48,
-			"end": 74.71,
+			"end": 73.688,
 			"en": "Once he landed on the roof of a block of flats and on another occasion, he landed in a deserted car park.",
 			"zh": "他曾有一次降落在公寓楼的屋顶上，还有一次降落在废弃的停车场里。"
 		},
 		{
 			"i": 8,
 			"start": 74.86,
-			"end": 81.02,
+			"end": 80.231,
 			"en": "Captain Fawcett has just refused a strange request from a businessman.",
 			"zh": "福西特上尉刚刚拒绝了一位商人提出的一个奇怪请求。"
 		},
 		{
 			"i": 9,
 			"start": 81.17,
-			"end": 88.12,
+			"end": 87.662,
 			"en": "The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean,",
 			"zh": "那位商人想飞到大西洋中的一座孤岛——罗科尔岛，"
 		},
 		{
 			"i": 10,
 			"start": 88.27,
-			"end": 92.27,
+			"end": 93.586,
 			"en": "but Captain Fawcett did not take him because the trip was too dangerous.",
 			"zh": "但福西特上尉没有载他，因为那次飞行太危险了。"
 		}

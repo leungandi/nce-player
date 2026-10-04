@@ -7,89 +7,89 @@
 		"src": "audio/nce4-14.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.4,
-			"end": 1.69,
+			"end": 1.597,
 			"en": "Lesson 14",
 			"zh": "第14课"
 		},
 		{
 			"i": 1,
 			"start": 1.84,
-			"end": 8.1,
+			"end": 7.145,
 			"en": "The Butterfly Effect",
 			"zh": "蝴蝶效应"
 		},
 		{
 			"i": 2,
 			"start": 8.25,
-			"end": 17.31,
+			"end": 14.842,
 			"en": "Why do small errors make it impossible to predict the weather system with a high degree of accuracy?",
 			"zh": "为什么小的误差会使得准确预测天气系统变得不可能？"
 		},
 		{
 			"i": 3,
 			"start": 17.46,
-			"end": 23.05,
+			"end": 22.575,
 			"en": "Beyond two or three days, the world's best weather forecasts are speculative,",
 			"zh": "超过两三天，世界上最好的天气预报都是推测性的，"
 		},
 		{
 			"i": 4,
 			"start": 23.2,
-			"end": 26.69,
+			"end": 25.995,
 			"en": "and beyond six or seven they are worthless.",
 			"zh": "超过六七天，它们就毫无价值了。"
 		},
 		{
 			"i": 5,
 			"start": 26.84,
-			"end": 29.87,
+			"end": 29.085,
 			"en": "The Butterfly Effect is the reason.",
 			"zh": "蝴蝶效应就是原因。"
 		},
 		{
 			"i": 6,
 			"start": 30.02,
-			"end": 31.92,
+			"end": 31.718,
 			"en": "For small pieces of weather--",
 			"zh": "对于局部天气——"
 		},
 		{
 			"i": 7,
 			"start": 32.07,
-			"end": 36.98,
+			"end": 36.543,
 			"en": "and to a global forecaster, small can mean thunderstorms and blizzards--",
 			"zh": "对于全球预报员来说，局部可能意味着雷暴和暴风雪——"
 		},
 		{
 			"i": 8,
 			"start": 37.13,
-			"end": 40.2,
+			"end": 39.745,
 			"en": "any prediction deteriorates rapidly.",
 			"zh": "任何预测都会迅速恶化。"
 		},
 		{
 			"i": 9,
 			"start": 40.35,
-			"end": 46.56,
+			"end": 46.342,
 			"en": "Errors and uncertainties multiply, cascading upward through a chain of turbulent features,",
 			"zh": "误差和不确定性倍增，通过一系列湍流特征向上级联，"
 		},
 		{
 			"i": 10,
 			"start": 46.71,
-			"end": 53.76,
+			"end": 52.906,
 			"en": "from dust devils and squalls up to continent-size eddies that only satellites can see.",
 			"zh": "从尘卷风和飑线直到只有卫星才能看到的洲际大小的涡流。"
 		},
 		{
 			"i": 11,
 			"start": 53.91,
-			"end": 59.77,
+			"end": 59.498,
 			"en": "The modern weather models work with a grid of points of the order of sixty miles apart,",
 			"zh": "现代天气模型采用相距约六十英里的网格点，"
 		},
@@ -103,35 +103,35 @@
 		{
 			"i": 13,
 			"start": 64.08,
-			"end": 68.54,
+			"end": 67.829,
 			"en": "since ground stations and satellites cannot see everywhere.",
 			"zh": "因为地面站和卫星无法看到所有地方。"
 		},
 		{
 			"i": 14,
 			"start": 68.69,
-			"end": 73.26,
+			"end": 73.061,
 			"en": "But suppose the earth could be covered with sensors spaced one foot apart,",
 			"zh": "但是假设地球可以被间隔一英尺的传感器覆盖，"
 		},
 		{
 			"i": 15,
 			"start": 73.41,
-			"end": 78.85,
+			"end": 78.335,
 			"en": "rising at one-foot intervals all the way to the top of the atmosphere.",
 			"zh": "并以一英尺的间隔一直上升到大气的顶端。"
 		},
 		{
 			"i": 16,
 			"start": 79,
-			"end": 83.98,
+			"end": 83.761,
 			"en": "Suppose every sensor gives perfectly accurate readings of temperature,",
 			"zh": "假设每个传感器都能提供完全准确的温度读数，"
 		},
 		{
 			"i": 17,
 			"start": 84.13,
-			"end": 90.46,
+			"end": 89.845,
 			"en": "pressure, humidity, and any other quantity a meteorologist would want.",
 			"zh": "压力、湿度以及气象学家想要的任何其他量。"
 		},
@@ -145,35 +145,35 @@
 		{
 			"i": 19,
 			"start": 99.25,
-			"end": 105.23,
+			"end": 104.562,
 			"en": "at 12.01, then 12.02, then 12.03...",
 			"zh": "在12点01分，然后12点02分，然后12点03分……"
 		},
 		{
 			"i": 20,
 			"start": 105.38,
-			"end": 114.27,
+			"end": 113.549,
 			"en": "The computer will still be unable to predict whether Princeton, New Jersey, will have sun or rain on a day one month away.",
 			"zh": "这台计算机仍然无法预测一个月后新泽西州普林斯顿是晴天还是雨天。"
 		},
 		{
 			"i": 21,
 			"start": 114.42,
-			"end": 121.37,
+			"end": 121.161,
 			"en": "At noon the spaces between the sensors will hide fluctuations that the computer will not know about,",
 			"zh": "中午时，传感器之间的空间会隐藏计算机不知道的波动，"
 		},
 		{
 			"i": 22,
 			"start": 121.52,
-			"end": 124.22,
+			"end": 123.793,
 			"en": "tiny deviations from the average.",
 			"zh": "那些与平均值微小的偏差。"
 		},
 		{
 			"i": 23,
 			"start": 124.37,
-			"end": 131.79,
+			"end": 131.121,
 			"en": "By 12.01, those fluctuations will already have created small errors one foot away.",
 			"zh": "到12点01分，这些波动就已经在离传感器一英尺的地方造成了小误差。"
 		},

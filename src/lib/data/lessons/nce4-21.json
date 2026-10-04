@@ -7,12 +7,12 @@
 		"src": "audio/nce4-21.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.58,
-			"end": 2.72,
+			"end": 1.852,
 			"en": "Lesson 21",
 			"zh": "第21课"
 		},
@@ -26,203 +26,203 @@
 		{
 			"i": 2,
 			"start": 13.65,
-			"end": 21.9,
+			"end": 20.302,
 			"en": "How did William Hart's childhood prepare him for his acting role in Western films?",
 			"zh": "威廉·哈特的童年是怎样为他在西部片中的表演做准备的？"
 		},
 		{
 			"i": 3,
 			"start": 22.05,
-			"end": 29.41,
+			"end": 28.783,
 			"en": "William S.Hart was, perhaps, the greatest of all Western stars,",
 			"zh": "威廉·S·哈特也许是所有西部片明星中最伟大的。"
 		},
 		{
 			"i": 4,
 			"start": 29.56,
-			"end": 36.42,
+			"end": 35.568,
 			"en": "for unlike Gary Cooper and John Wayne he appeared in nothing but Westerns.",
 			"zh": "因为他不像加里·库珀和约翰·韦恩那样，他只出演西部片。"
 		},
 		{
 			"i": 5,
 			"start": 36.57,
-			"end": 43.84,
+			"end": 43.279,
 			"en": "From 1914 to 1924 he was supreme and unchallenged.",
 			"zh": "从1914到1924年，他独领风骚，无人能及。"
 		},
 		{
 			"i": 6,
 			"start": 43.99,
-			"end": 48.81,
+			"end": 48.132,
 			"en": "It was Hart who created the basic formula of the Western film,",
 			"zh": "是哈特创造了西部片的基本模式，"
 		},
 		{
 			"i": 7,
 			"start": 48.96,
-			"end": 53.8,
+			"end": 53.023,
 			"en": "and devised the protagonist he played in every film he made,",
 			"zh": "并设计了他所主演的每部影片中的主角，"
 		},
 		{
 			"i": 8,
 			"start": 53.95,
-			"end": 58.69,
+			"end": 58.13,
 			"en": "the good-bad man, the accidental, noble outlaw,",
 			"zh": "亦正亦邪的好坏人，偶然成为的正直的歹徒，"
 		},
 		{
 			"i": 9,
 			"start": 58.84,
-			"end": 65.94,
+			"end": 65.516,
 			"en": "or the honest, but framed cowboy, or the sheriff made suspect by vicious gossip;",
 			"zh": "或是诚实但遭诬陷的牛仔，或是因流言蜚语而受到怀疑的警长；"
 		},
 		{
 			"i": 10,
 			"start": 66.09,
-			"end": 73.63,
+			"end": 71.712,
 			"en": "in short, the individual in conflict with himself and his frontier environment.",
 			"zh": "简而言之，就是与自己和其边疆环境相冲突的个体。"
 		},
 		{
 			"i": 11,
 			"start": 73.78,
-			"end": 76.91,
+			"end": 76.471,
 			"en": "Unlike most of his contemporaries in Hollywood,",
 			"zh": "与他在好莱坞的大多数同时代演员不同，"
 		},
 		{
 			"i": 12,
 			"start": 77.06,
-			"end": 80.87,
+			"end": 80.035,
 			"en": "Hart actually knew something of the old West.",
 			"zh": "哈特确实了解一些旧西部。"
 		},
 		{
 			"i": 13,
 			"start": 81.02,
-			"end": 84.85,
+			"end": 84.599,
 			"en": "He had lived in it as a child when it was already disappearing,",
 			"zh": "他小时候曾生活在那个已经逐渐消失的西部，"
 		},
 		{
 			"i": 14,
 			"start": 85,
-			"end": 89.88,
+			"end": 89.533,
 			"en": "and his hero was firmly rooted in his memories and experiences,",
 			"zh": "他的英雄人物深深扎根于他的记忆和经历中，"
 		},
 		{
 			"i": 15,
 			"start": 90.03,
-			"end": 95.52,
+			"end": 94.279,
 			"en": "and in both the history and the mythology of the vanished frontier,",
 			"zh": "以及在消逝边疆的历史和神话中。"
 		},
 		{
 			"i": 16,
 			"start": 95.67,
-			"end": 103.08,
+			"end": 102.492,
 			"en": "And although no period or place in American history has been more absurdly romanticized,",
 			"zh": "尽管美国历史上没有任何一个时期或地方比西部更被荒谬地浪漫化，"
 		},
 		{
 			"i": 17,
 			"start": 103.23,
-			"end": 108.48,
+			"end": 107.535,
 			"en": "myth and reality did join hands in at least one arena,",
 			"zh": "但神话和现实至少在一个领域联手了，"
 		},
 		{
 			"i": 18,
 			"start": 108.63,
-			"end": 115.07,
+			"end": 113.19,
 			"en": "the conflict between the individual and encroaching civilization.",
 			"zh": "那就是个体与入侵文明之间的冲突。"
 		},
 		{
 			"i": 19,
 			"start": 115.22,
-			"end": 120.67,
+			"end": 120.46,
 			"en": "Men accustomed to struggling for survival against the elements and Indians",
 			"zh": "习惯于与自然元素和印第安人斗争求生的人们，"
 		},
 		{
 			"i": 20,
 			"start": 120.82,
-			"end": 125.21,
+			"end": 124.86,
 			"en": "were bewildered by politicians, bankers and businessmen,",
 			"zh": "被政客、银行家和商人搞得手足无措，"
 		},
 		{
 			"i": 21,
 			"start": 125.36,
-			"end": 131.34,
+			"end": 130.279,
 			"en": "and unhorsed by fences, laws and alien taboos.",
 			"zh": "被篱笆、法律和陌生的禁忌所限制。"
 		},
 		{
 			"i": 22,
 			"start": 131.49,
-			"end": 138.76,
+			"end": 138.092,
 			"en": "Hart's good-bad man was always an outsider, always one of the disinherited,",
 			"zh": "哈特的“亦正亦邪的好坏人”总是一个局外人，一个被剥夺继承权的人，"
 		},
 		{
 			"i": 23,
 			"start": 138.91,
-			"end": 144.93,
+			"end": 144.063,
 			"en": "and if he found it necessary to shoot a sheriff or rob a bank along the way,",
 			"zh": "如果他觉得有必要射杀一名警长或沿途抢劫一家银行，"
 		},
 		{
 			"i": 24,
 			"start": 145.08,
-			"end": 149.47,
+			"end": 148.997,
 			"en": "his early audiences found it easy to understand and forgive,",
 			"zh": "他的早期观众很容易理解并原谅，"
 		},
 		{
 			"i": 25,
 			"start": 149.62,
-			"end": 156.51,
+			"end": 155.545,
 			"en": "especially when it was Hart who, in the end, overcame the attacking Indians.",
 			"zh": "尤其当最终是哈特击败了来犯的印第安人时。"
 		},
 		{
 			"i": 26,
 			"start": 156.66,
-			"end": 160.17,
+			"end": 159.922,
 			"en": "Audiences in the second decade of the twentieth century",
 			"zh": "二十世纪第二个十年的观众"
 		},
 		{
 			"i": 27,
 			"start": 160.32,
-			"end": 166.49,
+			"end": 165.691,
 			"en": "found it pleasant to escape to a time when life, though hard, was relatively simple.",
 			"zh": "乐于逃到一个虽然艰辛但相对简单的时代。"
 		},
 		{
 			"i": 28,
 			"start": 166.64,
-			"end": 173.51,
+			"end": 173.357,
 			"en": "We still do; living in a world in which undeclared aggression, war, hypocrisy,",
 			"zh": "我们现在仍然如此；生活在一个不宣而战的侵略、战争、虚伪、"
 		},
 		{
 			"i": 29,
 			"start": 173.66,
-			"end": 179.74,
+			"end": 179.574,
 			"en": "chicanery, anarchy and impending immolation are part of our daily lives,",
 			"zh": "诡计、无政府状态和即将到来的毁灭是我们日常生活一部分的世界里，"
 		},
 		{
 			"i": 30,
 			"start": 179.89,
-			"end": 183.89,
+			"end": 182.723,
 			"en": "we all want a code to live by.",
 			"zh": "我们都渴望有一个行为准则。"
 		}

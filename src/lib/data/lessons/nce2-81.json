@@ -7,110 +7,110 @@
 		"src": "audio/nce2-81.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 9.76,
-			"end": 14.57,
+			"end": 12.611,
 			"en": "Why did the prisoner attack the driver?",
 			"zh": "囚犯为什么要袭击司机？"
 		},
 		{
 			"i": 1,
 			"start": 14.72,
-			"end": 22.02,
+			"end": 21.132,
 			"en": "When he had killed the guard, the prisoner of war quickly dragged him into the bushes.",
 			"zh": "杀死看守后，这名战俘迅速将他拖进了灌木丛。"
 		},
 		{
 			"i": 2,
 			"start": 22.17,
-			"end": 28.96,
+			"end": 28.144,
 			"en": "Working rapidly in the darkness, he soon changed into the dead man's clothes.",
 			"zh": "在黑暗中迅速行动，他很快换上了死人的衣服。"
 		},
 		{
 			"i": 3,
 			"start": 29.11,
-			"end": 35.46,
+			"end": 34.877,
 			"en": "Now, dressed in a blue uniform and with a rifle over his shoulder,",
 			"zh": "现在，他身穿蓝色制服，肩上扛着一支步枪，"
 		},
 		{
 			"i": 4,
 			"start": 35.61,
-			"end": 40.82,
+			"end": 39.772,
 			"en": "the prisoner marched boldly up and down in front of the camp.",
 			"zh": "这名囚犯大胆地在营地前走来走去。"
 		},
 		{
 			"i": 5,
 			"start": 40.97,
-			"end": 44.38,
+			"end": 43.513,
 			"en": "He could hear shouting in the camp itself.",
 			"zh": "他能听到营地里传来喊叫声。"
 		},
 		{
 			"i": 6,
 			"start": 44.53,
-			"end": 54.04,
+			"end": 53.116,
 			"en": "Lights were blazing and men were running here and there: they had just discovered that a prisoner had escaped.",
 			"zh": "灯火通明，人们四处奔跑：他们刚刚发现一名囚犯越狱了。"
 		},
 		{
 			"i": 7,
 			"start": 54.19,
-			"end": 63.65,
+			"end": 62.057,
 			"en": "At that moment, a large black car with four officers inside it, stopped at the camp gates.",
 			"zh": "就在这时，一辆载有四名军官的黑色轿车在营地大门前停了下来。"
 		},
 		{
 			"i": 8,
 			"start": 63.8,
-			"end": 71.28,
+			"end": 69.96,
 			"en": "The officers got out and the prisoner stood to attention and saluted as they passed.",
 			"zh": "军官们下了车，囚犯立正向他们敬礼。"
 		},
 		{
 			"i": 9,
 			"start": 71.43,
-			"end": 76.5,
+			"end": 75.797,
 			"en": "When they had gone the driver of the car came towards him.",
 			"zh": "他们走后，轿车司机朝他走来。"
 		},
 		{
 			"i": 10,
 			"start": 76.65,
-			"end": 80.13,
+			"end": 79.221,
 			"en": "The man obviously wanted to talk.",
 			"zh": "那个人显然想说话。"
 		},
 		{
 			"i": 11,
 			"start": 80.28,
-			"end": 85.75,
+			"end": 85.053,
 			"en": "He was rather elderly with grey hair and clear blue eyes.",
 			"zh": "他年纪相当大，头发灰白，眼睛湛蓝清澈。"
 		},
 		{
 			"i": 12,
 			"start": 85.9,
-			"end": 92.33,
+			"end": 91.245,
 			"en": "The prisoner felt sorry for him, but there was nothing else he could do.",
 			"zh": "囚犯为他感到抱歉，但他别无选择。"
 		},
 		{
 			"i": 13,
 			"start": 92.48,
-			"end": 99.51,
+			"end": 98.527,
 			"en": "As the man came near the prisoner knocked him to the ground with a sharp blow.",
 			"zh": "那人走近时，囚犯一记重击将他打倒在地。"
 		},
 		{
 			"i": 14,
 			"start": 99.66,
-			"end": 103.66,
+			"end": 100.386,
 			"en": "Then, jumping into the car, he drove off as quickly as he could.",
 			"zh": "然后，他跳进车里，以最快的速度开走了。"
 		}

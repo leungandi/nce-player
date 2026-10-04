@@ -7,208 +7,208 @@
 		"src": "audio/nce3-25.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.32,
-			"end": 2.2,
+			"end": 1.849,
 			"en": "Lesson 25",
 			"zh": "第25课"
 		},
 		{
 			"i": 1,
 			"start": 2.35,
-			"end": 9.33,
+			"end": 8.602,
 			"en": "The Cutty Sark",
 			"zh": "卡蒂萨克号"
 		},
 		{
 			"i": 2,
 			"start": 9.48,
-			"end": 15.99,
+			"end": 14.586,
 			"en": "What piece of bad luck prevented the Cutty Sark from winning the race?",
 			"zh": "什么厄运阻止了卡蒂萨克号赢得比赛？"
 		},
 		{
 			"i": 3,
 			"start": 16.14,
-			"end": 24.24,
+			"end": 23.78,
 			"en": "One of the most famous sailing ships of the nineteenth century, the Cutty Sark, can still be seen at Greenwich.",
 			"zh": "19世纪最著名的帆船之一，“卡蒂萨克”号至今仍可在格林威治见到。"
 		},
 		{
 			"i": 4,
 			"start": 24.39,
-			"end": 30.13,
+			"end": 29.573,
 			"en": "She stands on dry land and is visited by thousands of people each year.",
 			"zh": "她停泊在陆地上，每年都有成千上万的人参观。"
 		},
 		{
 			"i": 5,
 			"start": 30.28,
-			"end": 35.94,
+			"end": 35.471,
 			"en": "She serves as an impressive reminder of the great ships of the past.",
 			"zh": "她作为对过去伟大船只的深刻纪念。"
 		},
 		{
 			"i": 6,
 			"start": 36.09,
-			"end": 38.92,
+			"end": 38.543,
 			"en": "Before they were replaced by steamships,",
 			"zh": "在它们被蒸汽船取代之前，"
 		},
 		{
 			"i": 7,
 			"start": 39.07,
-			"end": 47.1,
+			"end": 46.489,
 			"en": "sailing vessels like the Cutty Sark were used to carry tea from China and wool from Australia.",
 			"zh": "像卡蒂萨克号这样的帆船被用来从中国运茶，从澳大利亚运羊毛。"
 		},
 		{
 			"i": 8,
 			"start": 47.25,
-			"end": 53.07,
+			"end": 52.605,
 			"en": "The Cutty Sark was one of the fastest sailing ships that has ever been built.",
 			"zh": "卡蒂萨克号是建造过的最快的帆船之一。"
 		},
 		{
 			"i": 9,
 			"start": 53.22,
-			"end": 58,
+			"end": 57.43,
 			"en": "The only other ship to match her was the Thermopylae.",
 			"zh": "唯一能与她匹敌的船是“特莫皮莱”号。"
 		},
 		{
 			"i": 10,
 			"start": 58.15,
-			"end": 67.67,
+			"end": 67.011,
 			"en": "Both these ships set out from Shanghai on June 18th, 1872 on an exciting race to England.",
 			"zh": "这两艘船于1872年6月18日从上海启程，进行一场激动人心的英国竞赛。"
 		},
 		{
 			"i": 11,
 			"start": 67.82,
-			"end": 74.46,
+			"end": 74.081,
 			"en": "This race, which went on for exactly four months, was the last of its kind.",
 			"zh": "这场持续了整整四个月的比赛是同类比赛中的最后一场。"
 		},
 		{
 			"i": 12,
 			"start": 74.61,
-			"end": 82.36,
+			"end": 81.639,
 			"en": "It marked the end of the great tradition of ships with sails and the beginning of a new era.",
 			"zh": "它标志着帆船伟大传统的结束和新时代的开始。"
 		},
 		{
 			"i": 13,
 			"start": 82.51,
-			"end": 89.45,
+			"end": 88.935,
 			"en": "The first of the two ships to reach Java after the race had begun was the Thermopylae,",
 			"zh": "比赛开始后，两艘船中最先抵达爪哇的是“特莫皮莱”号，"
 		},
 		{
 			"i": 14,
 			"start": 89.6,
-			"end": 93.73,
+			"end": 93.272,
 			"en": "but on the Indian Ocean, the Cutty Sark took the lead.",
 			"zh": "但在印度洋上，“卡蒂萨克”号取得了领先。"
 		},
 		{
 			"i": 15,
 			"start": 93.88,
-			"end": 97.52,
+			"end": 97.232,
 			"en": "It seemed certain that she would be the first ship home,",
 			"zh": "似乎她肯定会是第一艘抵达的船，"
 		},
 		{
 			"i": 16,
 			"start": 97.67,
-			"end": 101.71,
+			"end": 101.066,
 			"en": "but during the race she had a lot of bad luck.",
 			"zh": "但在比赛中她遭遇了很多厄运。"
 		},
 		{
 			"i": 17,
 			"start": 101.86,
-			"end": 109.28,
+			"end": 108.639,
 			"en": "In August, she was struck by a very heavy storm during which her rudder was torn away.",
 			"zh": "八月，她遭遇了一场特大风暴，船舵被刮走了。"
 		},
 		{
 			"i": 18,
 			"start": 109.43,
-			"end": 115.78,
+			"end": 115.014,
 			"en": "The Cutty Sark rolled from side to side and it became impossible to steer her.",
 			"zh": "卡蒂萨克号左右摇晃，无法掌舵。"
 		},
 		{
 			"i": 19,
 			"start": 115.93,
-			"end": 123.49,
+			"end": 122.944,
 			"en": "A temporary rudder was made on board from spare planks and it was fitted with great difficulty.",
 			"zh": "船上用备用木板做了一个临时船舵，并费了很大力气才安装好。"
 		},
 		{
 			"i": 20,
 			"start": 123.64,
-			"end": 130.71,
+			"end": 130.564,
 			"en": "This greatly reduced the speed of the ship, for there was a danger that if she travelled too quickly,",
 			"zh": "这大大降低了船速，因为存在一个危险，如果她航行过快，"
 		},
 		{
 			"i": 21,
 			"start": 130.86,
-			"end": 134.45,
+			"end": 133.55,
 			"en": "this rudder would be torn away as well.",
 			"zh": "这个船舵也会被刮走。"
 		},
 		{
 			"i": 22,
 			"start": 134.6,
-			"end": 138.59,
+			"end": 137.978,
 			"en": "Because of this, the Cutty Sark lost her lead.",
 			"zh": "因此，卡蒂萨克号失去了领先地位。"
 		},
 		{
 			"i": 23,
 			"start": 138.74,
-			"end": 145.5,
+			"end": 145.071,
 			"en": "After crossing the Equator, the captain called in at a port to have a new rudder fitted,",
 			"zh": "越过赤道后，船长在一个港口停靠，安装了一个新船舵，"
 		},
 		{
 			"i": 24,
 			"start": 145.65,
-			"end": 150.83,
+			"end": 150.315,
 			"en": "but by now the Thermopylae was over five hundred miles ahead.",
 			"zh": "但此时“特莫皮莱”号已经领先五百多英里了。"
 		},
 		{
 			"i": 25,
 			"start": 150.98,
-			"end": 159.03,
+			"end": 158.189,
 			"en": "Though the new rudder was fitted at tremendous speed, it was impossible for the Cutty Sark to win.",
 			"zh": "尽管新船舵以惊人的速度安装好了，卡蒂萨克号还是不可能赢得比赛。"
 		},
 		{
 			"i": 26,
 			"start": 159.18,
-			"end": 163.24,
+			"end": 162.67,
 			"en": "She arrived in England a week after the Thermopylae.",
 			"zh": "她在“特莫皮莱”号之后一周抵达英国。"
 		},
 		{
 			"i": 27,
 			"start": 163.39,
-			"end": 169.14,
+			"end": 168.593,
 			"en": "Even this was remarkable, considering that she had had so many delays.",
 			"zh": "考虑到她有如此多的延误，即使这样也值得称赞。"
 		},
 		{
 			"i": 28,
 			"start": 169.29,
-			"end": 173.29,
+			"end": 170.553,
 			"en": "There is no doubt that if she had not lost her rudder she would have won the race easily.",
 			"zh": "毫无疑问，如果她没有失去船舵，她会轻易赢得比赛。"
 		}

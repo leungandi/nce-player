@@ -7,54 +7,54 @@
 		"src": "audio/nce2-52.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 9.89,
-			"end": 14.27,
+			"end": 12.441,
 			"en": "What is the writer's carpet made of?",
 			"zh": "作者的地毯是用什么做的？"
 		},
 		{
 			"i": 1,
 			"start": 14.42,
-			"end": 22.12,
+			"end": 21.029,
 			"en": "We have just moved into a new house and I have been working hard all morning.",
 			"zh": "我们刚搬进一所新房子，我一上午都在忙碌着。"
 		},
 		{
 			"i": 2,
 			"start": 22.27,
-			"end": 27.02,
+			"end": 26.034,
 			"en": "I have been trying to get my new room in order.",
 			"zh": "我一直想把我的新房间整理好。"
 		},
 		{
 			"i": 3,
 			"start": 27.17,
-			"end": 33.86,
+			"end": 32.723,
 			"en": "This has not been easy because I own over a thousand books.",
 			"zh": "这可不容易，因为我拥有一千多本书。"
 		},
 		{
 			"i": 4,
 			"start": 34.01,
-			"end": 35.87,
+			"end": 35.483,
 			"en": "To make matters worse,",
 			"zh": "更糟糕的是，"
 		},
 		{
 			"i": 5,
 			"start": 36.02,
-			"end": 38.56,
+			"end": 37.808,
 			"en": "the room is rather small,",
 			"zh": "房间相当小，"
 		},
 		{
 			"i": 6,
 			"start": 38.71,
-			"end": 44.15,
+			"end": 42.508,
 			"en": "so I have temporarily put my books on the floor.",
 			"zh": "所以我只好暂时把书放在地板上。"
 		},
@@ -68,49 +68,49 @@
 		{
 			"i": 8,
 			"start": 48.83,
-			"end": 55.65,
+			"end": 54.164,
 			"en": "and I actually have to walk on them to get in or out of the room.",
 			"zh": "我实际上得踩着它们才能进出房间。"
 		},
 		{
 			"i": 9,
 			"start": 55.8,
-			"end": 64.37,
+			"end": 63.347,
 			"en": "A short while ago, my sister helped me to carry one of my old bookcases up the stairs.",
 			"zh": "不久前，我妹妹帮我把一个旧书柜搬上了楼。"
 		},
 		{
 			"i": 10,
 			"start": 64.52,
-			"end": 73.2,
+			"end": 71.803,
 			"en": "She went into my room and got a big surprise when she saw all those books on the floor.",
 			"zh": "她走进我的房间，当她看到地板上所有的书时，大吃一惊。"
 		},
 		{
 			"i": 11,
 			"start": 73.35,
-			"end": 79.62,
+			"end": 78.864,
 			"en": "'This is the prettiest carpet I have ever seen,' she said.",
 			"zh": "“这是我见过的最漂亮的地毯了，”她说。"
 		},
 		{
 			"i": 12,
 			"start": 79.77,
-			"end": 83.88,
+			"end": 82.956,
 			"en": "She gazed at it for some time then added,",
 			"zh": "她凝视了一会儿，然后补充说，"
 		},
 		{
 			"i": 13,
 			"start": 84.03,
-			"end": 87.1,
+			"end": 86.474,
 			"en": "'You don't need bookcases at all.",
 			"zh": "“你根本不需要书柜。"
 		},
 		{
 			"i": 14,
 			"start": 87.25,
-			"end": 91.25,
+			"end": 91.418,
 			"en": "You can sit here in your spare time and read the carpet!'",
 			"zh": "你可以在业余时间坐在这里，读读这地毯！”"
 		}

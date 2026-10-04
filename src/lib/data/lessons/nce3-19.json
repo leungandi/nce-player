@@ -7,159 +7,159 @@
 		"src": "audio/nce3-19.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.44,
-			"end": 2.26,
+			"end": 1.823,
 			"en": "Lesson 19",
 			"zh": "第19课"
 		},
 		{
 			"i": 1,
 			"start": 2.41,
-			"end": 10.13,
+			"end": 8.926,
 			"en": "A very dear cat",
 			"zh": "一只非常名贵的猫"
 		},
 		{
 			"i": 2,
 			"start": 10.28,
-			"end": 16.73,
+			"end": 15.022,
 			"en": "Why was Rastus 'very dear' in more ways than one?",
 			"zh": "为什么拉斯特斯是一只多方面都“非常名贵”的猫？"
 		},
 		{
 			"i": 3,
 			"start": 16.88,
-			"end": 26.21,
+			"end": 25.288,
 			"en": "Kidnappers are rarely interested in animals, but they recently took considerable interest in Mrs. Eleanor Ramsay's cat.",
 			"zh": "绑架者极少对动物感兴趣，但他们最近却对埃莉诺·拉姆齐夫人的猫产生了极大兴趣。"
 		},
 		{
 			"i": 4,
 			"start": 26.36,
-			"end": 36.21,
+			"end": 35.486,
 			"en": "Mrs. Eleanor Ramsay, a very wealthy old lady, has shared a flat with her cat, Rastus, for a great many years.",
 			"zh": "埃莉诺·拉姆齐夫人，一位非常富有的老太太，与她的猫拉斯特斯共同住在一个公寓里已经很多年了。"
 		},
 		{
 			"i": 5,
 			"start": 36.36,
-			"end": 38.67,
+			"end": 38.284,
 			"en": "Rastus leads an orderly life.",
 			"zh": "拉斯特斯过着有规律的生活。"
 		},
 		{
 			"i": 6,
 			"start": 38.82,
-			"end": 45.43,
+			"end": 44.589,
 			"en": "He usually takes a short walk in the evenings and is always home by seven o'clock.",
 			"zh": "它通常在傍晚散步一小会儿，总是在7点钟前到家。"
 		},
 		{
 			"i": 7,
 			"start": 45.58,
-			"end": 49.65,
+			"end": 48.813,
 			"en": "One evening, however he failed to arrive.",
 			"zh": "然而，一天晚上，它没有回来。"
 		},
 		{
 			"i": 8,
 			"start": 49.8,
-			"end": 52.26,
+			"end": 51.93,
 			"en": "Mrs. Ramsay got very worried.",
 			"zh": "拉姆齐夫人非常焦急。"
 		},
 		{
 			"i": 9,
 			"start": 52.41,
-			"end": 57.05,
+			"end": 56.173,
 			"en": "She looked everywhere for him but could not find him.",
 			"zh": "她到处寻找，但没有找到它。"
 		},
 		{
 			"i": 10,
 			"start": 57.2,
-			"end": 64.19,
+			"end": 63.388,
 			"en": "Three days after Rastus' disappearance, Mrs. Ramsay received an anonymous letter.",
 			"zh": "拉斯特斯失踪3天后，拉姆齐夫人收到一封匿名信。"
 		},
 		{
 			"i": 11,
 			"start": 64.34,
-			"end": 75.58,
+			"end": 74.487,
 			"en": "The writer stated that Rastus was in safe hands and would be returned immediately if Mrs. Ramsay paid a ransom of ￡1, 000.",
 			"zh": "写信人称拉斯特斯很安全，如果拉姆齐夫人支付1000英镑赎金，它将立即被送回。"
 		},
 		{
 			"i": 12,
 			"start": 75.73,
-			"end": 82.47,
+			"end": 81.575,
 			"en": "Mrs.Ramsay was instructed to place the money in a cardboard box and to leave it outside her door.",
 			"zh": "拉姆齐夫人被指示将钱放进一个纸箱，并将其放在门外。"
 		},
 		{
 			"i": 13,
 			"start": 82.62,
-			"end": 86.51,
+			"end": 86.129,
 			"en": "At first, she decided to go to the police,",
 			"zh": "最初，她决定报警，"
 		},
 		{
 			"i": 14,
 			"start": 86.66,
-			"end": 96.16,
+			"end": 95.038,
 			"en": "but fearing that she would never see Rastus again--the letter had made that quite clear--she changed her mind.",
 			"zh": "但由于担心再也见不到拉斯特斯——信中已把这一点说得一清二楚——她改变了主意。"
 		},
 		{
 			"i": 15,
 			"start": 96.31,
-			"end": 101.82,
+			"end": 101.069,
 			"en": "She withdrew ￡1000 from her bank and followed the kidnapper's instructions.",
 			"zh": "她从银行取出1000英镑，按照绑架者的指示做了。"
 		},
 		{
 			"i": 16,
 			"start": 101.97,
-			"end": 110.12,
+			"end": 109.216,
 			"en": "The next morning, the box had disappeared but Mrs.Ramsay was sure that the kidnapper would keep his word.",
 			"zh": "第二天早上，箱子不见了，但拉姆齐夫人确信绑架者会遵守诺言。"
 		},
 		{
 			"i": 17,
 			"start": 110.27,
-			"end": 116.43,
+			"end": 115.692,
 			"en": "Sure enough, Rastus arrived punctually at seven o'clock that evening.",
 			"zh": "果不其然，拉斯特斯那天晚上7点准时回来了。"
 		},
 		{
 			"i": 18,
 			"start": 116.58,
-			"end": 123.89,
+			"end": 123.064,
 			"en": "He looked very well, though he was rather thirsty, for he drank half a bottle of milk.",
 			"zh": "它看上去很好，只是有点渴，喝了半瓶牛奶。"
 		},
 		{
 			"i": 19,
 			"start": 124.04,
-			"end": 129.49,
+			"end": 128.582,
 			"en": "The police were astounded when Mrs. Ramsay told them what she had done.",
 			"zh": "当拉姆齐夫人告诉警察她所做的一切时，警察都惊呆了。"
 		},
 		{
 			"i": 20,
 			"start": 129.64,
-			"end": 133.23,
+			"end": 132.568,
 			"en": "She explained that Rastus was very dear to her.",
 			"zh": "她解释说拉斯特斯对她来说非常宝贵。"
 		},
 		{
 			"i": 21,
 			"start": 133.38,
-			"end": 137.38,
+			"end": 135.492,
 			"en": "Considering the amount she paid, he was dear in more ways than one!",
 			"zh": "考虑到她所支付的金额，它在多方面都确实很“名贵”！"
 		}

@@ -7,194 +7,194 @@
 		"src": "audio/nce1-109.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.67,
-			"end": 3.12,
+			"end": 2.737,
 			"en": "Lesson 109",
 			"zh": "第109课"
 		},
 		{
 			"i": 1,
 			"start": 3.27,
-			"end": 6.01,
+			"end": 4.728,
 			"en": "A good idea",
 			"zh": "一个好主意"
 		},
 		{
 			"i": 2,
 			"start": 6.16,
-			"end": 11.52,
+			"end": 10.416,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答问题。"
 		},
 		{
 			"i": 3,
 			"start": 11.67,
-			"end": 16.82,
+			"end": 14.583,
 			"en": "What does Jane have with her coffee?",
 			"zh": "简喝咖啡时会吃什么？"
 		},
 		{
 			"i": 4,
 			"start": 16.97,
-			"end": 21.61,
+			"end": 20.327,
 			"en": "Shall I make some coffee, Jane?",
 			"zh": "简，我来煮些咖啡好吗？"
 		},
 		{
 			"i": 5,
 			"start": 21.76,
-			"end": 25.92,
+			"end": 24.874,
 			"en": "That's a good idea, Charlotte.",
 			"zh": "好主意，夏洛特。"
 		},
 		{
 			"i": 6,
 			"start": 26.07,
-			"end": 27.82,
+			"end": 27.16,
 			"en": "It's ready.",
 			"zh": "咖啡煮好了。"
 		},
 		{
 			"i": 7,
 			"start": 27.97,
-			"end": 30.79,
+			"end": 30.058,
 			"en": "Do you want any milk?",
 			"zh": "你要加奶吗？"
 		},
 		{
 			"i": 8,
 			"start": 30.94,
-			"end": 34.28,
+			"end": 32.98,
 			"en": "Just a little, please.",
 			"zh": "请加一点点。"
 		},
 		{
 			"i": 9,
 			"start": 34.43,
-			"end": 37.31,
+			"end": 36.465,
 			"en": "What about some sugar?",
 			"zh": "加糖吗？"
 		},
 		{
 			"i": 10,
 			"start": 37.46,
-			"end": 40.53,
+			"end": 39.435,
 			"en": "Two teaspoonfuls?",
 			"zh": "两小勺？"
 		},
 		{
 			"i": 11,
 			"start": 40.68,
-			"end": 43.48,
+			"end": 43.075,
 			"en": "No, less than that.",
 			"zh": "不，少一点。"
 		},
 		{
 			"i": 12,
 			"start": 43.63,
-			"end": 48.14,
+			"end": 47.543,
 			"en": "One and a half teaspoonfuls, please.",
 			"zh": "请加一勺半。"
 		},
 		{
 			"i": 13,
 			"start": 48.29,
-			"end": 51.88,
+			"end": 49.994,
 			"en": "That's enough for me.",
 			"zh": "对我来说够了。"
 		},
 		{
 			"i": 14,
 			"start": 52.03,
-			"end": 55.1,
+			"end": 54.406,
 			"en": "That was very nice.",
 			"zh": "真是太好了。"
 		},
 		{
 			"i": 15,
 			"start": 55.25,
-			"end": 57.9,
+			"end": 57.051,
 			"en": "Would you like some more?",
 			"zh": "你还要再来点吗？"
 		},
 		{
 			"i": 16,
 			"start": 58.05,
-			"end": 61.25,
+			"end": 60.285,
 			"en": "Yes, please.",
 			"zh": "是的，请。"
 		},
 		{
 			"i": 17,
 			"start": 61.4,
-			"end": 64.7,
+			"end": 64.258,
 			"en": "I'd like a cigarette, too.",
 			"zh": "我也想抽支烟。"
 		},
 		{
 			"i": 18,
 			"start": 64.85,
-			"end": 67.35,
+			"end": 66.421,
 			"en": "May I have one?",
 			"zh": "我可以来一支吗？"
 		},
 		{
 			"i": 19,
 			"start": 67.5,
-			"end": 69.31,
+			"end": 68.775,
 			"en": "Of course.",
 			"zh": "当然。"
 		},
 		{
 			"i": 20,
 			"start": 69.46,
-			"end": 74.52,
+			"end": 73.477,
 			"en": "I think there are a few in that box.",
 			"zh": "我想那个盒子里有几支。"
 		},
 		{
 			"i": 21,
 			"start": 74.67,
-			"end": 78.03,
+			"end": 76.958,
 			"en": "I'm afraid it's empty.",
 			"zh": "恐怕是空的。"
 		},
 		{
 			"i": 22,
 			"start": 78.18,
-			"end": 80.35,
+			"end": 79.713,
 			"en": "What a pity!",
 			"zh": "真可惜！"
 		},
 		{
 			"i": 23,
 			"start": 80.5,
-			"end": 83.08,
+			"end": 81.964,
 			"en": "It doesn't matter.",
 			"zh": "没关系。"
 		},
 		{
 			"i": 24,
 			"start": 83.23,
-			"end": 86.07,
+			"end": 85.504,
 			"en": "Have a biscuit instead.",
 			"zh": "那就吃块饼干吧。"
 		},
 		{
 			"i": 25,
 			"start": 86.22,
-			"end": 90.17,
+			"end": 89.379,
 			"en": "Eat more and smoke less!",
 			"zh": "多吃少抽！"
 		},
 		{
 			"i": 26,
 			"start": 90.32,
-			"end": 94.32,
+			"end": 93.136,
 			"en": "That's very good advice!",
 			"zh": "这是非常好的建议！"
 		}

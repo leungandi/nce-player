@@ -7,131 +7,131 @@
 		"src": "audio/nce2-92.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.4,
-			"end": 17.26,
+			"end": 15.192,
 			"en": "Why did the policeman ask the writer to come to the police station?",
 			"zh": "警察为什么要叫这位作者到警察局去？"
 		},
 		{
 			"i": 1,
 			"start": 17.41,
-			"end": 22.62,
+			"end": 21.557,
 			"en": "It must have been about two in the morning when I returned home.",
 			"zh": "我回到家时，大约是凌晨两点钟。"
 		},
 		{
 			"i": 2,
 			"start": 22.77,
-			"end": 26.68,
+			"end": 26.197,
 			"en": "I tried to wake up my wife by ringing the doorbell,",
 			"zh": "我按门铃想叫醒我的妻子，"
 		},
 		{
 			"i": 3,
 			"start": 26.83,
-			"end": 29.1,
+			"end": 28.672,
 			"en": "but she was fast asleep,",
 			"zh": "但她睡得很熟，"
 		},
 		{
 			"i": 4,
 			"start": 29.25,
-			"end": 34.56,
+			"end": 34.38,
 			"en": "so I got a ladder from the shed in the garden, put it against the wall,",
 			"zh": "于是我从花园的小屋里搬来一架梯子，把它靠在墙上，"
 		},
 		{
 			"i": 5,
 			"start": 34.71,
-			"end": 38.45,
+			"end": 37.51,
 			"en": "and began climbing towards the bedroom window.",
 			"zh": "开始朝着卧室的窗户爬去。"
 		},
 		{
 			"i": 6,
 			"start": 38.6,
-			"end": 44.21,
+			"end": 43.243,
 			"en": "I was almost there when a sarcastic voice below said.",
 			"zh": "我快爬到窗户时，下面传来一个挖苦人的声音："
 		},
 		{
 			"i": 7,
 			"start": 44.36,
-			"end": 49.92,
+			"end": 48.818,
 			"en": "'I don't think the windows need cleaning at this time of the night.'",
 			"zh": "“我认为窗户在夜间这个时候不需要擦洗。”"
 		},
 		{
 			"i": 8,
 			"start": 50.07,
-			"end": 56.3,
+			"end": 55.088,
 			"en": "I looked down and nearly fell off the ladder when I saw a policeman.",
 			"zh": "我向下看去，当看到一个警察时，我差点从梯子上掉下来。"
 		},
 		{
 			"i": 9,
 			"start": 56.45,
-			"end": 67.71,
+			"end": 66.347,
 			"en": "I immediately regretted answering in the way I did, but I said, 'I enjoy cleaning windows at night.'",
 			"zh": "我马上后悔不该那样回答，但我还是说：“我喜欢在夜间擦洗窗户。”"
 		},
 		{
 			"i": 10,
 			"start": 67.86,
-			"end": 73.21,
+			"end": 72.056,
 			"en": "'So do I,' answered the policeman in the same tone.",
 			"zh": "“我也喜欢，”警察用同样的声调回答说。"
 		},
 		{
 			"i": 11,
 			"start": 73.36,
-			"end": 76.05,
+			"end": 75.589,
 			"en": "Excuse my interrupting you.",
 			"zh": "“请原谅我打断你一下。"
 		},
 		{
 			"i": 12,
 			"start": 76.2,
-			"end": 85.67,
+			"end": 84.328,
 			"en": "I hate to interrupt a man when he's busy working, but would you mind coming with me to the station?'",
 			"zh": "我不愿意打断一个正在忙碌的人，但你介意跟我到警察局去一趟吗？”"
 		},
 		{
 			"i": 13,
 			"start": 85.82,
-			"end": 90.49,
+			"end": 89.937,
 			"en": "'Well, I'd prefer to stay here,' I said.",
 			"zh": "“嗯，我宁愿呆在这儿，”我说。"
 		},
 		{
 			"i": 14,
 			"start": 90.64,
-			"end": 93.97,
+			"end": 92.989,
 			"en": "'You see, I've forgotten my key.'",
 			"zh": "“您瞧，我忘了带钥匙。”"
 		},
 		{
 			"i": 15,
 			"start": 94.12,
-			"end": 96.96,
+			"end": 96.511,
 			"en": "'Your what?' he called.",
 			"zh": "“你的什么？”他大声问。"
 		},
 		{
 			"i": 16,
 			"start": 97.11,
-			"end": 101.06,
+			"end": 100.046,
 			"en": "'My key,' I shouted.",
 			"zh": "“我的钥匙！”我喊道。"
 		},
 		{
 			"i": 17,
 			"start": 101.21,
-			"end": 105.21,
+			"end": 102.421,
 			"en": "Fortunately, the shouting woke up my wife who opened the window just as the policeman had started to climb towards me.",
 			"zh": "幸运的是，我的喊叫声把妻子吵醒了，她打开窗户，而此时那个警察刚开始向我爬过来。"
 		}

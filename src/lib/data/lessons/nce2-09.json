@@ -7,124 +7,124 @@
 		"src": "audio/nce2-09.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 9.41,
-			"end": 15.07,
+			"end": 13.037,
 			"en": "What does 'a cold welcome' refer to?",
 			"zh": "“冷淡的欢迎”指的是什么？"
 		},
 		{
 			"i": 1,
 			"start": 15.22,
-			"end": 19.14,
+			"end": 18.725,
 			"en": "On Wednesday evening, we went to the Town Hall.",
 			"zh": "星期三晚上，我们去了市政厅。"
 		},
 		{
 			"i": 2,
 			"start": 19.29,
-			"end": 21.71,
+			"end": 21.519,
 			"en": "It was the last day of the year",
 			"zh": "那是今年的最后一天，"
 		},
 		{
 			"i": 3,
 			"start": 21.86,
-			"end": 27.17,
+			"end": 26.365,
 			"en": "and a large crowd of people had gathered under the Town Hall clock.",
 			"zh": "一大群人聚集在市政厅大钟下面。"
 		},
 		{
 			"i": 4,
 			"start": 27.32,
-			"end": 31.37,
+			"end": 30.301,
 			"en": "It would strike twelve in twenty minutes' time.",
 			"zh": "再过二十分钟，大钟就要敲响十二点了。"
 		},
 		{
 			"i": 5,
 			"start": 31.52,
-			"end": 34.07,
+			"end": 33.619,
 			"en": "Fifteen minutes passed and then,",
 			"zh": "十五分钟过去了，接着，"
 		},
 		{
 			"i": 6,
 			"start": 34.22,
-			"end": 37.7,
+			"end": 37.113,
 			"en": "at five to twelve, the clock stopped.",
 			"zh": "在十二点差五分的时候，大钟停了。"
 		},
 		{
 			"i": 7,
 			"start": 37.85,
-			"end": 40.59,
+			"end": 40.242,
 			"en": "The big minute hand did not move.",
 			"zh": "巨大的分针一动不动。"
 		},
 		{
 			"i": 8,
 			"start": 40.74,
-			"end": 43.2,
+			"end": 42.77,
 			"en": "We waited and waited,",
 			"zh": "我们等啊等，"
 		},
 		{
 			"i": 9,
 			"start": 43.35,
-			"end": 44.99,
+			"end": 44.252,
 			"en": "but nothing happened.",
 			"zh": "但什么也没有发生。"
 		},
 		{
 			"i": 10,
 			"start": 45.14,
-			"end": 47.54,
+			"end": 46.959,
 			"en": "Suddenly someone shouted.",
 			"zh": "突然有人喊道："
 		},
 		{
 			"i": 11,
 			"start": 47.69,
-			"end": 50.57,
+			"end": 50.13,
 			"en": "'It's two minutes past twelve!",
 			"zh": "“已经十二点过两分了！"
 		},
 		{
 			"i": 12,
 			"start": 50.72,
-			"end": 52.88,
+			"end": 52.074,
 			"en": "The clock has stopped!'",
 			"zh": "大钟停了！”"
 		},
 		{
 			"i": 13,
 			"start": 53.03,
-			"end": 54.55,
+			"end": 54.37,
 			"en": "I looked at my watch.",
 			"zh": "我看了看我的表。"
 		},
 		{
 			"i": 14,
 			"start": 54.7,
-			"end": 56.28,
+			"end": 55.696,
 			"en": "It was true.",
 			"zh": "果然如此。"
 		},
 		{
 			"i": 15,
 			"start": 56.43,
-			"end": 60.51,
+			"end": 59.91,
 			"en": "The big clock refused to welcome the New Year.",
 			"zh": "那座大钟拒不迎接新年。"
 		},
 		{
 			"i": 16,
 			"start": 60.66,
-			"end": 64.66,
+			"end": 61.809,
 			"en": "At that moment, everybody began to laugh and sing.",
 			"zh": "就在那一刻，所有人都开始笑啊唱啊。"
 		}

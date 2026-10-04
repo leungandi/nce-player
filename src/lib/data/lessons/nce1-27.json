@@ -7,124 +7,124 @@
 		"src": "audio/nce1-27.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.55,
-			"end": 3.04,
+			"end": 2.234,
 			"en": "Lesson 27",
 			"zh": "第27课"
 		},
 		{
 			"i": 1,
 			"start": 3.19,
-			"end": 6.81,
+			"end": 5.534,
 			"en": "Mrs. Smith's living room",
 			"zh": "史密斯夫人的客厅"
 		},
 		{
 			"i": 2,
 			"start": 6.96,
-			"end": 12.62,
+			"end": 11.389,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答这个问题。"
 		},
 		{
 			"i": 3,
 			"start": 12.77,
-			"end": 16.61,
+			"end": 14.887,
 			"en": "Where are the books?",
 			"zh": "书在哪里？"
 		},
 		{
 			"i": 4,
 			"start": 16.76,
-			"end": 21.48,
+			"end": 20.372,
 			"en": "Mrs. Smith's living room is large.",
 			"zh": "史密斯夫人的客厅很大。"
 		},
 		{
 			"i": 5,
 			"start": 21.63,
-			"end": 26.25,
+			"end": 24.879,
 			"en": "There is a television in the room.",
 			"zh": "房间里有一台电视机。"
 		},
 		{
 			"i": 6,
 			"start": 26.4,
-			"end": 31.13,
+			"end": 29.843,
 			"en": "The television is near the window.",
 			"zh": "电视机在窗户旁边。"
 		},
 		{
 			"i": 7,
 			"start": 31.28,
-			"end": 36.3,
+			"end": 35.493,
 			"en": "There are some magazines on the television.",
 			"zh": "电视机上有一些杂志。"
 		},
 		{
 			"i": 8,
 			"start": 36.45,
-			"end": 40.29,
+			"end": 39.449,
 			"en": "There is a table in the room.",
 			"zh": "房间里有一张桌子。"
 		},
 		{
 			"i": 9,
 			"start": 40.44,
-			"end": 44.96,
+			"end": 43.883,
 			"en": "There are some newspapers on the table.",
 			"zh": "桌子上有一些报纸。"
 		},
 		{
 			"i": 10,
 			"start": 45.11,
-			"end": 49.12,
+			"end": 48.261,
 			"en": "There are some armchairs in the room.",
 			"zh": "房间里有一些扶手椅。"
 		},
 		{
 			"i": 11,
 			"start": 49.27,
-			"end": 53.16,
+			"end": 52.379,
 			"en": "The armchairs are near the table.",
 			"zh": "扶手椅在桌子旁边。"
 		},
 		{
 			"i": 12,
 			"start": 53.31,
-			"end": 57.38,
+			"end": 56.42,
 			"en": "There is a stereo in the room.",
 			"zh": "房间里有一台立体声音响。"
 		},
 		{
 			"i": 13,
 			"start": 57.53,
-			"end": 61.4,
+			"end": 60.686,
 			"en": "The stereo is near the door.",
 			"zh": "立体声音响在门旁边。"
 		},
 		{
 			"i": 14,
 			"start": 61.55,
-			"end": 65.54,
+			"end": 64.603,
 			"en": "There are some books on the stereo.",
 			"zh": "立体声音响上有一些书。"
 		},
 		{
 			"i": 15,
 			"start": 65.69,
-			"end": 69.47,
+			"end": 68.682,
 			"en": "There are some pictures in the room.",
 			"zh": "房间里有一些画。"
 		},
 		{
 			"i": 16,
 			"start": 69.62,
-			"end": 73.62,
+			"end": 72.473,
 			"en": "The pictures are on the wall.",
 			"zh": "这些画在墙上。"
 		}

@@ -7,257 +7,257 @@
 		"src": "audio/nce3-41.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.13,
-			"end": 2.25,
+			"end": 1.543,
 			"en": "Lesson 41",
 			"zh": "第41课"
 		},
 		{
 			"i": 1,
 			"start": 2.4,
-			"end": 10.82,
+			"end": 9.598,
 			"en": "Illusions of pastoral peace",
 			"zh": "田园宁静的遐想"
 		},
 		{
 			"i": 2,
 			"start": 10.97,
-			"end": 17.79,
+			"end": 16.295,
 			"en": "What particular anxiety spoils the country dweller's visit to the theatre?",
 			"zh": "乡下人进城看戏，有什么特殊的忧虑会使他们败兴？"
 		},
 		{
 			"i": 3,
 			"start": 17.94,
-			"end": 22.3,
+			"end": 21.441,
 			"en": "The quiet life of the country has never appealed to me.",
 			"zh": "宁静的乡村生活从来没有吸引过我。"
 		},
 		{
 			"i": 4,
 			"start": 22.45,
-			"end": 24.75,
+			"end": 24.367,
 			"en": "City born and city bred,",
 			"zh": "我生在城里，长在城里，"
 		},
 		{
 			"i": 5,
 			"start": 24.9,
-			"end": 35.46,
+			"end": 34.538,
 			"en": "I have always regarded the country as something you look at through a train window, or something you occasionally visit during the weekend.",
 			"zh": "始终认为乡村是透过火车车窗看的东西，或者至多是周末偶尔去逛逛的地方。"
 		},
 		{
 			"i": 6,
 			"start": 35.61,
-			"end": 45.03,
+			"end": 43.875,
 			"en": "Most of my friends live in the city, yet they always go into raptures at the mere mention of the country.",
 			"zh": "我的大部分朋友都住在城里，然而他们一提到乡村就手舞足蹈。"
 		},
 		{
 			"i": 7,
 			"start": 45.18,
-			"end": 49,
+			"end": 48.432,
 			"en": "Though they extol the virtues of the peaceful life,",
 			"zh": "尽管他们盛赞宁静生活的种种好处，"
 		},
 		{
 			"i": 8,
 			"start": 49.15,
-			"end": 57.26,
+			"end": 56.236,
 			"en": "only one of them has ever gone to live in the country and he was back in town within six months.",
 			"zh": "但只有一个人去乡下住过，而且不到6个月就回到了城里。"
 		},
 		{
 			"i": 9,
 			"start": 57.41,
-			"end": 65.92,
+			"end": 65.052,
 			"en": "Even he still lives under the illusion that country life is somehow superior to town life.",
 			"zh": "即使他，至今仍幻想乡村生活不知怎么的要优于城市生活。"
 		},
 		{
 			"i": 10,
 			"start": 66.07,
-			"end": 75.89,
+			"end": 75.066,
 			"en": "He is forever talking about the friendly people, the clean atmosphere, the closeness to nature and the gentle pace of living.",
 			"zh": "他总是谈论那里的人们多么友好，空气多么清新，多么贴近大自然，生活节奏多么悠闲。"
 		},
 		{
 			"i": 11,
 			"start": 76.04,
-			"end": 84.64,
+			"end": 84.125,
 			"en": "Nothing can be compared, he maintains, with the first cockcrow, the twittering of birds at dawn,",
 			"zh": "他坚持认为，没有什么能与第一声鸡鸣、黎明时鸟儿的啁啾相比，"
 		},
 		{
 			"i": 12,
 			"start": 84.79,
-			"end": 90.4,
+			"end": 89.338,
 			"en": "the sight of the rising sun glinting on the trees and pastures.",
 			"zh": "也不能与旭日普照树林和牧场的景象相比。"
 		},
 		{
 			"i": 13,
 			"start": 90.55,
-			"end": 95.8,
+			"end": 94.976,
 			"en": "This idyllic pastoral scene is only part of the picture.",
 			"zh": "这田园诗般的乡村景色只是部分景象。"
 		},
 		{
 			"i": 14,
 			"start": 95.95,
-			"end": 106.72,
+			"end": 105.947,
 			"en": "My friend fails to mention the long and friendless winter evenings in front of the TV--virtually the only form of entertainment.",
 			"zh": "我的朋友没有提到在电视机前度过的漫长而孤寂的冬夜——这几乎是唯一的娱乐方式。"
 		},
 		{
 			"i": 15,
 			"start": 106.87,
-			"end": 111.51,
+			"end": 111.052,
 			"en": "He says nothing about the poor selection of goods in the shops,",
 			"zh": "他没有提及商店里商品的选择少得可怜，"
 		},
 		{
 			"i": 16,
 			"start": 111.66,
-			"end": 120.58,
+			"end": 119.541,
 			"en": "or about those unfortunate people who have to travel from the country to the city every day to get to work.",
 			"zh": "也没有提及那些每天不得不从乡下到城里上班的可怜人。"
 		},
 		{
 			"i": 17,
 			"start": 120.73,
-			"end": 131.72,
+			"end": 131,
 			"en": "Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me.",
 			"zh": "为什么人们愿意每天忍受4个小时的车程，只为享受住在乡下这种可疑的优待，这真是超出我的理解。"
 		},
 		{
 			"i": 18,
 			"start": 131.87,
-			"end": 141.84,
+			"end": 140.34,
 			"en": "They could be saved so much misery and expense if they chose to live in the city where they rightly belong.",
 			"zh": "如果他们选择住在他们本该居住的城市，就可以避免许多痛苦和花费。"
 		},
 		{
 			"i": 19,
 			"start": 141.99,
-			"end": 151.96,
+			"end": 151.018,
 			"en": "If you can do without the few pastoral pleasures of the country, you will find the city can provide you with the best that life can offer.",
 			"zh": "如果你能放弃乡村那一点点田园乐趣，你就会发现城市能为你提供生活中最美好的东西。"
 		},
 		{
 			"i": 20,
 			"start": 152.11,
-			"end": 156.02,
+			"end": 155.364,
 			"en": "You never have to travel miles to see your friends.",
 			"zh": "你永远不必跑很远的路去看望朋友。"
 		},
 		{
 			"i": 21,
 			"start": 156.17,
-			"end": 165.66,
+			"end": 164.651,
 			"en": "They invariably live nearby and are always available for an informal chat or an evening's entertainment.",
 			"zh": "他们总是住在附近，随时都可以进行非正式的聊天或晚间娱乐。"
 		},
 		{
 			"i": 22,
 			"start": 165.81,
-			"end": 174.59,
+			"end": 173.836,
 			"en": "Some of my acquaintances in the country come up to town once or twice a year to visit the theatre as a special treat.",
 			"zh": "我乡下的一些熟人每年进城一两次，看戏作为一种特殊的享受。"
 		},
 		{
 			"i": 23,
 			"start": 174.74,
-			"end": 181.35,
+			"end": 180.231,
 			"en": "For them this is a major operation which involves considerable planning.",
 			"zh": "对他们来说，这是一项大工程，需要周密的计划。"
 		},
 		{
 			"i": 24,
 			"start": 181.5,
-			"end": 188.62,
+			"end": 187.663,
 			"en": "As the play draws to its close, they wonder whether they will ever catch that last train home.",
 			"zh": "随着戏接近尾声，他们会担心是否能赶上最后一班回家的火车。"
 		},
 		{
 			"i": 25,
 			"start": 188.77,
-			"end": 194.01,
+			"end": 193.124,
 			"en": "The city dweller never experiences anxieties of this sort.",
 			"zh": "城市居民从不会经历这种焦虑。"
 		},
 		{
 			"i": 26,
 			"start": 194.16,
-			"end": 201.31,
+			"end": 200.301,
 			"en": "The latest exhibitions, films, or plays are only a short bus ride away.",
 			"zh": "最新的展览、电影或戏剧，只需坐一小段公交车就能到达。"
 		},
 		{
 			"i": 27,
 			"start": 201.46,
-			"end": 205.09,
+			"end": 204.563,
 			"en": "Shopping, too, is always a pleasure.",
 			"zh": "购物也总是一种乐趣。"
 		},
 		{
 			"i": 28,
 			"start": 205.24,
-			"end": 212.15,
+			"end": 211.129,
 			"en": "There is so much variety that you never have to make do with second best.",
 			"zh": "品种如此繁多，你永远不必将就次等货。"
 		},
 		{
 			"i": 29,
 			"start": 212.3,
-			"end": 223.03,
+			"end": 222.042,
 			"en": "Country people run wild when they go shopping in the city and stagger home loaded with as many of the exotic items as they can carry.",
 			"zh": "乡下人进城购物时会变得狂热，然后蹒跚着回家，身上背着尽可能多的异国情调的物品。"
 		},
 		{
 			"i": 30,
 			"start": 223.18,
-			"end": 226.93,
+			"end": 226.087,
 			"en": "Nor is the city without its moments of beauty.",
 			"zh": "城市也并非没有它的美丽时刻。"
 		},
 		{
 			"i": 31,
 			"start": 227.08,
-			"end": 235,
+			"end": 234.121,
 			"en": "There is something comforting about the warm glow shed by advertisements on cold wet winter nights.",
 			"zh": "在寒冷潮湿的冬夜，广告牌散发出的温暖光芒总能给人带来慰藉。"
 		},
 		{
 			"i": 32,
 			"start": 235.15,
-			"end": 242.46,
+			"end": 242.315,
 			"en": "Few things could be more impressive than the peace that descends on deserted city streets at weekends",
 			"zh": "几乎没有什么能比周末空旷的城市街道上降临的宁静更令人印象深刻，"
 		},
 		{
 			"i": 33,
 			"start": 242.61,
-			"end": 249.93,
+			"end": 248.958,
 			"en": "when the thousands that travel to work every day are tucked away in their homes in the country.",
 			"zh": "当每天上班的成千上万人都在乡下的家中安睡时。"
 		},
 		{
 			"i": 34,
 			"start": 250.08,
-			"end": 257.52,
+			"end": 256.926,
 			"en": "It has always been a mystery to me why city dwellers, who appreciate all these things,",
 			"zh": "对我来说，城市居民明明欣赏所有这些优点，"
 		},
 		{
 			"i": 35,
 			"start": 257.67,
-			"end": 261.67,
+			"end": 259.713,
 			"en": "obstinately pretend that they would prefer to live in the country.",
 			"zh": "却固执地假装他们更喜欢住在乡下，这始终是个谜。"
 		}

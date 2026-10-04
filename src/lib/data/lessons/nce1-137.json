@@ -7,145 +7,145 @@
 		"src": "audio/nce1-137.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.8,
-			"end": 3.6,
+			"end": 2.828,
 			"en": "Lesson 137",
 			"zh": "第137课"
 		},
 		{
 			"i": 1,
 			"start": 3.75,
-			"end": 6.3,
+			"end": 5.207,
 			"en": "A pleasant dream",
 			"zh": "美梦"
 		},
 		{
 			"i": 2,
 			"start": 6.45,
-			"end": 11.51,
+			"end": 10.545,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答这个问题。"
 		},
 		{
 			"i": 3,
 			"start": 11.66,
-			"end": 18.78,
+			"end": 16.313,
 			"en": "What would Julie like to do, if she had the money?",
 			"zh": "如果有钱，朱莉想做什么？"
 		},
 		{
 			"i": 4,
 			"start": 18.93,
-			"end": 23.4,
+			"end": 22.773,
 			"en": "Are you doing the football pools, Brain?",
 			"zh": "布莱恩，你在填写足球彩票吗？"
 		},
 		{
 			"i": 5,
 			"start": 23.55,
-			"end": 26.65,
+			"end": 26.314,
 			"en": "Yes, I've nearly finished, Julie.",
 			"zh": "是的，我快填完了，朱莉。"
 		},
 		{
 			"i": 6,
 			"start": 26.8,
-			"end": 30.42,
+			"end": 29.751,
 			"en": "I'm sure we'll win something this week.",
 			"zh": "我相信这星期我们一定会中奖。"
 		},
 		{
 			"i": 7,
 			"start": 30.57,
-			"end": 36.7,
+			"end": 35.962,
 			"en": "You always say that, but we never win anything!",
 			"zh": "你总是那么说，可我们从来没中过奖！"
 		},
 		{
 			"i": 8,
 			"start": 36.85,
-			"end": 41.57,
+			"end": 40.715,
 			"en": "What will you do if you win a lot of money?",
 			"zh": "如果你赢了许多钱，你准备做什么？"
 		},
 		{
 			"i": 9,
 			"start": 41.72,
-			"end": 47.96,
+			"end": 47.148,
 			"en": "If I win a lot of money I'll buy you a mink coat.",
 			"zh": "如果我赢了许多钱，我给你买件貂皮大衣。"
 		},
 		{
 			"i": 10,
 			"start": 48.11,
-			"end": 50.94,
+			"end": 50.511,
 			"en": "I don't want a mink coat!",
 			"zh": "我不想要貂皮大衣！"
 		},
 		{
 			"i": 11,
 			"start": 51.09,
-			"end": 54.68,
+			"end": 53.814,
 			"en": "I want to see the world.",
 			"zh": "我想去周游世界。"
 		},
 		{
 			"i": 12,
 			"start": 54.83,
-			"end": 56.39,
+			"end": 55.619,
 			"en": "All right.",
 			"zh": "好吧。"
 		},
 		{
 			"i": 13,
 			"start": 56.54,
-			"end": 65.28,
+			"end": 64.583,
 			"en": "If we win a lot of money we'll travel round the world and we'll stay at the best hotels.",
 			"zh": "如果我们赢了许多钱，我们就周游世界，住最好的宾馆。"
 		},
 		{
 			"i": 14,
 			"start": 65.43,
-			"end": 71.82,
+			"end": 71.079,
 			"en": "Then we'll return home and buy a big house in the country.",
 			"zh": "然后我们回家，在乡下买幢大房子。"
 		},
 		{
 			"i": 15,
 			"start": 71.97,
-			"end": 75.7,
+			"end": 75.339,
 			"en": "We'll have a beautiful garden and...",
 			"zh": "我们要有一个漂亮的花园，还有……"
 		},
 		{
 			"i": 16,
 			"start": 75.85,
-			"end": 81.64,
+			"end": 81.226,
 			"en": "But if we spend all that money we'll be poor again.",
 			"zh": "可是，如果我们把钱都花光了，我们不又会变穷吗？"
 		},
 		{
 			"i": 17,
 			"start": 81.79,
-			"end": 85.15,
+			"end": 83.998,
 			"en": "What'll we do then?",
 			"zh": "那时我们怎么办呢？"
 		},
 		{
 			"i": 18,
 			"start": 85.3,
-			"end": 92.18,
+			"end": 91.284,
 			"en": "If we spend all the money we'll try and win the football pools again.",
 			"zh": "如果我们把钱都花光了，我们再争取赢一次足球彩票。"
 		},
 		{
 			"i": 19,
 			"start": 92.33,
-			"end": 96.33,
+			"end": 94.277,
 			"en": "It's a pleasant dream but everything depends on 'if' !",
 			"zh": "这是个美梦，但一切都取决于“如果”！"
 		}

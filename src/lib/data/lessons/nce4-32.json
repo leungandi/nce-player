@@ -7,103 +7,103 @@
 		"src": "audio/nce4-32.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.96,
-			"end": 2.7,
+			"end": 2.37,
 			"en": "Lesson 32",
 			"zh": "第32课"
 		},
 		{
 			"i": 1,
 			"start": 2.85,
-			"end": 9.91,
+			"end": 8.856,
 			"en": "Galileo reborn",
 			"zh": "伽利略再生"
 		},
 		{
 			"i": 2,
 			"start": 10.06,
-			"end": 17.62,
+			"end": 15.22,
 			"en": "What has modified our traditional view of Galileo in recent times?",
 			"zh": "近年来，是什么改变了我们对伽利略的传统看法？"
 		},
 		{
 			"i": 3,
 			"start": 17.77,
-			"end": 26.69,
+			"end": 26.508,
 			"en": "In his own lifetime Galileo was the centre of violent controversy, but the scientific dust has long since settled,",
 			"zh": "伽利略在他有生之年一直处于剧烈争议的中心，但科学上的尘埃早已落定，"
 		},
 		{
 			"i": 4,
 			"start": 26.84,
-			"end": 34.27,
+			"end": 33.812,
 			"en": "and today we can see even his famous clash with the Inquisition in something like its proper perspective.",
 			"zh": "今天我们甚至可以用一种恰当的视角来看待他与宗教裁判所的著名冲突。"
 		},
 		{
 			"i": 5,
 			"start": 34.42,
-			"end": 43.96,
+			"end": 43.154,
 			"en": "But, in contrast, it is only in modern times that Galileo has become a problem child for historians of science.",
 			"zh": "然而，与此相反，只是到了现代，伽利略才成了科学史家们的一个难题。"
 		},
 		{
 			"i": 6,
 			"start": 44.11,
-			"end": 48.48,
+			"end": 48.089,
 			"en": "The old view of Galileo was delightfully uncomplicated.",
 			"zh": "对伽利略的旧观点是简单明了的。"
 		},
 		{
 			"i": 7,
 			"start": 48.63,
-			"end": 52.63,
+			"end": 52.36,
 			"en": "He was, above all, a man who experimented:",
 			"zh": "首先，他是一个实验家："
 		},
 		{
 			"i": 8,
 			"start": 52.78,
-			"end": 57.34,
+			"end": 57.027,
 			"en": "who despised the prejudice and book learning of the Aristotelians,",
 			"zh": "他鄙视亚里士多德学派的偏见和书本知识，"
 		},
 		{
 			"i": 9,
 			"start": 57.49,
-			"end": 65.5,
+			"end": 64.666,
 			"en": "who put his questions to nature instead of to the ancients, and who drew his conclusions fearlessly.",
 			"zh": "他向自然而不是向古人提问，并无所畏惧地得出结论。"
 		},
 		{
 			"i": 10,
 			"start": 65.65,
-			"end": 69.22,
+			"end": 68.82,
 			"en": "He had been the first to turn a telescope to the sky,",
 			"zh": "他是第一个把望远镜对准天空的人，"
 		},
 		{
 			"i": 11,
 			"start": 69.37,
-			"end": 75.83,
+			"end": 75.135,
 			"en": "and he had seen there evidence enough to overthrow Aristotle and Ptolemy together.",
 			"zh": "他在那里看到了足以推翻亚里士多德和托勒密的证据。"
 		},
 		{
 			"i": 12,
 			"start": 75.98,
-			"end": 82.25,
+			"end": 81.901,
 			"en": "He was the man who climbed the Leaning Tower of Pisa and dropped various weights from the top,",
 			"zh": "他曾登上比萨斜塔，从塔顶扔下各种重量的物体，"
 		},
 		{
 			"i": 13,
 			"start": 82.4,
-			"end": 93.71,
+			"end": 92.181,
 			"en": "who rolled balls down inclined planes, and then generalized the results of his many experiments into the famous law of free fall.",
 			"zh": "他曾将球滚下斜面，然后将其众多实验的结果概括为著名的自由落体定律。"
 		},
@@ -117,70 +117,70 @@
 		{
 			"i": 15,
 			"start": 96.04,
-			"end": 105.63,
+			"end": 105.315,
 			"en": "supported by a deeper sense of the period, and particularly by a new consciousness of the philosophical undercurrents in the scientific revolution,",
 			"zh": "加上对那个时代更深刻的理解，特别是对科学革命中哲学暗流的新认识，"
 		},
 		{
 			"i": 16,
 			"start": 105.78,
-			"end": 109.71,
+			"end": 108.784,
 			"en": "has profoundly modified this view of Galileo.",
 			"zh": "已经深刻地修正了对伽利略的这一看法。"
 		},
 		{
 			"i": 17,
 			"start": 109.86,
-			"end": 121.34,
+			"end": 120.813,
 			"en": "Today, although the old Galileo lives on in many popular writings, among historians of science a new and more sophisticated picture has emerged.",
 			"zh": "如今，尽管旧的伽利略形象依然存在于许多流行著作中，"
 		},
 		{
 			"i": 18,
 			"start": 121.49,
-			"end": 126.27,
+			"end": 125.68,
 			"en": "At the same time our sympathy for Galileo's opponents has grown somewhat.",
 			"zh": "同时，我们对伽利略反对者的同情也有所增加。"
 		},
 		{
 			"i": 19,
 			"start": 126.42,
-			"end": 130.26,
+			"end": 130.009,
 			"en": "His telescopic observations are justly immortal;",
 			"zh": "他的望远镜观测是理所当然的不朽之举；"
 		},
 		{
 			"i": 20,
 			"start": 130.41,
-			"end": 133.02,
+			"end": 132.586,
 			"en": "they aroused great interest at the time,",
 			"zh": "它们在当时引起了巨大的兴趣，"
 		},
 		{
 			"i": 21,
 			"start": 133.17,
-			"end": 136.22,
+			"end": 135.937,
 			"en": "they had important theoretical consequences,",
 			"zh": "它们产生了重要的理论结果，"
 		},
 		{
 			"i": 22,
 			"start": 136.37,
-			"end": 144.45,
+			"end": 143.834,
 			"en": "and they provided a striking demonstration of the potentialities hidden in instruments and apparatus.",
 			"zh": "它们有力地展示了仪器和设备中蕴藏的潜力。"
 		},
 		{
 			"i": 23,
 			"start": 144.6,
-			"end": 149.89,
+			"end": 149.535,
 			"en": "But can we blame those who looked and failed to see what Galileo saw,",
 			"zh": "但是，我们能责怪那些看了却没看到伽利略所见之人吗，"
 		},
 		{
 			"i": 24,
 			"start": 150.04,
-			"end": 160.35,
+			"end": 159.641,
 			"en": "if we remember that to use a telescope at the limit of its powers calls for long experience and intimate familiarity with one's instrument?",
 			"zh": "如果我们考虑到要充分利用望远镜的极限功能需要长时间的经验和对仪器的深入熟悉？"
 		},
@@ -194,28 +194,28 @@
 		{
 			"i": 26,
 			"start": 167.5,
-			"end": 177.16,
+			"end": 176.538,
 			"en": "that the spiral nebulae observed with Lord Rosse's great telescope in the 1840s were scratches left by the grinder?",
 			"zh": "19世纪40年代用罗斯勋爵的大望远镜观察到的螺旋星云是研磨器留下的划痕的人更应受到谴责呢？"
 		},
 		{
 			"i": 27,
 			"start": 177.31,
-			"end": 186.52,
+			"end": 186.322,
 			"en": "We can perhaps forgive those who said the moons of Jupiter were produced by Galileo's spyglass if we recall that in his day,",
 			"zh": "我们或许可以原谅那些说木星卫星是伽利略的望远镜制造出来的人，"
 		},
 		{
 			"i": 28,
 			"start": 186.67,
-			"end": 196.66,
+			"end": 196.169,
 			"en": "as for centuries before, curved glass was the popular contrivance for producing not truth but illusion, untruth;",
 			"zh": "如果我们回想起在他那个时代，就像几个世纪以前一样，曲面玻璃是制造幻觉、谎言而非真相的流行手段；"
 		},
 		{
 			"i": 29,
 			"start": 196.81,
-			"end": 200.81,
+			"end": 200.153,
 			"en": "and if a single curved glass would distort nature, how much more would a pair of them?",
 			"zh": "那么，如果一块曲面玻璃会扭曲自然，两块又会怎样呢？"
 		}

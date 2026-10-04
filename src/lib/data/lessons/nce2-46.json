@@ -7,103 +7,103 @@
 		"src": "audio/nce2-46.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 11.39,
-			"end": 16,
+			"end": 14.169,
 			"en": "What did the man in this story do?",
 			"zh": "这个故事里的男人做了什么？"
 		},
 		{
 			"i": 1,
 			"start": 16.15,
-			"end": 20.51,
+			"end": 20.072,
 			"en": "When a plane from London arrived at Sydney airport,",
 			"zh": "当一架从伦敦起飞的飞机抵达悉尼机场时，"
 		},
 		{
 			"i": 2,
 			"start": 20.66,
-			"end": 27.8,
+			"end": 26.464,
 			"en": "workers began to unload a number of wooden boxes which contained clothing.",
 			"zh": "工人们开始卸下一些装有衣服的木箱。"
 		},
 		{
 			"i": 3,
 			"start": 27.95,
-			"end": 35.27,
+			"end": 33.977,
 			"en": "No one could account for the fact that one of the boxes was extremely heavy.",
 			"zh": "没有人能解释其中一个箱子异常沉重的原因。"
 		},
 		{
 			"i": 4,
 			"start": 35.42,
-			"end": 41.47,
+			"end": 40.633,
 			"en": "It suddenly occurred to one of the workers to open up the box.",
 			"zh": "其中一个工人突然想到要打开那个箱子。"
 		},
 		{
 			"i": 5,
 			"start": 41.62,
-			"end": 45.42,
+			"end": 44.667,
 			"en": "He was astonished at what he found.",
 			"zh": "他对自己的发现感到震惊。"
 		},
 		{
 			"i": 6,
 			"start": 45.57,
-			"end": 52.26,
+			"end": 51.178,
 			"en": "A man was lying in the box on top of a pile of woollen goods.",
 			"zh": "一个人躺在箱子里，在一堆羊毛制品上面。"
 		},
 		{
 			"i": 7,
 			"start": 52.41,
-			"end": 60.7,
+			"end": 59.339,
 			"en": "He was so surprised at being discovered that he did not even try to run away.",
 			"zh": "他被发现时非常惊讶，甚至没有试图逃跑。"
 		},
 		{
 			"i": 8,
 			"start": 60.85,
-			"end": 62.95,
+			"end": 62.624,
 			"en": "After he was arrested,",
 			"zh": "他被捕后，"
 		},
 		{
 			"i": 9,
 			"start": 63.1,
-			"end": 69.91,
+			"end": 68.342,
 			"en": "the man admitted hiding in the box before the plane left London.",
 			"zh": "这个人承认在飞机离开伦敦之前藏进了箱子里。"
 		},
 		{
 			"i": 10,
 			"start": 70.06,
-			"end": 74.47,
+			"end": 73.632,
 			"en": "He had had a long and uncomfortable trip,",
 			"zh": "他经历了一次漫长而不舒服的旅行，"
 		},
 		{
 			"i": 11,
 			"start": 74.62,
-			"end": 81.74,
+			"end": 80.569,
 			"en": "for he had been confined to the wooden box for over eighteen hours.",
 			"zh": "因为他被关在木箱里超过十八个小时。"
 		},
 		{
 			"i": 12,
 			"start": 81.89,
-			"end": 89.74,
+			"end": 88.808,
 			"en": "The man was ordered to pay ￡3, 500 for the cost of the trip.",
 			"zh": "这个人被勒令支付3,500英镑作为旅行费用。"
 		},
 		{
 			"i": 13,
 			"start": 89.89,
-			"end": 93.89,
+			"end": 92.009,
 			"en": "The normal price of a ticket is ￡2, 000!",
 			"zh": "一张机票的正常价格是2,000英镑！"
 		}

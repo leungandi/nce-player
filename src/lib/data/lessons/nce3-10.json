@@ -7,145 +7,145 @@
 		"src": "audio/nce3-10.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 1.14,
-			"end": 2.77,
+			"end": 2.385,
 			"en": "Lesson 10",
 			"zh": "第10课"
 		},
 		{
 			"i": 1,
 			"start": 2.92,
-			"end": 10.37,
+			"end": 9.47,
 			"en": "The loss of the Titanic",
 			"zh": "泰坦尼克号的沉没"
 		},
 		{
 			"i": 2,
 			"start": 10.52,
-			"end": 19.1,
+			"end": 16.868,
 			"en": "What'd have happened if only two of the 16 water-tight compartments had been flooded?",
 			"zh": "如果16个水密舱室中只有两个被淹没，会发生什么？"
 		},
 		{
 			"i": 3,
 			"start": 19.25,
-			"end": 27.07,
+			"end": 26.514,
 			"en": "The great ship, Titanic sailed for New York from Southampton on April 10th, 1912.",
 			"zh": "1912年4月10日，巨轮“泰坦尼克号”从南安普顿启程驶往纽约。"
 		},
 		{
 			"i": 4,
 			"start": 27.22,
-			"end": 35.18,
+			"end": 34.429,
 			"en": "She was carrying 1, 316 passengers and a crew of 891.",
 			"zh": "船上载有1316名乘客和891名船员。"
 		},
 		{
 			"i": 5,
 			"start": 35.33,
-			"end": 42.57,
+			"end": 42.01,
 			"en": "Even by modern standards, the 46, 000 ton Titanic was a colossal ship.",
 			"zh": "即使按现代标准来看，46000吨的泰坦尼克号也是一艘巨轮。"
 		},
 		{
 			"i": 6,
 			"start": 42.72,
-			"end": 55.56,
+			"end": 55.039,
 			"en": "At that time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen water-tight compartments.",
 			"zh": "然而，在那个时代，她不仅是当时建造过的最大的船只，而且被认为是永不沉没的，因为她有十六个水密舱室。"
 		},
 		{
 			"i": 7,
 			"start": 55.71,
-			"end": 60.68,
+			"end": 60.031,
 			"en": "Even if two of these were flooded, she would still be able to float.",
 			"zh": "即使其中两个舱室被水淹没，她仍然能够漂浮。"
 		},
 		{
 			"i": 8,
 			"start": 60.83,
-			"end": 71.67,
+			"end": 70.528,
 			"en": "The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life.",
 			"zh": "这艘巨型邮轮的悲剧性沉没将永远被铭记，因为她在首次航行中就沉没了，造成了大量人员伤亡。"
 		},
 		{
 			"i": 9,
 			"start": 71.82,
-			"end": 79.07,
+			"end": 78.726,
 			"en": "Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic,",
 			"zh": "启程四天后，当泰坦尼克号航行在北大西洋冰冷的海域时，"
 		},
 		{
 			"i": 10,
 			"start": 79.22,
-			"end": 83.73,
+			"end": 83.144,
 			"en": "a huge iceberg was suddenly spotted by a lookout.",
 			"zh": "一名瞭望员突然发现了一座巨大的冰山。"
 		},
 		{
 			"i": 11,
 			"start": 83.88,
-			"end": 91.03,
+			"end": 90.212,
 			"en": "After the alarm had been given, the great ship turned sharply to avoid a direct collision.",
 			"zh": "警报发出后，这艘巨轮急剧转向，以避免直接碰撞。"
 		},
 		{
 			"i": 12,
 			"start": 91.18,
-			"end": 102.45,
+			"end": 101.613,
 			"en": "The Titanic turned just in time, narrowly missing the immense wall of ice which rose over 100 feet out of the water beside her.",
 			"zh": "泰坦尼克号及时转向，险些错过了她旁边那堵高出水面100多英尺的巨大冰墙。"
 		},
 		{
 			"i": 13,
 			"start": 102.6,
-			"end": 107.42,
+			"end": 107.066,
 			"en": "Suddenly, there was a slight trembling sound from below,",
 			"zh": "突然，从下方传来一阵轻微的颤抖声，"
 		},
 		{
 			"i": 14,
 			"start": 107.57,
-			"end": 111.58,
+			"end": 110.812,
 			"en": "and the captain went down to see what had happened.",
 			"zh": "船长下去查看发生了什么。"
 		},
 		{
 			"i": 15,
 			"start": 111.73,
-			"end": 117.21,
+			"end": 116.692,
 			"en": "The noise had been so faint that no one thought that the ship had been damaged.",
 			"zh": "声音如此微弱，以至于没有人认为船只受到了损坏。"
 		},
 		{
 			"i": 16,
 			"start": 117.36,
-			"end": 123.83,
+			"end": 123.554,
 			"en": "Below, the captain realized to his horror that the Titanic was sinking rapidly,",
 			"zh": "在下方，船长惊恐地意识到泰坦尼克号正在迅速下沉，"
 		},
 		{
 			"i": 17,
 			"start": 123.98,
-			"end": 129.85,
+			"end": 129.314,
 			"en": "for five of her sixteen watertight compartments had already been flooded!",
 			"zh": "因为她16个水密舱室中的5个已经进水了！"
 		},
 		{
 			"i": 18,
 			"start": 130,
-			"end": 137.08,
+			"end": 136.322,
 			"en": "The order to abandon ship was given and hundreds of people plunged into the icy water.",
 			"zh": "弃船命令下达，数百人跳入冰冷的水中。"
 		},
 		{
 			"i": 19,
 			"start": 137.23,
-			"end": 141.23,
+			"end": 140.345,
 			"en": "As there were not enough life-boats for everybody, 1, 500 lives were lost.",
 			"zh": "由于救生艇不足，有1500人丧生。"
 		}

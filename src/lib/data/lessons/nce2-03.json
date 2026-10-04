@@ -7,103 +7,103 @@
 		"src": "audio/nce2-03.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 11.05,
-			"end": 16.02,
+			"end": 14.136,
 			"en": "How many cards did the writer send?",
 			"zh": "作者寄了多少张明信片？"
 		},
 		{
 			"i": 1,
 			"start": 16.17,
-			"end": 20.86,
+			"end": 19.833,
 			"en": "Postcards always spoil my holidays.",
 			"zh": "明信片总是破坏我的假期。"
 		},
 		{
 			"i": 2,
 			"start": 21.01,
-			"end": 24.11,
+			"end": 23.55,
 			"en": "Last summer, I went to Italy.",
 			"zh": "去年夏天，我去了意大利。"
 		},
 		{
 			"i": 3,
 			"start": 24.26,
-			"end": 28.8,
+			"end": 28.186,
 			"en": "I visited museums and sat in public gardens.",
 			"zh": "我参观了博物馆，并坐在公共花园里。"
 		},
 		{
 			"i": 4,
 			"start": 28.95,
-			"end": 33.3,
+			"end": 32.575,
 			"en": "A friendly waiter taught me a few words of Italian.",
 			"zh": "一位友好的服务员教了我几句意大利语。"
 		},
 		{
 			"i": 5,
 			"start": 33.45,
-			"end": 35.95,
+			"end": 35.105,
 			"en": "Then he lent me a book.",
 			"zh": "然后他借给我一本书。"
 		},
 		{
 			"i": 6,
 			"start": 36.1,
-			"end": 41.63,
+			"end": 40.618,
 			"en": "I read a few lines, but I did not understand a word.",
 			"zh": "我读了几行，但一个字也看不懂。"
 		},
 		{
 			"i": 7,
 			"start": 41.78,
-			"end": 45.93,
+			"end": 45.296,
 			"en": "Everyday I thought about postcards.",
 			"zh": "每天我都想着明信片。"
 		},
 		{
 			"i": 8,
 			"start": 46.08,
-			"end": 48.69,
+			"end": 48.196,
 			"en": "My holidays passed quickly,",
 			"zh": "我的假期过得很快，"
 		},
 		{
 			"i": 9,
 			"start": 48.84,
-			"end": 52.83,
+			"end": 51.825,
 			"en": "but I did not send cards to my friends.",
 			"zh": "但我没有给朋友们寄明信片。"
 		},
 		{
 			"i": 10,
 			"start": 52.98,
-			"end": 57.34,
+			"end": 56.642,
 			"en": "On the last day I made a big decision.",
 			"zh": "在最后一天，我做了一个重大决定。"
 		},
 		{
 			"i": 11,
 			"start": 57.49,
-			"end": 62.93,
+			"end": 62.06,
 			"en": "I got up early and bought thirty-seven cards.",
 			"zh": "我起得很早，买了三十七张明信片。"
 		},
 		{
 			"i": 12,
 			"start": 63.08,
-			"end": 66.4,
+			"end": 65.832,
 			"en": "I spent the whole day in my room,",
 			"zh": "我在房间里待了一整天，"
 		},
 		{
 			"i": 13,
 			"start": 66.55,
-			"end": 70.55,
+			"end": 69.972,
 			"en": "but I did not write a single card!",
 			"zh": "但我一张明信片也没写！"
 		}

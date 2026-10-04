@@ -7,12 +7,12 @@
 		"src": "audio/nce2-32.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.68,
-			"end": 14.5,
+			"end": 12.457,
 			"en": "Who was the thief?",
 			"zh": "谁是小偷？"
 		},
@@ -26,7 +26,7 @@
 		{
 			"i": 2,
 			"start": 16.81,
-			"end": 18.6,
+			"end": 17.868,
 			"en": "they once were.",
 			"zh": "曾经是那样。"
 		},
@@ -40,7 +40,7 @@
 		{
 			"i": 4,
 			"start": 22.12,
-			"end": 26.88,
+			"end": 25.98,
 			"en": "ever before--especially in large shops.",
 			"zh": "更大——尤其是在大型商店里。"
 		},
@@ -61,14 +61,14 @@
 		{
 			"i": 7,
 			"start": 33.8,
-			"end": 35.75,
+			"end": 34.867,
 			"en": "on Monday mornings.",
 			"zh": "去一家大商店。"
 		},
 		{
 			"i": 8,
 			"start": 35.9,
-			"end": 37.31,
+			"end": 36.844,
 			"en": "One Monday,",
 			"zh": "有一个周一，"
 		},
@@ -82,28 +82,28 @@
 		{
 			"i": 10,
 			"start": 39.71,
-			"end": 43.37,
+			"end": 42.546,
 			"en": "than usual when the woman came in,",
 			"zh": "少，当时那个妇女进来了，"
 		},
 		{
 			"i": 11,
 			"start": 43.52,
-			"end": 48.45,
+			"end": 47.472,
 			"en": "so it was easier for the detective to watch her.",
 			"zh": "因此侦探更容易监视她。"
 		},
 		{
 			"i": 12,
 			"start": 48.6,
-			"end": 52.83,
+			"end": 52.181,
 			"en": "The woman first bought a few small articles.",
 			"zh": "这名妇女首先买了几件小商品。"
 		},
 		{
 			"i": 13,
 			"start": 52.98,
-			"end": 54.8,
+			"end": 54.457,
 			"en": "After a little time,",
 			"zh": "过了一会儿，"
 		},
@@ -124,7 +124,7 @@
 		{
 			"i": 16,
 			"start": 62.41,
-			"end": 67.01,
+			"end": 66.088,
 			"en": "who wrapped it up for her as quickly as possible.",
 			"zh": "店员尽快地为她包好了。"
 		},
@@ -138,14 +138,14 @@
 		{
 			"i": 18,
 			"start": 70.94,
-			"end": 75.23,
+			"end": 74.041,
 			"en": "and walked out of the shop without paying.",
 			"zh": "没有付钱就走出了商店。"
 		},
 		{
 			"i": 19,
 			"start": 75.38,
-			"end": 77.34,
+			"end": 76.963,
 			"en": "When she was arrested,",
 			"zh": "当她被捕时，"
 		},
@@ -159,7 +159,7 @@
 		{
 			"i": 21,
 			"start": 79.49,
-			"end": 82.87,
+			"end": 81.956,
 			"en": "the shop assistant was her daughter.",
 			"zh": "这名店员是她的女儿。"
 		},
@@ -173,7 +173,7 @@
 		{
 			"i": 23,
 			"start": 85.33,
-			"end": 89.33,
+			"end": 87.73,
 			"en": "a free dress once a week!",
 			"zh": "一件免费连衣裙！"
 		}

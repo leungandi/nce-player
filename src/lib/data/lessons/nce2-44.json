@@ -7,12 +7,12 @@
 		"src": "audio/nce2-44.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.02,
-			"end": 15.08,
+			"end": 13.137,
 			"en": "How did Mrs. Sterling get her bag back?",
 			"zh": "斯特林夫人是如何找回她的包的？"
 		},
@@ -26,7 +26,7 @@
 		{
 			"i": 2,
 			"start": 18.74,
-			"end": 24.76,
+			"end": 23.107,
 			"en": "she was taking when she ran through a forest after two men.",
 			"zh": "当她穿过森林追赶两个男人时。"
 		},
@@ -40,84 +40,84 @@
 		{
 			"i": 4,
 			"start": 30.39,
-			"end": 34.86,
+			"end": 34.144,
 			"en": "with her children and tried to steal her handbag.",
 			"zh": "试图偷走她的手提包。"
 		},
 		{
 			"i": 5,
 			"start": 35.01,
-			"end": 38.25,
+			"end": 37.829,
 			"en": "In the struggle, the strap broke and,",
 			"zh": "在搏斗中，包带断了，"
 		},
 		{
 			"i": 6,
 			"start": 38.4,
-			"end": 40.97,
+			"end": 40.567,
 			"en": "with the bag in their possession,",
 			"zh": "包落到了他们手里，"
 		},
 		{
 			"i": 7,
 			"start": 41.12,
-			"end": 45.3,
+			"end": 44.504,
 			"en": "both men started running through the trees.",
 			"zh": "两人便开始穿过树林逃跑。"
 		},
 		{
 			"i": 8,
 			"start": 45.45,
-			"end": 50.92,
+			"end": 50.106,
 			"en": "Mrs. Sterling got so angry that she ran after them.",
 			"zh": "斯特林夫人非常生气，她追了上去。"
 		},
 		{
 			"i": 9,
 			"start": 51.07,
-			"end": 53.08,
+			"end": 52.946,
 			"en": "She was soon out of breath,",
 			"zh": "她很快就气喘吁吁，"
 		},
 		{
 			"i": 10,
 			"start": 53.23,
-			"end": 56.07,
+			"end": 55.34,
 			"en": "but she continued to run.",
 			"zh": "但她继续奔跑。"
 		},
 		{
 			"i": 11,
 			"start": 56.22,
-			"end": 58.13,
+			"end": 57.858,
 			"en": "When she caught up with them,",
 			"zh": "当她追上他们时，"
 		},
 		{
 			"i": 12,
 			"start": 58.28,
-			"end": 64.35,
+			"end": 63.916,
 			"en": "she saw that they had sat down and were going through the contents of the bag,",
 			"zh": "她看到他们已经坐了下来，正在翻看包里的东西，"
 		},
 		{
 			"i": 13,
 			"start": 64.5,
-			"end": 67.66,
+			"end": 66.738,
 			"en": "so she ran straight at them.",
 			"zh": "于是她直接向他们冲过去。"
 		},
 		{
 			"i": 14,
 			"start": 67.81,
-			"end": 74.6,
+			"end": 73.324,
 			"en": "The men got such a fright that they dropped the bag and ran away.",
 			"zh": "男人们吓了一跳，扔下包就跑了。"
 		},
 		{
 			"i": 15,
 			"start": 74.75,
-			"end": 78.75,
+			"end": 76.591,
 			"en": "'The strap needs mending,' said Mrs. Sterling later, 'but they did not steal anything.'",
 			"zh": "“包带需要修一下，”斯特林夫人后来表示，“但他们什么也没偷走。”"
 		}

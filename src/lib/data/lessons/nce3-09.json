@@ -7,89 +7,89 @@
 		"src": "audio/nce3-09.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.7,
-			"end": 2.47,
+			"end": 1.806,
 			"en": "Lesson 9",
 			"zh": "第9课"
 		},
 		{
 			"i": 1,
 			"start": 2.62,
-			"end": 9.87,
+			"end": 8.357,
 			"en": "Flying cats",
 			"zh": "会飞的猫"
 		},
 		{
 			"i": 2,
 			"start": 10.02,
-			"end": 17.19,
+			"end": 14.971,
 			"en": "How do cats try to protect themselves when falling from great heights?",
 			"zh": "猫从高处跌落时如何保护自己？"
 		},
 		{
 			"i": 3,
 			"start": 17.34,
-			"end": 21.62,
+			"end": 20.696,
 			"en": "Cats never fail to fascinate human beings.",
 			"zh": "猫总是能吸引人类。"
 		},
 		{
 			"i": 4,
 			"start": 21.77,
-			"end": 29.32,
+			"end": 28.412,
 			"en": "They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well.",
 			"zh": "它们可以对人类友好和亲热，但它们也有自己的神秘生活。"
 		},
 		{
 			"i": 5,
 			"start": 29.47,
-			"end": 33.48,
+			"end": 32.832,
 			"en": "They never become submissive like dogs and horses.",
 			"zh": "它们从不像狗和马那样变得顺从。"
 		},
 		{
 			"i": 6,
 			"start": 33.63,
-			"end": 39.21,
+			"end": 38.361,
 			"en": "As a result, humans have learned to respect feline independence.",
 			"zh": "结果，人类学会了尊重猫的独立性。"
 		},
 		{
 			"i": 7,
 			"start": 39.36,
-			"end": 43.76,
+			"end": 43.279,
 			"en": "Most cats remain suspicious of humans all their lives.",
 			"zh": "大多数猫一生都对人类保持警惕。"
 		},
 		{
 			"i": 8,
 			"start": 43.91,
-			"end": 51.71,
+			"end": 51.145,
 			"en": "One of the things that fascinates us most about cats is the popular belief that they have nine lives.",
 			"zh": "关于猫最吸引我们的一点是，人们普遍认为它们有九条命。"
 		},
 		{
 			"i": 9,
 			"start": 51.86,
-			"end": 57.54,
+			"end": 56.134,
 			"en": "Apparently, there is a good deal of truth in this idea.",
 			"zh": "显然，这种说法有相当多的真实性。"
 		},
 		{
 			"i": 10,
 			"start": 57.69,
-			"end": 63.03,
+			"end": 62.003,
 			"en": "A cat's ability to survive falls is based on fact.",
 			"zh": "猫从高处跌落后幸存的能力是有事实依据的。"
 		},
 		{
 			"i": 11,
 			"start": 63.18,
-			"end": 72.85,
+			"end": 72.269,
 			"en": "Recently the New York Animal Medical Centre made a study of 132 cats over a period of five months.",
 			"zh": "最近，纽约动物医疗中心对132只猫进行了为期五个月的研究。"
 		},
@@ -103,70 +103,70 @@
 		{
 			"i": 13,
 			"start": 77.88,
-			"end": 83.92,
+			"end": 83.095,
 			"en": "yet only eight of them died from shock or injuries.",
 			"zh": "然而只有八只死于休克或受伤。"
 		},
 		{
 			"i": 14,
 			"start": 84.07,
-			"end": 93.64,
+			"end": 92.983,
 			"en": "Of course, New York is the ideal place for such an interesting study, because there is no shortage of tall buildings.",
 			"zh": "当然，纽约是进行这项有趣研究的理想地点，因为那里不缺少高楼大厦。"
 		},
 		{
 			"i": 15,
 			"start": 93.79,
-			"end": 98.33,
+			"end": 97.495,
 			"en": "There are plenty of high-rise windowsills to fall from!",
 			"zh": "有很多高层窗台可供跌落！"
 		},
 		{
 			"i": 16,
 			"start": 98.48,
-			"end": 106.74,
+			"end": 105.605,
 			"en": "One cat, Sabrina, fell 32 storeys, yet only suffered from a broken tooth.",
 			"zh": "一只名叫萨布丽娜的猫从32层楼高的地方摔下，却只受了牙齿折断的伤。"
 		},
 		{
 			"i": 17,
 			"start": 106.89,
-			"end": 112,
+			"end": 111.442,
 			"en": "'Cats behave like well-trained paratroopers,' a doctor said.",
 			"zh": "“猫的行为就像训练有素的伞兵，”一位医生说。"
 		},
 		{
 			"i": 18,
 			"start": 112.15,
-			"end": 119.01,
+			"end": 118.435,
 			"en": "It seems that the further cats fall, the less they are likely to injure themselves.",
 			"zh": "猫似乎跌落得越远，受伤的可能性就越小。"
 		},
 		{
 			"i": 19,
 			"start": 119.16,
-			"end": 124.86,
+			"end": 124.207,
 			"en": "In a long drop, they reach speeds of 60 miles an hour and more.",
 			"zh": "在长距离跌落中，它们的速度可达每小时60英里甚至更高。"
 		},
 		{
 			"i": 20,
 			"start": 125.01,
-			"end": 129.08,
+			"end": 128.925,
 			"en": "At high speeds, falling cats have time to relax.",
 			"zh": "在高速跌落时，猫有时间放松。"
 		},
 		{
 			"i": 21,
 			"start": 129.23,
-			"end": 133.54,
+			"end": 133.015,
 			"en": "They stretch out their legs like flying squirrels.",
 			"zh": "它们像飞鼠一样伸展四肢。"
 		},
 		{
 			"i": 22,
 			"start": 133.69,
-			"end": 137.69,
+			"end": 140.368,
 			"en": "This increases their air-resistance and reduces the shock of impact when they hit the ground.",
 			"zh": "这增加了它们的空气阻力，并减少了它们撞击地面时的冲击。"
 		}

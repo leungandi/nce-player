@@ -7,124 +7,124 @@
 		"src": "audio/nce1-79.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.71,
-			"end": 3.37,
+			"end": 2.451,
 			"en": "Lesson 79",
 			"zh": "第79课"
 		},
 		{
 			"i": 1,
 			"start": 3.52,
-			"end": 6.57,
+			"end": 5.576,
 			"en": "Carol's shopping list",
 			"zh": "卡罗尔的购物清单"
 		},
 		{
 			"i": 2,
 			"start": 6.72,
-			"end": 12.09,
+			"end": 11.041,
 			"en": "Listen to the tape then answer this question.",
 			"zh": "听录音，然后回答问题。"
 		},
 		{
 			"i": 3,
 			"start": 12.24,
-			"end": 17.76,
+			"end": 15.672,
 			"en": "What is Carol not going to buy?",
 			"zh": "卡罗尔不打算买什么？"
 		},
 		{
 			"i": 4,
 			"start": 17.91,
-			"end": 21.58,
+			"end": 20.184,
 			"en": "What are you doing, Carol?",
 			"zh": "你在干什么，卡罗尔？"
 		},
 		{
 			"i": 5,
 			"start": 21.73,
-			"end": 26.33,
+			"end": 25.19,
 			"en": "I'm making a shopping list, Tom.",
 			"zh": "我正在列购物清单，汤姆。"
 		},
 		{
 			"i": 6,
 			"start": 26.48,
-			"end": 29.42,
+			"end": 27.961,
 			"en": "What do we need?",
 			"zh": "我们需要什么？"
 		},
 		{
 			"i": 7,
 			"start": 29.57,
-			"end": 33.47,
+			"end": 32.979,
 			"en": "We need a lot of things this week.",
 			"zh": "我们这周需要很多东西。"
 		},
 		{
 			"i": 8,
 			"start": 33.62,
-			"end": 37.1,
+			"end": 36.584,
 			"en": "I must go to the grocer's.",
 			"zh": "我必须去杂货店。"
 		},
 		{
 			"i": 9,
 			"start": 37.25,
-			"end": 46.44,
+			"end": 44.889,
 			"en": "We haven't got much tea or coffee, and we haven't got any sugar or jam.",
 			"zh": "我们没有多少茶叶和咖啡了，糖和果酱也没有了。"
 		},
 		{
 			"i": 10,
 			"start": 46.59,
-			"end": 49.23,
+			"end": 48.612,
 			"en": "What about vegetables?",
 			"zh": "蔬菜呢？"
 		},
 		{
 			"i": 11,
 			"start": 49.38,
-			"end": 53.4,
+			"end": 52.718,
 			"en": "I must go to the greengroce's.",
 			"zh": "我必须去蔬菜水果店。"
 		},
 		{
 			"i": 12,
 			"start": 53.55,
-			"end": 61.35,
+			"end": 60.392,
 			"en": "We haven't got many tomatoes, but we've got a lot of potatoes.",
 			"zh": "我们没有多少西红柿了，但我们有很多土豆。"
 		},
 		{
 			"i": 13,
 			"start": 61.5,
-			"end": 65.3,
+			"end": 65.056,
 			"en": "I must go to the butcher's, too.",
 			"zh": "我也必须去肉店。"
 		},
 		{
 			"i": 14,
 			"start": 65.45,
-			"end": 68.08,
+			"end": 67.481,
 			"en": "We need some meat.",
 			"zh": "我们需要一些肉。"
 		},
 		{
 			"i": 15,
 			"start": 68.23,
-			"end": 73.19,
+			"end": 71.553,
 			"en": "We haven't got any meat at all.",
 			"zh": "我们一点肉都没有了。"
 		},
 		{
 			"i": 16,
 			"start": 73.34,
-			"end": 77.15,
+			"end": 76.55,
 			"en": "Have we got any beer and wine?",
 			"zh": "我们有啤酒和葡萄酒吗？"
 		},
@@ -138,28 +138,28 @@
 		{
 			"i": 18,
 			"start": 79.77,
-			"end": 83.39,
+			"end": 82.616,
 			"en": "And I'm not going to get any!",
 			"zh": "而且我也不打算买！"
 		},
 		{
 			"i": 19,
 			"start": 83.54,
-			"end": 86.88,
+			"end": 86.275,
 			"en": "I hope that you've got some money.",
 			"zh": "我希望你有点钱。"
 		},
 		{
 			"i": 20,
 			"start": 87.03,
-			"end": 89.4,
+			"end": 89.103,
 			"en": "I haven't got much.",
 			"zh": "我没有多少钱。"
 		},
 		{
 			"i": 21,
 			"start": 89.55,
-			"end": 93.55,
+			"end": 90.314,
 			"en": "Well, I haven't got much either!",
 			"zh": "嗯，我也没多少钱！"
 		}

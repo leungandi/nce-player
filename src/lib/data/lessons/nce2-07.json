@@ -7,33 +7,33 @@
 		"src": "audio/nce2-07.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 9.23,
-			"end": 13.89,
+			"end": 12.061,
 			"en": "Did the detectives save the diamonds?",
 			"zh": "侦探们保住钻石了吗？"
 		},
 		{
 			"i": 1,
 			"start": 14.04,
-			"end": 20.23,
+			"end": 19.26,
 			"en": "The plane was late and detectives were waiting at the airport all morning.",
 			"zh": "飞机晚点了，侦探们在机场等了一上午。"
 		},
 		{
 			"i": 2,
 			"start": 20.38,
-			"end": 25.91,
+			"end": 24.909,
 			"en": "They were expecting a valuable parcel of diamonds from South Africa.",
 			"zh": "他们正在等一个从南非寄来的贵重钻石包裹。"
 		},
 		{
 			"i": 3,
 			"start": 26.06,
-			"end": 28.14,
+			"end": 27.751,
 			"en": "A few hours earlier,",
 			"zh": "几个小时前，"
 		},
@@ -47,14 +47,14 @@
 		{
 			"i": 5,
 			"start": 30.52,
-			"end": 34.17,
+			"end": 33.162,
 			"en": "thieves would try to steal the diamonds.",
 			"zh": "小偷会设法偷走这些钻石。"
 		},
 		{
 			"i": 6,
 			"start": 34.32,
-			"end": 36.42,
+			"end": 35.605,
 			"en": "When the plane arrived,",
 			"zh": "飞机抵达时，"
 		},
@@ -68,56 +68,56 @@
 		{
 			"i": 8,
 			"start": 38.7,
-			"end": 40.65,
+			"end": 40.336,
 			"en": "inside the main building",
 			"zh": "主楼里等候，"
 		},
 		{
 			"i": 9,
 			"start": 40.8,
-			"end": 44.74,
+			"end": 43.813,
 			"en": "while others were waiting on the airfield.",
 			"zh": "另一些则在机场跑道上等候。"
 		},
 		{
 			"i": 10,
 			"start": 44.89,
-			"end": 47.98,
+			"end": 47.711,
 			"en": "Two men took the parcel off the plane",
 			"zh": "两名男子把包裹从飞机上卸下来，"
 		},
 		{
 			"i": 11,
 			"start": 48.13,
-			"end": 51.65,
+			"end": 50.546,
 			"en": "and carried it into the Customs House.",
 			"zh": "并把它搬进了海关。"
 		},
 		{
 			"i": 12,
 			"start": 51.8,
-			"end": 55.78,
+			"end": 55.206,
 			"en": "While two detectives were keeping guard at the door,",
 			"zh": "两名侦探在门口守卫，"
 		},
 		{
 			"i": 13,
 			"start": 55.93,
-			"end": 58.78,
+			"end": 58.07,
 			"en": "two others opened the parcel.",
 			"zh": "另外两名打开了包裹。"
 		},
 		{
 			"i": 14,
 			"start": 58.93,
-			"end": 60.83,
+			"end": 60.327,
 			"en": "To their surprise,",
 			"zh": "令他们吃惊的是，"
 		},
 		{
 			"i": 15,
 			"start": 60.98,
-			"end": 64.98,
+			"end": 62.693,
 			"en": "the precious parcel was full of stones and sand!",
 			"zh": "这个贵重包裹里装满了石头和沙子！"
 		}

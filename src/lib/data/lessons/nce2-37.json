@@ -7,7 +7,7 @@
 		"src": "audio/nce2-37.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
@@ -19,7 +19,7 @@
 		{
 			"i": 1,
 			"start": 12.97,
-			"end": 16.85,
+			"end": 14.802,
 			"en": "hosted the Olympic Games?",
 			"zh": "举办奥运会的？"
 		},
@@ -33,7 +33,7 @@
 		{
 			"i": 3,
 			"start": 18.98,
-			"end": 22.45,
+			"end": 21.568,
 			"en": "in our country in four years' time.",
 			"zh": "四年后在我国举行。"
 		},
@@ -47,28 +47,28 @@
 		{
 			"i": 5,
 			"start": 25.14,
-			"end": 26.82,
+			"end": 26.256,
 			"en": "visiting the country,",
 			"zh": "访问这个国家，"
 		},
 		{
 			"i": 6,
 			"start": 26.97,
-			"end": 30.3,
+			"end": 29.921,
 			"en": "the government will be building new hotels,",
 			"zh": "政府将建造新酒店、"
 		},
 		{
 			"i": 7,
 			"start": 30.45,
-			"end": 32.26,
+			"end": 31.918,
 			"en": "an immense stadium,",
 			"zh": "一个巨大的体育场，"
 		},
 		{
 			"i": 8,
 			"start": 32.41,
-			"end": 36.17,
+			"end": 35.357,
 			"en": "and a new Olympic-standard swimming pool.",
 			"zh": "和一个符合奥运标准的新游泳池。"
 		},
@@ -82,7 +82,7 @@
 		{
 			"i": 10,
 			"start": 39.29,
-			"end": 41.94,
+			"end": 41.081,
 			"en": "and a special railway line.",
 			"zh": "和一条专用铁路线。"
 		},
@@ -96,7 +96,7 @@
 		{
 			"i": 12,
 			"start": 45.9,
-			"end": 50.34,
+			"end": 49.418,
 			"en": "and the whole area will be called 'Olympic City'.",
 			"zh": "整个地区将被命名为“奥运城”。"
 		},
@@ -110,21 +110,21 @@
 		{
 			"i": 14,
 			"start": 53.25,
-			"end": 55.67,
+			"end": 54.893,
 			"en": "by the end of this year.",
 			"zh": "完成新道路的修建。"
 		},
 		{
 			"i": 15,
 			"start": 55.82,
-			"end": 58.01,
+			"end": 57.576,
 			"en": "By the end of next year,",
 			"zh": "到明年年底，"
 		},
 		{
 			"i": 16,
 			"start": 58.16,
-			"end": 61.89,
+			"end": 60.981,
 			"en": "they will have finished work on the new stadium.",
 			"zh": "他们将完成新体育场的建设工作。"
 		},
@@ -138,7 +138,7 @@
 		{
 			"i": 18,
 			"start": 65.58,
-			"end": 68.32,
+			"end": 66.94,
 			"en": "by Kurt Gunter.",
 			"zh": "库尔特·冈瑟设计。"
 		},
@@ -152,7 +152,7 @@
 		{
 			"i": 20,
 			"start": 71.32,
-			"end": 74.48,
+			"end": 72.981,
 			"en": "as the new buildings go up.",
 			"zh": "这些新建筑的建成。"
 		},
@@ -166,14 +166,14 @@
 		{
 			"i": 22,
 			"start": 78.75,
-			"end": 80.59,
+			"end": 80.041,
 			"en": "the Olympic Games because",
 			"zh": "奥运会的到来，因为"
 		},
 		{
 			"i": 23,
 			"start": 80.74,
-			"end": 84.74,
+			"end": 84.127,
 			"en": "they have never been held before in this country.",
 			"zh": "这个国家以前从未举办过奥运会。"
 		}

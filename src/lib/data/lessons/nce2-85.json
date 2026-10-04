@@ -7,75 +7,75 @@
 		"src": "audio/nce2-85.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 10.57,
-			"end": 14.82,
+			"end": 13.219,
 			"en": "How long has Mr. Page been teaching?",
 			"zh": "佩奇先生教书多久了？"
 		},
 		{
 			"i": 1,
 			"start": 14.97,
-			"end": 27.8,
+			"end": 26.75,
 			"en": "I have just received a letter from my old school, informing me that my former headmaster, Mr. Stuart Page, will be retiring next week.",
 			"zh": "我刚收到母校的一封信，通知我我们以前的校长斯图尔特·佩奇先生下周就要退休了。"
 		},
 		{
 			"i": 2,
 			"start": 27.95,
-			"end": 35.38,
+			"end": 34.351,
 			"en": "Pupils of the school old and new, will be sending him a present to mark the occasion.",
 			"zh": "学校的新老学生将送他一份礼物，以示纪念。"
 		},
 		{
 			"i": 3,
 			"start": 35.53,
-			"end": 45.38,
+			"end": 44.877,
 			"en": "All those who have contributed towards the gift will sign their names in a large album which will be sent to the headmaster's home.",
 			"zh": "所有为这份礼物捐款的人都将在一个大相册上签名，这个相册将寄到校长家中。"
 		},
 		{
 			"i": 4,
 			"start": 45.53,
-			"end": 59.33,
+			"end": 57.887,
 			"en": "We shall all remember Mr. Page for his patience and understanding and for the kindly encouragement he gave us when we went so unwillingly to school.",
 			"zh": "我们都会记住佩奇先生的耐心和理解，以及当我们不情愿地去上学时他给予我们的亲切鼓励。"
 		},
 		{
 			"i": 5,
 			"start": 59.48,
-			"end": 67.25,
+			"end": 65.749,
 			"en": "A great many former pupils will be attending a farewell dinner in his honour next Thursday.",
 			"zh": "许多以前的学生将于下周四出席为他举行的告别晚宴。"
 		},
 		{
 			"i": 6,
 			"start": 67.4,
-			"end": 78.51,
+			"end": 77.314,
 			"en": "It is a curious coincidence that the day before his retirement, Mr. Page will have been teaching for a total of forty years.",
 			"zh": "巧合的是，在他退休的前一天，佩奇先生教书的总时长将满四十年。"
 		},
 		{
 			"i": 7,
 			"start": 78.66,
-			"end": 84.07,
+			"end": 83.196,
 			"en": "After he has retired he will devote himself to gardening.",
 			"zh": "退休后，他将致力于园艺。"
 		},
 		{
 			"i": 8,
 			"start": 84.22,
-			"end": 88.91,
+			"end": 88.095,
 			"en": "For him, this will be an entirely new hobby.",
 			"zh": "对他来说，这将是一个全新的爱好。"
 		},
 		{
 			"i": 9,
 			"start": 89.06,
-			"end": 93.06,
+			"end": 90.91,
 			"en": "But this does not matter, for, as he has often remarked, one is never too old to learn.",
 			"zh": "但这无关紧要，因为正如他常说的，活到老学到老。"
 		}

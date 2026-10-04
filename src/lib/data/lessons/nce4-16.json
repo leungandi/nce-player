@@ -7,124 +7,124 @@
 		"src": "audio/nce4-16.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.79,
-			"end": 2.36,
+			"end": 2.147,
 			"en": "Lesson 16",
 			"zh": "第16课"
 		},
 		{
 			"i": 1,
 			"start": 2.51,
-			"end": 9.35,
+			"end": 8.421,
 			"en": "The modern city",
 			"zh": "现代城市"
 		},
 		{
 			"i": 2,
 			"start": 9.5,
-			"end": 15.3,
+			"end": 13.086,
 			"en": "What is the author's main argument about the modern city?",
 			"zh": "作者关于现代城市的主要论点是什么？"
 		},
 		{
 			"i": 3,
 			"start": 15.45,
-			"end": 26.58,
+			"end": 26.115,
 			"en": "In the organization of industrial life the influence of the factory upon the physiological and mental state of the workers has been completely neglected.",
 			"zh": "在工业生活的组织中，工厂对工人生理和心理状态的影响已被完全忽视。"
 		},
 		{
 			"i": 4,
 			"start": 26.73,
-			"end": 32.9,
+			"end": 32.7,
 			"en": "Modern industry is based on the conception of the maximum production at lowest cost,",
 			"zh": "现代工业建立在以最低成本实现最大产量的概念上，"
 		},
 		{
 			"i": 5,
 			"start": 33.05,
-			"end": 39.94,
+			"end": 39.052,
 			"en": "in order that an individual or a group of individuals may earn as much money as possible.",
 			"zh": "以便个人或群体能够尽可能多地赚钱。"
 		},
 		{
 			"i": 6,
 			"start": 40.09,
-			"end": 46.4,
+			"end": 46.071,
 			"en": "It has expanded without any idea of the true nature of the human beings who run the machines,",
 			"zh": "它的扩张，完全没有考虑到操作机器的人类的真实本性，"
 		},
 		{
 			"i": 7,
 			"start": 46.55,
-			"end": 58.48,
+			"end": 57.51,
 			"en": "and without giving any consideration to the effects produced on the individuals and on their descendants by the artificial mode of existence imposed by the factory.",
 			"zh": "也完全没有考虑到工厂强加的人工生存模式对个体及其后代产生的影响。"
 		},
 		{
 			"i": 8,
 			"start": 58.63,
-			"end": 62.5,
+			"end": 62.024,
 			"en": "The great cities have been built with no regard for us.",
 			"zh": "那些大城市的建设完全没有考虑到我们。"
 		},
 		{
 			"i": 9,
 			"start": 62.65,
-			"end": 71.53,
+			"end": 71.324,
 			"en": "The shape and dimensions of the skyscrapers depend entirely on the necessity of obtaining the maximum income per square foot of ground,",
 			"zh": "摩天大楼的形状和尺寸完全取决于每平方英尺土地获取最大收入的需要，"
 		},
 		{
 			"i": 10,
 			"start": 71.68,
-			"end": 76.38,
+			"end": 75.577,
 			"en": "and of offering to the tenants offices and apartments that please them.",
 			"zh": "以及向租户提供令他们满意的办公室和公寓。"
 		},
 		{
 			"i": 11,
 			"start": 76.53,
-			"end": 84.51,
+			"end": 83.85,
 			"en": "This caused the construction of gigantic buildings where too large masses of human beings are crowded together.",
 			"zh": "这导致了巨型建筑的建造，大量人类被拥挤在一起。"
 		},
 		{
 			"i": 12,
 			"start": 84.66,
-			"end": 87.82,
+			"end": 87.437,
 			"en": "Civilized men like such a way of living.",
 			"zh": "文明人喜欢这样的生活方式。"
 		},
 		{
 			"i": 13,
 			"start": 87.97,
-			"end": 96.91,
+			"end": 96.44,
 			"en": "While they enjoy the comfort and banal luxury of their dwelling, they do not realize that they are deprived of the necessities of life.",
 			"zh": "当他们享受着住所的舒适和平庸的奢华时，却没有意识到他们被剥夺了生活必需品。"
 		},
 		{
 			"i": 14,
 			"start": 97.06,
-			"end": 106.05,
+			"end": 105.565,
 			"en": "The modern city consists of monstrous edifices and of dark, narrow streets full of petrol fumes and toxic gases,",
 			"zh": "现代城市由怪诞的建筑和充满汽油烟雾和有毒气体的黑暗狭窄街道组成，"
 		},
 		{
 			"i": 15,
 			"start": 106.2,
-			"end": 114.43,
+			"end": 113.504,
 			"en": "torn by the noise of the taxicabs, lorries and buses, and thronged ceaselessly by great crowds.",
 			"zh": "被出租车、卡车和公共汽车的噪音撕裂，并不断被大量人群挤满。"
 		},
 		{
 			"i": 16,
 			"start": 114.58,
-			"end": 118.58,
+			"end": 115.506,
 			"en": "Obviously, it has not been planned for the good of its inhabitants.",
 			"zh": "显然，它的规划并非为了居民的福祉。"
 		}

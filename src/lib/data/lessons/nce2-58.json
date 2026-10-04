@@ -7,96 +7,96 @@
 		"src": "audio/nce2-58.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 11.01,
-			"end": 16.79,
+			"end": 14.847,
 			"en": "Why does the vicar refuse to cut down the tree?",
 			"zh": "为什么牧师拒绝砍掉这棵树？"
 		},
 		{
 			"i": 1,
 			"start": 16.94,
-			"end": 22.74,
+			"end": 22.106,
 			"en": "The tiny village of Frinley is said to possess a 'cursed tree'.",
 			"zh": "弗林利这个小村庄据说有一棵“被诅咒的树”。"
 		},
 		{
 			"i": 2,
 			"start": 22.89,
-			"end": 26.32,
+			"end": 25.789,
 			"en": "Because the tree was mentioned in a newspaper,",
 			"zh": "因为这棵树在报纸上被提及，"
 		},
 		{
 			"i": 3,
 			"start": 26.47,
-			"end": 31.56,
+			"end": 30.466,
 			"en": "the number of visitors to Frinley has now increased.",
 			"zh": "弗林利的游客数量现在增加了。"
 		},
 		{
 			"i": 4,
 			"start": 31.71,
-			"end": 42.92,
+			"end": 41.687,
 			"en": "The tree was planted near the church fifty years ago, but it is only in recent years that it has gained an evil reputation.",
 			"zh": "这棵树是五十年前种在教堂附近的，但直到最近几年才声名狼藉。"
 		},
 		{
 			"i": 5,
 			"start": 43.07,
-			"end": 52.74,
+			"end": 51.509,
 			"en": "It is said that if anyone touches the tree, he will have bad luck; if he picks a leaf, he will die.",
 			"zh": "据说如果任何人触摸这棵树，他就会有厄运；如果他摘一片叶子，他就会死去。"
 		},
 		{
 			"i": 6,
 			"start": 52.89,
-			"end": 59.8,
+			"end": 58.641,
 			"en": "Many villagers believe that the tree has already claimed a number of victims.",
 			"zh": "许多村民相信这棵树已经夺走了许多受害者的生命。"
 		},
 		{
 			"i": 7,
 			"start": 59.95,
-			"end": 68.37,
+			"end": 66.889,
 			"en": "The vicar has been asked to have the tree cut down, but so far he has refused.",
 			"zh": "牧师被要求砍掉这棵树，但到目前为止他一直拒绝。"
 		},
 		{
 			"i": 8,
 			"start": 68.52,
-			"end": 73.98,
+			"end": 73.458,
 			"en": "He has pointed out that the tree is a useful source of income,",
 			"zh": "他指出这棵树是一个有用的收入来源，"
 		},
 		{
 			"i": 9,
 			"start": 74.13,
-			"end": 79.89,
+			"end": 78.956,
 			"en": "as tourists have been coming from all parts of the country to see it.",
 			"zh": "因为游客们从全国各地赶来参观它。"
 		},
 		{
 			"i": 10,
 			"start": 80.04,
-			"end": 83.08,
+			"end": 82.616,
 			"en": "In spite of all that has been said,",
 			"zh": "尽管有各种说法，"
 		},
 		{
 			"i": 11,
 			"start": 83.23,
-			"end": 88.95,
+			"end": 88.181,
 			"en": "the tourists have been picking leaves and cutting their names on the tree-trunk.",
 			"zh": "游客们一直在摘叶子并在树干上刻下他们的名字。"
 		},
 		{
 			"i": 12,
 			"start": 89.1,
-			"end": 93.1,
+			"end": 90.217,
 			"en": "So far, not one of them has been struck down by sudden death!",
 			"zh": "到目前为止，他们中没有一个人被突然死亡击倒！"
 		}

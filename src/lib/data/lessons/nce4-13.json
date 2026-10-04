@@ -7,68 +7,68 @@
 		"src": "audio/nce4-13.m4a"
 	},
 	"translation": "machine",
-	"alignment": "estimated",
+	"alignment": "aligned",
 	"lines": [
 		{
 			"i": 0,
 			"start": 0.31,
-			"end": 2.27,
+			"end": 1.558,
 			"en": "Lesson 13",
 			"zh": "第13课"
 		},
 		{
 			"i": 1,
 			"start": 2.42,
-			"end": 10.64,
+			"end": 9.279,
 			"en": "The search for oil",
 			"zh": "寻找石油"
 		},
 		{
 			"i": 2,
 			"start": 10.79,
-			"end": 16.83,
+			"end": 15.346,
 			"en": "What do oilmen want to achieve as soon as they strike oil?",
 			"zh": "石油工人一旦发现石油，他们最想达到什么目标？"
 		},
 		{
 			"i": 3,
 			"start": 16.98,
-			"end": 25.94,
+			"end": 24.759,
 			"en": "The deepest holes of all are made for oil, and they go down to as much as 25, 000 feet.",
 			"zh": "所有最深的孔都是为石油而钻的，它们深达25,000英尺。"
 		},
 		{
 			"i": 4,
 			"start": 26.09,
-			"end": 34.16,
+			"end": 33.211,
 			"en": "But we do not need to send man down to get the oil out, as we must with other mineral deposits.",
 			"zh": "但我们不需要像开采其他矿藏那样派人下去取油。"
 		},
 		{
 			"i": 5,
 			"start": 34.31,
-			"end": 40.03,
+			"end": 38.881,
 			"en": "The holes are only borings, less than a foot in diameter.",
 			"zh": "这些孔只是钻孔，直径不到一英尺。"
 		},
 		{
 			"i": 6,
 			"start": 40.18,
-			"end": 52.16,
+			"end": 50.663,
 			"en": "My particular experience is largely in oil, and the search for oil has done more to improve deep drilling than any other mining activity.",
 			"zh": "我尤其在石油方面经验丰富，而寻找石油对深层钻探的改进作用，比任何其他采矿活动都要大。"
 		},
 		{
 			"i": 7,
 			"start": 52.31,
-			"end": 55.93,
+			"end": 55.5,
 			"en": "When it has been decided where we are going to drill,",
 			"zh": "当我们决定了钻探地点之后，"
 		},
 		{
 			"i": 8,
 			"start": 56.08,
-			"end": 59.69,
+			"end": 58.974,
 			"en": "we put up at the surface an oil derrick.",
 			"zh": "我们就会在地面上架设一个采油井架。"
 		},
@@ -89,56 +89,56 @@
 		{
 			"i": 11,
 			"start": 73.84,
-			"end": 77.8,
+			"end": 76.801,
 			"en": "and are fitted with a cutting bit at the bottom.",
 			"zh": "底部装有钻头。"
 		},
 		{
 			"i": 12,
 			"start": 77.95,
-			"end": 82.52,
+			"end": 82.05,
 			"en": "The geologist needs to know what rocks the drill has reached,",
 			"zh": "地质学家需要知道钻头钻到了什么岩石，"
 		},
 		{
 			"i": 13,
 			"start": 82.67,
-			"end": 87.96,
+			"end": 87.245,
 			"en": "so every so often a sample is obtained with a coring bit.",
 			"zh": "因此，每隔一段时间就会用取心钻头取一个样本。"
 		},
 		{
 			"i": 14,
 			"start": 88.11,
-			"end": 96.3,
+			"end": 95.221,
 			"en": "It cuts a clean cylinder of rock, from which can be seen the strata the drill has been cutting through.",
 			"zh": "它能切下一段干净的圆柱形岩石，从中可以看到钻头穿过的地层。"
 		},
 		{
 			"i": 15,
 			"start": 96.45,
-			"end": 106.78,
+			"end": 105.933,
 			"en": "Once we get down to the oil, it usually flows to the surface because great pressure either from gas or water, is pushing it.",
 			"zh": "一旦我们钻到石油，它通常会流到地表，因为巨大的压力，无论是来自天然气还是水，都在推动它。"
 		},
 		{
 			"i": 16,
 			"start": 106.93,
-			"end": 116.07,
+			"end": 115.232,
 			"en": "This pressure must be under control, and we control it by means of the mud which we circulate down the drill pipe.",
 			"zh": "这种压力必须得到控制，我们通过循环注入钻杆的泥浆来控制它。"
 		},
 		{
 			"i": 17,
 			"start": 116.22,
-			"end": 124.18,
+			"end": 123.507,
 			"en": "We endeavour to avoid the old, romantic idea of a gusher, which wastes oil and gas.",
 			"zh": "我们努力避免那种老式的、浪漫的喷油井，那只会浪费石油和天然气。"
 		},
 		{
 			"i": 18,
 			"start": 124.33,
-			"end": 128.33,
+			"end": 129.692,
 			"en": "We want it to stay down the hole until we can lead it off in a controlled manner.",
 			"zh": "我们希望它留在井下，直到我们能以受控的方式将其引出。"
 		}
