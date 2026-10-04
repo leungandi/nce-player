@@ -762,6 +762,8 @@
 				<span><kbd>T</kbd> 显示方式</span>
 			</div>
 		{/if}
+
+		<a class="notice" href="#site-footer">素材仅供个人学习使用</a>
 	</footer>
 </div>
 
@@ -1173,6 +1175,24 @@
 	.hints {
 		border-top: 1px solid var(--border);
 		padding: 6px 18px calc(8px + env(safe-area-inset-bottom));
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: 12px;
+	}
+
+	.notice {
+		color: var(--text-muted);
+		font-size: 0.7rem;
+		text-decoration: none;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	.notice:hover {
+		color: var(--accent);
+		text-decoration: underline;
 	}
 
 	.hints-toggle {

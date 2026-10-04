@@ -3,6 +3,7 @@
 	import favicon from '#lib/assets/favicon.svg';
 	import { onMount } from 'svelte';
 	import { registerSW } from 'virtual:pwa-register';
+	import SiteFooter from '#lib/components/SiteFooter.svelte';
 
 	let { children } = $props();
 
@@ -21,3 +22,5 @@
 </svelte:head>
 
 {@render children()}
+
+<SiteFooter />

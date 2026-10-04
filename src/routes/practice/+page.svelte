@@ -31,7 +31,31 @@
 	let stats = $state({ right: 0, total: 0 });
 	let ready = $state(false);
 
-	const lessonIds = books.flatMap((book) => book.lessons.map((lesson) => lesson.id));
+	const allLessonIds = books.flatMap((book) => book.lessons.map((lesson) => lesson.id));
+	/** 优先从"听过的课"里抽题；一课都没听过时才用全部课文 */
+	let pool = $state<string[]>([]);
+
+	const scopeLabel = $derived(
+		pool.length
+			? `题目从你听过的 ${pool.length} 课里抽`
+			: `题目从四册共 ${allLessonIds.length} 课里随机抽`
+	);
+
+	/** 读本地进度，找出听过的课（听到 3 秒以上）。 */
+	function learnedLessons(): string[] {
+		const learned: string[] = [];
+		for (const id of allLessonIds) {
+			try {
+				const raw = localStorage.getItem(`nce:progress:${id}`);
+				if (!raw) continue;
+				const saved = JSON.parse(raw) as { time?: number };
+				if (Number.isFinite(saved?.time) && (saved.time as number) > 3) learned.push(id);
+			} catch {
+				// 忽略坏数据
+			}
+		}
+		return learned;
+	}
 
 	function pickRandom<T>(items: T[]): T {
 		return items[Math.floor(Math.random() * items.length)];
@@ -39,8 +63,9 @@
 
 	/** 随机取一句课文；`needZh` 用于中译英，必须带译文。 */
 	async function randomLine(needZh: boolean) {
+		const source = pool.length ? pool : allLessonIds;
 		for (let attempt = 0; attempt < 60; attempt += 1) {
-			const lesson = await getLesson(pickRandom(lessonIds));
+			const lesson = await getLesson(pickRandom(source));
 			if (!lesson) continue;
 			const line = pickRandom(lesson.lines) as LessonLine | undefined;
 			if (!line) continue;
@@ -64,13 +89,14 @@
 		}
 
 		const dict = await loadDict();
-		const pool = Object.keys(dict.words);
+		// 干扰项词库：整册词汇
+		const vocabPool = Object.keys(dict.words);
 
 		if (kind === 'cloze') {
 			for (let attempt = 0; attempt < 40; attempt += 1) {
 				const found = await randomLine(false);
 				if (!found) continue;
-				const cloze = pickCloze(found.line, pool);
+				const cloze = pickCloze(found.line, vocabPool);
 				if (cloze) return { kind: 'cloze', data: cloze };
 			}
 			return null;
@@ -129,6 +155,7 @@
 	}
 
 	onMount(() => {
+		pool = learnedLessons();
 		ready = true;
 		void next();
 	});
@@ -143,7 +170,11 @@
 		<a class="back" href={resolve('/')}>← 返回</a>
 		<h1>练习</h1>
 		<p class="sub">
-			{#if stats.total}答对 {stats.right} / {stats.total}{:else}题目从第二册课文里随机抽取{/if}
+			{#if stats.total}
+				答对 {stats.right} / {stats.total}
+			{:else}
+				{scopeLabel}
+			{/if}
 		</p>
 	</header>
 
@@ -165,7 +196,7 @@
 	{:else if message && !question}
 		<section class="card">
 			<p>{message}</p>
-			<p class="cta"><a href={resolve('/book/[key]', { key: 'nce2' })}>去听第二册 →</a></p>
+			<p class="cta"><a href={resolve('/')}>去听课文 →</a></p>
 		</section>
 	{:else if question?.kind === 'translation'}
 		<section class="card">

@@ -83,7 +83,7 @@
 				在课文里点任意单词就能加入生词本，复习会按记忆曲线自动排期。
 			</p>
 			<p class="cta">
-				<a href={resolve('/book/[key]', { key: 'nce2' })}>去听第二册 →</a>
+				<a href={resolve('/')}>去听课文 →</a>
 			</p>
 		</section>
 	{/if}
