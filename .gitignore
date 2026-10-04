@@ -3,6 +3,7 @@ node_modules
 # 本地沙箱与参考副本（不属于本项目）
 .npm-cache
 _upstream
+tools/.cache
 tools/_yingyin
 tools/_yingyin.zip
 

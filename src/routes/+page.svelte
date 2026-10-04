@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	import { onMount } from 'svelte';
 
 	type Theme = 'light' | 'dark';
@@ -16,8 +17,8 @@
 	}
 
 	const roadmap = [
-		{ stage: '阶段 0', title: '骨架与部署', state: '进行中' },
-		{ stage: '阶段 1', title: '单课跑通：点读、循环、中英对照', state: '待开始' },
+		{ stage: '阶段 0', title: '骨架与部署', state: '已完成' },
+		{ stage: '阶段 1', title: '单课跑通：点读、循环、中英对照', state: '进行中' },
 		{ stage: '阶段 2', title: '全册管线与离线播放', state: '待开始' },
 		{ stage: '阶段 3', title: '生词本、SRS 复习、听写与背诵', state: '待开始' },
 		{ stage: '阶段 4', title: '逐句讲解、自动出题、跨设备同步', state: '待开始' }
@@ -41,10 +42,13 @@
 
 	<main>
 		<section class="card">
-			<h2>正在建设中</h2>
+			<h2>先试一课</h2>
 			<p>
-				站点骨架已经搭好：静态预渲染、部署链路、测试框架都已就位。
-				接下来先跑通一课的完整链路——点句即播、句级精确循环、变速、逐句中英对照。
+				第二册第一课《A Private Conversation》已经跑通完整链路：点句即播、句级精确循环、
+				变速不变调、逐句中英对照、快捷键与进度记忆。
+			</p>
+			<p class="cta">
+				<a href={resolve('/lesson/[id]', { id: 'nce2-01' })}>开始精听 →</a>
 			</p>
 		</section>
 
@@ -130,6 +134,16 @@
 	.card p {
 		margin: 0;
 		line-height: 1.7;
+	}
+
+	.cta {
+		margin-top: 14px !important;
+	}
+
+	.cta a {
+		color: var(--accent);
+		text-decoration: none;
+		font-weight: 600;
 	}
 
 	.roadmap {

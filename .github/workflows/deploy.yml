@@ -34,10 +34,14 @@ jobs:
       - name: 单元测试
         run: npm test
 
+      - uses: actions/configure-pages@v5
+        id: pages
+
       - name: 构建静态站点
         run: npm run build
-
-      - uses: actions/configure-pages@v5
+        env:
+          # 自定义域名生效时 base 为空字符串，未生效时为 /nce-player
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
 
       - uses: actions/upload-pages-artifact@v3
         with:

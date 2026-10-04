@@ -346,7 +346,7 @@ Spring Boot + PostgreSQL，提供可选的账号与同步接口。前端只留�
 1. Pages 设置里填自定义域名，仓库内 `static/CNAME` 内容与之一致。
 2. DNS 加一条 `CNAME`：`nce` → `leungandi.github.io`。
 3. 等 GitHub 签发 Let's Encrypt 证书后，勾上 **Enforce HTTPS**。
-4. **证书签好之后**再接入 Cloudflare：云朵点成橙色，SSL/TLS 选 **Full (strict)**。
+4. ~~接入 Cloudflare~~ —— **暂缓，见 §13 的 TODO**。
 
 > 顺序不能反。先开 Cloudflare 代理会让 GitHub 的证书签发被挡住，页面会长时间停在"证书未签发"。
 
@@ -414,12 +414,60 @@ Spring Boot + PostgreSQL，提供可选的账号与同步接口。前端只留�
 
 ```
 C:\NCE\
-├── PLAN.md                    ← 本文档
-├── _upstream\                 ← 上游项目克隆（仅作参考，不修改）
+├── PLAN.md                       ← 本文档
+├── _upstream\                    ← 上游项目克隆（仅作参考，已 gitignore）
+├── src\
+│   ├── lib\data\lessons\         ← 课文 JSON（由管线产出，随站点构建）
+│   ├── lib\player\               ← 播放逻辑（纯函数，带单测）
+│   └── routes\lesson\[id]\       ← 精听页
+├── static\audio\                 ← 阶段 1 临时存放音频，阶段 2 迁出
 └── tools\
-    ├── inventory-resources.mjs  ← 资源盘点脚本（可复用为管线第一环）
-    ├── _yingyin.zip             ← 英音压缩包（实测只有二维码图）
-    └── _yingyin\                ← 解压结果，可删
+    ├── fetch-lesson.mjs          ← 数据管线：拉取一课并产出 lesson.json
+    └── inventory-resources.mjs   ← 资源盘点脚本
 ```
 
 > 网络说明：本机出网需要走本地代理，即 `HTTPS_PROXY=http://127.0.0.1:6789` 且 `NODE_USE_ENV_PROXY=1`。
+
+---
+
+## 13. 实施记录与偏差
+
+### 13.1 完成情况
+
+| 阶段 | 状态 | 说明 |
+|---|---|---|
+| 0 骨架与部署 | 已完成 | 代码已推送；Pages 启用与首次部署待你在仓库设置里开启 |
+| 1 单课跑通 | 进行中 | 数据管线 + 精听页已完成，见下 |
+| 2–4 | 未开始 | |
+
+阶段 1 已交付：
+
+- `tools/fetch-lesson.mjs`：从 tangx 拉一课，产出 `src/lib/data/lessons/nce2-01.json` 与音频。
+- 精听页 `/lesson/nce2-01`：点读、5 种循环、7 档变速、中英 4 种显示、快捷键、进度记忆、自动滚动。
+- 播放逻辑抽成纯函数（`src/lib/player/playback.ts`），配单元测试；二分查找当前句，句间停顿不回跳。
+- 全站预渲染：`build/lesson/nce2-01.html` 里含完整课文，可被搜索与分享。
+
+### 13.2 与初版计划的偏差
+
+1. **课文 JSON 放站点仓库，不放资源仓库。** 一课 JSON 只有几 KB，放进站点才能预渲染成静态 HTML（SEO、分享、秒开）；276 课合计约 1 MB，可以接受。资源仓库只装音频。
+2. **阶段 1 临时把一课音频放进 `static/audio/`（1.45 MB）。** 为了先让域名上的演示端到端可用。阶段 2 迁到独立资源域名，代码仓库不再收音频。
+3. **句子边界目前是估算值**（`end = 下一句起点 − 0.15s`，标记 `alignment: "estimated"`）。比上游"结束时间直接取下一句起点"干净，但仍不是真实语音边界；阶段 2 用 WhisperX 替换。
+4. **翻译标记为 `translation: "machine"`**，来源是上游站点的机翻稿，保留待校对。
+5. **本地没有 ffmpeg**，阶段 1 直接用上游原始 mp3（约 145 kbps）。阶段 2 装 ffmpeg 后再转 AAC 64 kbps。
+
+### 13.3 工程细节备忘（SvelteKit 3 与 2.x 的差异）
+
+- 配置不再放 `svelte.config.js`，改在 `vite.config.ts` 里传给 `sveltekit()` 插件。
+- 别名是 package.json 的 `#lib/*`（不是 `$lib/*`），且引用要带 `.js` 扩展名。
+- `$app/paths` 不再导出 `base`，改用 `asset()` 与 `resolve()`。
+- 预渲染路由要靠 `+page.ts` 导出 `entries()`。
+
+### 13.4 TODO
+
+- [ ] **接入 Cloudflare**：等 GitHub 证书签发并开启 Enforce HTTPS 之后再开橙色云朵，SSL/TLS 选 Full (strict)。**当前暂缓。**
+- [ ] 用 WhisperX 强制对齐替换估算的句子边界。
+- [ ] 装 ffmpeg，音频转 AAC 单声道 64 kbps。
+- [ ] 音频迁出代码仓库。
+- [ ] 数据管线批量化，并自动生成课文清单与课本登记表。
+- [ ] 词典接入（ECDICT），支撑生词本与 SRS。
+- [ ] Service Worker 离线。
