@@ -43,6 +43,14 @@
 
 	<main>
 		<section class="card">
+			<h2>生词复习</h2>
+			<p>在课文里点任意单词即可加入生词本，复习按记忆曲线自动排期。</p>
+			<p class="cta">
+				<a href={resolve('/review')}>开始复习 →</a>
+			</p>
+		</section>
+
+		<section class="card">
 			<h2>选择课本</h2>
 			{#if books.length}
 				<ul class="books">
@@ -142,6 +150,16 @@
 	.card p {
 		margin: 0;
 		line-height: 1.7;
+	}
+
+	.cta {
+		margin-top: 14px !important;
+	}
+
+	.cta a {
+		color: var(--accent);
+		text-decoration: none;
+		font-weight: 600;
 	}
 
 	.books {

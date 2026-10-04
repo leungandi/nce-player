@@ -1,6 +1,10 @@
 <script lang="ts">
 	import { resolve } from '$app/paths';
 	import { mediaUrl } from '#lib/data/assetUrl.js';
+	import { lookup } from '#lib/data/dict.js';
+	import type { Lookup } from '#lib/data/dict.js';
+	import { add as addWord, addedSet, remove as removeWord } from '#lib/store/wordbook.js';
+	import { tokenize } from '#lib/text/tokenize.js';
 	import {
 		clampIndex,
 		cycle,
@@ -25,7 +29,7 @@
 
 	let audioEl = $state<HTMLAudioElement | null>(null);
 	let scroller = $state<HTMLElement | null>(null);
-	let lineEls = $state<HTMLButtonElement[]>([]);
+	let lineEls = $state<HTMLElement[]>([]);
 
 	let currentTime = $state(0);
 	let duration = $state(0);
@@ -40,6 +44,51 @@
 	let sleepDeadline = $state(0);
 	let sleepLeft = $state(0);
 	let pendingSeek = 0;
+
+	const tokenized = $derived(lines.map((line) => tokenize(line.en)));
+
+	let activeWord = $state<Lookup | null>(null);
+	let activeToken = $state('');
+	let activeLine = $state(-1);
+	let looking = $state(false);
+	let wordSet = $state<Set<string>>(new Set());
+
+	async function openWord(raw: string, lineIndex: number) {
+		activeToken = raw;
+		activeLine = lineIndex;
+		looking = true;
+		try {
+			activeWord = await lookup(raw);
+		} finally {
+			looking = false;
+		}
+	}
+
+	function closeWord() {
+		activeWord = null;
+		activeToken = '';
+		activeLine = -1;
+	}
+
+	function toggleWord() {
+		if (!activeWord) return;
+		const key = activeWord.word;
+		if (wordSet.has(key)) {
+			removeWord(key);
+		} else {
+			addWord({
+				w: key,
+				base: activeWord.via,
+				phonetic: activeWord.entry?.[0] ?? '',
+				translation: activeWord.entry?.[1] ?? '',
+				tag: activeWord.entry?.[2] ?? '',
+				lesson: lesson.id,
+				line: activeLine,
+				ctx: lines[activeLine]?.en ?? ''
+			});
+		}
+		wordSet = addedSet();
+	}
 
 	const SLEEP_OPTIONS: number[] = [0, 5, 10, 15, 20, 30, 45, 60];
 
@@ -357,6 +406,7 @@
 		restoreProgress();
 		applyRate();
 		setupMediaSession();
+		wordSet = addedSet();
 		if (audioEl) audioEl.loop = loopMode === 'list';
 
 		window.addEventListener('keydown', onKeydown);
@@ -480,25 +530,73 @@
 		<ul>
 			{#each lines as line (line.i)}
 				<li>
-					<button
+					<div
 						bind:this={lineEls[line.i]}
 						class="line"
 						class:active={line.i === activeIndex}
-						type="button"
+						role="button"
+						tabindex="0"
+						aria-label="播放第 {line.i + 1} 句"
 						onclick={() => activateLine(line.i)}
+						onkeydown={(event) => {
+							if (event.key !== 'Enter' && event.key !== ' ') return;
+							event.preventDefault();
+							activateLine(line.i);
+						}}
 					>
 						<span class="idx">{line.i + 1}</span>
 						<span class="text">
-							<span class="en">{line.en}</span>
+							<span class="en">
+								{#each tokenized[line.i] as token, tokenIndex (tokenIndex)}
+									{#if token.word}
+										<button
+											class="word"
+											class:added={wordSet.has(token.text.toLowerCase())}
+											type="button"
+											onclick={(event) => {
+												event.stopPropagation();
+												openWord(token.text, line.i);
+											}}
+										>
+											{token.text}
+										</button>
+									{:else}{token.text}{/if}
+								{/each}
+							</span>
 							{#if line.zh}
 								<span class="zh">{line.zh}</span>
 							{/if}
 						</span>
-					</button>
+					</div>
 				</li>
 			{/each}
 		</ul>
 	</main>
+
+	{#if activeWord}
+		<div class="word-panel" role="dialog" aria-label="单词释义">
+			<header>
+				<strong>{activeToken}</strong>
+				{#if activeWord.via}<span class="via">原形 {activeWord.via}</span>{/if}
+				<button class="close" type="button" onclick={closeWord} aria-label="关闭">×</button>
+			</header>
+			{#if looking}
+				<p class="trans">查询中…</p>
+			{:else if activeWord.entry}
+				{#if activeWord.entry[0]}<p class="phonetic">/{activeWord.entry[0]}/</p>{/if}
+				<p class="trans">{activeWord.entry[1]}</p>
+				{#if activeWord.entry[2]}<span class="tag">{activeWord.entry[2].toUpperCase()}</span>{/if}
+			{:else}
+				<p class="trans">词典未收录这个词</p>
+			{/if}
+			{#if activeLine >= 0 && lines[activeLine]}
+				<p class="ctx">{lines[activeLine].en}</p>
+			{/if}
+			<button class="primary" type="button" onclick={toggleWord}>
+				{wordSet.has(activeWord.word) ? '移出生词本' : '加入生词本'}
+			</button>
+		</div>
+	{/if}
 
 	<footer class="hints">
 		<span><kbd>空格</kbd> 播放</span>
@@ -674,6 +772,11 @@
 		transition: background 0.15s ease;
 	}
 
+	.line:focus-visible {
+		outline: 2px solid var(--accent);
+		outline-offset: -2px;
+	}
+
 	.line:hover {
 		background: var(--bg-sunken);
 	}
@@ -710,6 +813,111 @@
 
 	.line.active .en {
 		font-weight: 600;
+	}
+
+	.word {
+		display: inline;
+		border: none;
+		background: transparent;
+		color: inherit;
+		font: inherit;
+		padding: 0;
+		margin: 0;
+		cursor: pointer;
+		border-radius: 3px;
+	}
+
+	.word:hover {
+		background: var(--accent);
+		color: #fff;
+	}
+
+	.word.added {
+		box-shadow: inset 0 -1px 0 0 var(--accent);
+	}
+
+	/* 单词释义面板：桌面居中靠下，移动端贴底 */
+	.word-panel {
+		position: fixed;
+		left: 50%;
+		bottom: 0;
+		transform: translateX(-50%);
+		width: min(100%, 780px);
+		background: var(--bg-elevated);
+		border: 1px solid var(--border);
+		border-bottom: none;
+		border-radius: var(--radius) var(--radius) 0 0;
+		box-shadow: 0 -6px 24px rgb(0 0 0 / 14%);
+		padding: 14px 18px calc(16px + env(safe-area-inset-bottom));
+		z-index: 20;
+	}
+
+	.word-panel header {
+		display: flex;
+		align-items: baseline;
+		gap: 10px;
+	}
+
+	.word-panel strong {
+		font-size: 1.1rem;
+	}
+
+	.word-panel .via {
+		color: var(--text-muted);
+		font-size: 0.76rem;
+	}
+
+	.word-panel .close {
+		margin-left: auto;
+		border: none;
+		background: transparent;
+		color: var(--text-muted);
+		font-size: 1.2rem;
+		line-height: 1;
+		cursor: pointer;
+		padding: 0 4px;
+	}
+
+	.word-panel .phonetic {
+		margin: 6px 0 0;
+		color: var(--text-muted);
+		font-size: 0.84rem;
+	}
+
+	.word-panel .trans {
+		margin: 6px 0 0;
+		line-height: 1.6;
+	}
+
+	.word-panel .tag {
+		display: inline-block;
+		margin-top: 8px;
+		background: var(--accent-soft);
+		color: var(--accent);
+		border-radius: 999px;
+		padding: 2px 9px;
+		font-size: 0.7rem;
+	}
+
+	.word-panel .ctx {
+		margin: 10px 0 0;
+		padding-top: 10px;
+		border-top: 1px solid var(--border);
+		color: var(--text-muted);
+		font-size: 0.82rem;
+		line-height: 1.5;
+	}
+
+	.word-panel .primary {
+		margin-top: 12px;
+		width: 100%;
+		border: none;
+		border-radius: 999px;
+		background: var(--accent);
+		color: #fff;
+		padding: 9px 0;
+		font-size: 0.9rem;
+		cursor: pointer;
 	}
 
 	/* 中英对照的四种显示方式 */
