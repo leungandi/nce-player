@@ -19,7 +19,14 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const CACHE_DIR = path.join(ROOT, 'tools', '.cache');
 const LESSON_DIR = path.join(ROOT, 'src', 'lib', 'data', 'lessons');
-const OUT_FILE = path.join(ROOT, 'src', 'lib', 'data', 'dict.json');
+const BOOKWORM_DIR = path.join(ROOT, 'src', 'lib', 'data', 'bookworm', 'books');
+
+/** `--bookworm` 时改从书虫正文取词，产物也换一处 */
+const bookwormMode = process.argv.includes('--bookworm');
+const SOURCE_DIR = bookwormMode ? BOOKWORM_DIR : LESSON_DIR;
+const OUT_FILE = bookwormMode
+	? path.join(ROOT, 'src', 'lib', 'data', 'bookworm', 'dict.json')
+	: path.join(ROOT, 'src', 'lib', 'data', 'dict.json');
 
 const ECDICT_CSV = path.join(CACHE_DIR, 'ecdict.csv');
 const ECDICT_CSV_URL = 'https://raw.githubusercontent.com/skywind3000/ECDICT/master/ecdict.csv';
@@ -151,16 +158,23 @@ async function main() {
 	const lemmaFile = path.join(CACHE_DIR, 'lemma.en.txt');
 	await download(LEMMA_URL, lemmaFile);
 
-	// 1. 课文里出现过哪些词
-	const files = (await readdir(LESSON_DIR)).filter((file) => file.endsWith('.json'));
+	// 1. 正文里出现过哪些词（两种数据结构：新概念是 lines[].en，书虫是 chapters[].paras[]）
+	const files = (await readdir(SOURCE_DIR)).filter((file) => file.endsWith('.json'));
 	const seen = new Set();
 	for (const file of files) {
-		const lesson = JSON.parse(await readFile(path.join(LESSON_DIR, file), 'utf8'));
-		for (const line of lesson.lines ?? []) {
-			for (const word of tokenize(line.en)) seen.add(word);
+		const book = JSON.parse(await readFile(path.join(SOURCE_DIR, file), 'utf8'));
+		if (Array.isArray(book.lines)) {
+			for (const line of book.lines) {
+				for (const word of tokenize(line.en ?? '')) seen.add(word);
+			}
+		}
+		for (const chapter of book.chapters ?? []) {
+			for (const para of chapter.paras ?? []) {
+				for (const word of tokenize(para)) seen.add(word);
+			}
 		}
 	}
-	console.log(`课文词汇（去重）: ${seen.size} 个，来自 ${files.length} 课`);
+	console.log(`${bookwormMode ? '书虫' : '课文'}词汇（去重）: ${seen.size} 个，来自 ${files.length} ${bookwormMode ? '本' : '课'}`);
 
 	// 2. 原形映射：候选词 + 它们对应的原形都要收进词典
 	const lemmaOf = parseLemmaFile(await readFile(lemmaFile, 'utf8'));

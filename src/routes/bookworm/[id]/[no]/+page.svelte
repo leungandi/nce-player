@@ -3,12 +3,37 @@
 	import { onMount } from 'svelte';
 	import { bookwormAudioUrl } from '#lib/data/bookworm/audio.js';
 	import { AUDIO_KEY, bookUrl, chapterUrl, READ_KEY } from '#lib/data/bookworm/index.js';
+	import { lookupBookworm } from '#lib/data/bookworm/dict.js';
+	import type { DictLookup } from '#lib/data/bookworm/dict.js';
+	import { tokenize } from '#lib/text/tokenize.js';
 	import { formatTime } from '#lib/utils/time.js';
 
 	let { data } = $props();
 
 	const chapter = $derived(data.chapter);
 	const audioSrc = $derived(chapter.audio ? bookwormAudioUrl(chapter.audio) : '');
+
+	/** 段落切成「单词 / 标点」两种片段，单词可点 */
+	const tokenized = $derived(chapter.paras.map((para) => tokenize(para)));
+
+	let picked = $state<DictLookup | null>(null);
+	let pickedText = $state('');
+	let looking = $state(false);
+
+	async function openWord(raw: string) {
+		pickedText = raw;
+		looking = true;
+		try {
+			picked = await lookupBookworm(raw);
+		} finally {
+			looking = false;
+		}
+	}
+
+	function closeWord() {
+		picked = null;
+		pickedText = '';
+	}
 
 	let audioEl = $state<HTMLAudioElement | null>(null);
 	let playing = $state(false);
@@ -189,8 +214,16 @@
 
 	<div class="body" bind:this={scroller}>
 		<article>
-			{#each chapter.paras as para, index (index)}
-				<p>{para}</p>
+			{#each tokenized as tokens, index (index)}
+				<p>
+					{#each tokens as token, tokenIndex (tokenIndex)}
+						{#if token.word}
+							<button class="w" type="button" onclick={() => openWord(token.text)}>
+								{token.text}
+							</button>
+						{:else}{token.text}{/if}
+					{/each}
+				</p>
 			{/each}
 
 			{#if data.next}
@@ -202,6 +235,36 @@
 			{/if}
 		</article>
 	</div>
+
+	{#if picked}
+		<!-- 轻触任意处关闭 -->
+		<button class="dict-backdrop" type="button" onclick={closeWord} aria-label="关闭释义"></button>
+		<div
+			class="dict-panel"
+			role="dialog"
+			aria-label="单词释义"
+			tabindex="-1"
+			onclick={closeWord}
+			onkeydown={(event) => {
+				if (event.key !== 'Escape' && event.key !== 'Enter' && event.key !== ' ') return;
+				event.preventDefault();
+				closeWord();
+			}}
+		>
+			<button class="dict-close" type="button" onclick={closeWord} aria-label="关闭">×</button>
+			<p class="dict-word">{pickedText}</p>
+			{#if looking}
+				<p class="dict-trans">查询中…</p>
+			{:else if picked.entry}
+				{#if picked.entry[0]}<p class="dict-phonetic">/{picked.entry[0]}/</p>{/if}
+				<p class="dict-trans">{picked.entry[1]}</p>
+				{#if picked.entry[2]}<span class="dict-tag">{picked.entry[2].toUpperCase()}</span>{/if}
+			{:else}
+				<p class="dict-trans">词典未收录这个词</p>
+			{/if}
+			{#if picked.via}<p class="dict-via">原形 {picked.via}</p>{/if}
+		</div>
+	{/if}
 
 	{#if audioSrc}
 		<footer class="player">
@@ -410,6 +473,99 @@
 		text-align: center;
 		color: var(--text-muted);
 		font-size: 0.84rem;
+	}
+
+	/* 可点的单词：不改变正文排版，只看得出能点 */
+	.w {
+		display: inline;
+		border: none;
+		background: transparent;
+		color: inherit;
+		font: inherit;
+		padding: 0;
+		margin: 0;
+		cursor: pointer;
+		border-radius: 3px;
+	}
+
+	.w:hover,
+	.w:focus-visible {
+		background: var(--accent-soft);
+		color: var(--accent);
+		outline: none;
+	}
+
+	.dict-backdrop {
+		position: fixed;
+		inset: 0;
+		border: none;
+		background: rgb(0 0 0 / 18%);
+		cursor: pointer;
+		z-index: 40;
+	}
+
+	/* 释义面板：点它本身也能关掉（轻触关闭） */
+	.dict-panel {
+		position: fixed;
+		left: 50%;
+		bottom: 0;
+		transform: translateX(-50%);
+		width: min(100%, 720px);
+		background: var(--bg-elevated);
+		border: 1px solid var(--border);
+		border-bottom: none;
+		border-radius: var(--radius) var(--radius) 0 0;
+		box-shadow: 0 -6px 24px rgb(0 0 0 / 16%);
+		padding: 16px 20px calc(18px + env(safe-area-inset-bottom));
+		z-index: 41;
+		cursor: pointer;
+	}
+
+	.dict-word {
+		margin: 0;
+		font-size: 1.2rem;
+		font-weight: 600;
+		padding-right: 32px;
+	}
+
+	.dict-phonetic {
+		margin: 4px 0 0;
+		color: var(--text-muted);
+		font-size: 0.86rem;
+	}
+
+	.dict-trans {
+		margin: 8px 0 0;
+		line-height: 1.6;
+	}
+
+	.dict-tag {
+		display: inline-block;
+		margin-top: 10px;
+		background: var(--accent-soft);
+		color: var(--accent);
+		border-radius: 999px;
+		padding: 2px 9px;
+		font-size: 0.7rem;
+	}
+
+	.dict-via {
+		margin: 8px 0 0;
+		color: var(--text-muted);
+		font-size: 0.76rem;
+	}
+
+	.dict-close {
+		position: absolute;
+		top: 10px;
+		right: 12px;
+		border: none;
+		background: transparent;
+		color: var(--text-muted);
+		font-size: 1.3rem;
+		line-height: 1;
+		padding: 4px 8px;
+		cursor: pointer;
 	}
 
 	.player {

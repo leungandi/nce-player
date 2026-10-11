@@ -43,7 +43,8 @@
 **书虫（分级阅读）**
 
 - 独立的书架：49 本按 1A–6A 分级，其中 9 本带音频
-- 阅读页只有两件事：读（英文正文，可滚动）和听（播放、±15 秒、倍速、听完自动下一章）
+- 阅读页：读（英文正文，可滚动）+ 听（播放、±15 秒、倍速、听完自动下一章）
+- **点词查义**：轻触正文里任意单词，底部弹出音标与中文释义，轻触任意处关闭
 - 阅读位置与音频位置分别记忆；入口有密码门
 
 **其他**
@@ -239,6 +240,13 @@ node tools/bw-audio.mjs                # 全部
 
 音频先落到 `static/bookworm/`（已被 .gitignore 忽略），正式托管在独立仓库
 `bookworm-audio`，域名由 `VITE_BOOKWORM_MEDIA_BASE` 指定（见工作流）。
+
+**抽词典**：复用 `tools/build-dict.mjs`，加 `--bookworm` 就从书虫正文取词，
+产出 `src/lib/data/bookworm/dict.json`（约 830 KB，按需加载）。
+
+```sh
+node tools/build-dict.mjs --bookworm
+```
 
 > 书虫还有一个前端密码门（`src/lib/data/bookworm/gate.ts`，默认 `261010`）。
 > 那只是"挡一下"，**不是访问控制**——数据本身是公开的静态文件。
