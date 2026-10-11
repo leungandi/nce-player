@@ -15,6 +15,8 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const BUILD = path.join(ROOT, 'build');
 const PORT = Number(process.argv[2] ?? 4174);
+/** 手机要能访问就绑 0.0.0.0；只想本机看就传 127.0.0.1 */
+const HOST = process.argv[3] ?? '0.0.0.0';
 
 const TYPES = {
 	'.html': 'text/html; charset=utf-8',
@@ -39,8 +41,13 @@ createServer((request, response) => {
 		response.writeHead(403).end('forbidden');
 		return;
 	}
-	// 与 GitHub Pages 一致：无扩展名的路径回落到同名 .html
-	if (!existsSync(file) && existsSync(`${file}.html`)) file = `${file}.html`;
+	// 先看目录索引，再回落到同名 .html（目录不算命中，否则同名页面会被吃掉）
+	if (existsSync(file) && statSync(file).isDirectory()) {
+		const index = path.join(file, 'index.html');
+		file = existsSync(index) ? index : `${file}.html`;
+	} else if (!existsSync(file)) {
+		file = `${file}.html`;
+	}
 	if (!existsSync(file) || statSync(file).isDirectory()) {
 		response.writeHead(404, { 'content-type': 'text/plain' }).end('not found');
 		return;
@@ -50,6 +57,6 @@ createServer((request, response) => {
 		'content-type': TYPES[path.extname(file)] ?? 'application/octet-stream'
 	});
 	createReadStream(file).pipe(response);
-}).listen(PORT, '127.0.0.1', () => {
-	console.log(`serving ${BUILD} on http://127.0.0.1:${PORT}/`);
+}).listen(PORT, HOST, () => {
+	console.log(`serving ${BUILD} on http://${HOST}:${PORT}/`);
 });

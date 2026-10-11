@@ -40,6 +40,12 @@
 - 生词本 + FSRS 记忆曲线调度，复习时四个按钮各自显示下次间隔
 - 练习页：中译英、完形填空、词义选择，优先从听过的课文里抽题
 
+**书虫（分级阅读）**
+
+- 独立的书架：49 本按 1A–6A 分级，其中 9 本带音频
+- 阅读页只有两件事：读（英文正文，可滚动）和听（播放、±15 秒、倍速、听完自动下一章）
+- 阅读位置与音频位置分别记忆；入口有密码门
+
 **其他**
 
 - PWA 离线：应用外壳预缓存，页面 NetworkFirst、音频 CacheFirst（支持拖动进度条）
@@ -161,7 +167,8 @@ git clone https://github.com/leungandi/nce-audio.git nce-audio
 
 ## 数据管线
 
-课文不进版本库的"素材"，而是由管线生成。三个脚本各管一段：
+课文不进版本库的"素材"，而是由管线生成。**新概念英语**用下面 1–3 步，
+**书虫**用第 4 步，两套互不影响。
 
 ### 1. 拉课文 `tools/build-book.mjs`
 
@@ -209,6 +216,32 @@ node tools/align-lessons.mjs --lesson nce2-01
 
 > 三个脚本都要访问外网。如果所在网络需要代理，给 Node 设置 `HTTPS_PROXY`
 > 并开启 `NODE_USE_ENV_PROXY=1`（Node 24 起支持）。
+
+### 4. 书虫正文与音频
+
+书虫是另一套素材（牛津书虫 1–6 级），和新概念互不影响，读写都在 `src/lib/data/bookworm/`。
+
+**抽正文** `tools/bw-extract.mjs`：只读 `C:\english` 下的原始素材（GBK 编码、
+英文块与中文块交替），**只取英文**，按章切成段落，产出 `shelf.json` 与 `books/<id>.json`。
+素材里的章节分隔有四种写法（`1 Chapter`、`Chapter 1`、`Chapter 1 Title`、裸数字），
+故事集这类没有分隔行的靠"英文块首行像不像标题"分篇；顺带把全角标点换成半角。
+
+```sh
+node tools/bw-extract.mjs
+```
+
+**转音频** `tools/bw-audio.mjs`：mp3 → AAC 单声道 64 kbps，剥掉内嵌封面图。
+
+```sh
+node tools/bw-audio.mjs --book 1A_01   # 只转一本
+node tools/bw-audio.mjs                # 全部
+```
+
+音频先落到 `static/bookworm/`（已被 .gitignore 忽略），正式托管在独立仓库
+`bookworm-audio`，域名由 `VITE_BOOKWORM_MEDIA_BASE` 指定（见工作流）。
+
+> 书虫还有一个前端密码门（`src/lib/data/bookworm/gate.ts`，默认 `261010`）。
+> 那只是"挡一下"，**不是访问控制**——数据本身是公开的静态文件。
 
 ---
 

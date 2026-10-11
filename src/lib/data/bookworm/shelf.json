@@ -1,0 +1,494 @@
+{
+	"books": [
+		{
+			"id": "1A_01",
+			"level": "1A",
+			"title": "Love or Money",
+			"titleZh": "爱情与金钱",
+			"chapters": 7,
+			"hasAudio": true,
+			"audioChapters": 7,
+			"firstChapterTitle": ""
+		},
+		{
+			"id": "1A_02",
+			"level": "1A",
+			"title": "Mary Queen of Scots",
+			"titleZh": "苏格兰玛丽女王",
+			"chapters": 9,
+			"hasAudio": true,
+			"audioChapters": 9,
+			"firstChapterTitle": "Fotheringhay"
+		},
+		{
+			"id": "1A_03",
+			"level": "1A",
+			"title": "Under the Moon",
+			"titleZh": "在月亮下面",
+			"chapters": 6,
+			"hasAudio": true,
+			"audioChapters": 6,
+			"firstChapterTitle": "AOL"
+		},
+		{
+			"id": "1A_04",
+			"level": "1A",
+			"title": "The Witches of Pendle",
+			"titleZh": "潘德尔的巫师",
+			"chapters": 4,
+			"hasAudio": true,
+			"audioChapters": 4,
+			"firstChapterTitle": "THE PEDLAR"
+		},
+		{
+			"id": "1A_05",
+			"level": "1A",
+			"title": "The Phantom of the Opera",
+			"titleZh": "歌剧院的幽灵",
+			"chapters": 10,
+			"hasAudio": true,
+			"audioChapters": 10,
+			"firstChapterTitle": "The dancers"
+		},
+		{
+			"id": "1A_06",
+			"level": "1A",
+			"title": "The Monkey's Paw",
+			"titleZh": "猴爪",
+			"chapters": 7,
+			"hasAudio": true,
+			"audioChapters": 7,
+			"firstChapterTitle": ""
+		},
+		{
+			"id": "1A_07",
+			"level": "1A",
+			"title": "The Elephant Man",
+			"titleZh": "象人",
+			"chapters": 7,
+			"hasAudio": true,
+			"audioChapters": 7,
+			"firstChapterTitle": "The Creature in the Shop"
+		},
+		{
+			"id": "1A_08",
+			"level": "1A",
+			"title": "The Coldest Place on Earth",
+			"titleZh": "世界上最冷的地方",
+			"chapters": 9,
+			"hasAudio": true,
+			"audioChapters": 9,
+			"firstChapterTitle": "Two Ships"
+		},
+		{
+			"id": "1B_10",
+			"level": "1B",
+			"title": "The Adventures of Tom Sawyer",
+			"titleZh": "汤姆·索亚历险记",
+			"chapters": 5,
+			"hasAudio": true,
+			"audioChapters": 5,
+			"firstChapterTitle": "Huck in trouble"
+		},
+		{
+			"id": "2A_01",
+			"level": "2A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 12,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Toby remembers"
+		},
+		{
+			"id": "2A_05",
+			"level": "2A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 9,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "My first sea journey"
+		},
+		{
+			"id": "2A_06",
+			"level": "2A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 7,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Down the rabbit-hole"
+		},
+		{
+			"id": "2A_07",
+			"level": "2A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 6,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "A surprise for the Cuthberts"
+		},
+		{
+			"id": "2A_08",
+			"level": "2A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 5,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Beautiful Children"
+		},
+		{
+			"id": "2B_04",
+			"level": "2B",
+			"title": "",
+			"titleZh": "",
+			"chapters": 5,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Huck in trouble"
+		},
+		{
+			"id": "2B_11",
+			"level": "2B",
+			"title": "",
+			"titleZh": "",
+			"chapters": 12,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "The Duke and Duchess of Windsor"
+		},
+		{
+			"id": "2B_12",
+			"level": "2B",
+			"title": "",
+			"titleZh": "",
+			"chapters": 5,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Coming to England"
+		},
+		{
+			"id": "3A_01",
+			"level": "3A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 15,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": ""
+		},
+		{
+			"id": "3A_02",
+			"level": "3A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 7,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "To the north"
+		},
+		{
+			"id": "3A_03",
+			"level": "3A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 8,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Little Miss Mary"
+		},
+		{
+			"id": "3A_04",
+			"level": "3A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 13,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "The Rassendylls-and the Elphbergs"
+		},
+		{
+			"id": "3A_05",
+			"level": "3A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 12,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Looking-glass house"
+		},
+		{
+			"id": "3A_06",
+			"level": "3A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 7,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "The river"
+		},
+		{
+			"id": "3A_07",
+			"level": "3A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 5,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "The Fall of the House of Usher"
+		},
+		{
+			"id": "3B_01",
+			"level": "3B",
+			"title": "",
+			"titleZh": "",
+			"chapters": 5,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Marley's ghost"
+		},
+		{
+			"id": "3B_02",
+			"level": "3B",
+			"title": "",
+			"titleZh": "",
+			"chapters": 17,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": ""
+		},
+		{
+			"id": "3B_03",
+			"level": "3B",
+			"title": "",
+			"titleZh": "",
+			"chapters": 10,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Haworth"
+		},
+		{
+			"id": "3B_04",
+			"level": "3B",
+			"title": "",
+			"titleZh": "",
+			"chapters": 4,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Sredni Vashtar"
+		},
+		{
+			"id": "3B_05",
+			"level": "3B",
+			"title": "",
+			"titleZh": "",
+			"chapters": 10,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "You must marry me"
+		},
+		{
+			"id": "3B_06",
+			"level": "3B",
+			"title": "",
+			"titleZh": "",
+			"chapters": 5,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "David meets his uncle"
+		},
+		{
+			"id": "3B_08",
+			"level": "3B",
+			"title": "",
+			"titleZh": "",
+			"chapters": 12,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "A new start"
+		},
+		{
+			"id": "4A_01",
+			"level": "4A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 18,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "The Case Begins"
+		},
+		{
+			"id": "4A_03",
+			"level": "4A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 16,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "We decide to go on holiday"
+		},
+		{
+			"id": "4A_04",
+			"level": "4A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 10,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "The man who died"
+		},
+		{
+			"id": "4A_05",
+			"level": "4A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 14,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Four sisters"
+		},
+		{
+			"id": "4A_08",
+			"level": "4A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 10,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Silas Marner，past and present"
+		},
+		{
+			"id": "4A_09",
+			"level": "4A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 9,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "The mysterious door"
+		},
+		{
+			"id": "4B_01",
+			"level": "4B",
+			"title": "",
+			"titleZh": "",
+			"chapters": 13,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "The road to Paris—1775"
+		},
+		{
+			"id": "4B_02",
+			"level": "4B",
+			"title": "",
+			"titleZh": "",
+			"chapters": 12,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "A voyage to Lilliput"
+		},
+		{
+			"id": "4B_03",
+			"level": "4B",
+			"title": "",
+			"titleZh": "",
+			"chapters": 15,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "The old seaman Squire"
+		},
+		{
+			"id": "4B_04",
+			"level": "4B",
+			"title": "",
+			"titleZh": "",
+			"chapters": 13,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "My first home"
+		},
+		{
+			"id": "5A_01",
+			"level": "5A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 10,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "David Copperfield's childhood"
+		},
+		{
+			"id": "5A_02",
+			"level": "5A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 19,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Gabriel Oak falls in love"
+		},
+		{
+			"id": "5A_03",
+			"level": "5A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 19,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Pip meets a stranger"
+		},
+		{
+			"id": "5A_04",
+			"level": "5A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 18,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "Mr Lockwood visits Wuthering Heights"
+		},
+		{
+			"id": "6A_01",
+			"level": "6A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 25,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "People in This Story"
+		},
+		{
+			"id": "6A_02",
+			"level": "6A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 14,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "O liver's early life"
+		},
+		{
+			"id": "6A_03",
+			"level": "6A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 12,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": "The Bennets'new neighbour"
+		},
+		{
+			"id": "6A_04",
+			"level": "6A",
+			"title": "",
+			"titleZh": "",
+			"chapters": 20,
+			"hasAudio": false,
+			"audioChapters": 0,
+			"firstChapterTitle": ""
+		}
+	]
+}

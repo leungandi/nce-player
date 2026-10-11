@@ -47,6 +47,8 @@ jobs:
           # （桌面浏览器按混合内容拦掉）；loveyy.net 的 A 记录还指向 GitHub 旧 IP，
           # HTTPS 证书不匹配。
           VITE_MEDIA_BASE: https://nce-audio.loveyy.net
+          # 书虫音频放在另一个仓库，单独一个域名
+          VITE_BOOKWORM_MEDIA_BASE: https://bookworm-audio.loveyy.net
 
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -2,6 +2,7 @@
 	import { resolve } from '$app/paths';
 	import { onMount } from 'svelte';
 	import { books } from '#lib/data/index.js';
+	import { bookUrl, shelfUrl } from '#lib/data/bookworm/index.js';
 	import { stats } from '#lib/store/wordbook.js';
 
 	type Theme = 'light' | 'dark';
@@ -129,6 +130,25 @@
 			</svg>
 			<span class="action-main">练习</span>
 			<span class="action-sub">中译英 · 完形 · 词义</span>
+		</a>
+
+		<a class="action" href={shelfUrl()}>
+			<svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+				<path
+					d="M3.5 4.5A1.5 1.5 0 0 1 5 3h3.5a1.5 1.5 0 0 1 1.5 1.5v11A1.5 1.5 0 0 1 8.5 17H5a1.5 1.5 0 0 1-1.5-1.5v-11Z"
+					stroke="currentColor"
+					stroke-width="1.5"
+					stroke-linejoin="round"
+				/>
+				<path
+					d="M10 4.5A1.5 1.5 0 0 1 11.5 3H15a1.5 1.5 0 0 1 1.5 1.5v11A1.5 1.5 0 0 1 15 17h-3.5A1.5 1.5 0 0 1 10 15.5v-11Z"
+					stroke="currentColor"
+					stroke-width="1.5"
+					stroke-linejoin="round"
+				/>
+			</svg>
+			<span class="action-main">书虫</span>
+			<span class="action-sub">49 本分级读物</span>
 		</a>
 	</nav>
 

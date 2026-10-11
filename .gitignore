@@ -8,6 +8,8 @@ tools/_yingyin
 tools/_yingyin.zip
 media
 nce-audio
+bookworm-audio
+static/bookworm
 
 # Output
 .output
